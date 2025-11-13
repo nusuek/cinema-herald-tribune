@@ -1,26 +1,32 @@
 {
-  "generated_at": "2025-11-13T22:09:43.248468",
+  "generated_at": "2025-11-13T23:09:08.879188",
   "top_stories": [
     {
-      "title": "Starz Restructures Canadian Business From Joint Venture With Bell Canada to Content Licensing Deal",
+      "title": "Morgan Freeman Says He Won’t Retire and Gets ‘Pissed Off’ at AI Recreations of His Voice: ‘Don’t Mimic Me With Falseness… You’re Robbing Me’",
       "source": "Variety",
       "date": "2025-11-13",
-      "url": "https://variety.com/2025/tv/news/starz-canadian-bell-media-deal-earnings-1236581546/"
+      "url": "https://variety.com/2025/film/news/morgan-freeman-retire-ai-recreations-voice-1236581131/"
     },
     {
-      "title": "‘Reasonable Doubt’ Boss Unpacks Season 3 Finale, Why Monica Shooting at Jax ‘Makes Sense’ and Season 4 Plans: ‘My Goal is to Make the Next Season Better Than the Last’",
+      "title": "Amid Sales Review, Warner Bros. Discovery Clarifies That CEO David Zaslav’s Employment Agreement Will Let Him Retain Stock Options in the Event of a ‘Change in Control’",
       "source": "Variety",
       "date": "2025-11-13",
-      "url": "https://variety.com/2025/tv/news/reasonable-doubt-season-3-finale-ozzie-dies-sal-kills-wendy-1236575189/"
+      "url": "https://variety.com/2025/tv/news/warner-bros-discovery-david-zaslav-employment-agreement-stock-options-change-in-control-1236581557/"
     },
     {
-      "title": "Latin Grammys Winners List 2025 (UPDATING LIVE)",
+      "title": "Studiocanal’s Anna Marsh on Developing a ‘Paddington’ Animated Feature, Expanding Theatrical Distribution, Diving into Exhibition and Growing African Content (EXCLUSIVE)",
       "source": "Variety",
       "date": "2025-11-13",
-      "url": "https://variety.com/2025/music/news/latin-grammy-winners-2025-1236580321/"
+      "url": "https://variety.com/2025/film/global/studiocanal-anna-marsh-paddington-theatrical-africa-1236580444/"
     }
   ],
   "new_releases": [
+    {
+      "title": "アデル、トム・フォード監督の新作で映画デビュー",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251114/6/"
+    },
     {
       "title": "ジェシー・アイゼンバーグ主演「グランド・イリュージョン」第3弾、26年初夏公開！",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2025-11-13",
       "url": "https://eiga.com/news/20251113/20/"
-    },
-    {
-      "title": "「ザ・スーパーマリオギャラクシー・ムービー」映像公開　ロゼッタ姫やクッパJr.が新たに登場",
-      "source": "映画.com",
-      "date": "2025-11-13",
-      "url": "https://eiga.com/news/20251113/19/"
     }
   ],
   "bd_releases": [],
