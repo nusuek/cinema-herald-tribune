@@ -1,42 +1,27 @@
 {
-  "generated_at": "2025-11-13T12:00:00+09:00",
+  "generated_at": "2025-11-13T10:21:37.520152",
   "top_stories": [
     {
-      "title": "A24 acquires rights to new sci-fi thriller",
+      "title": "Disney Execs Talk Gaming IP Push, Microdrama Ambitions and Asia Pacific Localization Strategy",
       "source": "Variety",
       "date": "2025-11-13",
-      "url": "https://variety.com/"
+      "url": "https://variety.com/2025/tv/news/disney-gaming-ip-push-microdrama-ambitions-1236580735/"
     },
     {
-      "title": "『架空映画』日本公開決定　来春ロードショー",
-      "source": "eiga.com",
+      "title": "‘Saturday Night Live U.K.’ Reveals Creative Team: James Longman as Lead Producer, Liz Clare as Director and Daran Jonno Johnson as Head Writer",
+      "source": "Variety",
       "date": "2025-11-13",
-      "url": "https://eiga.com/"
+      "url": "https://variety.com/2025/tv/global/saturday-night-live-uk-creative-team-producer-director-writer-1236580738/"
     },
     {
-      "title": "SAG-AFTRA enters new talks on AI usage",
-      "source": "THR",
-      "date": "2025-11-12",
-      "url": "https://www.hollywoodreporter.com/"
-    }
-  ],
-  "new_releases": [
-    {
-      "title": "『テスト映画』日本公開決定　来春ロードショー",
-      "source": "eiga.com",
+      "title": "Idris Elba’s ‘Dust to Dreams,’ Starring Seal, Sets EbonyLife ON Plus Premiere (EXCLUSIVE)",
+      "source": "Variety",
       "date": "2025-11-13",
-      "url": "https://eiga.com/"
+      "url": "https://variety.com/2025/film/news/idris-elba-dust-to-dreams-ebonylife-on-plus-1236574755/"
     }
   ],
-  "bd_releases": [
-    {
-      "title": "『テストBD』4K UHD",
-      "release_date": "2025-12-10",
-      "source": "Amazon",
-      "date": "2025-11-10",
-      "url": "https://www.amazon.co.jp/"
-    }
-  ],
+  "new_releases": [],
+  "bd_releases": [],
   "retrospectives": [],
   "industry": [],
   "tech": [],
