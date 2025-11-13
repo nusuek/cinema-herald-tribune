@@ -20,7 +20,12 @@
       "url": "https://www.hollywoodreporter.com/"
     }
   ],
-  "new_releases": [],
+  "new_releases": [ {
+      "title": "『◯◯◯◯』日本公開決定　◯月◯日よりロードショー",
+      "source": "eiga.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/"
+    }],
   "bd_releases": [],
   "retrospectives": [],
   "industry": [],
