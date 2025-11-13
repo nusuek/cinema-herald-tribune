@@ -1,26 +1,201 @@
 {
-  "generated_at": "2025-11-13T11:08:30.091221",
+  "generated_at": "2025-11-13T11:57:19.910194",
   "top_stories": [
     {
-      "title": "Dawood Hilmandi’s Documentary ‘Paikar’ Picked Up by Taskovski Ahead of IDFA World Premiere (EXCLUSIVE)",
+      "title": "NBC Revives NBC Sports Network, Launching First on YouTube TV, Offering Peacock’s Sports Line-Up",
       "source": "Variety",
       "date": "2025-11-13",
-      "url": "https://variety.com/2025/film/news/dawood-hilmandi-paikar-taskovski-idfa-1236580762/"
+      "url": "https://variety.com/2025/tv/news/nbc-revives-sports-network-youtube-tv-launch-peacock-1236580775/"
     },
     {
-      "title": "Nandita Das, Nasser-Starring ‘Nadhi’ Wraps Production (EXCLUSIVE)",
+      "title": "Disney+ Adds 3.8 Million Subscribers, Hulu Packs on 8.6 Million Amid Kimmel Controversy in September Quarter",
       "source": "Variety",
       "date": "2025-11-13",
-      "url": "https://variety.com/2025/film/markets-festivals/nandita-das-nasser-nadhi-production-wrap-1236580760/"
+      "url": "https://variety.com/2025/tv/news/disney-plus-hulu-subscriber-gains-kimmel-controversy-1236580606/"
     },
     {
-      "title": "Folk-Horror Feature ‘Thaw’ Lands U.S.-Yakut Co-Production Deal at AFM (EXCLUSIVE)",
+      "title": "Disney Quarterly Revenue Flat and Operating Income Drops 5%, but Company Affirms Bullish Earnings Outlook on Streaming Momentum",
       "source": "Variety",
       "date": "2025-11-13",
-      "url": "https://variety.com/2025/film/markets-festivals/folk-horror-feature-thaw-us-yakut-co-production-deal-afm-1236580757/"
+      "url": "https://variety.com/2025/biz/news/disney-q4-2025-earnings-revenue-flat-earnings-outlook-streaming-1236580686/"
     }
   ],
-  "new_releases": [],
+  "new_releases": [
+    {
+      "title": "ネコの世話をするだけのはず→街中のマフィアの標的に！　ダーレン・アロノフスキー監督最新作「コート・スティーリング」26年1月9日緊急公開決定【予告編あり】",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/32/"
+    },
+    {
+      "title": "「King & Prince」永瀬廉と髙橋海人、クリスマスはミッキーを誘って「プレセント交換会」を希望",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/34/"
+    },
+    {
+      "title": "ジョージ・クルーニー、AI俳優に警鐘「スターを作るのは簡単ではない」",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/31/"
+    },
+    {
+      "title": "「Travis Japan」松田元太＆中村海人が香港ディズニーランド・ホテルに登場！　7人のアメリカ旅を追ったドキュメンタリーが26年配信",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/55/"
+    },
+    {
+      "title": "真田広之、若い俳優に「夢は大きいほうがいい」とメッセージ！　香港で「SHOGUN 将軍」S2を語る",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/54/"
+    },
+    {
+      "title": "「おじさんはカワイイものがお好き。」ライデンフィルム制作で26年TVアニメ化決定",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/30/"
+    },
+    {
+      "title": "岡田准一主演のNetflixシリーズ「イクサガミ」キャスト、役柄、あらすじまとめ",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/25/"
+    },
+    {
+      "title": "強盗が寝台列車を襲撃→実体験の“恐怖心”を映画に　「KILL 超覚醒」ニキル・ナゲシュ・バート監督に聞く",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/28/"
+    },
+    {
+      "title": "Snow Man佐久間大介、夜に生きる男を熱演！　「ナイトフラワー」アクション＆ほのぼのシーンを収めたメイキング映像",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/27/"
+    },
+    {
+      "title": "「ディズニープラス・オリジナル・プレビュー2025」香港ディズニーランド・ホテルで開幕！　日本や韓国のオリジナル作品をいち早く紹介",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/46/"
+    },
+    {
+      "title": "トム・フェルトン、舞台版「ハリポタ」にマルフォイ役復帰で熱烈歓迎",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/29/"
+    },
+    {
+      "title": "「呪術廻戦」第3期「死滅回游 前編」26年1月8日から放送開始　第3期から本格参戦する禪院直哉役に遊佐浩二",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/24/"
+    },
+    {
+      "title": "「BTS」仲良しコンビ“グクミン”が、大自然のなかでリラックス！　「Are You Sure?!」シーズン2、新ビジュアル",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/23/"
+    },
+    {
+      "title": "オリジナルを超えたリメイク映画13選",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/21/"
+    },
+    {
+      "title": "水川あさみ＆窪田正孝、「SHOGUN 将軍」S2で結婚後初の“夫婦”共演！　榎木孝明＆國村隼＆金田昇も参戦",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/26/"
+    },
+    {
+      "title": "チ・チャンウク×今田美桜！　日テレ×「愛の不時着」CJ ENMのタッグ作「メリーベリーラブ（仮題）」26年放送＆世界配信",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/18/"
+    },
+    {
+      "title": "ヨアキム・トリアー監督最新作「センチメンタル・バリュー」26年2月20日公開決定！　ギャガ新レーベル「NOROSHI」第1弾作品【特報など】",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/17/"
+    },
+    {
+      "title": "「千鳥」大悟が企画＆プロデュースを担う「DAIGO Project（仮題）」世界配信！　「極秘プロジェクトなのでいまは何も言えません！」",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/22/"
+    },
+    {
+      "title": "ツイステS2「エピソード オブ サバナクロー」鋭意制作中、香港で特別映像披露",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/20/"
+    },
+    {
+      "title": "「ザ・スーパーマリオギャラクシー・ムービー」映像公開　ロゼッタ姫やクッパJr.が新たに登場",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/19/"
+    },
+    {
+      "title": "小島秀夫の世界的ヒットゲーム「DEATH STRANDING」アニメ化！　27年配信＆コンセプトアート披露",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/16/"
+    },
+    {
+      "title": "鈴木亮平が一人二役に挑む「リブート」　母役に原田美枝子、妻役に黒木メイサ、息子役に矢崎滉が決定",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/13/"
+    },
+    {
+      "title": "渡辺大知主演、人形浄瑠璃文楽の国宝・桐竹勘十郎が映画初出演　中尾広道監督「道行き」2月13日公開",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/14/"
+    },
+    {
+      "title": "「シビル・ウォー」監督最新作「ウォーフェア」“本物の戦場の音”を切り取った、イヤホン推奨の体感型予告編",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/12/"
+    },
+    {
+      "title": "シアーシャ・ローナンが、アルコール依存症からの再出発を目指す生物学者に　「おくびょう鳥が歌うほうへ」日本版予告編",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/15/"
+    },
+    {
+      "title": "「プラダを着た悪魔2」26年5月1日公開！　あのふたりがほほ笑み合う予告編が披露",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/11/"
+    },
+    {
+      "title": "「スプリングスティーン　孤独のハイウェイ」あらすじ・概要・評論まとめ　～弱さと罪を掘り下げる魂の歌と、苦闘する男を描く職人監督の運命的な共鳴～【おすすめの注目映画】",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/4/"
+    },
+    {
+      "title": "「黒の牛」予告編公開　田中泯による「場踊り」&トークイベント開催決定",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/6/"
+    },
+    {
+      "title": "地球環境が破壊され、地下シェルターで暮らす富裕層の家族に予期せぬ訪問者が…「THE END」予告＆ポスター",
+      "source": "映画.com",
+      "date": "2025-11-13",
+      "url": "https://eiga.com/news/20251113/10/"
+    }
+  ],
   "bd_releases": [],
   "retrospectives": [],
   "industry": [],
