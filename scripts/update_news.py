@@ -37,11 +37,27 @@ result = {
 }
 
 def parse_date(entry):
-    if hasattr(entry, "published"):
+    # 通常の published_parsed
+    if hasattr(entry, "published_parsed") and entry.published_parsed:
         try:
             return datetime(*entry.published_parsed[:6])
         except:
-            return None
+            pass
+
+    # 映画.com は updated_parsed を使う
+    if hasattr(entry, "updated_parsed") and entry.updated_parsed:
+        try:
+            return datetime(*entry.updated_parsed[:6])
+        except:
+            pass
+
+    # updated (文字列) → パース
+    if hasattr(entry, "updated"):
+        try:
+            return datetime.fromisoformat(entry.updated.replace("Z", ""))
+        except:
+            pass
+
     return None
 
 # ---- RSS を読む ----
