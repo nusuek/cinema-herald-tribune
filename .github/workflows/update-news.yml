@@ -1,0 +1,38 @@
+name: Update news.json
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # 毎時0分に実行（1時間ごと）
+  workflow_dispatch:      # 手動実行もできるようにしておく
+
+permissions:
+  contents: write         # news.json を書き換える権限
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests
+
+      - name: Update news.json
+        run: |
+          python scripts/update_news.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git commit -m "Update news.json via GitHub Actions" || echo "No changes to commit"
+          git push
