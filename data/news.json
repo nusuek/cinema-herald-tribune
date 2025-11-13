@@ -20,13 +20,23 @@
       "url": "https://www.hollywoodreporter.com/"
     }
   ],
-  "new_releases": [ {
-      "title": "『◯◯◯◯』日本公開決定　◯月◯日よりロードショー",
+  "new_releases": [
+    {
+      "title": "『テスト映画』日本公開決定　来春ロードショー",
       "source": "eiga.com",
       "date": "2025-11-13",
       "url": "https://eiga.com/"
-    }],
-  "bd_releases": [],
+    }
+  ],
+  "bd_releases": [
+    {
+      "title": "『テストBD』4K UHD",
+      "release_date": "2025-12-10",
+      "source": "Amazon",
+      "date": "2025-11-10",
+      "url": "https://www.amazon.co.jp/"
+    }
+  ],
   "retrospectives": [],
   "industry": [],
   "tech": [],
