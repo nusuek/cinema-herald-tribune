@@ -1,26 +1,38 @@
 {
-  "generated_at": "2025-11-14T10:11:18.722521",
+  "generated_at": "2025-11-14T11:08:10.536842",
   "top_stories": [
+    {
+      "title": "‘Wicked’: Man Who Grabbed Ariana Grande on Singapore Red Carpet Charged in Court",
+      "source": "Variety",
+      "date": "2025-11-14",
+      "url": "https://variety.com/2025/film/global/wicked-man-grabbed-ariana-grande-singapore-charged-court-1236581862/"
+    },
+    {
+      "title": "New IDFA Bertha Fund Head Selin Murat Talks Supporting Documentaries That ‘Defy Easy Consumption’ Like Those Coming From Ukraine and Palestine",
+      "source": "Variety",
+      "date": "2025-11-14",
+      "url": "https://variety.com/2025/film/festivals/idfa-bertha-fund-head-supporting-ukraine-palestine-1236580808/"
+    },
     {
       "title": "‘Keeper’ Review: Osgood Perkins Directs an ‘Impressonistic’ Serial-Killer Movie — Lots of Creepy Atmosphere, Not Much Logic",
       "source": "Variety",
       "date": "2025-11-14",
       "url": "https://variety.com/2025/film/reviews/keeper-review-osgood-perkins-1236581768/"
-    },
-    {
-      "title": "Latin Grammys Champion Immigrant Voices With Los Tigres del Norte’s Performance of ‘La Lotería’",
-      "source": "Variety",
-      "date": "2025-11-14",
-      "url": "https://variety.com/2025/music/news/latin-grammys-los-tigres-del-norte-pro-immigration-performance-1236581819/"
-    },
-    {
-      "title": "Miles Teller Remembers Watching ‘Fantastic Four’ and Telling the Studio Head ‘We’re in Trouble’: ‘One Really Important Person F—ed It All Up’",
-      "source": "Variety",
-      "date": "2025-11-14",
-      "url": "https://variety.com/2025/film/news/miles-teller-fantastic-four-fucked-up-one-person-1236581812/"
     }
   ],
   "new_releases": [
+    {
+      "title": "中国の地方都市で生きる同性愛者たちのロマンティックコメディ「ベ・ラ・ミ 気になるあなた」ゲン・ジュン監督インタビュー",
+      "source": "映画.com",
+      "date": "2025-11-14",
+      "url": "https://eiga.com/news/20251114/27/"
+    },
+    {
+      "title": "舘ひろし「渡哲也さんの姿に被って見えた」という感想に「40数年ずっと一緒でしたから」",
+      "source": "映画.com",
+      "date": "2025-11-14",
+      "url": "https://eiga.com/news/20251114/31/"
+    },
     {
       "title": "江口のりこ、「ズートピア2」新キャラ・ニブルズの日本版声優に決定　ワールドプレミアで発表",
       "source": "映画.com",
@@ -170,24 +182,6 @@
       "source": "映画.com",
       "date": "2025-11-13",
       "url": "https://eiga.com/news/20251114/4/"
-    },
-    {
-      "title": "湊かなえ原作「未来」監督・瀬々敬久×主演・黒島結菜で映画化　松坂桃李、北川景子らが豪華共演【特報＆ポスター】",
-      "source": "映画.com",
-      "date": "2025-11-13",
-      "url": "https://eiga.com/news/20251114/3/"
-    },
-    {
-      "title": "塩野瑛久×小瀧望×兵頭功海、志田未来の「未来のムスコ」の父親候補役に決定　3人が物語に波乱を巻き起こす",
-      "source": "映画.com",
-      "date": "2025-11-13",
-      "url": "https://eiga.com/news/20251114/1/"
-    },
-    {
-      "title": "齊藤京子主演「恋愛裁判」最新映像公開　主題歌はyamaの書き下ろし「Dawn」",
-      "source": "映画.com",
-      "date": "2025-11-13",
-      "url": "https://eiga.com/news/20251114/2/"
     }
   ],
   "bd_releases": [],
