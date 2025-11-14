@@ -43,7 +43,16 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 MAX_TRANSLATE = 40
 _translate_count = 0
 
-# 日本語ニュースのうち「芸能寄りでいらないもの」をだいたい避けるキーワード
+
+def is_japanese(text: str) -> bool:
+    """タイトルに日本語っぽい文字が含まれているかざっくり判定"""
+    for ch in text:
+        code = ord(ch)
+        if 0x3040 <= code <= 0x30ff or 0x4e00 <= code <= 0x9fff:
+            return True
+    return False
+
+
 JAPANESE_FILTER_OUT = [
     "結婚", "離婚", "交際", "熱愛", "不倫",
     "インスタ", "SNS", "X（旧Twitter）", "ツイート",
@@ -52,16 +61,6 @@ JAPANESE_FILTER_OUT = [
     "写真集", "グラビア", "アイドル",
     "舞台挨拶", "トークイベント"
 ]
-
-
-def is_japanese(text: str) -> bool:
-    """タイトルに日本語っぽい文字が含まれているかざっくり判定"""
-    for ch in text:
-        code = ord(ch)
-        # ひらがな・カタカナ・CJK統合漢字あたり
-        if 0x3040 <= code <= 0x30ff or 0x4e00 <= code <= 0x9fff:
-            return True
-    return False
 
 
 def should_filter_japanese_title(title: str) -> bool:
@@ -74,21 +73,18 @@ def should_filter_japanese_title(title: str) -> bool:
 
 def parse_date(entry):
     """RSSエントリから日付をいい感じに取る"""
-    # 通常の published_parsed
     if hasattr(entry, "published_parsed") and entry.published_parsed:
         try:
             return datetime(*entry.published_parsed[:6])
         except Exception:
             pass
 
-    # updated_parsed（映画.comなど）
     if hasattr(entry, "updated_parsed") and entry.updated_parsed:
         try:
             return datetime(*entry.updated_parsed[:6])
         except Exception:
             pass
 
-    # updated（ISOっぽい文字列）
     if hasattr(entry, "updated"):
         try:
             return datetime.fromisoformat(entry.updated.replace("Z", ""))
@@ -101,30 +97,24 @@ def parse_date(entry):
 def gpt_translate_title(title: str) -> str:
     """
     英語タイトルを GPT-4o mini で日本語の新聞見出しっぽく翻訳。
-    ・日本語タイトルならそのまま返す
-    ・APIキーがなければそのまま返す
-    ・1回の実行あたり MAX_TRANSLATE 件まで
+    日本語ならそのまま返す。
     """
     global _translate_count
 
-    # APIキーがなければ何もしない
     if not OPENAI_API_KEY:
+        # デバッグ用ログ
+        print("DEBUG: OPENAI_API_KEY is NOT set, skip translation.")
         return title
 
-    # すでに上限に達していたら何もしない
     if _translate_count >= MAX_TRANSLATE:
         return title
 
-    # もともと日本語なら翻訳不要
-    if is_japanese(title):
-        return title
-
-    # シンプルに英語っぽくないものもスキップ（記号だらけなど）
-    if len(title.strip()) == 0:
+    if is_japanese(title) or not title.strip():
         return title
 
     try:
         _translate_count += 1
+        print(f"DEBUG: translating {_translate_count}: {title[:60]}...")
 
         headers = {
             "Authorization": f"Bearer {OPENAI_API_KEY}",
@@ -155,13 +145,15 @@ def gpt_translate_title(title: str) -> str:
         resp.raise_for_status()
         data = resp.json()
         ja = data["choices"][0]["message"]["content"].strip()
-        # 念のため空なら元のタイトルを返す
         return ja or title
 
     except Exception as e:
-        print("translate error:", e)
+        print("DEBUG: translate error:", e)
         return title
 
+
+print("DEBUG: script started")
+print("DEBUG: OPENAI_API_KEY set:", bool(OPENAI_API_KEY))
 
 # ---- RSS を読む ----
 for feed in FEEDS:
@@ -176,9 +168,9 @@ for feed in FEEDS:
         title = entry.title.strip()
         url = entry.link
 
-        # 映画.com など日本語ソース → 芸能寄りは落とす
         if feed["source"] == "映画.com":
             if should_filter_japanese_title(title):
+                print("DEBUG: filtered JP title:", title)
                 continue
 
         item = {
@@ -198,11 +190,20 @@ result["top_stories"] = sorted(
 )[:3]
 
 # ---- タイトルを日本語に変換（英語だけ） ----
+total_candidates = sum(
+    1 for section, items in result.items()
+    if isinstance(items, list)
+    for item in items
+)
+print("DEBUG: total items before translate:", total_candidates)
+
 for section, items in result.items():
     if not isinstance(items, list):
         continue
     for item in items:
         item["title"] = gpt_translate_title(item["title"])
+
+print("DEBUG: total translated:", _translate_count)
 
 # ---- JSON に書き込む ----
 OUT_PATH = "data/news.json"
