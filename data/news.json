@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-17T09:14:02.401925",
+  "generated_at": "2025-11-17T10:11:33.128076",
   "top_stories": [
+    {
+      "title": "‘Love Island’ Host Maya Jama Launches Mentorship Program for Marginalized Women in Creative Industries",
+      "source": "Variety",
+      "date": "2025-11-17",
+      "url": "https://variety.com/2025/tv/global/love-island-maya-jama-mentorship-program-women-1236583427/"
+    },
     {
       "title": "Inside the Governors Awards: Ariana Grande Meets EJAE, Tom Cruise Leaves Sydney Sweeney Speechless and Lily Tomlin Pays Tribute to Dolly Parton",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-11-17",
       "url": "https://variety.com/2025/tv/news/last-week-tonight-john-oliver-tribute-cleto-escobedo-iii-1236583402/"
-    },
-    {
-      "title": "‘Now You See Me: Now You Don’t’ Debuts Atop Korea Box Office",
-      "source": "Variety",
-      "date": "2025-11-17",
-      "url": "https://variety.com/2025/film/box-office/now-you-see-me-now-you-dont-korea-box-office-1236583399/"
     }
   ],
   "new_releases": [
+    {
+      "title": "倍賞千恵子×木村拓哉に問いかける、齢を重ねるということ【「TOKYOタクシー」インタビュー】",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/17/"
+    },
+    {
+      "title": "「グランド・イリュージョン」最新作が首位　製作費1億ドル越えのグレン・パウエル新作は2位に【全米映画ランキング】",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/14/"
+    },
     {
       "title": "「チェンソーマン」返り咲きV！ 新作は5位「平場の月」、7位「ヱヴァ序」、10位「港のひかり」 【国内映画ランキング】",
       "source": "映画.com",
@@ -170,18 +182,6 @@
       "source": "映画.com",
       "date": "2025-11-16",
       "url": "https://eiga.com/news/20251116/3/"
-    },
-    {
-      "title": "三森すずこ＆Snow Man佐久間大介が吹き替え！アニメ映画「白蛇：浮生」特報公開",
-      "source": "映画.com",
-      "date": "2025-11-15",
-      "url": "https://eiga.com/news/20251116/2/"
-    },
-    {
-      "title": "「劇場版『進撃の巨人』完結編 THE LAST ATTACK」復活上映が決定　シリーズ初のドルビーシネマ版が26年1月9日に先行公開",
-      "source": "映画.com",
-      "date": "2025-11-15",
-      "url": "https://eiga.com/news/20251116/1/"
     }
   ],
   "bd_releases": [],
