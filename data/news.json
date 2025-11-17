@@ -1,26 +1,32 @@
 {
-  "generated_at": "2025-11-17T04:16:24.189724",
+  "generated_at": "2025-11-17T05:10:22.289516",
   "top_stories": [
+    {
+      "title": "Walmart Serves Walton Goggins as The Grinch To Warm Up Black Friday",
+      "source": "Variety",
+      "date": "2025-11-17",
+      "url": "https://variety.com/2025/tv/news/walmart-walton-goggins-grinch-black-friday-commercial-1236583190/"
+    },
+    {
+      "title": "AI Drama ‘Humans in the Loop’ Receives Film Independent’s Sloan Distribution Grant, Enters Oscar Race (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2025-11-17",
+      "url": "https://variety.com/2025/film/news/ai-drama-humans-in-the-loop-oscar-race-1236582975/"
+    },
     {
       "title": "‘Chess’ Review: Lea Michele Reigns as Queen of This Uneven Broadway Revival",
       "source": "Variety",
       "date": "2025-11-17",
       "url": "https://variety.com/2025/legit/reviews/chess-review-musical-broadway-lea-michele-1236583104/"
-    },
-    {
-      "title": "Anushka Sen to Launch Music Career With Debut Single ‘Chameleon,’ Produced by Two-Time Grammy Winner Ken Lewis (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2025-11-17",
-      "url": "https://variety.com/2025/music/news/anushka-debut-single-chameleon-ken-lewis-1236582962/"
-    },
-    {
-      "title": "Farhan Akhtar’s ‘120 Bahadur’ Makes History With India Defense Theater Release (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2025-11-17",
-      "url": "https://variety.com/2025/film/news/farhan-akhtar-120-bahadur-india-defense-theater-release-1236583243/"
     }
   ],
   "new_releases": [
+    {
+      "title": "クリストファー・ノーラン、「オデュッセイア」“本物志向”の撮影を語る「まだ誰もやっていないことを探している」",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/9/"
+    },
     {
       "title": "「プラダを着た悪魔2」「トイ・ストーリー5」予告編同時解禁で圧倒的なスタートダッシュ！",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2025-11-15",
       "url": "https://eiga.com/news/20251115/10/"
-    },
-    {
-      "title": "サブリナ・カーペンター、ミュージカル映画「不思議の国のアリス」に主演",
-      "source": "映画.com",
-      "date": "2025-11-15",
-      "url": "https://eiga.com/news/20251115/9/"
     }
   ],
   "bd_releases": [],
