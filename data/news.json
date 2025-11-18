@@ -1,189 +1,26 @@
 {
-  "generated_at": "2025-11-18T18:14:15.752038",
+  "generated_at": "2025-11-18T19:07:54.936947",
   "top_stories": [
     {
-      "title": "‘Stranger Things’ Hits Macy’s Thanksgiving Parade With Hawkins Float and 8-Foot Demogorgon Puppet",
+      "title": "How I Became the Woman Hollywood Calls When the Impossible Needs to Happen",
       "source": "Variety",
       "date": "2025-11-18",
-      "url": "https://variety.com/2025/artisans/news/stranger-things-thanksgiving-parade-float-1236584558/"
+      "url": "https://variety.com/2025/biz/events/april-lucas-career-running-gold-sky-productions-1236584691/"
     },
     {
-      "title": "David Ellison’s Paramount Skydance Said to Prep $71 Billion Warner Bros. Discovery Bid With Three Arab Sovereign Wealth Funds",
+      "title": "PBS’ Frontline Launches Production and Distribution Arm Frontline Features",
       "source": "Variety",
       "date": "2025-11-18",
-      "url": "https://variety.com/2025/biz/news/paramount-warner-bros-discovery-arab-sovereign-wealth-funds-1236584624/"
+      "url": "https://variety.com/2025/film/news/pbs-frontline-production-distribution-frontline-features-1236581203/"
     },
     {
-      "title": "Fabien Frankel Signs With CAA (EXCLUSIVE)",
+      "title": "‘Line of Duty’ Returns for Season 7 With Martin Compston, Vicky McClure and Adrian Dunbar Reprising Roles",
       "source": "Variety",
       "date": "2025-11-18",
-      "url": "https://variety.com/2025/tv/news/fabien-frankel-caa-1236583980/"
+      "url": "https://variety.com/2025/tv/global/line-of-duty-returning-season-7-1236584566/"
     }
   ],
-  "new_releases": [
-    {
-      "title": "メリル・ストリープ＆シガニー・ウィーバーが新作「Useful Idiots」で共演",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/33/"
-    },
-    {
-      "title": "TRIGGER×雨宮哲の青春ショートアニメシリーズ「ザ・レンチキュラーズ」が配信中",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/32/"
-    },
-    {
-      "title": "マイケル・マン監督「ヒート」続編にクリスチャン・ベールが主演か",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/31/"
-    },
-    {
-      "title": "実写版「ゼルダの伝説」リンク＆ゼルダのビジュアル初公開",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/29/"
-    },
-    {
-      "title": "「バーチャルさんはみている」全12話が無料配信中　ミライアカリ、電脳少女シロらVTuberが多数出演",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/28/"
-    },
-    {
-      "title": "板垣李光人、大学生に「毎日を大切に思えるきっかけになってほしい」と訴え【「ペリリュー　楽園のゲルニカ」試写会】",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/26/"
-    },
-    {
-      "title": "【大ヒット中】「爆弾」重要スポットのロケ地ガイド　物語の中心となる野方警察署、巡査バディが訪れる喫茶店",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/21/"
-    },
-    {
-      "title": "「SEVENTEEN」ジュンが老人に変身！　「シャドウズ・エッジ」本編映像公開",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/20/"
-    },
-    {
-      "title": "大物俳優、自分探しの旅へ　ジョージ・クルーニー×ノア・バームバック監督「ジェイ・ケリー」キービジュアル＆本予告",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/23/"
-    },
-    {
-      "title": "橋本梨菜、“令和のキューティハニー” に挑む最恐ヴィランに決定　過激コスチュームで迫力バトルも",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/22/"
-    },
-    {
-      "title": "「ペリリュー　楽園のゲルニカ」の舞台を板垣李光⼈が訪問した特別番組放送決定",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/25/"
-    },
-    {
-      "title": "「バーフバリ　エピック4K」の“バーフバリ王”プラバース緊急来日決定",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/24/"
-    },
-    {
-      "title": "武装強盗団が電車で襲撃開始→最強の特殊部隊員も乗っていた…　「KILL 超覚醒」重要シーン公開",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/19/"
-    },
-    {
-      "title": "「小3アシベ QQ ゴマちゃん」ショートアニメ化決定　「鷹の爪」のDLE制作で26年放送",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/18/"
-    },
-    {
-      "title": "目黒蓮、「SHOGUN 将軍」シーズン2に出演決定「本当に夢のよう」　新キャラクター・和忠役",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/30/"
-    },
-    {
-      "title": "「劇場アニメ ルックバック展」展示内容やメインビジュアルが公開　会場に藤野の部屋と京本家の廊下を再現",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/17/"
-    },
-    {
-      "title": "「TOKYOタクシー」大ベテラン倍賞千恵子が「特に緊張した」と語る理由は？",
-      "source": "映画.com",
-      "date": "2025-11-15",
-      "url": "https://eiga.com/news/20251115/5/"
-    },
-    {
-      "title": "「殺し屋のプロット」のマイケル・キートン＆アル・パチーノ初共演シーン公開",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/16/"
-    },
-    {
-      "title": "ペネロペ・クルス＆ハビエル・バルデムの夫婦共演作にパトリック・シュワルツェネッガー",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/15/"
-    },
-    {
-      "title": "保安官VS市長、舌戦の行方は……ホアキン・フェニックス主演「エディントンへようこそ」本編映像",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/12/"
-    },
-    {
-      "title": "ATEEZ初のVRコンサートを劇場で上映！　「LIGHT THE WAY」が12月5日から日本公開決定【劇場リストあり】",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/14/"
-    },
-    {
-      "title": "アニメシリーズ「悪魔くん」地上波初放送が決定　26年1月9日からTOKYO MXほかで開始",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/10/"
-    },
-    {
-      "title": "「涼宮ハルヒの憂鬱」放送20周年記念プロジェクト始動　「涼宮ハルヒの消失」リバルバル上映が決定",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/9/"
-    },
-    {
-      "title": "米俳優組合賞が名称変更　「The Actor Awards」に",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/8/"
-    },
-    {
-      "title": "実写映画「モアナと伝説の海」初予告編＆ポスター公開　モアナ役は18歳の新星、マウイ役はドウェイン・ジョンソン",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/13/"
-    },
-    {
-      "title": "人気キャラクター「ラブブ」をソニーが映画化",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/7/"
-    },
-    {
-      "title": "「なんて楽しいクリスマス！」日本語予告編＆キービジュアル＆場面写真一挙公開",
-      "source": "映画.com",
-      "date": "2025-11-18",
-      "url": "https://eiga.com/news/20251118/5/"
-    }
-  ],
+  "new_releases": [],
   "bd_releases": [],
   "retrospectives": [],
   "industry": [],
