@@ -1,26 +1,38 @@
 {
-  "generated_at": "2025-11-18T11:08:32.138736",
+  "generated_at": "2025-11-18T12:18:25.272105",
   "top_stories": [
+    {
+      "title": "Roblox to Require All Users to Verify Age With Facial Recognition to Access Chat Features Beginning in December",
+      "source": "Variety",
+      "date": "2025-11-18",
+      "url": "https://variety.com/2025/gaming/news/roblox-launches-required-facial-age-checks-1236584050/"
+    },
+    {
+      "title": "Sadie Sink and Noah Jupe to Star in New ‘Romeo & Juliet’ Production on London’s West End",
+      "source": "Variety",
+      "date": "2025-11-18",
+      "url": "https://variety.com/2025/theater/global/sadie-sink-noah-jupe-romeo-juliet-london-west-end-1236584408/"
+    },
     {
       "title": "Steven Soderbergh, Michaela Coel Set to Attend Doha Film Festival, Which Will Kick Off With ‘The Voice of Hind Rajab’ as Qatar Steps Up Film Ambitions",
       "source": "Variety",
       "date": "2025-11-18",
       "url": "https://variety.com/2025/film/festivals/steven-soderbergh-coel-doha-festival-hind-rajab-qatar-1236583430/"
-    },
-    {
-      "title": "Doha Film Institute CEO Fatma Hassan Alremaihi on Spirit of New Doha Film Festival: ‘Film, Gaming, Animation and Cosplay Are All Forms of Expression That Inspire and Unite People’",
-      "source": "Variety",
-      "date": "2025-11-18",
-      "url": "https://variety.com/2025/film/global/doha-film-institute-fatma-hassan-alremaihi-film-festival-1236583616/"
-    },
-    {
-      "title": "Payal Kapadia, Rima Das Among Indian Filmmakers Demanding Fair Screenings for Indies After Kanu Behl’s Cannes-Selected ‘Agra’ Gets Limited Theatrical Slots",
-      "source": "Variety",
-      "date": "2025-11-18",
-      "url": "https://variety.com/2025/film/news/payal-kapadia-rima-das-agra-release-1236584349/"
     }
   ],
   "new_releases": [
+    {
+      "title": "実写版「ゼルダの伝説」リンク＆ゼルダのビジュアル初公開",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/29/"
+    },
+    {
+      "title": "「バーチャルさんはみている」全12話が無料配信中　ミライアカリ、電脳少女シロらVTuberが多数出演",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/28/"
+    },
     {
       "title": "板垣李光人、大学生に「毎日を大切に思えるきっかけになってほしい」と訴え【「ペリリュー　楽園のゲルニカ」試写会】",
       "source": "映画.com",
@@ -170,12 +182,6 @@
       "source": "映画.com",
       "date": "2025-11-17",
       "url": "https://eiga.com/news/20251118/3/"
-    },
-    {
-      "title": "「ゾンビランドサガ ゆめぎんがパラダイス」11月21日から4DX版の上映開始　バトルやライブを全身で体感",
-      "source": "映画.com",
-      "date": "2025-11-17",
-      "url": "https://eiga.com/news/20251118/2/"
     }
   ],
   "bd_releases": [],
