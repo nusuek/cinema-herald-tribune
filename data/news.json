@@ -1,26 +1,195 @@
 {
-  "generated_at": "2025-11-18T06:14:49.760549",
+  "generated_at": "2025-11-18T07:09:48.213030",
   "top_stories": [
     {
-      "title": "‘Wicked: For Good’ Premiere Red Carpet: Ariana Grande, Cynthia Erivo, Jonathan Bailey and More Celeb Photos",
+      "title": "NBA Makes Disney+ Philippines Debut in Multi-Year Streaming Deal",
       "source": "Variety",
       "date": "2025-11-18",
-      "url": "https://variety.com/gallery/wicked-for-good-premiere-red-carpet-ariana-grande-cynthia-erivo-jonathan-bailey-celeb-photos/"
+      "url": "https://variety.com/2025/film/news/nba-disney-philippines-streaming-deal-1236584342/"
     },
     {
-      "title": "Jon Stewart Slams Trump For Claiming He Has ‘Nothing to Hide’ With the Epstein Files: ‘It’s Very Clear He Does Not Want These Things’ Released",
+      "title": "Disney+ and CJ ENM’s Tving Launch Bundle Deal in Korea",
       "source": "Variety",
       "date": "2025-11-18",
-      "url": "https://variety.com/2025/tv/news/jon-stewart-trump-nothing-to-hide-epstein-files-1236584255/"
+      "url": "https://variety.com/2025/tv/news/disney-cj-enms-tving-bundle-deal-korea-1236584334/"
     },
     {
-      "title": "Cinerama Dome Alcohol Permit Gets Unanimous Support From Hollywood Neighborhood Council: ‘The Next Big Step’",
+      "title": "Disney Pledges $5 Million to Rebuild Altadena’s Charles White Park With Help From Imagineers",
       "source": "Variety",
       "date": "2025-11-18",
-      "url": "https://variety.com/2025/film/news/cinerama-dome-alcohol-permit-support-hollywood-neighborhood-council-1236584219/"
+      "url": "https://variety.com/2025/biz/news/disney-5-million-rebuild-altadena-park-imagineers-1236584324/"
     }
   ],
-  "new_releases": [],
+  "new_releases": [
+    {
+      "title": "「殺し屋のプロット」のマイケル・キートン＆アル・パチーノ初共演シーン公開",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/16/"
+    },
+    {
+      "title": "ペネロペ・クルス＆ハビエル・バルデムの夫婦共演作にパトリック・シュワルツェネッガー",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/15/"
+    },
+    {
+      "title": "目黒蓮、「SHOGUN 将軍」シーズン2に出演決定「本当に夢のよう」　新キャラクター・和忠役",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/30/"
+    },
+    {
+      "title": "保安官VS市長、舌戦の行方は……ホアキン・フェニックス主演「エディントンへようこそ」本編映像",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/12/"
+    },
+    {
+      "title": "ATEEZ初のVRコンサートを劇場で上映！　「LIGHT THE WAY」が12月5日から日本公開決定【劇場リストあり】",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/14/"
+    },
+    {
+      "title": "アニメシリーズ「悪魔くん」地上波初放送が決定　26年1月9日からTOKYO MXほかで開始",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/10/"
+    },
+    {
+      "title": "「涼宮ハルヒの憂鬱」放送20周年記念プロジェクト始動　「涼宮ハルヒの消失」リバルバル上映が決定",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/9/"
+    },
+    {
+      "title": "米俳優組合賞が名称変更　「The Actor Awards」に",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/8/"
+    },
+    {
+      "title": "実写映画「モアナと伝説の海」初予告編＆ポスター公開　モアナ役は18歳の新星、マウイ役はドウェイン・ジョンソン",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/13/"
+    },
+    {
+      "title": "人気キャラクター「ラブブ」をソニーが映画化",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/7/"
+    },
+    {
+      "title": "「なんて楽しいクリスマス！」日本語予告編＆キービジュアル＆場面写真一挙公開",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/5/"
+    },
+    {
+      "title": "テイラー・スウィフト「全てにおいてファンを驚かせたかった」　ドキュメンタリーシリーズ「THE END OF AN ERA」予告編公開",
+      "source": "映画.com",
+      "date": "2025-11-18",
+      "url": "https://eiga.com/news/20251118/6/"
+    },
+    {
+      "title": "ジェイソン・ステイサム主演最新作「ワーキングマン」、現場監督が部下を救うため工具で敵をボコボコにする本編映像",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251118/4/"
+    },
+    {
+      "title": "「アバター」最新作日本版予告公開！　敵対するナヴィが人類と手を組み“炎の決戦”へ",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251118/3/"
+    },
+    {
+      "title": "「ゾンビランドサガ ゆめぎんがパラダイス」11月21日から4DX版の上映開始　バトルやライブを全身で体感",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251118/2/"
+    },
+    {
+      "title": "「劇場版『鬼滅の刃』無限城編　第一章」日本映画史上初の全世界興行収入1000億円突破",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/23/"
+    },
+    {
+      "title": "「鎧真伝サムライトルーパー」5人の少年たちの素顔が垣間見える新映像が公開",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/22/"
+    },
+    {
+      "title": "「スパイダーマン」脚本家コンビが手がける新「スター・トレック」始動",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/21/"
+    },
+    {
+      "title": "ライアン・クーグラー監督、次は「ブラックパンサー3」と明言",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/20/"
+    },
+    {
+      "title": "「市川準監督特集」が目黒シネマで開催、斉藤由貴の特別作品初上映など名作とともに辿る",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/15/"
+    },
+    {
+      "title": "倍賞千恵子×木村拓哉に問いかける、齢を重ねるということ【「TOKYOタクシー」インタビュー】",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/17/"
+    },
+    {
+      "title": "「グランド・イリュージョン」最新作が首位　製作費1億ドル越えのグレン・パウエル新作は2位に【全米映画ランキング】",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/14/"
+    },
+    {
+      "title": "「チェンソーマン」返り咲きV！ 新作は5位「平場の月」、7位「ヱヴァ序」、10位「港のひかり」 【国内映画ランキング】",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/19/"
+    },
+    {
+      "title": "除隊から1週間後の「BTS」“グクミン”コンビに突撃→予測不能の友情旅へ　「Go Go」にのせたティザー予告",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/18/"
+    },
+    {
+      "title": "「ガメラ生誕60周年プロジェクト」第4弾　平成ガメラ第2作「レギオン襲来」4K公開日が26年1月16日に決定！",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/13/"
+    },
+    {
+      "title": "「RRR」のラージャマウリ監督最新作「VARANASI」27年日本公開決定！ 製作発表には観衆5万人詰めかける【ファーストルック＆PVあり】",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/16/"
+    },
+    {
+      "title": "門脇麦「今までで1番辛辣なことをたくさん言った」　岩田剛典主演「金髪」新場面写真＆おじさん注意喚起動画",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/11/"
+    },
+    {
+      "title": "【上質映画館　諸国漫遊記】広島・八丁座／芝居小屋風、和のテイスト感じる街中のオアシスで極上「国宝」体験",
+      "source": "映画.com",
+      "date": "2025-11-17",
+      "url": "https://eiga.com/news/20251117/10/"
+    }
+  ],
   "bd_releases": [],
   "retrospectives": [],
   "industry": [],
