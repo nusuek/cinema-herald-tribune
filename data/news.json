@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T02:51:03.584345",
+  "generated_at": "2025-11-23T03:52:00.358742",
   "top_stories": [
     {
       "title": "QCinema Project Market Awards $310,000 in Support to Southeast Asian Filmmakers",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "デイジー・リドリー、「96時間」監督の新作アクション映画に主演",
+      "source": "映画.com",
+      "date": "2025-11-23",
+      "url": "https://eiga.com/news/20251123/5/"
+    },
     {
       "title": "A24新作は、バチェラーパーティホラー！　ジョシュ・ハッチャーソン、ケイレブ・ランドリー・ジョーンズが主演交渉中",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2025-11-21",
       "url": "https://eiga.com/news/20251121/23/"
-    },
-    {
-      "title": "森田望智、27年度前期朝ドラ「巡るスワン」主演に　脚本はバカリズム",
-      "source": "映画.com",
-      "date": "2025-11-21",
-      "url": "https://eiga.com/news/20251121/21/"
     }
   ],
   "bd_releases": [],
