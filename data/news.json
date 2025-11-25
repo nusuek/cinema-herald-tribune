@@ -1,26 +1,32 @@
 {
-  "generated_at": "2025-11-25T06:15:21.927458",
+  "generated_at": "2025-11-25T07:10:57.402239",
   "top_stories": [
+    {
+      "title": "‘3 Idiots,’ ‘Munna Bhai’ Filmmaker Rajkumar Hirani Breaks Down Writing and Editing at International Film Festival of India Masterclass",
+      "source": "Variety",
+      "date": "2025-11-25",
+      "url": "https://variety.com/2025/film/festivals/3-idiots-rajkumar-hirani-editing-iffi-1236591458/"
+    },
+    {
+      "title": "Anshul Chauhan Launches Kowatanda Films India, Partners With Shweta Tripathi on Horror Feature ‘Nava’ (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2025-11-25",
+      "url": "https://variety.com/2025/film/news/anshul-chauhan-shweta-tripathi-horror-feature-nava-1236591449/"
+    },
     {
       "title": "‘Last Week Tonight With John Oliver’ Auction Raises More Than $1.5 Million for Public Broadcasting, Including New Record for a Bob Ross Painting",
       "source": "Variety",
       "date": "2025-11-25",
       "url": "https://variety.com/2025/tv/news/john-oliver-bob-ross-painting-auction-raises-million-pbs-1236591263/"
-    },
-    {
-      "title": "‘Comedians in Bars,’ ‘Dispatch’ Lead Avani Films’ New Non-Fiction Slate (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2025-11-25",
-      "url": "https://variety.com/2025/film/markets-festivals/comedians-in-bars-dispatch-avani-films-non-fiction-slate-1236591420/"
-    },
-    {
-      "title": "Microdramas ‘Here to Stay,’ Say WAVES Film Bazaar Panelists as Budgets, Genres and Markets Rapidly Evolve",
-      "source": "Variety",
-      "date": "2025-11-25",
-      "url": "https://variety.com/2025/tv/markets-festivals/microdramas-waves-film-bazaar-1236591407/"
     }
   ],
   "new_releases": [
+    {
+      "title": "福士蒼汰、ぬいぐるみに話しかけていた!?　福原遥がお茶目な一面明かす",
+      "source": "映画.com",
+      "date": "2025-11-25",
+      "url": "https://eiga.com/news/20251125/18/"
+    },
     {
       "title": "吉沢亮×李相日監督「国宝」を携えてついに全米上陸！　LA＆NYで大喝采を浴びる",
       "source": "映画.com",
@@ -146,12 +152,6 @@
       "source": "映画.com",
       "date": "2025-11-23",
       "url": "https://eiga.com/news/20251124/3/"
-    },
-    {
-      "title": "レイトン・ミースター＆ジャレッド・パダレッキ、Netflixのロマコメに主演",
-      "source": "映画.com",
-      "date": "2025-11-23",
-      "url": "https://eiga.com/news/20251123/10/"
     }
   ],
   "bd_releases": [],
