@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-25T02:26:43.335573",
+  "generated_at": "2025-11-25T03:41:38.883305",
   "top_stories": [
+    {
+      "title": "Disney’s Dana Walden Receives Founders Award, Touts ‘Creative Risk Taking’ as International Emmys Reveal Full 2025 Winners’ List",
+      "source": "Variety",
+      "date": "2025-11-25",
+      "url": "https://variety.com/2025/tv/news/international-emmy-awards-winners-2025-full-list-1236591280/"
+    },
     {
       "title": "Anupam Kher on Robert De Niro, ‘Saaransh’ and Survival in Candid International Film Festival of India Masterclass",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-11-25",
       "url": "https://variety.com/2025/film/news/jon-m-chu-wicked-for-good-last-shot-glinda-whisper-elphaba-1236591063/"
-    },
-    {
-      "title": "Jabari Banks Unpacks ‘Bel Air’ Season 4 Premiere, His Last Day on Set and Saying Goodbye to Will: ‘There Were a Lot Of Tears’",
-      "source": "Variety",
-      "date": "2025-11-25",
-      "url": "https://variety.com/2025/tv/news/jabari-banks-unpacks-bel-air-season-4-premiere-1236591169/"
     }
   ],
   "new_releases": [
+    {
+      "title": "2025年度「新藤兼人賞」発表　金賞「見はらし世代」団塚唯我監督、銀賞「ひみつきちのつくりかた」板橋知也監督",
+      "source": "映画.com",
+      "date": "2025-11-25",
+      "url": "https://eiga.com/news/20251125/12/"
+    },
+    {
+      "title": "高畑勲監督「かぐや姫の物語」英語字幕版を特別上映！「カンヌ監督週間 in Tokio 2025」全ラインナップ発表",
+      "source": "映画.com",
+      "date": "2025-11-25",
+      "url": "https://eiga.com/news/20251125/11/"
+    },
     {
       "title": "名優ウド・キア死去、81歳　「悪魔のはらわた」、ラース・フォン・トリアー監督作など270作以上に出演",
       "source": "映画.com",
@@ -140,24 +152,6 @@
       "source": "映画.com",
       "date": "2025-11-23",
       "url": "https://eiga.com/news/20251123/7/"
-    },
-    {
-      "title": "婚約破棄された令嬢が新たな世界を作る　TVアニメ「ロメリア戦記」26年に放送決定",
-      "source": "映画.com",
-      "date": "2025-11-23",
-      "url": "https://eiga.com/news/20251123/6/"
-    },
-    {
-      "title": "デイジー・リドリー、「96時間」監督の新作アクション映画に主演",
-      "source": "映画.com",
-      "date": "2025-11-23",
-      "url": "https://eiga.com/news/20251123/5/"
-    },
-    {
-      "title": "A24新作は、バチェラーパーティホラー！　ジョシュ・ハッチャーソン、ケイレブ・ランドリー・ジョーンズが主演交渉中",
-      "source": "映画.com",
-      "date": "2025-11-23",
-      "url": "https://eiga.com/news/20251123/4/"
     }
   ],
   "bd_releases": [],
