@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-26T02:27:44.636825",
+  "generated_at": "2025-11-26T03:41:11.855769",
   "top_stories": [
     {
       "title": "‘Stranger Things’ Season 5 Preview: Where Did We Leave Off at the End of Season 4?",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "トランプ大統領、お気に入り映画「ラッシュアワー」続編製作を要請",
+      "source": "映画.com",
+      "date": "2025-11-26",
+      "url": "https://eiga.com/news/20251126/11/"
+    },
     {
       "title": "エディ・マーフィ、「ゴーストバスターズ」のオファーを断ったことを後悔",
       "source": "映画.com",
@@ -158,12 +164,6 @@
       "source": "映画.com",
       "date": "2025-11-25",
       "url": "https://eiga.com/news/20251125/8/"
-    },
-    {
-      "title": "ドナルド・グローバー、脳卒中と心臓疾患を告白",
-      "source": "映画.com",
-      "date": "2025-11-24",
-      "url": "https://eiga.com/news/20251125/6/"
     }
   ],
   "bd_releases": [],
