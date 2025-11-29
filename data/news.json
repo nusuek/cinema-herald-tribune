@@ -1,26 +1,32 @@
 {
-  "generated_at": "2025-11-29T07:08:51.921750",
+  "generated_at": "2025-11-29T08:11:54.304568",
   "top_stories": [
+    {
+      "title": "Kamila Andini’s ‘Four Seasons in Java’ Lands International Production Alliance for Forka Films",
+      "source": "Variety",
+      "date": "2025-11-29",
+      "url": "https://variety.com/2025/film/markets-festivals/kamila-andini-four-seasons-in-java-global-production-alliance-1236595243/"
+    },
+    {
+      "title": "‘Qodrat 3,’ ‘Mayat Hidup’ Among Magma Entertainment Slate at JAFF Market",
+      "source": "Variety",
+      "date": "2025-11-29",
+      "url": "https://variety.com/2025/film/markets-festivals/qodrat-3-magma-entertainment-slate-jaff-market-1236595231/"
+    },
     {
       "title": "Guillermo Galoe’s ‘Sleepless City’ Wins Best Film at Qatar’s Inaugural Doha Film Festival",
       "source": "Variety",
       "date": "2025-11-29",
       "url": "https://variety.com/2025/film/global/sleepless-city-doha-film-festival-award-1236594954/"
-    },
-    {
-      "title": "Indonesia-Malaysia Co-Productions Surge With Four New Film Projects at JAFF Market",
-      "source": "Variety",
-      "date": "2025-11-29",
-      "url": "https://variety.com/2025/film/markets-festivals/indonesia-malaysia-coproductions-jaff-market-1236595214/"
-    },
-    {
-      "title": "Oscar Predictions: Best Actor — Timothée Chalamet and Leonardo DiCaprio Solidify as Ethan Hawke Emerges as the Season’s Wild Card",
-      "source": "Variety",
-      "date": "2025-11-29",
-      "url": "https://variety.com/lists/2026-oscars-best-actor-predictions/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【広島国際映画祭2025】山田孝之、MEGUMIらがプロデューサーとして参加「MIRRORLIAR FILM」が担うもの",
+      "source": "映画.com",
+      "date": "2025-11-29",
+      "url": "https://eiga.com/news/20251129/19/"
+    },
     {
       "title": "「ちいかわ」うさぎだらけ、モモンガだらけフィギュアが発売　BOX購入なら即コンプリート可能",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2025-11-28",
       "url": "https://eiga.com/news/20251128/18/"
-    },
-    {
-      "title": "國村隼「ゴールデンカムイ　網走監獄襲撃編」で鯉登平二役！　原作者・野田サトルと作り上げた実写版「もすッ」に注目",
-      "source": "映画.com",
-      "date": "2025-11-28",
-      "url": "https://eiga.com/news/20251128/16/"
     }
   ],
   "bd_releases": [],
