@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-11-30T22:08:32.199955",
+  "generated_at": "2025-11-30T23:08:19.050075",
   "top_stories": [
+    {
+      "title": "British Independent Film Awards: BDSM Romance ‘Pillion’ Claims Top Honor, ‘My Father’s Shadow’ Wins Best Director",
+      "source": "Variety",
+      "date": "2025-11-30",
+      "url": "https://variety.com/2025/film/awards/british-independent-film-awards-2025-winners-1236595662/"
+    },
     {
       "title": "‘Zootopia 2’ Box Office: All the Records Set in Opening Weekend",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2025-11-30",
       "url": "https://variety.com/2025/tv/news/landman-recap-threats-fraud-gas-attack-sex-talk-1236594413/"
-    },
-    {
-      "title": "James Cameron Says It’s ‘Horrifying to Me’ that AI Can ‘Make Up an Actor’: It Creates a ‘Performance From Scratch With a Text Prompt’",
-      "source": "Variety",
-      "date": "2025-11-30",
-      "url": "https://variety.com/2025/film/news/james-cameron-horrifying-ai-replace-actors-1236595864/"
     }
   ],
   "new_releases": [
+    {
+      "title": "アニメ「ほっぺちゃん」黒ほっぺちゃん、闇ほっぺちゃん役らのキャスト発表　「EXILE B HAPPY」がOP主題歌を担当",
+      "source": "映画.com",
+      "date": "2025-11-30",
+      "url": "https://eiga.com/news/20251201/4/"
+    },
     {
       "title": "瀬戸康史＆渡辺大知、「再会 Silent Truth」竹内涼真＆井上真央の疑惑の同級生に！",
       "source": "映画.com",
@@ -152,12 +158,6 @@
       "source": "映画.com",
       "date": "2025-11-29",
       "url": "https://eiga.com/news/20251129/6/"
-    },
-    {
-      "title": "ジェームズ・キャメロン監督、「アバター」の今後についてプラン明かす",
-      "source": "映画.com",
-      "date": "2025-11-29",
-      "url": "https://eiga.com/news/20251129/5/"
     }
   ],
   "bd_releases": [],
