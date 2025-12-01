@@ -1,26 +1,44 @@
 {
-  "generated_at": "2025-12-01T00:55:21.097861",
+  "generated_at": "2025-12-01T03:01:37.579584",
   "top_stories": [
+    {
+      "title": "Brandi Carlile, Charlie Puth, Coco Jones to Perform at Super Bowl LX Pregame",
+      "source": "Variety",
+      "date": "2025-12-01",
+      "url": "https://variety.com/2025/music/news/super-bowl-lx-pregame-brandi-carlile-charlie-puth-coco-jones-1236595905/"
+    },
+    {
+      "title": "Virtue Asia, Goldfinch International Launch V47 Entertainment Branded Content Studio (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2025-12-01",
+      "url": "https://variety.com/2025/film/news/virtue-asia-goldfinch-international-v47-entertainment-branded-content-studio-1236595990/"
+    },
     {
       "title": "Korean Indie ‘The World of Love’ Lands French Distribution Deal With The Jokers Films (EXCLUSIVE)",
       "source": "Variety",
       "date": "2025-12-01",
       "url": "https://variety.com/2025/film/festivals/world-of-love-french-distribution-deal-the-jokers-films-1236595961/"
-    },
-    {
-      "title": "China Loses Young Moviegoers as Vietnam Market Grows, JAFF Market Panel Hears",
-      "source": "Variety",
-      "date": "2025-12-01",
-      "url": "https://variety.com/2025/film/markets-festivals/china-young-moviegoers-vietnam-market-jaff-market-1236595951/"
-    },
-    {
-      "title": "Andy Garcia on Going Head-to-Head With Billy Bob Thornton on ‘Landman’ and Why Taylor Sheridan Wrote the Cartel Boss Role for Him",
-      "source": "Variety",
-      "date": "2025-12-01",
-      "url": "https://variety.com/2025/tv/features/andy-garcia-landman-billy-bob-thornton-1236595553/"
     }
   ],
   "new_releases": [
+    {
+      "title": "史上初対談が実現！　「Love Letter」岩井俊二監督×「東京日和」竹中直人監督、お互いの作品や中山美穂さんの思い出を語る",
+      "source": "映画.com",
+      "date": "2025-12-01",
+      "url": "https://eiga.com/news/20251201/7/"
+    },
+    {
+      "title": "「ストレンジャー・シングス」ジョー・キーリー×マヤ・ホーク×ナタリア・ダイアー×チャーリー・ヒートンが振り返る“10年分の集大成”【インタビュー】",
+      "source": "映画.com",
+      "date": "2025-11-30",
+      "url": "https://eiga.com/news/20251130/6/"
+    },
+    {
+      "title": "ミリー・ボビー・ブラウン×ノア・シュナップ「ストレンジャー・シングス」の“終わり”に感じたこと【インタビュー】",
+      "source": "映画.com",
+      "date": "2025-11-29",
+      "url": "https://eiga.com/news/20251129/6/"
+    },
     {
       "title": "ジョニー・デップがチャップリンのルーツであるロマについて語る　映画「チャップリン」本編映像",
       "source": "映画.com",
@@ -88,12 +106,6 @@
       "url": "https://eiga.com/news/20251130/7/"
     },
     {
-      "title": "「ストレンジャー・シングス」ジョー・キーリー×マヤ・ホーク×ナタリア・ダイアー×チャーリー・ヒートンが振り返る“10年分の集大成”【インタビュー】",
-      "source": "映画.com",
-      "date": "2025-11-30",
-      "url": "https://eiga.com/news/20251130/6/"
-    },
-    {
       "title": "世間のイメージとの乖離に葛藤……「ジョージ・マイケル　栄光の輝きと心の闇」予告編公開",
       "source": "映画.com",
       "date": "2025-11-30",
@@ -146,18 +158,6 @@
       "source": "映画.com",
       "date": "2025-11-29",
       "url": "https://eiga.com/news/20251129/9/"
-    },
-    {
-      "title": "「ちいかわ」うさぎだらけ、モモンガだらけフィギュアが発売　BOX購入なら即コンプリート可能",
-      "source": "映画.com",
-      "date": "2025-11-29",
-      "url": "https://eiga.com/news/20251129/8/"
-    },
-    {
-      "title": "【広島国際映画祭2025】被爆80年　「この世界の片隅に」片渕須直監督が、広島で映画と戦争を語る",
-      "source": "映画.com",
-      "date": "2025-11-29",
-      "url": "https://eiga.com/news/20251129/18/"
     }
   ],
   "bd_releases": [],
