@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-01T08:15:47.145495",
+  "generated_at": "2025-12-01T09:16:07.658126",
   "top_stories": [
     {
       "title": "Indonesia’s Film Sector Poised for Regional Breakout, JAFF Market–Cinepoint Report Finds",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "Mrs. GREEN APPLE大森元貴、ドキュメンタリー映画公開でメンバーに感謝「愛情に満ちたチーム」",
+      "source": "映画.com",
+      "date": "2025-12-01",
+      "url": "https://eiga.com/news/20251201/15/"
+    },
     {
       "title": "「エディントンへようこそ」のホアキン・フェニックスら豪華キャストによる“エディントン体験談”映像公開",
       "source": "映画.com",
@@ -158,12 +164,6 @@
       "source": "映画.com",
       "date": "2025-11-29",
       "url": "https://eiga.com/news/20251130/2/"
-    },
-    {
-      "title": "【広島国際映画祭2025】山田孝之、MEGUMIらがプロデューサーとして参加「MIRRORLIAR FILMS」が担うもの",
-      "source": "映画.com",
-      "date": "2025-11-29",
-      "url": "https://eiga.com/news/20251129/19/"
     }
   ],
   "bd_releases": [],
