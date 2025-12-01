@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-01T06:16:27.900925",
+  "generated_at": "2025-12-01T07:13:36.368407",
   "top_stories": [
+    {
+      "title": "‘Zootopia 2’ Roars to Record-Smashing $272 Million China Opening, Sixth-Biggest in History",
+      "source": "Variety",
+      "date": "2025-12-01",
+      "url": "https://variety.com/2025/film/box-office/zootopia-2-272-million-china-opening-1236596066/"
+    },
     {
       "title": "Siddhant Chaturvedi’s First Look as V. Shantaram Unveiled for Indian Filmmaker Biopic (EXCLUSIVE)",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2025-12-01",
       "url": "https://variety.com/2025/film/news/diljit-dosanjh-border-2-first-look-1236596051/"
-    },
-    {
-      "title": "‘Siti’ Director Eddie Cahyono’s ‘My Mother’ Explores Migrant Worker Crisis at JAFF Future Project",
-      "source": "Variety",
-      "date": "2025-12-01",
-      "url": "https://variety.com/2025/film/markets-festivals/eddie-cahyono-my-mother-migrant-worker-crisis-1236596047/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ひろしまアニメーションシーズン2026」開催決定、コンペティション作品募集開始",
+      "source": "映画.com",
+      "date": "2025-12-01",
+      "url": "https://eiga.com/news/20251201/13/"
+    },
     {
       "title": "「ゴジラ」新作アニメシリーズ制作決定！　シリーズ初の“ゴジラの力を宿す”少年の物語!!",
       "source": "映画.com",
@@ -158,12 +164,6 @@
       "source": "映画.com",
       "date": "2025-11-29",
       "url": "https://eiga.com/news/20251129/13/"
-    },
-    {
-      "title": "「MFゴースト 3rd Season」主題歌を芹澤優、Himika Akaneyaが続投　内田雄馬らキャスト、スタッフからコメント到着",
-      "source": "映画.com",
-      "date": "2025-11-29",
-      "url": "https://eiga.com/news/20251129/12/"
     }
   ],
   "bd_releases": [],
