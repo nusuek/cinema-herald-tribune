@@ -1,26 +1,32 @@
 {
-  "generated_at": "2025-12-01T11:09:17.784859",
+  "generated_at": "2025-12-01T12:18:42.721202",
   "top_stories": [
+    {
+      "title": "Inside Indonesia’s Next Wave: The 2026 Films Poised to Break Out Regionally and Beyond",
+      "source": "Variety",
+      "date": "2025-12-01",
+      "url": "https://variety.com/2025/film/markets-festivals/inside-indonesia-next-wave-2026-films-break-out-1236596140/"
+    },
+    {
+      "title": "‘Hiding Saddam Hussein’ Director Unveils Feature ‘No Paradise if You Are Killed by a Woman,’ About Female Sniper Who Takes on ISIS (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2025-12-01",
+      "url": "https://variety.com/2025/film/global/halkawt-mustafa-no-paradise-if-you-are-killed-by-a-woman-1236594141/"
+    },
     {
       "title": "‘Gomorrah — The Origins’ Trailer: ’70s-Set Prequel Series Shows the Rise of Mobster Pietro Savastano (EXCLUSIVE)",
       "source": "Variety",
       "date": "2025-12-01",
       "url": "https://variety.com/2025/tv/global/gomorrah-the-origins-trailer-prequel-series-savastano-rise-1236595638/"
-    },
-    {
-      "title": "Indonesia’s Film Sector Poised for Regional Breakout, JAFF Market–Cinepoint Report Finds",
-      "source": "Variety",
-      "date": "2025-12-01",
-      "url": "https://variety.com/2025/film/news/indonesia-film-sector-regional-breakout-report-1236596122/"
-    },
-    {
-      "title": "Korea Box Office: ‘Zootopia 2’ Commands Nearly 80% of Market on Debut",
-      "source": "Variety",
-      "date": "2025-12-01",
-      "url": "https://variety.com/2025/film/box-office/korea-box-office-zootopia-2-1236596091/"
     }
   ],
   "new_releases": [
+    {
+      "title": "2作同時公開の「Mrs. GREEN APPLE」関連作が1位と3位に初登場！「栄光のバックホーム」「ナイトフラワー」などがランクイン【国内映画ランキング】",
+      "source": "映画.com",
+      "date": "2025-12-01",
+      "url": "https://eiga.com/news/20251201/18/"
+    },
     {
       "title": "トム・ストッパードさん死去　「恋におちたシェイクスピア」脚本家、88歳",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2025-11-30",
       "url": "https://eiga.com/news/20251130/5/"
-    },
-    {
-      "title": "【本日放送】北川景子、「ばけばけ」を辞退していた!? 夫・DAIGO、パパ友・高橋光臣との仲良しエピソードも",
-      "source": "映画.com",
-      "date": "2025-11-29",
-      "url": "https://eiga.com/news/20251130/3/"
     }
   ],
   "bd_releases": [],
