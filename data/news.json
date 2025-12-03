@@ -1,26 +1,38 @@
 {
-  "generated_at": "2025-12-03T12:18:46.110842",
+  "generated_at": "2025-12-03T13:28:25.421480",
   "top_stories": [
     {
-      "title": "Svedka Super Bowl Commercial Will Mix Vodka With AI",
+      "title": "Spotify Unveils Top 50 Podcasts of 2025, Led by Joe Rogan, Theo Von, Mel Robbins",
       "source": "Variety",
       "date": "2025-12-03",
-      "url": "https://variety.com/2025/tv/news/svedka-super-bowl-commercial-vodka-ai-1236598140/"
+      "url": "https://variety.com/2025/digital/news/spotify-wrapped-top-50-podcasts-2025-joe-rogan-theo-von-mel-robbins-1236597755/"
     },
     {
-      "title": "Singapore Launches $154 Million Program to Boost Film and TV Talent",
+      "title": "Keke Palmer, Ashley Park and Anthony Anderson Voice Puppets in New St. Jude Children’s Research Hospital PSA",
       "source": "Variety",
       "date": "2025-12-03",
-      "url": "https://variety.com/2025/film/markets-festivals/singapore-154-million-program-film-tv-talent-1236598322/"
+      "url": "https://variety.com/2025/biz/columns/keke-palmer-ashley-park-anthony-anderson-voice-puppets-st-jude-childrens-research-hospital-psa-1236597920/"
     },
     {
-      "title": "‘Saturday Night Live U.K.’ Casting Is ‘Well Underway,’ Sky Exec Says: ‘An Opportunity for Us to Nurture That Next Generation of Comic Talent’",
+      "title": "‘Somebody Somewhere’ Star Bridget Everett Plans Live Cabaret, Comedy and Music Tour This Spring (EXCLUSIVE)",
       "source": "Variety",
       "date": "2025-12-03",
-      "url": "https://variety.com/2025/tv/global/saturday-night-live-uk-casting-well-underway-sky-exec-1236598283/"
+      "url": "https://variety.com/2025/tv/news/somebody-somewhere-bridget-everett-live-tour-spring-1236598128/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ゴッサム賞はPTA監督「ワン・バトル・アフター・アナザー」！",
+      "source": "映画.com",
+      "date": "2025-12-03",
+      "url": "https://eiga.com/news/20251203/26/"
+    },
+    {
+      "title": "「28年後... 白骨の神殿」シリーズ史上もっとも救いのない最終予告公開",
+      "source": "映画.com",
+      "date": "2025-12-03",
+      "url": "https://eiga.com/news/20251203/29/"
+    },
     {
       "title": "「アバター　ファイヤー・アンド・アッシュ」ハリウッドの試写で絶賛の嵐",
       "source": "映画.com",
@@ -164,18 +176,6 @@
       "source": "映画.com",
       "date": "2025-12-02",
       "url": "https://eiga.com/news/20251203/2/"
-    },
-    {
-      "title": "「鎧真伝サムライトルーパー」ヨロイギアをまとう少年たちの姿を収録　特別先行公開映像第3弾が公開",
-      "source": "映画.com",
-      "date": "2025-12-02",
-      "url": "https://eiga.com/news/20251202/23/"
-    },
-    {
-      "title": "「DARK MACHINE THE ANIMATION」主演・小野賢章らの役名など一挙発表　千葉が関東から分離した近未来の日本が舞台",
-      "source": "映画.com",
-      "date": "2025-12-02",
-      "url": "https://eiga.com/news/20251202/21/"
     }
   ],
   "bd_releases": [],
