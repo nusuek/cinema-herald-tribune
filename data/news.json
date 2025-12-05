@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-05T02:29:29.235170",
+  "generated_at": "2025-12-05T03:44:37.689250",
   "top_stories": [
+    {
+      "title": "Hainan Jury Touts Festival as a Launchpad for Next Year’s Breakthrough Films",
+      "source": "Variety",
+      "date": "2025-12-05",
+      "url": "https://variety.com/2025/film/festivals/hainan-jury-festival-timing-strategic-advantage-1236600796/"
+    },
     {
       "title": "Cary-Hiroyuki Tagawa, Actor in ‘Mortal Kombat’ and ‘The Man in the High Castle,’ Dies at 75",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-12-05",
       "url": "https://variety.com/2025/shopping/news/how-to-stream-secret-lives-of-mormon-wives-reunion-onine-1236599058/"
-    },
-    {
-      "title": "‘The Batman’ Director Matt Reeves Stands Up for Paul Dano After Tarantino’s Diss: ‘An Incredible Actor’",
-      "source": "Variety",
-      "date": "2025-12-05",
-      "url": "https://variety.com/2025/film/news/the-batman-director-defends-paul-dano-tarantino-1236600739/"
     }
   ],
   "new_releases": [
+    {
+      "title": "最後の見世物小屋を映すドキュメンタリー「ニッポンの、みせものやさん」新年アンコール上映決定！　絵看板ポストカード先着プレゼント",
+      "source": "映画.com",
+      "date": "2025-12-05",
+      "url": "https://eiga.com/news/20251205/11/"
+    },
+    {
+      "title": "「ズートピア2」前夜祭に上戸彩、森川智之、山田涼介ら！　絶妙な掛け合いトークで大盛り上がり",
+      "source": "映画.com",
+      "date": "2025-12-05",
+      "url": "https://eiga.com/news/20251205/12/"
+    },
     {
       "title": "済州島の青春、ベルリン映画祭で物議を醸した“全編ピンボケ映画”　ホン・サンス「水の中で」",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2025-12-04",
       "url": "https://eiga.com/news/20251204/8/"
-    },
-    {
-      "title": "血の涙を流す花嫁…「ミッドサマー」に続く救いなきフォークホラー「フレワカ」2月6日公開",
-      "source": "映画.com",
-      "date": "2025-12-04",
-      "url": "https://eiga.com/news/20251204/9/"
-    },
-    {
-      "title": "A24がソノヤ・ミズノ初監督作を製作　アレックス・ガーランドがプロデューサー",
-      "source": "映画.com",
-      "date": "2025-12-04",
-      "url": "https://eiga.com/news/20251204/7/"
     }
   ],
   "bd_releases": [],
