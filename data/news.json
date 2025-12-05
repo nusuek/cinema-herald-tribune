@@ -1,26 +1,50 @@
 {
-  "generated_at": "2025-12-05T11:09:14.360764",
+  "generated_at": "2025-12-05T12:18:50.330005",
   "top_stories": [
+    {
+      "title": "Netflix to Buy Warner Bros. and HBO Max in $82.7 Billion Deal",
+      "source": "Variety",
+      "date": "2025-12-05",
+      "url": "https://variety.com/2025/tv/news/netflix-to-acquire-warner-bros-82-7-billion-deal-1236601034/"
+    },
+    {
+      "title": "‘A Fantastic Woman’ Star Daniela Vega Boards Constanza Majluf’s ‘Pink Desert’ as Executive Producer (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2025-12-05",
+      "url": "https://variety.com/2025/film/global/daniela-vega-lola-bravo-constanza-majluf-pink-desert-1236600734/"
+    },
     {
       "title": "Colombia’s Displaced Communities Take Center Stage in Juan Andrés Arango’s ‘Where the River Begins’",
       "source": "Variety",
       "date": "2025-12-05",
       "url": "https://variety.com/2025/film/global/juan-andres-arango-where-the-river-begins-ventana-sur-1236600768/"
-    },
-    {
-      "title": "‘Stranger Things 5’ Table Read Video Shows Noah Schnapp, Millie Bobby Brown and More Freak Out While Discovering Will Byers Twist",
-      "source": "Variety",
-      "date": "2025-12-05",
-      "url": "https://variety.com/2025/tv/global/stranger-things-5-table-read-video-millie-bobby-brown-twist-1236600959/"
-    },
-    {
-      "title": "Puerto Rico’s Post-Hurricane María Reality Comes Into Focus in Raisa Bonnet’s Debut ‘Braided,’ Bowing in Primer Corte at Ventana Sur",
-      "source": "Variety",
-      "date": "2025-12-05",
-      "url": "https://variety.com/2025/film/global/raisa-bonnet-braided-primer-corte-ventana-sur-1236600983/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「バーフバリ」主演のプラバースが初来日、名セリフ「Jai Mahishmati」生披露に“国民”沸騰",
+      "source": "映画.com",
+      "date": "2025-12-05",
+      "url": "https://eiga.com/news/20251205/29/"
+    },
+    {
+      "title": "「新藤兼人賞」第30回授賞式、「誰と一緒に映画を作るかで変わる」と金賞受賞の団塚唯我監督",
+      "source": "映画.com",
+      "date": "2025-12-05",
+      "url": "https://eiga.com/news/20251205/28/"
+    },
+    {
+      "title": "タランティーノが21世紀の映画ベスト20を発表！　1位に「ブラックホーク・ダウン」、深作欣二監督の衝撃作もランクイン",
+      "source": "映画.com",
+      "date": "2025-12-05",
+      "url": "https://eiga.com/news/20251205/21/"
+    },
+    {
+      "title": "「ズートピア」ニックが愛される理由、5つの名セリフから考察【金曜ロードショーで放送】",
+      "source": "映画.com",
+      "date": "2025-12-05",
+      "url": "https://eiga.com/news/20251205/23/"
+    },
     {
       "title": "セバスチャン・スタン＆ジョン・バーンサル、東京コミコン降臨！「スパイダーマン　ブランド・ニュー・デイ」「アベンジャーズ　ドゥームズデイ」への期待語る！",
       "source": "映画.com",
@@ -38,12 +62,6 @@
       "source": "映画.com",
       "date": "2025-12-05",
       "url": "https://eiga.com/news/20251205/20/"
-    },
-    {
-      "title": "タランティーノが21世紀の映画ベスト20を発表！　1位に「ブラックホーク・ダウン」、深作欣二監督の衝撃作もランクイン",
-      "source": "映画.com",
-      "date": "2025-12-05",
-      "url": "https://eiga.com/news/20251205/21/"
     },
     {
       "title": "“処刑人”コンビ、ノーマン・リーダス＆ショーン・パトリック・フラナリーが肩組み絆を語り合う！",
@@ -176,24 +194,6 @@
       "source": "映画.com",
       "date": "2025-12-04",
       "url": "https://eiga.com/news/20251204/27/"
-    },
-    {
-      "title": "「ひみつのアイプリ」映画化　全上映回が声援可能な参加型で26年3月13日公開",
-      "source": "映画.com",
-      "date": "2025-12-04",
-      "url": "https://eiga.com/news/20251204/26/"
-    },
-    {
-      "title": "劇場版「暗殺教室」に梅原裕一郎、山口勝平、山路和弘らが出演決定　初登場のキャラを担当",
-      "source": "映画.com",
-      "date": "2025-12-04",
-      "url": "https://eiga.com/news/20251204/25/"
-    },
-    {
-      "title": "アンジェリーナ・ジョリー、エバ・ソーハウグ監督「Sunny」に主演",
-      "source": "映画.com",
-      "date": "2025-12-04",
-      "url": "https://eiga.com/news/20251204/24/"
     }
   ],
   "bd_releases": [],
