@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-08T03:48:29.374228",
+  "generated_at": "2025-12-08T04:23:18.055523",
   "top_stories": [
+    {
+      "title": "‘Zootopia 2’ Leads China Box Office Again",
+      "source": "Variety",
+      "date": "2025-12-08",
+      "url": "https://variety.com/2025/film/box-office/zootopia-2-gezhi-town-china-box-office-1236603002/"
+    },
     {
       "title": "Seth Rogen and Evan Goldberg on the Netflix-Warner Bros. Deal: ‘AMC Should Buy It’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2025-12-08",
       "url": "https://variety.com/2025/tv/news/welcome-to-derry-andy-muschietti-on-the-black-spot-1236601662/"
-    },
-    {
-      "title": "Trump Calls Ted Sarandos a ‘Fantastic Man’ but Says Netflix-Warner Bros. Deal Would Give Streamer ‘Very Big Market Share’: ‘It Could Be a Problem’",
-      "source": "Variety",
-      "date": "2025-12-08",
-      "url": "https://variety.com/2025/tv/news/trump-netflix-warner-bros-deal-market-share-could-problem-1236602926/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【第22回マラケシュ国際映画祭】ジョディ・フォスターに栄誉　スコセッシ、ポン・ジュノが祝福",
+      "source": "映画.com",
+      "date": "2025-12-08",
+      "url": "https://eiga.com/news/20251208/10/"
+    },
     {
       "title": "「栄光のバックホーム」が首位！ 「ナイトフラワー」「ズートピア2」もアップ【映画.comアクセスランキング】",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2025-12-06",
       "url": "https://eiga.com/news/20251206/22/"
-    },
-    {
-      "title": "「楽園追放 心のレゾナンス」26年11月13日公開決定　メインキャスト・佐倉綾音、早見沙織、青山吉能、天城サリーのインタビュー動画など到着",
-      "source": "映画.com",
-      "date": "2025-12-06",
-      "url": "https://eiga.com/news/20251206/12/"
     }
   ],
   "bd_releases": [],
