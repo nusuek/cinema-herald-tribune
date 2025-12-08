@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-08T05:12:36.350336",
+  "generated_at": "2025-12-08T06:17:11.127932",
   "top_stories": [
+    {
+      "title": "India’s Kerala Film Market Unveils International Project Selection, Launches Video Library Curator’s Pick (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2025-12-08",
+      "url": "https://variety.com/2025/film/markets-festivals/india-kerala-film-market-international-project-selection-1236603019/"
+    },
     {
       "title": "Korea Box Office: ‘Zootopia 2’ Leads as ‘People Upstairs’ and ‘Jujutsu Kaisen’ Debut",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-12-08",
       "url": "https://variety.com/2025/film/box-office/zootopia-2-gezhi-town-china-box-office-1236603002/"
-    },
-    {
-      "title": "Seth Rogen and Evan Goldberg on the Netflix-Warner Bros. Deal: ‘AMC Should Buy It’",
-      "source": "Variety",
-      "date": "2025-12-08",
-      "url": "https://variety.com/2025/tv/news/seth-rogen-evan-goldberg-studio-netflix-wb-amc-1236602994/"
     }
   ],
   "new_releases": [
+    {
+      "title": "キスマイ宮田俊哉、高杉真宙らが「ロマンティック・キラー」で主人公に迫る“ロマンティック男子”に",
+      "source": "映画.com",
+      "date": "2025-12-08",
+      "url": "https://eiga.com/news/20251208/13/"
+    },
+    {
+      "title": "「モータル・コンバット」ケイリー＝ヒロユキ・タガワさん死去",
+      "source": "映画.com",
+      "date": "2025-12-08",
+      "url": "https://eiga.com/news/20251208/12/"
+    },
     {
       "title": "【第22回マラケシュ国際映画祭】ジョディ・フォスターに栄誉　スコセッシ、ポン・ジュノが祝福",
       "source": "映画.com",
@@ -170,18 +182,6 @@
       "source": "映画.com",
       "date": "2025-12-06",
       "url": "https://eiga.com/news/20251207/1/"
-    },
-    {
-      "title": "「スーパーマン」レックス・ルーサー役のニコラス・ホルト、日本のファンと「1A！」コールで大盛り上がり",
-      "source": "映画.com",
-      "date": "2025-12-06",
-      "url": "https://eiga.com/news/20251206/13/"
-    },
-    {
-      "title": "Netflix、ワーナー・ブラザース・ディスカバリーを827億ドルで買収",
-      "source": "映画.com",
-      "date": "2025-12-06",
-      "url": "https://eiga.com/news/20251206/22/"
     }
   ],
   "bd_releases": [],
