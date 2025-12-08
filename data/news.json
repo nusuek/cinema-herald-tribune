@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-08T22:09:13.268254",
+  "generated_at": "2025-12-08T23:08:58.896541",
   "top_stories": [
+    {
+      "title": "Ben Affleck and Matt Damon’s Artists Equity Taps Amy Baer as President of Film and Television",
+      "source": "Variety",
+      "date": "2025-12-08",
+      "url": "https://variety.com/2025/film/news/ben-affleck-matt-damon-artists-equity-amy-baer-president-film-and-television-1236603100/"
+    },
     {
       "title": "Amazon’s ‘The Boys’ Sets First Video Game Adaptation, VR Title ‘Trigger Warning’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2025-12-08",
       "url": "https://variety.com/2025/music/news/alice-smith-sinners-last-time-i-seen-the-sun-miles-caton-1236603716/"
-    },
-    {
-      "title": "‘Wicked: For Good’: Paul Tazewell Upcycled Elphaba’s Looks and Wove Audrey Hepburn’s Style into Glinda’s Designs",
-      "source": "Variety",
-      "date": "2025-12-08",
-      "url": "https://variety.com/2025/artisans/news/wicked-for-good-paul-tazewell-elphaba-glinda-inspiration-1236603509/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「チェンソーマン」藤本タツキら「悪魔のいけにえ」を愛する著名クリエイターが絶賛コメント！　4Kデジタルリマスター版、メインビジュアル披露",
+      "source": "映画.com",
+      "date": "2025-12-08",
+      "url": "https://eiga.com/news/20251209/4/"
+    },
     {
       "title": "こっちのけんと「ズートピア2」日本版に参加！　日本限定キャラクター・たぬきのケント田貫役",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2025-12-07",
       "url": "https://eiga.com/news/20251207/13/"
-    },
-    {
-      "title": "押井守×沖浦啓之「人狼 JIN-ROH」4Kリマスター・ドルビーアトモス化　26年3月6日からリバイバル上映＆映像ソフト先行発売",
-      "source": "映画.com",
-      "date": "2025-12-07",
-      "url": "https://eiga.com/news/20251207/16/"
     }
   ],
   "bd_releases": [],
