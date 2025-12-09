@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-09T11:09:21.938113",
+  "generated_at": "2025-12-09T12:18:56.933688",
   "top_stories": [
+    {
+      "title": "Darren Aronofsky Talks How Netflix-Warner Bros. Deal Might Affect ‘Bidding Wars’: ‘Having One Less Player Is Always Bad’",
+      "source": "Variety",
+      "date": "2025-12-09",
+      "url": "https://variety.com/2025/film/festivals/darren-aronofsky-netflix-warner-bros-deal-1236604165/"
+    },
     {
       "title": "Bollywood Star Kartik Aaryan on Rewriting Success: ‘I Wanted to Be Typecast’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-12-09",
       "url": "https://variety.com/2025/film/global/imran-perretta-venice-ish-bfi-distribution-1236604130/"
-    },
-    {
-      "title": "Jimmy Kimmel Chides Trump for Hosting Kennedy Center Honors and Notes His ABC Contract Extension: ‘It Means a Lot to Have Your Attention’",
-      "source": "Variety",
-      "date": "2025-12-09",
-      "url": "https://variety.com/2025/tv/news/jimmy-kimmel-trump-kennedy-center-honors-abc-contract-1236604023/"
     }
   ],
   "new_releases": [
+    {
+      "title": "LA批評家協会賞　「ワン・バトル・アフター・アナザー」が作品賞",
+      "source": "映画.com",
+      "date": "2025-12-09",
+      "url": "https://eiga.com/news/20251209/33/"
+    },
+    {
+      "title": "リチャード・ギア、アカデミー賞授賞式から「出禁」だった過去を告白",
+      "source": "映画.com",
+      "date": "2025-12-09",
+      "url": "https://eiga.com/news/20251209/18/"
+    },
     {
       "title": "ジャッキー・チェン主演「シャドウズ・エッジ」キャスト＆監督がアクションの舞台裏を語る映像公開",
       "source": "映画.com",
@@ -146,18 +158,6 @@
       "source": "映画.com",
       "date": "2025-12-08",
       "url": "https://eiga.com/news/20251208/16/"
-    },
-    {
-      "title": "【第22回マラケシュ国際映画祭】ジョディ・フォスターに栄誉　スコセッシ、ポン・ジュノが祝福",
-      "source": "映画.com",
-      "date": "2025-12-08",
-      "url": "https://eiga.com/news/20251208/10/"
-    },
-    {
-      "title": "「ベッドシーンはアクションシーン」荒井晴彦監督特集上映オールナイト　5歳から知る柄本佑登場に荒井節さく裂",
-      "source": "映画.com",
-      "date": "2025-12-08",
-      "url": "https://eiga.com/news/20251208/14/"
     }
   ],
   "bd_releases": [],
