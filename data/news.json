@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-09T04:18:22.580343",
+  "generated_at": "2025-12-09T05:10:26.090393",
   "top_stories": [
+    {
+      "title": "Tamannaah Bhatia Joins ‘V. Shantaram’ Biopic as Legendary Actor Jayashree, First Look Unveiled (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2025-12-09",
+      "url": "https://variety.com/2025/film/news/tamannaah-bhatia-v-shantaram-biopic-jayashree-1236603073/"
+    },
     {
       "title": "Awards HQ: Starry FYC Events With Reba McEntire, Baz Luhrmann and Sofia Coppola Helped Set the Stage for Golden Globes Noms",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2025-12-08",
       "url": "https://variety.com/2025/film/news/james-cameron-studio-pushback-avatar-sequels-1236603271/"
-    },
-    {
-      "title": "Joel Edgerton Wins Best Performance for ‘Train Dreams’ at Sun Valley Film Festival – Film News in Brief",
-      "source": "Variety",
-      "date": "2025-12-08",
-      "url": "https://variety.com/2025/film/news/sun-valley-film-festival-winner-announced-1236603327/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ダーレン・アロノフスキーと「ゴーン・ガール」原作者が初タッグ",
+      "source": "映画.com",
+      "date": "2025-12-09",
+      "url": "https://eiga.com/news/20251209/12/"
+    },
     {
       "title": "「ズートピア2」興収100億円突破が確実視される大ヒットスタート　洋画オープニング史上歴代2位",
       "source": "映画.com",
@@ -146,30 +152,6 @@
       "source": "映画.com",
       "date": "2025-12-08",
       "url": "https://eiga.com/news/20251208/9/"
-    },
-    {
-      "title": "100年の歴史の集大成「ワーナー・ブラザース映画ファンフェスティバル」開催　13作品を特別上映",
-      "source": "映画.com",
-      "date": "2025-12-08",
-      "url": "https://eiga.com/news/20251208/8/"
-    },
-    {
-      "title": "「地獄先生ぬ～べ～」第2クール、少年時代のぬ～べ～を描いたキービジュアル披露　OP・EDテーマも発表",
-      "source": "映画.com",
-      "date": "2025-12-08",
-      "url": "https://eiga.com/news/20251208/7/"
-    },
-    {
-      "title": "巨匠パク・チャヌクのアカデミー賞韓国代表作「しあわせな選択」26年3月6日公開　場面写真披露",
-      "source": "映画.com",
-      "date": "2025-12-08",
-      "url": "https://eiga.com/news/20251208/6/"
-    },
-    {
-      "title": "「SAO」著者の最新作「デモンズ・クレスト」アニメ化決定　堀口悠紀子描きおろしのイラスト披露",
-      "source": "映画.com",
-      "date": "2025-12-08",
-      "url": "https://eiga.com/news/20251208/5/"
     }
   ],
   "bd_releases": [],
