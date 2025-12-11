@@ -1,26 +1,32 @@
 {
-  "generated_at": "2025-12-11T13:31:01.877397",
+  "generated_at": "2025-12-11T14:13:35.726732",
   "top_stories": [
     {
-      "title": "Palestinian Filmmaker Maha Haj’s ‘Playhouse’ Leads Winners at Red Sea Souk Project Awards",
+      "title": "Disney Inks Blockbuster OpenAI Deal to Bring More Than 200 Characters to Sora Video Platform, Invests $1 Billion in AI Company",
       "source": "Variety",
       "date": "2025-12-11",
-      "url": "https://variety.com/2025/film/global/maha-haj-playhouse-red-sea-souk-project-awards-1236606301/"
+      "url": "https://variety.com/2025/digital/news/disney-openai-deal-t200-characters-to-sora-video-invests-1-billion-1236606401/"
     },
     {
-      "title": "Ad-Research Firm MarketCast Hires Nielsen Alum Lana Busignani as CEO, Replacing Amy Fenton",
+      "title": "Disney to Take $1 Billion Stake in OpenAI, Strikes Deal for Use of Characters on Sora",
       "source": "Variety",
       "date": "2025-12-11",
-      "url": "https://variety.com/2025/biz/news/marketcast-lana-busignani-ceo-1236605704/"
+      "url": "https://variety.com/2025/tv/news/disney-openai-licensing-deal-characters-sora-billion-stake-1236606402/"
     },
     {
-      "title": "Ramzi Bashour’s Sundance Title ‘Hot Water,’ Starring Lubna Azabal, Acquired by Films Boutique (EXCLUSIVE)",
+      "title": "Sydney Sweeney Tells Ethan Hawke ‘I Wish You Were My Dad’ as They Swap Stories on ‘Euphoria,’ Acting as Teens and More",
       "source": "Variety",
       "date": "2025-12-11",
-      "url": "https://variety.com/2025/film/global/ramzi-bashour-sundance-hot-water-films-boutique-1236606286/"
+      "url": "https://variety.com/2025/film/news/sydney-sweeney-ethan-hawke-euphoria-teen-acting-1236603849/"
     }
   ],
   "new_releases": [
+    {
+      "title": "A24の官能サスペンス、主演はマンディ・ムーア",
+      "source": "映画.com",
+      "date": "2025-12-11",
+      "url": "https://eiga.com/news/20251211/25/"
+    },
     {
       "title": "「魔王の娘は優しすぎる!!」に伊藤彩沙、石原夏織、三瓶由布子が出演　メインPVなど公開　26年1月7日放送開始",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2025-12-10",
       "url": "https://eiga.com/news/20251210/26/"
-    },
-    {
-      "title": "クリストファー・ノーラン最新作、6分間のフッテージが先行公開",
-      "source": "映画.com",
-      "date": "2025-12-10",
-      "url": "https://eiga.com/news/20251210/25/"
     }
   ],
   "bd_releases": [],
