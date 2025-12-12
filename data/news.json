@@ -1,26 +1,38 @@
 {
-  "generated_at": "2025-12-12T13:27:09.547596",
+  "generated_at": "2025-12-12T14:10:11.560565",
   "top_stories": [
     {
-      "title": "HBO 2026 Teaser: ‘Euphoria,’ ‘House of the Dragon,’ ‘Lanterns’ and Larry David’s New Show Unveil First Footage",
+      "title": "Alexander and Stellan Skarsgård on ‘Pillion’ BDSM, Acting After a Stroke and Their Oscar Season Rivalry: ‘The Smear Campaign Has Begun’",
       "source": "Variety",
       "date": "2025-12-12",
-      "url": "https://variety.com/2025/tv/news/euphoria-house-of-the-dragon-lanterns-first-footage-1236606970/"
+      "url": "https://variety.com/2025/film/news/stellan-skarsgard-alexander-skarsgard-pillion-bdsm-oscar-season-1236598844/"
     },
     {
-      "title": "Maryam Touzani’s ‘Calle Malaga,’ Starring Carmen Maura, Set to Travel to Additional Territories (EXCLUSIVE)",
+      "title": "‘One Battle After Another,’ ‘Avatar: Fire and Ash’ and ‘Sinners’ Land Costume Designers Guild Nominations: Full List",
       "source": "Variety",
       "date": "2025-12-12",
-      "url": "https://variety.com/2025/film/global/maryam-touzani-calle-malaga-additional-territories-1236607465/"
+      "url": "https://variety.com/2025/artisans/news/costume-designers-guild-nominations-full-list-2026-1236606820/"
     },
     {
-      "title": "Wim Wenders to Head Berlin Film Festival Jury",
+      "title": "Emma Thompson’s ‘Down Cemetery Road’ Renewed for Season 2 at Apple TV",
       "source": "Variety",
       "date": "2025-12-12",
-      "url": "https://variety.com/2025/film/festivals/wim-wenders-berlin-film-festival-jury-president-1236607472/"
+      "url": "https://variety.com/2025/tv/global/emma-thompson-down-cemetery-road-renewed-season-2-apple-tv-1236607444/"
     }
   ],
   "new_releases": [
+    {
+      "title": "退役軍人と大学生の対談授業が実現！「ウォーフェア」が描くリアルな戦争の醜さ訴える",
+      "source": "映画.com",
+      "date": "2025-12-12",
+      "url": "https://eiga.com/news/20251212/36/"
+    },
+    {
+      "title": "名古屋で国内最大級のアニメーション映画祭開幕！【第1回あいち・なごやインターナショナル・アニメーション・フィルム・フェスティバル】",
+      "source": "映画.com",
+      "date": "2025-12-12",
+      "url": "https://eiga.com/news/20251212/34/"
+    },
     {
       "title": "「ハンガー・ゲーム」新作にジェニファー・ローレンス＆ジョシュ・ハッチャーソン復帰",
       "source": "映画.com",
@@ -38,12 +50,6 @@
       "source": "映画.com",
       "date": "2025-12-12",
       "url": "https://eiga.com/news/20251212/35/"
-    },
-    {
-      "title": "名古屋で国内最大級のアニメーション映画祭開幕！【第1回あいち・なごやインターナショナル・アニメーション・フィルム・フェスティバル】",
-      "source": "映画.com",
-      "date": "2025-12-12",
-      "url": "https://eiga.com/news/20251212/34/"
     },
     {
       "title": "12月14日の「日曜アニメ劇場」で「泣きたい私は猫をかぶる」放送　スタジオコロリド制作の青春ファンタジー",
@@ -146,12 +152,6 @@
       "source": "映画.com",
       "date": "2025-12-12",
       "url": "https://eiga.com/news/20251212/9/"
-    },
-    {
-      "title": "“視覚に頼らない世界”を体験するイベント「ラストマン・イン・ザ・ダーク　FIRST LOVE」開催",
-      "source": "映画.com",
-      "date": "2025-12-12",
-      "url": "https://eiga.com/news/20251212/8/"
     }
   ],
   "bd_releases": [],
