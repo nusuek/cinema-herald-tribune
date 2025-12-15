@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-15T07:15:14.032070",
+  "generated_at": "2025-12-15T08:16:23.123988",
   "top_stories": [
+    {
+      "title": "Rob Reiner Remembered: One of Hollywood’s Great Comic Voices Meets a Tragic End",
+      "source": "Variety",
+      "date": "2025-12-15",
+      "url": "https://variety.com/2025/film/opinion/rob-reiner-tribute-the-princess-bride-director-murdered-1236608743/"
+    },
     {
       "title": "Rob Reiner: His Life and Work in Photos, From ‘All in the Family’ to ‘The Princess Bride’ to ‘The Bear’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-12-15",
       "url": "https://variety.com/2025/film/news/rob-reiner-remembered-tributes-celebrities-stunned-1236608590/"
-    },
-    {
-      "title": "Rob Reiner, Legendary Comedic Actor and ‘Princess Bride’ Director, Found Dead in His Home",
-      "source": "Variety",
-      "date": "2025-12-15",
-      "url": "https://variety.com/2025/film/news/rob-reiner-dead-princess-bride-spinal-tap-1236608541/"
     }
   ],
   "new_releases": [
+    {
+      "title": "トム・クルーズの宇宙映画、実現困難に　トランプ大統領への協力要請を拒否",
+      "source": "映画.com",
+      "date": "2025-12-15",
+      "url": "https://eiga.com/news/20251215/15/"
+    },
+    {
+      "title": "個人制作「無名の人生」鈴木竜也監督　衝撃のクリエイティビティは「悪魔のささやきの方を選んだ」【第1回ANIAFF】",
+      "source": "映画.com",
+      "date": "2025-12-15",
+      "url": "https://eiga.com/news/20251215/18/"
+    },
     {
       "title": "ジェームズ・キャメロン、Netflixのワーナー買収に物申す「劇場体験を力ずくで消し去ることはできない」",
       "source": "映画.com",
@@ -152,18 +164,6 @@
       "source": "映画.com",
       "date": "2025-12-13",
       "url": "https://eiga.com/news/20251213/9/"
-    },
-    {
-      "title": "センスとアイディアあふれる、ミシェル・ゴンドリーの新作アニメーションを解説【第1回ANIAFF】",
-      "source": "映画.com",
-      "date": "2025-12-13",
-      "url": "https://eiga.com/news/20251213/12/"
-    },
-    {
-      "title": "野原一家が“妖怪の国”で大冒険　「映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション」26年夏公開",
-      "source": "映画.com",
-      "date": "2025-12-13",
-      "url": "https://eiga.com/news/20251213/8/"
     }
   ],
   "bd_releases": [],
