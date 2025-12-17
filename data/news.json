@@ -1,26 +1,50 @@
 {
-  "generated_at": "2025-12-17T21:10:00.895741",
+  "generated_at": "2025-12-17T22:09:24.985009",
   "top_stories": [
     {
-      "title": "In New Doc, Corey Feldman Alleges That Corey Haim ‘Molested’ Him While Making ‘The Lost Boys’",
+      "title": "FCC Chairman Seems to Say That in Threatening ABC Affiliates Over Jimmy Kimmel, He Was Doing His Job to Uphold the ‘Public Interest’",
       "source": "Variety",
       "date": "2025-12-17",
-      "url": "https://variety.com/2025/film/news/corey-feldman-corey-haim-molested-the-lost-boys-1236610183/"
+      "url": "https://variety.com/2025/tv/news/fcc-chairman-senate-hearing-abc-affiliates-jimmy-kimmel-threats-1236611231/"
     },
     {
-      "title": "Rita Wilson on How Rob and Michele Reiner ‘Made the World a Better Place’",
+      "title": "Apple TV and Legendary Expand ‘Monsterverse’ Universe With Young Lee Shaw Series Starring Wyatt Russell",
       "source": "Variety",
       "date": "2025-12-17",
-      "url": "https://variety.com/2025/film/features/rita-wilson-rob-reiner-tribute-michele-singer-1236610944/"
+      "url": "https://variety.com/2025/tv/news/monsterverse-universe-young-lee-shaw-wyatt-russell-1236611237/"
     },
     {
-      "title": "Meg Ryan Thanks Rob Reiner for ‘Your Faith in the Best in People and Your Profound Love of Country’ in Emotional Post After Director’s Tragic Death",
+      "title": "UTA Announces 105 Promotions Across Company",
       "source": "Variety",
       "date": "2025-12-17",
-      "url": "https://variety.com/2025/film/news/meg-ryan-rob-reiner-death-1236608829/"
+      "url": "https://variety.com/2025/biz/news/uta-promotions-105-employees-1236611143/"
     }
   ],
   "new_releases": [
+    {
+      "title": "田口トモロヲ監督「ストリート・キングダム　自分の音を鳴らせ。」特報＆ティザービジュアル、再現度高いキャラ写真公開！",
+      "source": "映画.com",
+      "date": "2025-12-17",
+      "url": "https://eiga.com/news/20251218/3/"
+    },
+    {
+      "title": "イ・ミンホ、アン・ヒョソプら韓国を代表するキャストが集結！　サバイバル・アクション「全知的な読者の視点から」3月20日公開決定！【本ポスター＆予告編】",
+      "source": "映画.com",
+      "date": "2025-12-17",
+      "url": "https://eiga.com/news/20251218/2/"
+    },
+    {
+      "title": "柄本佑×渡辺謙共演「木挽町のあだ討ち」本予告映像＆本ビジュアル公開！ 冨家ノリマサと本田博太郎も出演",
+      "source": "映画.com",
+      "date": "2025-12-17",
+      "url": "https://eiga.com/news/20251218/5/"
+    },
+    {
+      "title": "山下智久が再会のハグ！　「神の雫 Drops of God」シーズン2日本版メインビジュアル ＆ティザー予告編披露",
+      "source": "映画.com",
+      "date": "2025-12-17",
+      "url": "https://eiga.com/news/20251218/4/"
+    },
     {
       "title": "北村匠海主演「しびれ」、第76回ベルリン国際映画祭パノラマ部門出品　新ビジュアル＆映画祭用本編映像＆コメント公開",
       "source": "映画.com",
@@ -176,30 +200,6 @@
       "source": "映画.com",
       "date": "2025-12-17",
       "url": "https://eiga.com/news/20251217/6/"
-    },
-    {
-      "title": "東地宏樹、小松由佳ら日本版声優が“ファイヤー”コーデで登場！【「アバター ファイヤー・アンド・アッシュ」吹替版プレミア上映会】",
-      "source": "映画.com",
-      "date": "2025-12-17",
-      "url": "https://eiga.com/news/20251217/5/"
-    },
-    {
-      "title": "“世界のオーシマ”の独立プロ時代の傑作が世界初UHD化&国内初Blu-ray化、「戦メリ」4K修復版も発売決定！",
-      "source": "映画.com",
-      "date": "2025-12-16",
-      "url": "https://eiga.com/news/20251217/4/"
-    },
-    {
-      "title": "「相棒 season24」元日SP「フィナーレ」に段田安則が“念願”の初出演で「スクリーンに入ったような感覚」",
-      "source": "映画.com",
-      "date": "2025-12-16",
-      "url": "https://eiga.com/news/20251217/3/"
-    },
-    {
-      "title": "山下智久×福原遥「映画　正直不動産」特報映像＆ティザービジュアル公開！ 豪華10人の俳優陣も再集結",
-      "source": "映画.com",
-      "date": "2025-12-16",
-      "url": "https://eiga.com/news/20251217/1/"
     }
   ],
   "bd_releases": [],
