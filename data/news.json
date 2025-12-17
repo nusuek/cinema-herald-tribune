@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-12-17T12:18:50.373574",
+  "generated_at": "2025-12-17T13:26:36.050435",
   "top_stories": [
     {
-      "title": "Warner Bros. Discovery Rejects Paramount $30/Share Acquisition Offer, Alleging Deal Financing Does Not Have ‘Full Backstop’ From Ellisons",
+      "title": "Warner Bros. Discovery Rejects Paramount $30/Share Acquisition Offer, Calling It ‘Inferior’ to Netflix Deal and Alleging Ellisons Aren’t Providing ‘Full Backstop’ for Financing",
       "source": "Variety",
       "date": "2025-12-17",
       "url": "https://variety.com/2025/film/news/warner-bros-discovery-rejects-paramount-acquisition-offer-1236609963/"
@@ -21,6 +21,18 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "ロンドン批評家協会映画賞最多ノミネートは「ワン・バトル・アフター・アナザー」",
+      "source": "映画.com",
+      "date": "2025-12-17",
+      "url": "https://eiga.com/news/20251217/26/"
+    },
+    {
+      "title": "「青春ブタ野郎はディアフレンドの夢を見ない」26年秋公開、ティザービジュアル披露",
+      "source": "映画.com",
+      "date": "2025-12-17",
+      "url": "https://eiga.com/news/20251217/25/"
+    },
     {
       "title": "【第1回ANIAFF】「ひゃくえむ。」が観客賞＆岩井澤健治監督に個人賞　グランプリ金鯱賞はカナダの先住民文化がテーマ「エンドレス・クッキー」",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2025-12-16",
       "url": "https://eiga.com/news/20251217/1/"
-    },
-    {
-      "title": "「美女と野獣」の実写スピンオフ「ガストン」製作へ",
-      "source": "映画.com",
-      "date": "2025-12-16",
-      "url": "https://eiga.com/news/20251216/22/"
-    },
-    {
-      "title": "5000億ウォンの偽造紙幣を換金？「ヴィランズ　偽札ゲーム」12月18日配信決定",
-      "source": "映画.com",
-      "date": "2025-12-16",
-      "url": "https://eiga.com/news/20251216/21/"
     }
   ],
   "bd_releases": [],
