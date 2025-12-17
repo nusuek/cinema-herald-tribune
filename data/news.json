@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-17T03:47:29.005858",
+  "generated_at": "2025-12-17T04:22:55.071230",
   "top_stories": [
+    {
+      "title": "‘Sanatorium’ Review: Irish Filmmaker Provides a Striking Glimpse Inside a Ukrainian Health Facility",
+      "source": "Variety",
+      "date": "2025-12-17",
+      "url": "https://variety.com/2025/film/reviews/sanatorium-review-1236609713/"
+    },
     {
       "title": "Gil Gerard, ‘Buck Rogers in the 25th Century’ Star, Dies at 82",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-12-17",
       "url": "https://variety.com/2025/film/news/rob-reiner-billy-crystal-larry-david-statement-1236610566/"
-    },
-    {
-      "title": "Oscar Predictions: International Feature — Neon Dominates With ‘Sirât’ and ‘Sentimental Value’ as ‘Late Shift’ and Sneaks Onto Shortlist",
-      "source": "Variety",
-      "date": "2025-12-16",
-      "url": "https://variety.com/lists/2026-oscars-best-international-feature-predictions/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「劇場版 鬼滅の刃 無限城編」12月28日に応援上映を実施、指南映像を披露　下野紘登壇の開幕イベントも開催",
+      "source": "映画.com",
+      "date": "2025-12-17",
+      "url": "https://eiga.com/news/20251217/9/"
+    },
+    {
+      "title": "舘ひろしが映画スター役で主演　「免許返納!?」26年6月19日公開【特報】",
+      "source": "映画.com",
+      "date": "2025-12-16",
+      "url": "https://eiga.com/news/20251217/2/"
+    },
     {
       "title": "ヤンキー男女の恋愛リアリティ「ラヴ上等」Netflix週間TOP10初登場1位！　韓国でも5位に【あらすじ】",
       "source": "映画.com",
@@ -32,12 +44,6 @@
       "source": "映画.com",
       "date": "2025-12-17",
       "url": "https://eiga.com/news/20251217/7/"
-    },
-    {
-      "title": "舘ひろしが映画スター役で主演　「免許返納!?」26年6月16日公開【特報】",
-      "source": "映画.com",
-      "date": "2025-12-16",
-      "url": "https://eiga.com/news/20251217/2/"
     },
     {
       "title": "綾野剛、柄本佑のセリフ回しにうっとりし「自分のセリフを忘れた」　「星と月は天の穴」メイキング写真",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2025-12-15",
       "url": "https://eiga.com/news/20251216/4/"
-    },
-    {
-      "title": "吉澤要人×雨宮翔主演　「親友の『同棲して』に『うん』て言うまで」メインビジュアル＆追加キャスト発表",
-      "source": "映画.com",
-      "date": "2025-12-15",
-      "url": "https://eiga.com/news/20251216/2/"
     }
   ],
   "bd_releases": [],
