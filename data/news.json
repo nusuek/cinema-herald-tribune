@@ -1,26 +1,32 @@
 {
-  "generated_at": "2025-12-18T02:30:46.180336",
+  "generated_at": "2025-12-18T03:48:31.797096",
   "top_stories": [
+    {
+      "title": "Rob Reiner’s Early Career in Comedy Stretched From San Francisco Improv to ‘The Smothers Brothers Comedy Hour’ to Norman Lear’s Universe of Shows",
+      "source": "Variety",
+      "date": "2025-12-18",
+      "url": "https://variety.com/2025/tv/news/rob-reiner-san-francisco-improv-smothers-all-in-family-1236611384/"
+    },
+    {
+      "title": "Trump’s Prime Time Address: The President Relentlessly Blames Joe Biden and Claims ‘Inflation Has Stopped’ and ‘Prices are Down’",
+      "source": "Variety",
+      "date": "2025-12-18",
+      "url": "https://variety.com/2025/politics/news/trump-address-joe-biden-inflation-healthcare-1236611528/"
+    },
     {
       "title": "Fox Entertainment Studios Signs Jeffrey Levine and Bronson Canyon Pictures To First-Look Deal",
       "source": "Variety",
       "date": "2025-12-18",
       "url": "https://variety.com/2025/tv/news/fox-entertainment-jeffrey-levine-bronson-canyon-pictures-1236611297/"
-    },
-    {
-      "title": "Nick Reiner Murder Case: Why Insanity Defenses Are Tough to Win",
-      "source": "Variety",
-      "date": "2025-12-18",
-      "url": "https://variety.com/2025/film/news/nick-reiner-insanity-defense-1236611210/"
-    },
-    {
-      "title": "‘Indiana Jones and the Great Circle’ and ‘Call of Duty: Black Ops 6’ Among Game Audio Network Guild Nominees",
-      "source": "Variety",
-      "date": "2025-12-18",
-      "url": "https://variety.com/2025/gaming/news/game-audio-network-guild-2026-nominees-1236609132/"
     }
   ],
   "new_releases": [
+    {
+      "title": "綾野剛が“言葉を纏って”表現した文学と官能　吉行淳之介原作、荒井晴彦監督「星と月は天の穴」",
+      "source": "映画.com",
+      "date": "2025-12-18",
+      "url": "https://eiga.com/news/20251218/11/"
+    },
     {
       "title": "MGMが「荒野の七人」をテレビシリーズ化",
       "source": "映画.com",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2025-12-17",
       "url": "https://eiga.com/news/20251217/12/"
-    },
-    {
-      "title": "「パリに咲くエトワール」に門脇麦、角田晃広、尾上松也、津田健次郎ら出演　主題歌は「緑黄色社会」の書き下ろし新曲",
-      "source": "映画.com",
-      "date": "2025-12-17",
-      "url": "https://eiga.com/news/20251217/10/"
     }
   ],
   "bd_releases": [],
