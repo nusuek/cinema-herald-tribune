@@ -1,26 +1,32 @@
 {
-  "generated_at": "2025-12-19T11:09:34.860381",
+  "generated_at": "2025-12-19T12:18:11.894548",
   "top_stories": [
+    {
+      "title": "Mubi Overhauls Content Leadership and Integrates Match Factory",
+      "source": "Variety",
+      "date": "2025-12-19",
+      "url": "https://variety.com/2025/film/global/mubi-overhaul-content-leadership-integrates-match-factory-1236612540/"
+    },
+    {
+      "title": "BBC Review Finds No Need to Rewrite Editing Guidelines After Trump ‘Panorama’ Error",
+      "source": "Variety",
+      "date": "2025-12-19",
+      "url": "https://variety.com/2025/tv/news/bbc-review-no-rewrite-editing-guidelines-trump-1236612551/"
+    },
     {
       "title": "José Luis Cienfuegos, Renowned Director of Spain’s Valladolid, Seville and Gijón Festivals, to Receive Posthumous Bellas Artes Golden Order of Merit",
       "source": "Variety",
       "date": "2025-12-19",
       "url": "https://variety.com/2025/film/global/jose-luis-cienfuegos-valladolid-seville-gijon-film-festival-1236612532/"
-    },
-    {
-      "title": "Leonardo DiCaprio-Produced ‘2001’ Doc Among BFI Awards as U.K. Global Screen Fund Set to Expand",
-      "source": "Variety",
-      "date": "2025-12-19",
-      "url": "https://variety.com/2025/film/news/leonardo-dicaprio-2001-doc-bfi-fund-awards-1236612527/"
-    },
-    {
-      "title": "Miike Takashi’s ‘Sham’ Among 26 Features in Japan Foundation’s 2026 U.K. Film Tour (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2025-12-19",
-      "url": "https://variety.com/2025/film/news/miike-takashi-sham-japan-foundation-2026-uk-film-tour-1236612513/"
     }
   ],
   "new_releases": [
+    {
+      "title": "オノ セイゲン Presents ＜映画の聴き方＞ Vol.6「Eno」ブライアン・イーノの偉業　美術キュレーター藪前知子さんとトーク",
+      "source": "映画.com",
+      "date": "2025-12-19",
+      "url": "https://eiga.com/news/20251219/21/"
+    },
     {
       "title": "トム・クルーズ、主演最新作でイニャリトゥ監督とタッグ！　規格外の大惨事コメディ「DIGGER ディガー」26年公開【特報】",
       "source": "映画.com",
@@ -188,18 +194,6 @@
       "source": "映画.com",
       "date": "2025-12-18",
       "url": "https://eiga.com/news/20251218/24/"
-    },
-    {
-      "title": "水上恒司、仲間たちに感謝＆決意表明「心の“鈴”を鳴らせる役者でありたい」　仙台→東京「ウィンドブレイカー」弾丸プロモーション",
-      "source": "映画.com",
-      "date": "2025-12-18",
-      "url": "https://eiga.com/news/20251218/22/"
-    },
-    {
-      "title": "ライアン・ゴズリング主演SF超大作「プロジェクト・へイル・メアリー」3月20日に日米同時公開",
-      "source": "映画.com",
-      "date": "2025-12-18",
-      "url": "https://eiga.com/news/20251218/19/"
     }
   ],
   "bd_releases": [],
