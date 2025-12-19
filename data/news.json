@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-19T12:18:11.894548",
+  "generated_at": "2025-12-19T13:25:58.437882",
   "top_stories": [
     {
       "title": "Mubi Overhauls Content Leadership and Integrates Match Factory",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "「エリスの聖杯」内田真礼、花江夏樹、福山潤が出演決定　26年1月から放送開始",
+      "source": "映画.com",
+      "date": "2025-12-19",
+      "url": "https://eiga.com/news/20251219/23/"
+    },
     {
       "title": "オノ セイゲン Presents ＜映画の聴き方＞ Vol.6「Eno」ブライアン・イーノの偉業　美術キュレーター藪前知子さんとトーク",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2025-12-18",
       "url": "https://eiga.com/news/20251218/23/"
-    },
-    {
-      "title": "「ダイヤのA actll」セカンドシーズン、26年4月放送開始　闘志みなぎるPV＆キービジュアル公開",
-      "source": "映画.com",
-      "date": "2025-12-18",
-      "url": "https://eiga.com/news/20251218/24/"
     }
   ],
   "bd_releases": [],
