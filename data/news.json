@@ -1,26 +1,50 @@
 {
-  "generated_at": "2025-12-18T23:09:48.873687",
+  "generated_at": "2025-12-19T00:46:18.828596",
   "top_stories": [
+    {
+      "title": "Sony to Acquire Control of Peanuts in $457 Million Deal",
+      "source": "Variety",
+      "date": "2025-12-19",
+      "url": "https://variety.com/2025/film/news/sony-acquire-peanuts-457-million-deal-1236612363/"
+    },
+    {
+      "title": "‘Labubu’ Movie Enlists ‘Wonka’ and ‘Paddington’ Director Paul King",
+      "source": "Variety",
+      "date": "2025-12-18",
+      "url": "https://variety.com/2025/film/news/labubu-movie-wonka-paddington-director-paul-king-1236612320/"
+    },
     {
       "title": "TikTok U.S. Joint Venture Deal Set to Close in January With Investors Including Oracle, Silver Lake",
       "source": "Variety",
       "date": "2025-12-18",
       "url": "https://variety.com/2025/digital/news/tiktok-us-joint-venture-deal-close-date-oracle-silver-lake-1236612315/"
-    },
-    {
-      "title": "Oscar Predictions: Post-Shortlist Shake-Up as Studio Behemoths Rule and International Cinema Cracks the Door Wider",
-      "source": "Variety",
-      "date": "2025-12-18",
-      "url": "https://variety.com/lists/2026-oscars-predictions/"
-    },
-    {
-      "title": "Macaulay Culkin Says ‘Die Hard’ Is Not a Christmas Movie and ‘Don’t Fight Me’: The Film ‘Would Still Work’ If ‘It Were Also St. Patrick’s Day’",
-      "source": "Variety",
-      "date": "2025-12-18",
-      "url": "https://variety.com/2025/film/news/macaulay-culkin-die-hard-christmas-movie-1236611785/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【世界の映画館】文化の街・神保町、お茶の水エリアに生まれた、映画館サブスク制を採用した新たなミニシアター「CineMalice（シネマリス）」",
+      "source": "映画.com",
+      "date": "2025-12-19",
+      "url": "https://eiga.com/news/20251219/8/"
+    },
+    {
+      "title": "最低でサイコー！なティモシー・シャラメに釘付け「マーティ・シュプリーム　世界をつかめ」特報公開",
+      "source": "映画.com",
+      "date": "2025-12-19",
+      "url": "https://eiga.com/news/20251219/5/"
+    },
+    {
+      "title": "スティーブン・スピルバーグ監督最新作「ディスクロージャー・デイ」2026年夏公開【特報】",
+      "source": "映画.com",
+      "date": "2025-12-18",
+      "url": "https://eiga.com/news/20251219/4/"
+    },
+    {
+      "title": "「アバター」最新作は前作を「はるかに凌駕」――キャメロン監督＆キャスト陣が自信を語る特別映像公開",
+      "source": "映画.com",
+      "date": "2025-12-18",
+      "url": "https://eiga.com/news/20251219/3/"
+    },
     {
       "title": "福田雄一監督作「新解釈・幕末伝」は、どのくらいヒットするのか？【コラム／細野真宏の試写室日記】",
       "source": "映画.com",
@@ -170,30 +194,6 @@
       "source": "映画.com",
       "date": "2025-12-17",
       "url": "https://eiga.com/news/20251218/2/"
-    },
-    {
-      "title": "柄本佑×渡辺謙共演「木挽町のあだ討ち」本予告映像＆本ビジュアル公開！ 冨家ノリマサと本田博太郎も出演",
-      "source": "映画.com",
-      "date": "2025-12-17",
-      "url": "https://eiga.com/news/20251218/5/"
-    },
-    {
-      "title": "山下智久が再会のハグ！　「神の雫 Drops of God」シーズン2日本版メインビジュアル ＆ティザー予告編披露",
-      "source": "映画.com",
-      "date": "2025-12-17",
-      "url": "https://eiga.com/news/20251218/4/"
-    },
-    {
-      "title": "北村匠海主演「しびれ」、第76回ベルリン国際映画祭パノラマ部門出品　新ビジュアル＆映画祭用本編映像＆コメント公開",
-      "source": "映画.com",
-      "date": "2025-12-17",
-      "url": "https://eiga.com/news/20251218/1/"
-    },
-    {
-      "title": "「最弱テイマーはゴミ拾いの旅を始めました。」第2期の製作が決定",
-      "source": "映画.com",
-      "date": "2025-12-17",
-      "url": "https://eiga.com/news/20251217/28/"
     }
   ],
   "bd_releases": [],
