@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-19T03:51:06.394415",
+  "generated_at": "2025-12-19T04:24:22.446494",
   "top_stories": [
+    {
+      "title": "TikTok Awards Debut in Hollywood Despite Technical Glitches",
+      "source": "Variety",
+      "date": "2025-12-19",
+      "url": "https://variety.com/2025/digital/news/tiktok-awards-hollywood-1236612464/"
+    },
     {
       "title": "‘Last Samurai Standing’ Renewed for Season 2 at Netflix",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2025-12-19",
       "url": "https://variety.com/lists/best-horror-movies-2025-ranked/"
-    },
-    {
-      "title": "Colombia Boosts Tax Incentive CINA to Record Amount for 2026",
-      "source": "Variety",
-      "date": "2025-12-19",
-      "url": "https://variety.com/2025/film/news/colombia-boosts-tax-incentive-2026-1236612415/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「国宝」邦画実写No.1達成記念！　大晦日に“歌舞伎座”での特別上映会が決定",
+      "source": "映画.com",
+      "date": "2025-12-19",
+      "url": "https://eiga.com/news/20251219/12/"
+    },
     {
       "title": "福士蒼汰は“そこに立っているだけ”ということができる人　行定勲監督と“名曲の映画化”に挑んだ日々【「楓」インタビュー】",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2025-12-18",
       "url": "https://eiga.com/news/20251218/12/"
-    },
-    {
-      "title": "綾野剛が“言葉を纏って”表現した文学と官能　吉行淳之介原作、荒井晴彦監督「星と月は天の穴」",
-      "source": "映画.com",
-      "date": "2025-12-18",
-      "url": "https://eiga.com/news/20251218/11/"
     }
   ],
   "bd_releases": [],
