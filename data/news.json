@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T04:15:23.493021",
+  "generated_at": "2025-12-20T05:09:33.819415",
   "top_stories": [
     {
       "title": "Dave Chappelle Announces Surprise Netflix Special Releasing After Jake Paul Fight",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "ジェームズ・キャメロン監督「アバター」最新作は「一種のセラピー」　映画が持つ力、3Dへのこだわりを語る【来日インタビュー】",
+      "source": "映画.com",
+      "date": "2025-12-20",
+      "url": "https://eiga.com/news/20251220/4/"
+    },
     {
       "title": "「10DANCE」“唯一無二のパートナー”竹内涼真と町田啓太のスペシャルインタビュー映像",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2025-12-18",
       "url": "https://eiga.com/news/20251219/4/"
-    },
-    {
-      "title": "「アバター」最新作は前作を「はるかに凌駕」――キャメロン監督＆キャスト陣が自信を語る特別映像公開",
-      "source": "映画.com",
-      "date": "2025-12-18",
-      "url": "https://eiga.com/news/20251219/3/"
     }
   ],
   "bd_releases": [],
