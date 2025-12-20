@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T10:09:01.715397",
+  "generated_at": "2025-12-20T11:07:18.503412",
   "top_stories": [
     {
       "title": "Dave Chappelle Announces Surprise Netflix Special Releasing After Jake Paul Fight",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "野沢雅子、第76回NHK紅白歌合戦のゲスト審査員に決定",
+      "source": "映画.com",
+      "date": "2025-12-20",
+      "url": "https://eiga.com/news/20251220/10/"
+    },
     {
       "title": "A24×「シビル・ウォー」監督による新たな圧倒的没入体験「ウォーフェア」を4つの視点からひも解く",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2025-12-19",
       "url": "https://eiga.com/news/20251219/16/"
-    },
-    {
-      "title": "「ワーナー、ありがとう！」劇場いたるところから感謝の絶叫【ワーナー・ブラザース映画ファンフェスティバル「マッドマックス　怒りのデス・ロード」応援上映】",
-      "source": "映画.com",
-      "date": "2025-12-19",
-      "url": "https://eiga.com/news/20251219/15/"
     }
   ],
   "bd_releases": [],
