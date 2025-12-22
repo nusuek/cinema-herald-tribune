@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-22T13:26:56.401706",
+  "generated_at": "2025-12-22T14:10:34.361967",
   "top_stories": [
+    {
+      "title": "‘The Odyssey’ Trailer: Matt Damon Gets Shipwrecked, Fights Monsters and Leads His Army Home in Christopher Nolan’s Epic",
+      "source": "Variety",
+      "date": "2025-12-22",
+      "url": "https://variety.com/2025/film/news/the-odyssey-trailer-christopher-nolan-matt-damon-1236367653/"
+    },
     {
       "title": "Korea Box Office: ‘Avatar: Fire and Ash’ Ignites Market",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2025-12-22",
       "url": "https://variety.com/2025/tv/news/paramount-skydance-larry-ellison-irrevocable-personal-guarantee-warner-bros-discovery-1236614728/"
-    },
-    {
-      "title": "‘Avatar: Fire and Ash’ Opens on Top as ‘Zootopia 2’ Continues Strong Performance at China Box Office",
-      "source": "Variety",
-      "date": "2025-12-22",
-      "url": "https://variety.com/2025/film/box-office/avatar-fire-and-ash-china-box-office-1236614714/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「チェンソーマン　刺客篇」製作決定　「レゼ篇」の続編、デンジの心臓を狙う刺客たちを描いたティザービジュアル＆PV披露",
+      "source": "映画.com",
+      "date": "2025-12-22",
+      "url": "https://eiga.com/news/20251222/24/"
+    },
     {
       "title": "リリー・フランキーの姿も！「メイド・イン・コリア」思惑と覚悟がにじむ4種類のキャラクターポスター公開",
       "source": "映画.com",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2025-12-21",
       "url": "https://eiga.com/news/20251221/16/"
-    },
-    {
-      "title": "「クリフハンガー」リブートめぐりプロデューサーが資金提供者を提訴",
-      "source": "映画.com",
-      "date": "2025-12-21",
-      "url": "https://eiga.com/news/20251221/11/"
     }
   ],
   "bd_releases": [],
