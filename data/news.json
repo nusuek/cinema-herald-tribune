@@ -1,26 +1,32 @@
 {
-  "generated_at": "2025-12-23T23:08:59.814947",
+  "generated_at": "2025-12-24T00:46:29.305963",
   "top_stories": [
+    {
+      "title": "Hyun Bin, Jung Woo-sung Crime Thriller ‘Made in Korea’ Sets Disney+ Debut",
+      "source": "Variety",
+      "date": "2025-12-24",
+      "url": "https://variety.com/2025/tv/news/hyun-bin-jung-woo-sung-crime-thriller-made-in-korea-disney-1236616410/"
+    },
+    {
+      "title": "‘Rob Reiner — Scenes From a Life’ Special on CBS News Hits 6.2 Million Viewers",
+      "source": "Variety",
+      "date": "2025-12-23",
+      "url": "https://variety.com/2025/film/news/rob-reiner-cbs-news-special-ratings-1236616957/"
+    },
     {
       "title": "Comcast Extends Michael Cavanagh’s Contract Through 2029, Grants Exec Stock Worth $35 Million",
       "source": "Variety",
       "date": "2025-12-23",
       "url": "https://variety.com/2025/tv/news/comcast-michael-cavanagh-contract-2029-stock-award-35-million-1236616931/"
-    },
-    {
-      "title": "Guillermo del Toro To Join George Stevens Lecture on Directing’s Screening of ‘The Greatest Story Ever Told’ – Film News in Brief",
-      "source": "Variety",
-      "date": "2025-12-23",
-      "url": "https://variety.com/2025/film/news/film-news-in-brief-dec-22-2025-1236612856/"
-    },
-    {
-      "title": "Chevy Chase Was ‘Hurt’ by ‘SNL50’ Excluding Him: ‘Somebody Made a Mistake. They Should’ve Had Me on That Stage’",
-      "source": "Variety",
-      "date": "2025-12-23",
-      "url": "https://variety.com/2025/tv/news/chevy-chase-snl50-exclusion-hurt-1236616851/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ペリリュー」板垣李光人＆原作者・武田一義が描き下ろしイラストで中村倫也の誕生日をお祝い！",
+      "source": "映画.com",
+      "date": "2025-12-24",
+      "url": "https://eiga.com/news/20251224/5/"
+    },
     {
       "title": "竹内まりや「2時間サスペンス THE MOVIE」シリーズに主題歌を提供！　「青池春香の事件チャンネル」共演者、予告編など発表",
       "source": "映画.com",
@@ -176,18 +182,6 @@
       "source": "映画.com",
       "date": "2025-12-22",
       "url": "https://eiga.com/news/20251223/5/"
-    },
-    {
-      "title": "ジェームズ・キャメロン監督「『アバター』にすべてを捧げた」　全世界興収543億円の大ヒットスタート【特別映像】",
-      "source": "映画.com",
-      "date": "2025-12-22",
-      "url": "https://eiga.com/news/20251223/4/"
-    },
-    {
-      "title": "「ONE PIECE」新章「エルバフ編」26年4月5日放送開始　1月5日からミニアニメ「CHOPPER's」もスタート",
-      "source": "映画.com",
-      "date": "2025-12-22",
-      "url": "https://eiga.com/news/20251223/3/"
     }
   ],
   "bd_releases": [],
