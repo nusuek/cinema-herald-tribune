@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-28T10:09:20.875609",
+  "generated_at": "2025-12-28T11:08:07.167203",
   "top_stories": [
+    {
+      "title": "Brigitte Bardot, Star of ‘And God Created Women’ and ‘Contempt,’ Dies at 91",
+      "source": "Variety",
+      "date": "2025-12-28",
+      "url": "https://variety.com/2025/film/obituaries-people-news/brigitte-bardot-dead-and-god-created-women-contempt-1236618646/"
+    },
     {
       "title": "Yash’s ‘Toxic’ Unveils First Look of Huma Qureshi as Elizabeth (EXCLUSIVE)",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-12-28",
       "url": "https://variety.com/2025/film/news/sheena-chohan-tamil-folk-drama-arjunanin-allirani-1236618588/"
-    },
-    {
-      "title": "Jamie Lee Curtis Says ‘Thank God’ Her Mother Didn’t Let Her Audition for ‘The Exorcist’ at Age 12: ‘My Mom Really Wanted Me to Have a Childhood’",
-      "source": "Variety",
-      "date": "2025-12-27",
-      "url": "https://variety.com/2025/film/news/jamie-lee-curtis-janet-leigh-the-exorcist-audition-1236618486/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「名探偵コナン 漆黒の追跡者」今夜放送！コナンと黒ずくめの組織の対決を描く　あらすじ＆声優まとめ",
+      "source": "映画.com",
+      "date": "2025-12-28",
+      "url": "https://eiga.com/news/20251228/19/"
+    },
+    {
+      "title": "「野生のラスボスが現れた！」第2期製作が決定　覇道十二星天の姿が顕現した映像公開",
+      "source": "映画.com",
+      "date": "2025-12-28",
+      "url": "https://eiga.com/news/20251228/17/"
+    },
     {
       "title": "河森正治監督とSUZUKAが“はみ出し”ながら挑んだ「迷宮のしおり」　新しい挑戦は葛藤の果てにある",
       "source": "映画.com",
@@ -164,24 +176,6 @@
       "source": "映画.com",
       "date": "2025-12-27",
       "url": "https://eiga.com/news/20251227/6/"
-    },
-    {
-      "title": "米タイム誌が選ぶ2025年のベスト映画10本",
-      "source": "映画.com",
-      "date": "2025-12-27",
-      "url": "https://eiga.com/news/20251227/5/"
-    },
-    {
-      "title": "デビッド・リンチの感動作「ストレイト・ストーリー」　リンチの元パートナー、メアリー・スウィーニーが明かす制作秘話",
-      "source": "映画.com",
-      "date": "2025-12-27",
-      "url": "https://eiga.com/news/20251227/3/"
-    },
-    {
-      "title": "【26年3月続編公開】「映画　えんとつ町のプペル」ダイジェスト映像完成　名場面や名ゼリフを凝縮した心温まる5分間",
-      "source": "映画.com",
-      "date": "2025-12-26",
-      "url": "https://eiga.com/news/20251227/2/"
     }
   ],
   "bd_releases": [],
