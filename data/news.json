@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-28T22:09:11.359236",
+  "generated_at": "2025-12-28T23:09:15.359285",
   "top_stories": [
+    {
+      "title": "‘Marty Supreme’ Cements Timothee Chalamet as King of the Christmas Box Office",
+      "source": "Variety",
+      "date": "2025-12-28",
+      "url": "https://variety.com/2025/film/box-office/marty-supreme-timothee-chalamet-christmas-box-office-king-1236615317/"
+    },
     {
       "title": "‘Landman’ Season 2 Episode 7: Craziest Moments and Burning Questions, From a Romantic Proposal to Billy Bob Thornton Going Full-Frontal",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-12-28",
       "url": "https://variety.com/2025/film/news/kate-winslet-first-intimate-experiences-women-1236618694/"
-    },
-    {
-      "title": "‘I’m Chevy Chase, and You’re Not’ Director on Going Toe-to-Toe With Chevy, the ‘Community’ Cast Turning Down Interviews and the Doc Being a ‘Hard Watch’ For the Chase Family",
-      "source": "Variety",
-      "date": "2025-12-28",
-      "url": "https://variety.com/2025/tv/news/im-chevy-chase-youre-not-cnn-doc-snl-community-1236618483/"
     }
   ],
   "new_releases": [
+    {
+      "title": "米W誌が選ぶ2026年注目の映画リスト",
+      "source": "映画.com",
+      "date": "2025-12-28",
+      "url": "https://eiga.com/news/20251229/3/"
+    },
+    {
+      "title": "「片田舎のおっさん、剣聖になる」第2期、26年7月放送開始　続投スタッフ陣からコメント到着",
+      "source": "映画.com",
+      "date": "2025-12-28",
+      "url": "https://eiga.com/news/20251229/2/"
+    },
     {
       "title": "「アンデッドアンラック」第2期が製作決定　鋭い視線のシェン――原作者の描き下ろしイラストが公開",
       "source": "映画.com",
@@ -164,18 +176,6 @@
       "source": "映画.com",
       "date": "2025-12-27",
       "url": "https://eiga.com/news/20251227/10/"
-    },
-    {
-      "title": "永瀬廉とロウン、バディ感満載！　福山雅治主演「映画ラストマン」新規映像",
-      "source": "映画.com",
-      "date": "2025-12-27",
-      "url": "https://eiga.com/news/20251227/15/"
-    },
-    {
-      "title": "「ロスト・ワールド　ジュラシック・パーク」BS日テレで今夜放送　あらすじ・キャスト情報まとめ",
-      "source": "映画.com",
-      "date": "2025-12-27",
-      "url": "https://eiga.com/news/20251227/9/"
     }
   ],
   "bd_releases": [],
