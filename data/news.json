@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T06:18:24.342840",
+  "generated_at": "2025-12-29T07:16:22.079238",
   "top_stories": [
     {
       "title": "Korea Box Office: ‘Avatar: Fire and Ash’ Dominates as ‘Zootopia 2’ Holds Strong",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "ディズニーとOpenAIの提携が及ぼす影響　米メディアが解説",
+      "source": "映画.com",
+      "date": "2025-12-29",
+      "url": "https://eiga.com/news/20251229/13/"
+    },
     {
       "title": "「ご注文はうさぎですか？」長編劇場版が公開決定　「きんモザ」天衝が監督・脚本、橋本裕之が総監督",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2025-12-28",
       "url": "https://eiga.com/news/20251228/6/"
-    },
-    {
-      "title": "【世界の映画館めぐり】大阪・プラネットプラスワン　レトロでアナログ、秘密基地のような空間でフィルム上映と生演奏を楽しむ",
-      "source": "映画.com",
-      "date": "2025-12-28",
-      "url": "https://eiga.com/news/20251228/4/"
     }
   ],
   "bd_releases": [],
