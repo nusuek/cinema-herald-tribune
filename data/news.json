@@ -1,26 +1,38 @@
 {
-  "generated_at": "2025-12-29T04:09:18.836654",
+  "generated_at": "2025-12-29T05:19:53.439795",
   "top_stories": [
+    {
+      "title": "Korea Box Office: ‘Avatar: Fire and Ash’ Dominates as ‘Zootopia 2’ Holds Strong",
+      "source": "Variety",
+      "date": "2025-12-29",
+      "url": "https://variety.com/2025/film/box-office/korea-box-office-avatar-fire-and-ash-zootopia-2-1236618837/"
+    },
+    {
+      "title": "China Box Office: ‘Avatar: Fire and Ash’ Tops Final Weekend of 2025",
+      "source": "Variety",
+      "date": "2025-12-29",
+      "url": "https://variety.com/2025/film/box-office/china-box-office-avatar-fire-and-ash-final-weekend-2025-1236618821/"
+    },
     {
       "title": "Intimidated By Investing? Robinhood’s Platform Makes It Easier to Get Started",
       "source": "Variety",
       "date": "2025-12-29",
       "url": "https://variety.com/2025/shopping/news/robinhood-investing-app-1236211719/"
-    },
-    {
-      "title": "Brigitte Bardot Remembered: In ‘And God Created Woman’ and ‘Contempt,’ She Projected a Bold New Image of Feminine Identity and Erotic Power",
-      "source": "Variety",
-      "date": "2025-12-29",
-      "url": "https://variety.com/2025/film/columns/brigitte-bardot-remembered-tribute-feminine-identity-1236618723/"
-    },
-    {
-      "title": "Rare Movie Ads From 120 Years of Variety: ‘Star Wars,’ ‘Chinatown,’ ‘Clueless,’ ‘The Matrix’ and More",
-      "source": "Variety",
-      "date": "2025-12-28",
-      "url": "https://variety.com/gallery/movie-ads-variety-star-wars-chinatown-clueless/"
     }
   ],
   "new_releases": [
+    {
+      "title": "香港アニメーションにとって「2025年」は転換点――「ローカル」「伝統」「国際水準」が同じテーブルに並ぶ希有な瞬間を迎えた【アジア映画コラム】",
+      "source": "映画.com",
+      "date": "2025-12-29",
+      "url": "https://eiga.com/news/20251229/10/"
+    },
+    {
+      "title": "ジャック・ブラック、エル・ファニングの「最高にセクシーな男性」発言に大人の対応",
+      "source": "映画.com",
+      "date": "2025-12-29",
+      "url": "https://eiga.com/news/20251229/9/"
+    },
     {
       "title": "2年間刑務所に収容されていた日本育ちのミャンマー人監督作「めぐる」「エイン」26年3月6日同時上映決定",
       "source": "映画.com",
@@ -170,12 +182,6 @@
       "source": "映画.com",
       "date": "2025-12-27",
       "url": "https://eiga.com/news/20251228/2/"
-    },
-    {
-      "title": "ディズニーVSグーグル　AIサービス用いた大規模な著作権侵害の決着は？",
-      "source": "映画.com",
-      "date": "2025-12-27",
-      "url": "https://eiga.com/news/20251228/3/"
     }
   ],
   "bd_releases": [],
