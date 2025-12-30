@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T12:19:04.400797",
+  "generated_at": "2025-12-30T13:29:02.516340",
   "top_stories": [
     {
       "title": "2025 Box Office in Spain Drops 8%, Hit by October’s Spring-Like Weather and a Lack of Really Big U.S. Hits",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "「ホーム・アローン」の家、映画公開時の姿に復元へ　公開35周年のクリスマスプレゼント",
+      "source": "映画.com",
+      "date": "2025-12-30",
+      "url": "https://eiga.com/news/20251230/15/"
+    },
     {
       "title": "「ひゃくえむ」12月31日からNetflixで世界独占配信開始",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2025-12-29",
       "url": "https://eiga.com/news/20251229/7/"
-    },
-    {
-      "title": "阿部寛主演「ショウタイムセブン」今夜地上波初放送　あらすじ＆キャストまとめ",
-      "source": "映画.com",
-      "date": "2025-12-29",
-      "url": "https://eiga.com/news/20251229/6/"
     }
   ],
   "bd_releases": [],
