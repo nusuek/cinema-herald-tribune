@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-30T11:09:32.019382",
+  "generated_at": "2025-12-30T12:19:04.400797",
   "top_stories": [
+    {
+      "title": "2025 Box Office in Spain Drops 8%, Hit by October’s Spring-Like Weather and a Lack of Really Big U.S. Hits",
+      "source": "Variety",
+      "date": "2025-12-30",
+      "url": "https://variety.com/2025/film/global/box-office-spain-2025-lilo-stitch-father-there-is-only-one-1236620218/"
+    },
     {
       "title": "51 Great Movies From 2025 Now Streaming: ‘One Battle After Another,’ ‘Sinners,’ ‘Bugonia,’ ‘Weapons’  and More",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2025-12-30",
       "url": "https://variety.com/2025/film/global/idris-elba-knighted-cynthia-erivo-mbe-new-year-honors-1236620194/"
-    },
-    {
-      "title": "‘Cause of Death: Unknown’ Review: Iran’s Surprisingly Daring Official Oscar Entry Sees an Ensemble Cast Conflicted by a Moral Conundrum",
-      "source": "Variety",
-      "date": "2025-12-30",
-      "url": "https://variety.com/2025/film/reviews/cause-of-death-unknown-review-1236608132/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ひゃくえむ」12月31日からNetflixで世界独占配信開始",
+      "source": "映画.com",
+      "date": "2025-12-30",
+      "url": "https://eiga.com/news/20251230/14/"
+    },
     {
       "title": "「スター・ウォーズ　スターファイター」での役づくりをマット・スミスが語る",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2025-12-29",
       "url": "https://eiga.com/news/20251229/6/"
-    },
-    {
-      "title": "2025年を象徴する映画「国宝」　歴史を塗り替えた大ヒットの軌跡【観客動員・興行収入・トピックスまとめ】",
-      "source": "映画.com",
-      "date": "2025-12-29",
-      "url": "https://eiga.com/news/20251229/5/"
     }
   ],
   "bd_releases": [],
