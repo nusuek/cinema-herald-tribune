@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-30T00:46:17.981905",
+  "generated_at": "2025-12-30T02:48:57.979508",
   "top_stories": [
+    {
+      "title": "‘The Princess Bride’ Star Cary Elwes Shares Tribute to Rob Reiner: ‘From That Very First Meeting I Fell In Love With Him’",
+      "source": "Variety",
+      "date": "2025-12-30",
+      "url": "https://variety.com/2025/film/news/cary-elwes-tribute-rob-reiner-the-princess-bride-star-1236620010/"
+    },
     {
       "title": "‘Stranger Things 5’ Finale Has 1.1 Million RSVPs in Movie Theaters, Says Ross Duffer: ‘3,500 Showtimes Are Completely Full’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-12-29",
       "url": "https://variety.com/2025/film/news/joe-rogan-slams-donald-trump-rob-reiner-attack-1236619511/"
-    },
-    {
-      "title": "Chevy Chase Had ‘Meltdown’ on ‘Community’ Set After N-Word Incident Went Public and Said ‘My Career Is Ruined,’ Claims Director; Crew Chanted ‘F— You, Chevy!’ at Wrap Party",
-      "source": "Variety",
-      "date": "2025-12-29",
-      "url": "https://variety.com/2025/tv/news/chevy-chase-meltdown-community-set-n-word-1236619348/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【「SHOGUN 将軍」2025年も話題の中心！】アワード席巻、関西万博参加、目黒蓮のシーズン2出演も決定",
+      "source": "映画.com",
+      "date": "2025-12-30",
+      "url": "https://eiga.com/news/20251230/6/"
+    },
+    {
+      "title": "共依存ボディホラー「トゥギャザー」アイデアは監督の実体験から　製作秘話明かす特別映像公開",
+      "source": "映画.com",
+      "date": "2025-12-30",
+      "url": "https://eiga.com/news/20251230/5/"
+    },
     {
       "title": "「シャンピニオンの魔女」26年1月8日放送開始　前日譚を描く初回は2話連続の1時間SP　美少年・アンリ役に千葉翔也",
       "source": "映画.com",
@@ -170,12 +182,6 @@
       "source": "映画.com",
       "date": "2025-12-28",
       "url": "https://eiga.com/news/20251228/19/"
-    },
-    {
-      "title": "「野生のラスボスが現れた！」第2期製作が決定　覇道十二星天の姿が顕現した映像公開",
-      "source": "映画.com",
-      "date": "2025-12-28",
-      "url": "https://eiga.com/news/20251228/17/"
     }
   ],
   "bd_releases": [],
