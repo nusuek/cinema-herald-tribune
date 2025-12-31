@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-31T10:10:20.836227",
+  "generated_at": "2025-12-31T11:09:44.226685",
   "top_stories": [
+    {
+      "title": "Canal+ and Warner Bros. Discovery Strike New International Agreement, Including HBO Max Expansion",
+      "source": "Variety",
+      "date": "2025-12-31",
+      "url": "https://variety.com/2025/tv/global/canal-plus-warner-bros-discovery-new-international-agreement-1236621028/"
+    },
     {
       "title": "Yash’s ‘Toxic’ Unveils First Look of Nayanthara as Ganga (EXCLUSIVE)",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-12-31",
       "url": "https://variety.com/2025/film/box-office/avatar-fire-and-ash-uk-ireland-box-office-1236620912/"
-    },
-    {
-      "title": "Warner Bros. Discovery Board Poised to Reject Paramount’s Latest Offer, Stay the Course With Netflix",
-      "source": "Variety",
-      "date": "2025-12-31",
-      "url": "https://variety.com/2025/biz/news/warner-bros-discovery-reject-paramount-offer-netflix-1236620900/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【2025年・今期アニメランキング振り返り】「薬屋のひとりごと」第2期が半年間、首位を席巻",
+      "source": "映画.com",
+      "date": "2025-12-31",
+      "url": "https://eiga.com/news/20251231/11/"
+    },
+    {
+      "title": "【数土直志の「月刊アニメビジネス」】2025年アニメビジネス10大ニュース　「鬼滅」世界ヒットからAIまで",
+      "source": "映画.com",
+      "date": "2025-12-31",
+      "url": "https://eiga.com/news/20251231/10/"
+    },
     {
       "title": "「国宝」吉沢亮＆横浜流星、着物姿で歌舞伎座に降臨「忘れられない年」「責任感が強くなった年」",
       "source": "映画.com",
@@ -164,12 +176,6 @@
       "source": "映画.com",
       "date": "2025-12-29",
       "url": "https://eiga.com/news/20251229/18/"
-    },
-    {
-      "title": "【地上波初放送】「アバター　ウェイ・オブ・ウォーター」あらすじ、キャラクター、関連作品、タイトルに込めたメッセージは？",
-      "source": "映画.com",
-      "date": "2025-12-29",
-      "url": "https://eiga.com/news/20251229/16/"
     }
   ],
   "bd_releases": [],
