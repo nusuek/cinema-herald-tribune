@@ -1,26 +1,32 @@
 {
-  "generated_at": "2025-12-31T04:28:54.073934",
+  "generated_at": "2025-12-31T05:23:33.895064",
   "top_stories": [
     {
-      "title": "Kennedy Center Honors Ratings Plummet After Trump Takeover",
+      "title": "Yash’s ‘Toxic’ Unveils First Look of Nayanthara as Ganga (EXCLUSIVE)",
       "source": "Variety",
       "date": "2025-12-31",
-      "url": "https://variety.com/2025/tv/news/kennedy-center-honors-ratings-plummet-trump-1236620882/"
+      "url": "https://variety.com/2025/film/news/yash-toxic-nayanthara-first-look-1236620901/"
     },
     {
-      "title": "Bari Weiss Invites George Clooney to Visit Broadcast Center After He Tells Variety She Is ‘Dismantling’ CBS News",
+      "title": "‘Avatar: Fire And Ash’ Leads U.K., Ireland Holiday Box Office as New Releases Crowd Top 10",
       "source": "Variety",
       "date": "2025-12-31",
-      "url": "https://variety.com/2025/tv/news/bari-weiss-invites-george-clooney-visit-cbs-news-1236620822/"
+      "url": "https://variety.com/2025/film/box-office/avatar-fire-and-ash-uk-ireland-box-office-1236620912/"
     },
     {
-      "title": "Meyer Gottlieb, Samuel Goldwyn Films Co-Founder and Producer of ‘Master and Commander,’ Dies at 86",
+      "title": "Warner Bros. Discovery Board Poised to Reject Paramount’s Latest Offer, Stay the Course With Netflix",
       "source": "Variety",
       "date": "2025-12-31",
-      "url": "https://variety.com/2025/film/news/meyer-gottlieb-dead-master-and-commander-1236620793/"
+      "url": "https://variety.com/2025/biz/news/warner-bros-discovery-reject-paramount-offer-netflix-1236620900/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「羅小黒戦記 ぼくが選ぶ未来」TVシリーズ版、1月1日にEテレで一挙再放送",
+      "source": "映画.com",
+      "date": "2025-12-31",
+      "url": "https://eiga.com/news/20251231/7/"
+    },
     {
       "title": "2025年もっとも注目された映画TOP10【映画.comランキング】",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2025-12-29",
       "url": "https://eiga.com/news/20251229/20/"
-    },
-    {
-      "title": "ディズニーとOpenAIの提携が及ぼす影響　米メディアが解説",
-      "source": "映画.com",
-      "date": "2025-12-29",
-      "url": "https://eiga.com/news/20251229/13/"
     }
   ],
   "bd_releases": [],
