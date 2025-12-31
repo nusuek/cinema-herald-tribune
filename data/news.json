@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-31T00:48:10.023312",
+  "generated_at": "2025-12-31T02:48:25.011263",
   "top_stories": [
+    {
+      "title": "Bari Weiss Invites George Clooney to Visit Broadcast Center After He Tells Variety She Is ‘Dismantling’ CBS News",
+      "source": "Variety",
+      "date": "2025-12-31",
+      "url": "https://variety.com/2025/tv/news/bari-weiss-invites-george-clooney-visit-cbs-news-1236620822/"
+    },
     {
       "title": "Meyer Gottlieb, Samuel Goldwyn Films Co-Founder and Producer of ‘Master and Commander,’ Dies at 86",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2025-12-31",
       "url": "https://variety.com/2025/film/news/spike-lee-tribute-to-isiah-whitlock-jr-1236620780/"
-    },
-    {
-      "title": "Celebrities Who Have Died in 2025",
-      "source": "Variety",
-      "date": "2025-12-30",
-      "url": "https://variety.com/gallery/celebrity-deaths-2025-2/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「超時空要塞マクロス 愛・おぼえていますか」大みそかにTOKYO MXで放送",
+      "source": "映画.com",
+      "date": "2025-12-31",
+      "url": "https://eiga.com/news/20251231/5/"
+    },
+    {
+      "title": "「リング2」TOKYO MXで本日放送　あらすじ＆キャストまとめ【劇中で人が死ぬ→僧侶が即読経・即供養する特別企画も実施】",
+      "source": "映画.com",
+      "date": "2025-12-31",
+      "url": "https://eiga.com/news/20251231/4/"
+    },
     {
       "title": "【2025年・人気声優ランキング】「鬼滅の刃」花澤香菜＆早見沙織、「薬屋のひとりごと」悠木碧らが上位【女性声優トップ10】",
       "source": "映画.com",
@@ -158,18 +170,6 @@
       "source": "映画.com",
       "date": "2025-12-29",
       "url": "https://eiga.com/news/20251229/12/"
-    },
-    {
-      "title": "Netflixアニメ映画「超かぐや姫！」早見沙織が歌うAqu3ra書き下ろしの劇中歌MVを披露",
-      "source": "映画.com",
-      "date": "2025-12-29",
-      "url": "https://eiga.com/news/20251229/11/"
-    },
-    {
-      "title": "香港アニメーションにとって「2025年」は転換点――「ローカル」「伝統」「国際水準」が同じテーブルに並ぶ希有な瞬間を迎えた【アジア映画コラム】",
-      "source": "映画.com",
-      "date": "2025-12-29",
-      "url": "https://eiga.com/news/20251229/10/"
     }
   ],
   "bd_releases": [],
