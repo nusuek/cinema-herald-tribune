@@ -1,6 +1,12 @@
 {
-  "generated_at": "2025-12-31T02:48:25.011263",
+  "generated_at": "2025-12-31T03:54:23.976712",
   "top_stories": [
+    {
+      "title": "Kennedy Center Honors Ratings Plummet After Trump Takeover",
+      "source": "Variety",
+      "date": "2025-12-31",
+      "url": "https://variety.com/2025/tv/news/kennedy-center-honors-ratings-plummet-trump-1236620882/"
+    },
     {
       "title": "Bari Weiss Invites George Clooney to Visit Broadcast Center After He Tells Variety She Is ‘Dismantling’ CBS News",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2025-12-31",
       "url": "https://variety.com/2025/film/news/meyer-gottlieb-dead-master-and-commander-1236620793/"
-    },
-    {
-      "title": "Spike Lee Shares Tribute to Isiah Whitlock Jr.: ‘My Dear Beloved Brother’",
-      "source": "Variety",
-      "date": "2025-12-31",
-      "url": "https://variety.com/2025/film/news/spike-lee-tribute-to-isiah-whitlock-jr-1236620780/"
     }
   ],
   "new_releases": [
+    {
+      "title": "2025年もっとも注目された映画TOP10【映画.comランキング】",
+      "source": "映画.com",
+      "date": "2025-12-31",
+      "url": "https://eiga.com/news/20251231/6/"
+    },
     {
       "title": "「超時空要塞マクロス 愛・おぼえていますか」大みそかにTOKYO MXで放送",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2025-12-29",
       "url": "https://eiga.com/news/20251229/13/"
-    },
-    {
-      "title": "「ご注文はうさぎですか？」長編劇場版が公開決定　「きんモザ」天衝が監督・脚本、橋本裕之が総監督",
-      "source": "映画.com",
-      "date": "2025-12-29",
-      "url": "https://eiga.com/news/20251229/12/"
     }
   ],
   "bd_releases": [],
