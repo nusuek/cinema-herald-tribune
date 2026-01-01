@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-01T03:01:02.867633",
+  "generated_at": "2026-01-01T04:38:51.602091",
   "top_stories": [
+    {
+      "title": "This Year’s Top New Year’s Eve Broadcasts — and Where to Stream Them Live Online Free",
+      "source": "Variety",
+      "date": "2026-01-01",
+      "url": "https://variety.com/2025/shopping/news/new-years-eve-specials-broadcasts-how-to-stream-live-online-1236620399/"
+    },
     {
       "title": "‘Stranger Things’ Finale Breakdown: How Does it End, Who Dies and What Happens to Hawkins?",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-01-01",
       "url": "https://variety.com/2025/tv/news/netflix-down-crashes-stranger-things-finale-1236621055/"
-    },
-    {
-      "title": "Politicians and Pop Stars Go Pow! — The Year’s Top  Alliances and Beefs Between Musicians and Lawmakers",
-      "source": "Variety",
-      "date": "2026-01-01",
-      "url": "https://variety.com/2025/music/news/politicians-musicians-news-beefs-1236621625/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ジョニー・デップが語る、約30年ぶり監督作「モディリアーニ！」制作秘話、すべて自分で選曲した音楽のこだわり",
+      "source": "映画.com",
+      "date": "2026-01-01",
+      "url": "https://eiga.com/news/20260101/7/"
+    },
+    {
+      "title": "「寄生獣」岩明均による歴史大作漫画「ヒストリエ」TVアニメ化　ティザービジュアル＆ティザーPV公開",
+      "source": "映画.com",
+      "date": "2026-01-01",
+      "url": "https://eiga.com/news/20260101/6/"
+    },
     {
       "title": "【アマプラ1月配信まとめ】「グランメゾン・パリ」「雪風 YUKIKAZE」「バレリーナ」「JUNK WORLD」が見放題配信！",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2025-12-30",
       "url": "https://eiga.com/news/20251230/6/"
-    },
-    {
-      "title": "共依存ボディホラー「トゥギャザー」アイデアは監督の実体験から　製作秘話明かす特別映像公開",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251230/5/"
-    },
-    {
-      "title": "「シャンピニオンの魔女」26年1月8日放送開始　前日譚を描く初回は2話連続の1時間SP　美少年・アンリ役に千葉翔也",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251230/3/"
     }
   ],
   "bd_releases": [],
