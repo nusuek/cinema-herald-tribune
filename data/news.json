@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-01T00:54:14.489948",
+  "generated_at": "2026-01-01T03:01:02.867633",
   "top_stories": [
+    {
+      "title": "‘Stranger Things’ Finale Breakdown: How Does it End, Who Dies and What Happens to Hawkins?",
+      "source": "Variety",
+      "date": "2026-01-01",
+      "url": "https://variety.com/2025/tv/news/stranger-things-finale-explained-kali-dies-ending-1236620850/"
+    },
+    {
+      "title": "Netflix Crashes as ‘Stranger Things’ Finale Premieres, Second Time This Season",
+      "source": "Variety",
+      "date": "2026-01-01",
+      "url": "https://variety.com/2025/tv/news/netflix-down-crashes-stranger-things-finale-1236621055/"
+    },
     {
       "title": "Politicians and Pop Stars Go Pow! — The Year’s Top  Alliances and Beefs Between Musicians and Lawmakers",
       "source": "Variety",
       "date": "2026-01-01",
       "url": "https://variety.com/2025/music/news/politicians-musicians-news-beefs-1236621625/"
-    },
-    {
-      "title": "Trump Mocks George and Amal Clooney For Becoming French Citizens: ‘Two of the Worst Political Prognosticators of All Time’",
-      "source": "Variety",
-      "date": "2025-12-31",
-      "url": "https://variety.com/2025/film/news/trump-mocks-george-amal-clooney-french-citizens-1236621618/"
-    },
-    {
-      "title": "The Best Concerts of 2025",
-      "source": "Variety",
-      "date": "2025-12-31",
-      "url": "https://variety.com/lists/best-concerts-2025-beyonce-lady-gaga/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【アマプラ1月配信まとめ】「グランメゾン・パリ」「雪風 YUKIKAZE」「バレリーナ」「JUNK WORLD」が見放題配信！",
+      "source": "映画.com",
+      "date": "2026-01-01",
+      "url": "https://eiga.com/news/20260101/5/"
+    },
     {
       "title": "谷原七音、伸び盛り22歳　26年はフジ系「東京P.D.警視庁広報2係」出演でスタート",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2025-12-30",
       "url": "https://eiga.com/news/20251230/3/"
-    },
-    {
-      "title": "ナターシャ・リオンがNetflixのボクシング映画を監督",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251230/4/"
     }
   ],
   "bd_releases": [],
