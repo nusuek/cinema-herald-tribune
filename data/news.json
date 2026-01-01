@@ -1,26 +1,38 @@
 {
-  "generated_at": "2025-12-31T23:09:24.016049",
+  "generated_at": "2026-01-01T00:54:14.489948",
   "top_stories": [
+    {
+      "title": "Politicians and Pop Stars Go Pow! — The Year’s Top  Alliances and Beefs Between Musicians and Lawmakers",
+      "source": "Variety",
+      "date": "2026-01-01",
+      "url": "https://variety.com/2025/music/news/politicians-musicians-news-beefs-1236621625/"
+    },
+    {
+      "title": "Trump Mocks George and Amal Clooney For Becoming French Citizens: ‘Two of the Worst Political Prognosticators of All Time’",
+      "source": "Variety",
+      "date": "2025-12-31",
+      "url": "https://variety.com/2025/film/news/trump-mocks-george-amal-clooney-french-citizens-1236621618/"
+    },
     {
       "title": "The Best Concerts of 2025",
       "source": "Variety",
       "date": "2025-12-31",
       "url": "https://variety.com/lists/best-concerts-2025-beyonce-lady-gaga/"
-    },
-    {
-      "title": "Netflix’s Lions-Vikings Game Reached 27.5 Million Viewers on Christmas Day, Most-Streamed NFL Match in U.S. History",
-      "source": "Variety",
-      "date": "2025-12-31",
-      "url": "https://variety.com/2025/tv/news/netflix-nfl-ratings-christmas-1236621368/"
-    },
-    {
-      "title": "New Movies Out Now in Theaters: What to See This Week",
-      "source": "Variety",
-      "date": "2025-12-31",
-      "url": "https://variety.com/feature/new-movie-releases-theaters-1235718020/"
     }
   ],
   "new_releases": [
+    {
+      "title": "谷原七音、伸び盛り22歳　26年はフジ系「東京P.D.警視庁広報2係」出演でスタート",
+      "source": "映画.com",
+      "date": "2026-01-01",
+      "url": "https://eiga.com/news/20260101/4/"
+    },
+    {
+      "title": "「アニサマ2025」ダイジェスト版、1月1日午後1時からBS11で4時間半放送　U-NEXTでライブ配信も",
+      "source": "映画.com",
+      "date": "2025-12-31",
+      "url": "https://eiga.com/news/20260101/3/"
+    },
     {
       "title": "ジャッキー・チェン主演「パンダプラン」　新年にふさわしい幸せオーラ全開なジャッキーの姿を捉えた場面写真",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2025-12-30",
       "url": "https://eiga.com/news/20251230/4/"
-    },
-    {
-      "title": "「勇者刑に処す」ライノー役に中村悠一、フレンシィ役に大西沙織　初回60分SPで26年1月3日放送開始",
-      "source": "映画.com",
-      "date": "2025-12-29",
-      "url": "https://eiga.com/news/20251230/2/"
-    },
-    {
-      "title": "「ブラッククローバー」2nd Seasonは26年放送　限界を超えるアスタの姿などを収めたティザーPV、ティザービジュアル公開",
-      "source": "映画.com",
-      "date": "2025-12-29",
-      "url": "https://eiga.com/news/20251230/1/"
     }
   ],
   "bd_releases": [],
