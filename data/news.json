@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-01T09:14:34.900349",
+  "generated_at": "2026-01-01T10:10:55.081920",
   "top_stories": [
+    {
+      "title": "‘Ne Zha 2,’ ‘Zootopia 2’ Lead China Box Office Past $7.4 Billion in 2025",
+      "source": "Variety",
+      "date": "2026-01-01",
+      "url": "https://variety.com/2026/film/box-office/ne-zha-2-zootopia-2-2025-china-box-office-7-4-billion-1236621734/"
+    },
     {
       "title": "Menemsha Acquires North American Rights to Coming-of-Age Comedy ‘Ethan Bloom’ (EXCLUSIVE)",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-01-01",
       "url": "https://variety.com/2025/music/news/bts-new-album-coming-march-1236621674/"
-    },
-    {
-      "title": "CBS’ ‘New Year’s Eve Live: Nashville’s Big Bash’ Special Faces Mid-Show Outage",
-      "source": "Variety",
-      "date": "2026-01-01",
-      "url": "https://variety.com/2025/tv/news/cbs-nashvilles-big-bash-live-technical-problem-matlock-1236621691/"
     }
   ],
   "new_releases": [
+    {
+      "title": "谷原七音、伸び盛り22歳　26年はフジ系「東京P.D.警視庁広報2係」出演でスタート",
+      "source": "映画.com",
+      "date": "2026-01-01",
+      "url": "https://eiga.com/news/20260101/4/"
+    },
+    {
+      "title": "箱根駅伝CMに神谷浩史、小西克幸、花江夏樹、松岡禎丞、森田成一が参加　“たすき目線”でエール送る",
+      "source": "映画.com",
+      "date": "2026-01-01",
+      "url": "https://eiga.com/news/20260101/9/"
+    },
     {
       "title": "ジョニー・デップが語る、約30年ぶり監督作「モディリアーニ！」制作秘話、すべて自分で選曲した音楽のこだわり",
       "source": "映画.com",
@@ -38,12 +50,6 @@
       "source": "映画.com",
       "date": "2026-01-01",
       "url": "https://eiga.com/news/20260101/5/"
-    },
-    {
-      "title": "谷原七音、伸び盛り22歳　26年はフジ系「東京P.D.警視庁広報2係」出演でスタート",
-      "source": "映画.com",
-      "date": "2026-01-01",
-      "url": "https://eiga.com/news/20260101/4/"
     },
     {
       "title": "「アニサマ2025」ダイジェスト版、1月1日午後1時からBS11で4時間半放送　U-NEXTでライブ配信も",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2025-12-30",
       "url": "https://eiga.com/news/20251230/9/"
-    },
-    {
-      "title": "【2025年 声優イベント出演数ランキング】女性1位は山崎エリイ、男性1位は岡本信彦　 総合1位は？",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251230/8/"
     }
   ],
   "bd_releases": [],
