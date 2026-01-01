@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-01T22:09:10.266327",
+  "generated_at": "2026-01-01T23:09:30.689289",
   "top_stories": [
     {
       "title": "Best Horror of January 2026: Sam Raimi’s New Thriller, Ralph Fiennes in ’28 Years Later: The Bone Temple,’ a Killer Chimpanzee and More",
@@ -14,13 +14,31 @@
       "url": "https://variety.com/2026/tv/news/chevy-chase-show-depressed-fox-late-night-bomb-cancel-1236621773/"
     },
     {
-      "title": "ジョージ・クルーニー、トランプの攻撃に反論「11月からアメリカを取り戻す」",
+      "title": "George Clooney Hits Back After Trump Slams Him on Social Media: ‘We Have to Make America Great Again. We’ll Start in November’",
       "source": "Variety",
       "date": "2026-01-01",
       "url": "https://variety.com/2026/film/news/george-clooney-response-trump-social-media-slam-french-citizenship-1236621790/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ディズニーとOpenAIの提携が及ぼす影響　米メディアが解説",
+      "source": "映画.com",
+      "date": "2025-12-29",
+      "url": "https://eiga.com/news/20251229/13/"
+    },
+    {
+      "title": "見逃してない？　いますぐ配信で見られる2025年の人気映画30本【前編】",
+      "source": "映画.com",
+      "date": "2025-12-26",
+      "url": "https://eiga.com/news/20251226/13/"
+    },
+    {
+      "title": "見逃してない？　いますぐ配信で見られる2025年の人気映画30本【後編】",
+      "source": "映画.com",
+      "date": "2025-12-26",
+      "url": "https://eiga.com/news/20251226/15/"
+    },
     {
       "title": "【公開20周年】筒井康隆×今敏監督「パプリカ」4Kリマスター版、1月2日からリバイバル上映",
       "source": "映画.com",
@@ -146,48 +164,6 @@
       "source": "映画.com",
       "date": "2025-12-31",
       "url": "https://eiga.com/news/20251231/4/"
-    },
-    {
-      "title": "【2025年・人気声優ランキング】「鬼滅の刃」花澤香菜＆早見沙織、「薬屋のひとりごと」悠木碧らが上位【女性声優トップ10】",
-      "source": "映画.com",
-      "date": "2025-12-31",
-      "url": "https://eiga.com/news/20251231/3/"
-    },
-    {
-      "title": "2025年のベストドレッサー11人　米誌が選出",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251231/2/"
-    },
-    {
-      "title": "「オタクに優しいギャルはいない!?」オタク高校生役に小村将、ギャル役に稲垣好＆芹澤優　ティザーPV公開",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251231/1/"
-    },
-    {
-      "title": "「ホーム・アローン」の家、映画公開時の姿に復元へ　公開35周年のクリスマスプレゼント",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251230/15/"
-    },
-    {
-      "title": "「ひゃくえむ」12月31日からNetflixで世界独占配信開始",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251230/14/"
-    },
-    {
-      "title": "「スター・ウォーズ　スターファイター」での役づくりをマット・スミスが語る",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251230/13/"
-    },
-    {
-      "title": "「ドラえもん」大みそか1時間スペシャルが12月31日午前9時放送　ウマタケが主役の新作オリジナルストーリー",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251230/12/"
     }
   ],
   "bd_releases": [],
