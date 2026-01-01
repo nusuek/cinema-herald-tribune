@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-01T10:10:55.081920",
+  "generated_at": "2026-01-01T11:09:00.544790",
   "top_stories": [
     {
       "title": "‘Ne Zha 2,’ ‘Zootopia 2’ Lead China Box Office Past $7.4 Billion in 2025",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "劇場アニメ「魔法科高校の劣等生 星を呼ぶ少女」BS11で1月1日深夜に放送",
+      "source": "映画.com",
+      "date": "2026-01-01",
+      "url": "https://eiga.com/news/20260101/10/"
+    },
     {
       "title": "谷原七音、伸び盛り22歳　26年はフジ系「東京P.D.警視庁広報2係」出演でスタート",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2025-12-30",
       "url": "https://eiga.com/news/20251230/10/"
-    },
-    {
-      "title": "「ハウスメイド」フリーダ・マクファデン著「The Surrogate Mother」をソニーが映画化",
-      "source": "映画.com",
-      "date": "2025-12-30",
-      "url": "https://eiga.com/news/20251230/9/"
     }
   ],
   "bd_releases": [],
