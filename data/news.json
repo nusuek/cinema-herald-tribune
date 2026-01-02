@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-02T05:15:53.528494",
+  "generated_at": "2026-01-02T06:16:44.192791",
   "top_stories": [
+    {
+      "title": "Asian Film Awards Suspends Competitive Categories After Hong Kong Fire",
+      "source": "Variety",
+      "date": "2026-01-02",
+      "url": "https://variety.com/2026/film/awards/asian-film-awards-suspends-competitive-categories-hong-kong-fire-1236622305/"
+    },
     {
       "title": "New CBS Evening News Anchor Tony Dokoupil Says News Has ‘Put Too Much Weight’ on Academics and Elites: ‘The Press Has Missed the Story’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-01-02",
       "url": "https://variety.com/2026/tv/news/stranger-things-creators-defend-will-coming-out-gay-review-bombing-1236621848/"
-    },
-    {
-      "title": "‘Stranger Things’ Finale Spoiler Interview: Duffer Brothers on Whether Eleven Is Alive, Debating Who Got to Kill [SPOILER] and Why the Rock From the Briefcase Is Key to the Spinoff",
-      "source": "Variety",
-      "date": "2026-01-02",
-      "url": "https://variety.com/2026/tv/news/stranger-things-finale-is-eleven-alive-vecna-killed-rock-spinoff-1236621528/"
     }
   ],
   "new_releases": [
+    {
+      "title": "富野由悠季監督「リーンの翼」3月25日に初ブルーレイ化　富野監督ディレクションの新オープニング映像を制作",
+      "source": "映画.com",
+      "date": "2026-01-02",
+      "url": "https://eiga.com/news/20260102/4/"
+    },
     {
       "title": "【ディズニープラス　1月ラインナップ】マーベル最新作「ワンダーマン」登場！ウィル・スミスの“未知への挑戦”を追うドキュメンターにも注目",
       "source": "映画.com",
@@ -146,12 +152,6 @@
       "source": "映画.com",
       "date": "2025-12-31",
       "url": "https://eiga.com/news/20251231/8/"
-    },
-    {
-      "title": "「羅小黒戦記 ぼくが選ぶ未来」TVシリーズ版、1月1日にEテレで一挙再放送",
-      "source": "映画.com",
-      "date": "2025-12-31",
-      "url": "https://eiga.com/news/20251231/7/"
     }
   ],
   "bd_releases": [],
