@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-02T12:18:06.230415",
+  "generated_at": "2026-01-02T13:25:39.955992",
   "top_stories": [
+    {
+      "title": "Box Office: Netflix’s ‘Stranger Things’ Series Finale Earns More Than $25 Million in Movie Theaters",
+      "source": "Variety",
+      "date": "2026-01-02",
+      "url": "https://variety.com/2026/film/news/box-office-netflix-stranger-things-series-finale-results-1236622331/"
+    },
+    {
+      "title": "Jill Scott Announces New Album ‘To Whom This May Concern,’ Her First in Over a Decade",
+      "source": "Variety",
+      "date": "2026-01-02",
+      "url": "https://variety.com/2026/music/news/jill-scott-announces-new-album-to-whom-this-may-concern-1236622245/"
+    },
     {
       "title": "Paul Mescal Says He’ll Start ‘Rationing’ Workload After ‘Hamnet’ Awards Campaign: ‘I Hope Nobody Gets to See Me Until 2028 When I’m Doing the Beatles’",
       "source": "Variety",
       "date": "2026-01-02",
       "url": "https://variety.com/2026/film/global/paul-mescal-rationing-career-hamnet-awards-run-1236622316/"
-    },
-    {
-      "title": "Disney+ Acquires ‘Brown Bread,’ Directorial Debut of Shaunagh Connaire, Former Exec at George and Amal Clooney’s Justice Foundation (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-02",
-      "url": "https://variety.com/2026/film/global/disney-brown-bread-directorial-debut-shaunagh-connaire-1236622315/"
-    },
-    {
-      "title": "Asian Film Awards Suspends Competitive Categories After Hong Kong Fire",
-      "source": "Variety",
-      "date": "2026-01-02",
-      "url": "https://variety.com/2026/film/awards/asian-film-awards-suspends-competitive-categories-hong-kong-fire-1236622305/"
     }
   ],
   "new_releases": [
+    {
+      "title": "映画「おしりたんてい さらば愛しき相棒よ」、1月3日朝９時からEテレで放送！　ゲスト声優に仲里依紗＆津田健次郎　あらすじ＆キャストまとめ",
+      "source": "映画.com",
+      "date": "2026-01-02",
+      "url": "https://eiga.com/news/20260102/9/"
+    },
     {
       "title": "「千と千尋の神隠し」あらすじ＆声優まとめ　かつて10歳だった人、これから10歳になる子どもに宮崎駿監督が本気で伝えたかったこと",
       "source": "映画.com",
@@ -140,12 +146,6 @@
       "source": "映画.com",
       "date": "2025-12-31",
       "url": "https://eiga.com/news/20251231/12/"
-    },
-    {
-      "title": "【2025年・今期アニメランキング振り返り】「薬屋のひとりごと」第2期が半年間、首位を席巻",
-      "source": "映画.com",
-      "date": "2025-12-31",
-      "url": "https://eiga.com/news/20251231/11/"
     }
   ],
   "bd_releases": [],
