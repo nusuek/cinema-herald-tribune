@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-01-01T23:09:30.689289",
+  "generated_at": "2026-01-02T00:48:11.717817",
   "top_stories": [
+    {
+      "title": "Will Smith Sued by Tour Violinist for Sexual Harassment and Wrongful Termination",
+      "source": "Variety",
+      "date": "2026-01-02",
+      "url": "https://variety.com/2026/music/news/will-smith-sued-by-violinist-for-sexual-harassment-1236621865/"
+    },
+    {
+      "title": "CNN’s Highly Anticipated Chevy Chase Doc Begins Streaming Tonight",
+      "source": "Variety",
+      "date": "2026-01-01",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-chevy-chase-documentary-online-streaming-cnn-1236621829/"
+    },
     {
       "title": "Best Horror of January 2026: Sam Raimi’s New Thriller, Ralph Fiennes in ’28 Years Later: The Bone Temple,’ a Killer Chimpanzee and More",
       "source": "Variety",
       "date": "2026-01-01",
       "url": "https://variety.com/lists/horror-movies-to-watch-january-2026/"
-    },
-    {
-      "title": "Chevy Chase Was ‘Depressed’ After His Fox Late-Night Show Was Canceled After 6 Weeks: ‘He Would Get in Bed and Not Come Out’",
-      "source": "Variety",
-      "date": "2026-01-01",
-      "url": "https://variety.com/2026/tv/news/chevy-chase-show-depressed-fox-late-night-bomb-cancel-1236621773/"
-    },
-    {
-      "title": "George Clooney Hits Back After Trump Slams Him on Social Media: ‘We Have to Make America Great Again. We’ll Start in November’",
-      "source": "Variety",
-      "date": "2026-01-01",
-      "url": "https://variety.com/2026/film/news/george-clooney-response-trump-social-media-slam-french-citizenship-1236621790/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ロン・ハワード監督×トム・ハンクス「ダ・ヴィンチ・コード」NHK BSで本日放送　あらすじ＆キャストまとめ",
+      "source": "映画.com",
+      "date": "2026-01-02",
+      "url": "https://eiga.com/news/20260102/2/"
+    },
+    {
+      "title": "「ブチ切れ令嬢は報復を誓いました。」大西沙織主演で26年7月TVアニメ化決定　制作はスタジオコメット",
+      "source": "映画.com",
+      "date": "2026-01-01",
+      "url": "https://eiga.com/news/20260102/1/"
+    },
     {
       "title": "ディズニーとOpenAIの提携が及ぼす影響　米メディアが解説",
       "source": "映画.com",
@@ -152,18 +164,6 @@
       "source": "映画.com",
       "date": "2025-12-31",
       "url": "https://eiga.com/news/20251231/6/"
-    },
-    {
-      "title": "「超時空要塞マクロス 愛・おぼえていますか」大みそかにTOKYO MXで放送",
-      "source": "映画.com",
-      "date": "2025-12-31",
-      "url": "https://eiga.com/news/20251231/5/"
-    },
-    {
-      "title": "「リング2」TOKYO MXで本日放送　あらすじ＆キャストまとめ【劇中で人が死ぬ→僧侶が即読経・即供養する特別企画も実施】",
-      "source": "映画.com",
-      "date": "2025-12-31",
-      "url": "https://eiga.com/news/20251231/4/"
     }
   ],
   "bd_releases": [],
