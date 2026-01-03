@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-03T00:44:41.988454",
+  "generated_at": "2026-01-03T02:42:41.932500",
   "top_stories": [
+    {
+      "title": "‘Dick Clark’s New Years Rockin’ Eve With Ryan Seacrest’ Scores Best Ratings In Four Years",
+      "source": "Variety",
+      "date": "2026-01-03",
+      "url": "https://variety.com/2026/tv/news/dick-clarks-new-years-rockin-eve-ryan-seacrest-ratings-1236622777/"
+    },
+    {
+      "title": "How Awards Season Contenders Dare to Get Real About the Struggles of Motherhood",
+      "source": "Variety",
+      "date": "2026-01-03",
+      "url": "https://variety.com/2026/film/focus/contenders-struggles-motherhood-1236622559/"
+    },
     {
       "title": "CBS Evening News Says ‘We Love America’ Is Now One of Its Guiding Principles",
       "source": "Variety",
       "date": "2026-01-03",
       "url": "https://variety.com/2026/tv/news/cbs-evening-news-we-love-america-guiding-principles-1236622708/"
-    },
-    {
-      "title": "‘Stranger Things’ and Prince: The Complicated Road to Bringing ‘When Doves Cry’ and ‘Purple Rain’ to the Show’s Finale",
-      "source": "Variety",
-      "date": "2026-01-03",
-      "url": "https://variety.com/2026/film/news/stranger-things-finale-prince-when-doves-cry-purple-rain-1236622700/"
-    },
-    {
-      "title": "How ‘Hamnet,’ ‘If I Had Legs I’d Kick You’ and More Films Explore Modern Anxieties Around Parenthood and Raising Kids",
-      "source": "Variety",
-      "date": "2026-01-02",
-      "url": "https://variety.com/2026/film/focus/hamnet-if-i-had-legs-id-kick-you-anxieties-parenthood-1236622558/"
     }
   ],
   "new_releases": [
+    {
+      "title": "大友克洋「AKIRA」今夜Eテレで放送！　あらすじ＆スタッフ＆声優まとめ",
+      "source": "映画.com",
+      "date": "2026-01-03",
+      "url": "https://eiga.com/news/20260103/3/"
+    },
     {
       "title": "トム・ハンクス×ロン・ハワード監督「天使と悪魔」NHK BSで本日放送！ あらすじ＆キャストまとめ",
       "source": "映画.com",
@@ -140,12 +146,6 @@
       "source": "映画.com",
       "date": "2025-12-31",
       "url": "https://eiga.com/news/20260101/3/"
-    },
-    {
-      "title": "ジャッキー・チェン主演「パンダプラン」　新年にふさわしい幸せオーラ全開なジャッキーの姿を捉えた場面写真",
-      "source": "映画.com",
-      "date": "2025-12-31",
-      "url": "https://eiga.com/news/20260101/2/"
     }
   ],
   "bd_releases": [],
