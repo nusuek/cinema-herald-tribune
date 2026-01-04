@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-03T23:09:16.392872",
+  "generated_at": "2026-01-04T00:54:11.182697",
   "top_stories": [
+    {
+      "title": "Tony Dokoupil Starts ‘CBS Evening News’ Run With Long Pete Hegseth Interview",
+      "source": "Variety",
+      "date": "2026-01-04",
+      "url": "https://variety.com/2026/tv/news/tony-dokoupil-starts-cbs-evening-news-pete-hegseth-1236623011/"
+    },
+    {
+      "title": "Leonardo DiCaprio to Miss Palm Springs Film Fest Gala Due to Venezuela Air Restrictions (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-01-03",
+      "url": "https://variety.com/2026/film/events/leonardo-dicaprio-palm-springs-film-fest-venezuela-1236622982/"
+    },
     {
       "title": "‘One Battle After Another’ Wins Best Picture at National Society of Film Critics Awards",
       "source": "Variety",
       "date": "2026-01-03",
       "url": "https://variety.com/2026/film/news/national-society-of-film-critics-one-battle-after-another-1236622973/"
-    },
-    {
-      "title": "How to Watch Amanda Serrano vs. Erika Cruz 2 Boxing Live Online",
-      "source": "Variety",
-      "date": "2026-01-03",
-      "url": "https://variety.com/2026/shopping/news/how-to-watch-amanda-serrano-vs-erika-cruz-2-online-livestream-1236610793/"
-    },
-    {
-      "title": "Leonardo DiCaprio Wonders if ‘People Still Have the Appetite’ for Movie Theaters: Will They Become ‘Like Jazz Bars?’",
-      "source": "Variety",
-      "date": "2026-01-03",
-      "url": "https://variety.com/2026/film/news/leonardo-dicaprio-appetite-movie-theaters-1236622961/"
     }
   ],
   "new_releases": [
+    {
+      "title": "トム・ハンクス主演「インフェルノ」本日午後12時半～NHK BSで放送　あらすじ＆キャストまとめ",
+      "source": "映画.com",
+      "date": "2026-01-03",
+      "url": "https://eiga.com/news/20260104/2/"
+    },
     {
       "title": "「クラスで2番目に可愛い女の子と友だちになった」26年4月放送開始　「reGretGirl」によるOP主題歌を収録した本PVなど公開",
       "source": "映画.com",
@@ -134,12 +140,6 @@
       "source": "映画.com",
       "date": "2026-01-01",
       "url": "https://eiga.com/news/20260101/12/"
-    },
-    {
-      "title": "菅原文太さん主演作「トラック野郎　一番星北へ帰る」TOKYO MXで元日深夜放送　あらすじ＆キャストまとめ",
-      "source": "映画.com",
-      "date": "2026-01-01",
-      "url": "https://eiga.com/news/20260101/11/"
     }
   ],
   "bd_releases": [],
