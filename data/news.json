@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-01-06T13:29:46.359907",
+  "generated_at": "2026-01-06T14:12:08.378820",
   "top_stories": [
     {
-      "title": "‘Cosmic Princess Kaguya!,’ Netflix Anime Film, Sets Streaming Debut, Unveils Trailer",
+      "title": "X-Men Are Back: ‘Avengers: Doomsday’ Teaser Reunites Xavier and Magneto, Cyclops Blasts Huge Eye Beam",
       "source": "Variety",
       "date": "2026-01-06",
-      "url": "https://variety.com/2026/tv/news/cosmic-princess-kaguya-netflix-anime-streaming-debut-trailer-1236624308/"
+      "url": "https://variety.com/2026/film/news/x-men-avengers-doomsday-teaser-cyclops-xavier-magneto-1236623852/"
     },
     {
-      "title": "Timothée Chalamet’s Wild, Susan Boyle-Referencing London Press Tour Helps ‘Marty Supreme’ Become A24’s Highest Grossing Film in U.K.",
+      "title": "‘The Death of Robin Hood’ Trailer: Hugh Jackman Gets Roughed Up and Bloody in A24’s Dark Reimagining of the Legend",
       "source": "Variety",
       "date": "2026-01-06",
-      "url": "https://variety.com/2026/film/global/marty-supreme-a24-highest-grossing-film-uk-1236624237/"
+      "url": "https://variety.com/2026/film/news/the-death-of-robin-hood-trailer-hugh-jackman-a24-1236623665/"
     },
     {
-      "title": "Béla Tarr, Iconic Hungarian Filmmaker Who Directed ‘Damnation’ and ‘Sátántangó,’ Dies at 70",
+      "title": "WPP Media Launches New Sports Practice While Ad Dollars Soar for Big Games",
       "source": "Variety",
       "date": "2026-01-06",
-      "url": "https://variety.com/2026/film/global/bela-tarr-dead-hungarian-director-damnation-satantango-1236624289/"
+      "url": "https://variety.com/2026/tv/news/wpp-media-launches-new-sports-practice-advertising-1236624154/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「サタンタンゴ」「ニーチェの馬」タル・ベーラ監督死去、70歳",
+      "source": "映画.com",
+      "date": "2026-01-06",
+      "url": "https://eiga.com/news/20260106/27/"
+    },
+    {
+      "title": "「【推しの子】」第3期のOP主題歌をちゃんみなが担当　第2弾PVと「中堅編」ビジュアルも公開",
+      "source": "映画.com",
+      "date": "2026-01-06",
+      "url": "https://eiga.com/news/20260106/25/"
+    },
     {
       "title": "傷ついた\"親愛なる隣人\"サム・ライミ版「スパイダーマン」バトルダメージ仕様のフィギュア登場",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-05",
       "url": "https://eiga.com/news/20260105/17/"
-    },
-    {
-      "title": "Mr.Children、22年ぶりに日曜劇場主題歌を担当　鈴木亮平主演「リブート」に主人公の背中を押す力強い新曲を提供",
-      "source": "映画.com",
-      "date": "2026-01-05",
-      "url": "https://eiga.com/news/20260105/16/"
-    },
-    {
-      "title": "「ワールドトリガー」リブートプロジェクトの全貌が明らかに――ティザームービー公開　「ワールドトリガーフェス」も開催決定",
-      "source": "映画.com",
-      "date": "2026-01-05",
-      "url": "https://eiga.com/news/20260105/15/"
     }
   ],
   "bd_releases": [],
