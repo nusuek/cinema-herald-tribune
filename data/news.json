@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-06T20:11:06.870708",
+  "generated_at": "2026-01-06T21:09:38.045821",
   "top_stories": [
+    {
+      "title": "‘Jimmy Kimmel Live’ to Decrease Music Performances to a ‘Variable’ Number Per Week",
+      "source": "Variety",
+      "date": "2026-01-06",
+      "url": "https://variety.com/2026/music/news/jimmy-kimmel-live-to-decrease-music-performances-1236624638/"
+    },
     {
       "title": "Kristen Stewart Teases Jesse Eisenberg for Watching Her Movie on a Laptop as They Break Down How Directing Changes Their Acting: ‘I Get Mad at People Now for Cutting’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-01-06",
       "url": "https://variety.com/2026/tv/news/stranger-things-5-ratings-record-netflix-1236624603/"
-    },
-    {
-      "title": "Skims and Team USA’s New Olympics Collection Is Officially Here",
-      "source": "Variety",
-      "date": "2026-01-06",
-      "url": "https://variety.com/shop/kim-kardashian-skims-team-usa-olympics-1235161733/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【本日開幕・入場無料】「国宝」の世界観を追体験する「映画『国宝』展」　吉沢亮に密着した特別企画展も同時開催",
+      "source": "映画.com",
+      "date": "2026-01-06",
+      "url": "https://eiga.com/news/20260107/2/"
+    },
+    {
+      "title": "「かぐや様は告らせたい」完結編が完全新作劇場版として製作決定　原作者・赤坂アカの完全書き下ろし原案",
+      "source": "映画.com",
+      "date": "2026-01-06",
+      "url": "https://eiga.com/news/20260107/1/"
+    },
     {
       "title": "「キングダム」第6シリーズの続編が製作決定　新ビジュアルに楊端和＆バジオウ「次は、我々だ」",
       "source": "映画.com",
@@ -170,18 +182,6 @@
       "source": "映画.com",
       "date": "2026-01-05",
       "url": "https://eiga.com/news/20260106/2/"
-    },
-    {
-      "title": "福山雅治主演「映画ラストマン」週末動員数実写映画ナンバー1、 前週比129パーセントの高稼働",
-      "source": "映画.com",
-      "date": "2026-01-05",
-      "url": "https://eiga.com/news/20260105/20/"
-    },
-    {
-      "title": "【興収100億円突破】「ズートピア2」ジュディとニックが向きあう新ポスター披露　1月10日から新たな入場特典も配布",
-      "source": "映画.com",
-      "date": "2026-01-05",
-      "url": "https://eiga.com/news/20260105/19/"
     }
   ],
   "bd_releases": [],
