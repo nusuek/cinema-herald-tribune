@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-06T11:09:40.374935",
+  "generated_at": "2026-01-06T12:19:12.449371",
   "top_stories": [
+    {
+      "title": "‘Avatar: Fire and Ash’ Tops U.K., Ireland Box Office for Third Weekend as ‘The Housemaid’ Continues Cleaning Up",
+      "source": "Variety",
+      "date": "2026-01-06",
+      "url": "https://variety.com/2026/film/box-office/uk-ireland-box-office-avatar-fire-and-ash-housemaid-1236624281/"
+    },
     {
       "title": "Oscar-Shortlisted ‘Pantyhose’ to Be Released on Cyon’s New Streaming Service (EXCLUSIVE)",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-01-06",
       "url": "https://variety.com/2026/tv/news/tony-dokoupil-mixes-up-segment-transition-cbs-evening-news-debut-1236624251/"
-    },
-    {
-      "title": "‘Fuzzlets’ Banner MiniStudio Built an AI-Native Animation IP That Went Viral — Now It’s Developing a Feature Film (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-06",
-      "url": "https://variety.com/2026/digital/global/fuzzlets-ministudio-ai-native-animation-ip-1236623684/"
     }
   ],
   "new_releases": [
+    {
+      "title": "クリティックス・チョイス賞発表　作品賞に「ワン・バトル・アフター・アナザー」",
+      "source": "映画.com",
+      "date": "2026-01-06",
+      "url": "https://eiga.com/news/20260106/23/"
+    },
+    {
+      "title": "サンドラ・ブロック出演作「スピード」「ゼロ・グラビティ」などBS12で無料放送",
+      "source": "映画.com",
+      "date": "2026-01-06",
+      "url": "https://eiga.com/news/20260106/22/"
+    },
     {
       "title": "仇討ちは本当に“美談”だったのか―「木挽町のあだ討ち」その裏に隠された物語を映し出す場面写真12点公開！",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-05",
       "url": "https://eiga.com/news/20260105/13/"
-    },
-    {
-      "title": "「トワウォ」テレンス・ラウが声の出演　映画「たべっ子どうぶつ THE MOVIE」香港版の限定上映が決定【劇場情報あり】",
-      "source": "映画.com",
-      "date": "2026-01-05",
-      "url": "https://eiga.com/news/20260105/14/"
-    },
-    {
-      "title": "石垣島に新たな映画祭誕生！　第1回島んちゅぬ映画祭3月20日～22日開催",
-      "source": "映画.com",
-      "date": "2026-01-05",
-      "url": "https://eiga.com/news/20260105/12/"
     }
   ],
   "bd_releases": [],
