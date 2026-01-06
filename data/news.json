@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-06T10:11:16.574830",
+  "generated_at": "2026-01-06T11:09:40.374935",
   "top_stories": [
     {
-      "title": "How ‘Fuzzlets’ Banner MiniStudio Built an AI-Native Animation IP That Went Viral and Is Now Scaling It (EXCLUSIVE)",
+      "title": "Oscar-Shortlisted ‘Pantyhose’ to Be Released on Cyon’s New Streaming Service (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-01-06",
+      "url": "https://variety.com/2026/film/global/pantyhose-cyon-streaming-service-oscars-1236623745/"
+    },
+    {
+      "title": "Tony Dokoupil Stumbles Through Segment Transition During ‘CBS Evening News’ Debut: ‘First Day, Big Problems Here’",
+      "source": "Variety",
+      "date": "2026-01-06",
+      "url": "https://variety.com/2026/tv/news/tony-dokoupil-mixes-up-segment-transition-cbs-evening-news-debut-1236624251/"
+    },
+    {
+      "title": "‘Fuzzlets’ Banner MiniStudio Built an AI-Native Animation IP That Went Viral — Now It’s Developing a Feature Film (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-01-06",
       "url": "https://variety.com/2026/digital/global/fuzzlets-ministudio-ai-native-animation-ip-1236623684/"
-    },
-    {
-      "title": "Mickey Rourke Denies He Set Up GoFundMe to Avoid Eviction: ‘If I Needed Money, I Wouldn’t Ask for No F—ing Charity’",
-      "source": "Variety",
-      "date": "2026-01-06",
-      "url": "https://variety.com/2026/film/news/mickey-rourke-denies-gofundme-dont-need-money-1236624080/"
-    },
-    {
-      "title": "Korea Box Office: ‘Avatar: Fire and Ash’ Rings in 2026 at No. 1",
-      "source": "Variety",
-      "date": "2026-01-06",
-      "url": "https://variety.com/2026/film/box-office/korea-box-office-avatar-fire-and-ash-2-1236624226/"
     }
   ],
   "new_releases": [
+    {
+      "title": "仇討ちは本当に“美談”だったのか―「木挽町のあだ討ち」その裏に隠された物語を映し出す場面写真12点公開！",
+      "source": "映画.com",
+      "date": "2026-01-06",
+      "url": "https://eiga.com/news/20260106/21/"
+    },
     {
       "title": "ハリウッドに「チャップリン・スタジオ」　喜劇王ゆかりの撮影所が原点回帰",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-05",
       "url": "https://eiga.com/news/20260105/12/"
-    },
-    {
-      "title": "「アバター」第3作、公開18日で興収10億ドル突破　続編の行方は？",
-      "source": "映画.com",
-      "date": "2026-01-05",
-      "url": "https://eiga.com/news/20260105/11/"
     }
   ],
   "bd_releases": [],
