@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-06T03:56:06.613772",
+  "generated_at": "2026-01-06T04:31:06.895632",
   "top_stories": [
     {
       "title": "Kristen Stewart Says She ‘Would Love’ to Direct a ‘Twilight’ Reboot: ‘I’m Doing It!’",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "「レスラー」のミッキー・ローク、家賃滞納で立ち退き危機",
+      "source": "映画.com",
+      "date": "2026-01-06",
+      "url": "https://eiga.com/news/20260106/10/"
+    },
     {
       "title": "レオナルド・ディカプリオ、ベネズエラ情勢の余波で映画祭欠席",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-05",
       "url": "https://eiga.com/news/20260105/4/"
-    },
-    {
-      "title": "不朽の名作「ショーシャンクの空に」本日午後NHK BSで放送！　あらすじ＆キャストまとめ",
-      "source": "映画.com",
-      "date": "2026-01-04",
-      "url": "https://eiga.com/news/20260105/3/"
     }
   ],
   "bd_releases": [],
