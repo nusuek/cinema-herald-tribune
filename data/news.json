@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-06T02:50:43.475258",
+  "generated_at": "2026-01-06T03:56:06.613772",
   "top_stories": [
+    {
+      "title": "Kristen Stewart Says She ‘Would Love’ to Direct a ‘Twilight’ Reboot: ‘I’m Doing It!’",
+      "source": "Variety",
+      "date": "2026-01-06",
+      "url": "https://variety.com/2026/film/news/kristen-stewart-direct-twilight-reboot-1236624193/"
+    },
     {
       "title": "New Documentary ‘Disneyland Handcrafter’ To Premiere on Disney+ (TV News Roundup)",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-01-06",
       "url": "https://variety.com/2026/film/awards/sag-awards-predictions-one-battle-after-another-record-1236624131/"
-    },
-    {
-      "title": "Con Pederson, ‘2001: A Space Odyssey’ Special Effects Supervisor, Dies at 91",
-      "source": "Variety",
-      "date": "2026-01-06",
-      "url": "https://variety.com/2026/film/news/con-pederson-dead-2001-a-space-odyssey-1236624108/"
     }
   ],
   "new_releases": [
+    {
+      "title": "レオナルド・ディカプリオ、ベネズエラ情勢の余波で映画祭欠席",
+      "source": "映画.com",
+      "date": "2026-01-06",
+      "url": "https://eiga.com/news/20260106/9/"
+    },
+    {
+      "title": "【新春特別対談】「ばけばけ」髙石あかり＆「風、薫る」上坂樹里、朝ドラ女優としての心意気",
+      "source": "映画.com",
+      "date": "2026-01-05",
+      "url": "https://eiga.com/news/20260106/1/"
+    },
     {
       "title": "「オーシャンズ14」にマット・デイモン、ドン・チードル、ジュリア・ロバーツが復帰",
       "source": "映画.com",
@@ -62,12 +74,6 @@
       "source": "映画.com",
       "date": "2026-01-05",
       "url": "https://eiga.com/news/20260106/2/"
-    },
-    {
-      "title": "【新春特別対談】「ばけばけ」髙石あかり＆「風、薫る」上坂樹里、朝ドラ女優としての心意気",
-      "source": "映画.com",
-      "date": "2026-01-05",
-      "url": "https://eiga.com/news/20260106/1/"
     },
     {
       "title": "福山雅治主演「映画ラストマン」週末動員数実写映画ナンバー1、 前週比129パーセントの高稼働",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-04",
       "url": "https://eiga.com/news/20260105/3/"
-    },
-    {
-      "title": "「攻殻機動隊」シリーズ作品から1600点超の原画を展示する「攻殻機動隊展 Ghost and the Shell」が1～4月に開催",
-      "source": "映画.com",
-      "date": "2026-01-04",
-      "url": "https://eiga.com/news/20260105/2/"
     }
   ],
   "bd_releases": [],
