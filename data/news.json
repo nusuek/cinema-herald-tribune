@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-07T07:15:42.229533",
+  "generated_at": "2026-01-07T08:15:09.033320",
   "top_stories": [
+    {
+      "title": "‘A Minecraft Movie,’ ‘Bridget Jones: Mad About The Boy’ Lead U.K., Ireland Box Office to $1.45 Billion in 2025, Best Post-Pandemic Result Yet",
+      "source": "Variety",
+      "date": "2026-01-07",
+      "url": "https://variety.com/2026/film/box-office/a-minecraft-movie-2025-uk-ireland-box-office-1-45-billion-1236624893/"
+    },
     {
       "title": "Sarah Jessica Parker on More ‘Sex and the City,’ ‘Hocus Pocus 3’ and Calls ‘The Family Stone’ Sequel a ‘Bittersweet Quandary’ Following Diane Keaton’s Death",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-01-07",
       "url": "https://variety.com/2026/tv/news/chris-redd-sold-pills-cast-members-snl-1236624871/"
-    },
-    {
-      "title": "Nivin Pauly Signs Multi-Film Deal With India’s Panorama Studios (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-07",
-      "url": "https://variety.com/2026/film/news/nivin-pauly-multifilm-deal-panorama-studios-1236624493/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【ネタバレ注意】「ストレンジャー・シングス」セイディー・シンク、最終話の結末について持論を展開",
+      "source": "映画.com",
+      "date": "2026-01-07",
+      "url": "https://feeds.eiga.com/news/20260107/17/"
+    },
     {
       "title": "ジュリア・ロバーツ、「ノッティングヒルの恋人」オファーを「バカバカしい」と一蹴していた　翻意の理由も告白",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-01-06",
       "url": "https://feeds.eiga.com/news/20260106/18/"
-    },
-    {
-      "title": "シム・リウ主演「スリーピングドッグス 香港秘密警察」映画化に「Mr.ノーバディ2」監督",
-      "source": "映画.com",
-      "date": "2026-01-06",
-      "url": "https://feeds.eiga.com/news/20260106/16/"
     }
   ],
   "bd_releases": [],
