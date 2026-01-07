@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-01-07T08:15:09.033320",
+  "generated_at": "2026-01-07T09:17:30.100399",
   "top_stories": [
     {
-      "title": "‘A Minecraft Movie,’ ‘Bridget Jones: Mad About The Boy’ Lead U.K., Ireland Box Office to $1.45 Billion in 2025, Best Post-Pandemic Result Yet",
+      "title": "‘A Minecraft Movie,’ ‘Bridget Jones: Mad About the Boy’ Lead U.K., Ireland Box Office to $1.45 Billion in 2025, Best Post-Pandemic Result Yet",
       "source": "Variety",
       "date": "2026-01-07",
       "url": "https://variety.com/2026/film/box-office/a-minecraft-movie-2025-uk-ireland-box-office-1-45-billion-1236624893/"
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "その製糖工場では夜9時以降外出してはいけない――インドネシア製ホラー「サトウキビは知っている」4月公開",
+      "source": "映画.com",
+      "date": "2026-01-07",
+      "url": "https://feeds.eiga.com/news/20260107/18/"
+    },
     {
       "title": "【ネタバレ注意】「ストレンジャー・シングス」セイディー・シンク、最終話の結末について持論を展開",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-01-06",
       "url": "https://feeds.eiga.com/news/20260106/17/"
-    },
-    {
-      "title": "マーベル最新作「ワンダーマン」1月28日配信決定！ヒーロー役を熱望する無名俳優の“秘密”とは？【本予告あり】",
-      "source": "映画.com",
-      "date": "2026-01-06",
-      "url": "https://feeds.eiga.com/news/20260106/18/"
     }
   ],
   "bd_releases": [],
