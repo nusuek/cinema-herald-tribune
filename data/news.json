@@ -1,37 +1,43 @@
 {
-  "generated_at": "2026-01-08T23:09:25.217681",
+  "generated_at": "2026-01-09T00:48:11.912568",
   "top_stories": [
     {
-      "title": "Kat Dennings Says Marvel ‘Did Scan Me. They Could Put Me in Anything They Want at This Point. I’m in the System’",
+      "title": "Fetty Wap Released From Prison Early After Serving Three Years in Drug Trafficking Case",
       "source": "Variety",
-      "date": "2026-01-08",
-      "url": "https://variety.com/2026/film/news/kat-dennings-marvel-body-scan-1236626426/"
+      "date": "2026-01-09",
+      "url": "https://variety.com/2026/music/news/fetty-wap-released-prison-three-years-drug-trafficking-1236626810/"
     },
     {
-      "title": "Salt-N-Pepa’s Lawsuit Against UMG Over Master Recording Ownership Dismissed by Judge",
+      "title": "‘People We Meet on Vacation’ Review: Undemanding Netflix Romcom Coasts on the Charms of Emily Bader and Tom Blyth",
       "source": "Variety",
-      "date": "2026-01-08",
-      "url": "https://variety.com/2026/music/news/salt-n-pepa-lawsuit-against-umg-ownership-dismissed-1236626742/"
+      "date": "2026-01-09",
+      "url": "https://variety.com/2026/film/reviews/people-we-meet-on-vacation-review-1236626469/"
     },
     {
-      "title": "‘Tangled’: Kathryn Hahn in Talks to Play Mother Gothel in Disney’s Live-Action Movie",
+      "title": "Conan O’Brien Criticizes Comedians Who Are Too Serious and Only Want to Say ‘F— Trump’: ‘If You’re Just Angry, You’ve Lost Your Best Tool’",
       "source": "Variety",
       "date": "2026-01-08",
-      "url": "https://variety.com/2026/film/news/kathryn-hahn-mother-gothel-tangled-1236626716/"
+      "url": "https://variety.com/2026/tv/news/conan-obrien-criticizes-comedians-anti-trump-serious-1236626599/"
     }
   ],
   "new_releases": [
-    {
-      "title": "「コート・スティーリング」。「ブラック・スワン」監督の知名度は興行にどのくらい影響があるのか？【コラム／細野真宏の試写室日記】",
-      "source": "映画.com",
-      "date": "2026-01-08",
-      "url": "https://eiga.com/news/20260109/2/"
-    },
     {
       "title": "永野芽郁×佐藤健「はたらく細胞」金曜ロードショーで1月30日に地上波初放送！　本編ノーカット",
       "source": "映画.com",
       "date": "2026-01-08",
       "url": "https://eiga.com/news/20260109/1/"
+    },
+    {
+      "title": "「キルアオ」26年4月に放送開始　追加キャストに三瓶由布子、和泉風花、梅田修一朗ら　メインPVも公開",
+      "source": "映画.com",
+      "date": "2026-01-09",
+      "url": "https://eiga.com/news/20260109/3/"
+    },
+    {
+      "title": "「コート・スティーリング」。「ブラック・スワン」監督の知名度は興行にどのくらい影響があるのか？【コラム／細野真宏の試写室日記】",
+      "source": "映画.com",
+      "date": "2026-01-08",
+      "url": "https://eiga.com/news/20260109/2/"
     },
     {
       "title": "「鎧真伝サムライトルーパー」第1話に前作メインキャラのナスティ柳生が「DST」司令官として登場",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-07",
       "url": "https://eiga.com/news/20260108/3/"
-    },
-    {
-      "title": "「果てしなきスカーレット」第53回アニー賞3部門にノミネート　細田守監督「この作品を観て、応援してくださった皆さんに心より感謝いたします」",
-      "source": "映画.com",
-      "date": "2026-01-07",
-      "url": "https://eiga.com/news/20260108/1/"
     }
   ],
   "bd_releases": [],
