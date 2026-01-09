@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-09T04:32:32.939339",
+  "generated_at": "2026-01-09T05:15:42.805100",
   "top_stories": [
+    {
+      "title": "‘A Concert for Altadena’ Raises $450K for Community Rebuilding, and Raises Spirits With Dawes, Brandon Flowers, Brad Paisley and Other Performers",
+      "source": "Variety",
+      "date": "2026-01-09",
+      "url": "https://variety.com/2026/music/concert-reviews/altadena-fire-benefit-concert-dawes-brandon-flowers-1236626776/"
+    },
     {
       "title": "‘Come See Me in the Good Light’ Takes Top Prize at Cinema Eye Honors",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-01-09",
       "url": "https://variety.com/2026/tv/news/john-mulaney-postpones-minneapolis-shows-ice-shooting-1236626949/"
-    },
-    {
-      "title": "Noah Wyle and ‘The Pitt’ Team on Langdon’s Uphill Battle, Adding a New Boss and Robby’s Sabbatical: He ‘Can’t Pretend He Doesn’t Have a Problem Anymore’",
-      "source": "Variety",
-      "date": "2026-01-09",
-      "url": "https://variety.com/2026/tv/news/the-pitt-premiere-noah-wyle-robby-season-2-langdon-return-1236624664/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「闇ヒーラー」第2期製作が決定　原作者から喜びのコメント到着",
+      "source": "映画.com",
+      "date": "2026-01-09",
+      "url": "https://eiga.com/news/20260109/12/"
+    },
+    {
+      "title": "“世代を越えたLGBTQI＋への理解と受容”を願う、「CROSSING　心の交差点」レバン・アキン監督インタビュー",
+      "source": "映画.com",
+      "date": "2026-01-09",
+      "url": "https://eiga.com/news/20260109/13/"
+    },
     {
       "title": "リチャード・リンクレイター最新作「ヌーヴェルヴァーグ」7月公開！　ゴダール「勝手にしやがれ」製作の裏側描く青春群像劇",
       "source": "映画.com",
@@ -170,18 +182,6 @@
       "source": "映画.com",
       "date": "2026-01-08",
       "url": "https://eiga.com/news/20260108/10/"
-    },
-    {
-      "title": "「アオハライド」出口夏希＆櫻井海音、「ストロボ・エッジSeason2」に参戦！ 同じ役柄のままクロスオーバー【最新予告あり】",
-      "source": "映画.com",
-      "date": "2026-01-08",
-      "url": "https://eiga.com/news/20260108/12/"
-    },
-    {
-      "title": "「CROSSING 心の交差点」あらすじ・概要・評論まとめ　～未完のまま交差し続ける言語と存在の映画～【おすすめの注目映画】",
-      "source": "映画.com",
-      "date": "2026-01-08",
-      "url": "https://eiga.com/news/20260108/9/"
     }
   ],
   "bd_releases": [],
