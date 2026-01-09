@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-01-09T02:51:18.435866",
+  "generated_at": "2026-01-09T03:56:40.554225",
   "top_stories": [
     {
-      "title": "Helen Mirren Thanks Golden Globes for ‘Two Large Balls — Which As You Can Imagine, Really Helped Me in My Career’",
+      "title": "‘Come See Me in the Good Light’ Takes Top Prize at Cinema Eye Honors",
       "source": "Variety",
       "date": "2026-01-09",
-      "url": "https://variety.com/2026/awards/news/helen-mirren-golden-globes-speech-1236626526/"
+      "url": "https://variety.com/2026/film/awards/come-see-me-in-the-good-light-cinema-eye-honors-1236626960/"
     },
     {
-      "title": "‘Sirât’ Composer Kangding Ray on How Synths Helped Craft the Film’s Techno Score and Create Desert Sounds",
+      "title": "John Mulaney Postpones Minneapolis Shows After ICE Shooting: ‘The Situation Is So Unsafe’",
       "source": "Variety",
       "date": "2026-01-09",
-      "url": "https://variety.com/2026/artisans/news/sirat-kangding-ray-techno-score-1236625656/"
+      "url": "https://variety.com/2026/tv/news/john-mulaney-postpones-minneapolis-shows-ice-shooting-1236626949/"
     },
     {
-      "title": "‘Bug’ Broadway Review: Carrie Coon’s Gutting Performance Elevates This Horror Thriller",
+      "title": "Noah Wyle and ‘The Pitt’ Team on Langdon’s Uphill Battle, Adding a New Boss and Robby’s Sabbatical: He ‘Can’t Pretend He Doesn’t Have a Problem Anymore’",
       "source": "Variety",
       "date": "2026-01-09",
-      "url": "https://variety.com/2026/legit/reviews/bug-broadway-review-carrie-coon-1236625316/"
+      "url": "https://variety.com/2026/tv/news/the-pitt-premiere-noah-wyle-robby-season-2-langdon-return-1236624664/"
     }
   ],
   "new_releases": [
+    {
+      "title": "リチャード・リンクレイター最新作「ヌーヴェルヴァーグ」7月公開！　ゴダール「勝手にしやがれ」製作の裏側描く青春群像劇",
+      "source": "映画.com",
+      "date": "2026-01-09",
+      "url": "https://eiga.com/news/20260109/11/"
+    },
+    {
+      "title": "全米が熱狂したネコ動画の祭典「CatVideoFest」2月20日から期間限定で日本公開決定",
+      "source": "映画.com",
+      "date": "2026-01-09",
+      "url": "https://eiga.com/news/20260109/10/"
+    },
+    {
+      "title": "キム・ミニ×もふもふの猫、ホン・サンス監督長編30作目「私たちの一日」キービジュアル＆予告＆場面写真公開",
+      "source": "映画.com",
+      "date": "2026-01-09",
+      "url": "https://eiga.com/news/20260109/6/"
+    },
+    {
+      "title": "“日本でも撮影を行った自信作”とドウェイン・ジョンソン「スマッシング・マシーン」邦題＆日本公開決定、特報公開！",
+      "source": "映画.com",
+      "date": "2026-01-09",
+      "url": "https://eiga.com/news/20260109/9/"
+    },
     {
       "title": "藤岡ファミリー集結！ 長男・真威人は父・藤岡弘、お手製弁当の驚きのメニュー明かす",
       "source": "映画.com",
@@ -158,42 +182,6 @@
       "source": "映画.com",
       "date": "2026-01-08",
       "url": "https://eiga.com/news/20260108/9/"
-    },
-    {
-      "title": "「ブラック・レイン」NHK BSプレミアムシネマで本日放送　高倉健、松田優作、マイケル・ダグラス豪華共演",
-      "source": "映画.com",
-      "date": "2026-01-08",
-      "url": "https://eiga.com/news/20260108/8/"
-    },
-    {
-      "title": "「おくびょう鳥が歌うほうへ」あらすじ・概要・評論まとめ　～オークニーの小さな島で彼女が見つけた大切なこと～【おすすめの注目映画】",
-      "source": "映画.com",
-      "date": "2026-01-08",
-      "url": "https://eiga.com/news/20260108/7/"
-    },
-    {
-      "title": "「悪魔のいけにえ 4Kデジタルリマスター 公開50周年記念版」あらすじ・概要・評論まとめ　～低予算ホラーから伝説へ――「悪魔のいけにえ」が描く恐怖とアメリカの歪み～【おすすめの注目映画】",
-      "source": "映画.com",
-      "date": "2026-01-08",
-      "url": "https://eiga.com/news/20260108/6/"
-    },
-    {
-      "title": "永瀬廉×吉川愛「鬼の花嫁」　2人の愛を揺るがす新キャストは伊藤健太郎、片岡凜、尾野真千子ら8人【コメントあり】",
-      "source": "映画.com",
-      "date": "2026-01-07",
-      "url": "https://eiga.com/news/20260108/2/"
-    },
-    {
-      "title": "傷ついた\"親愛なる隣人\"サム・ライミ版「スパイダーマン」バトルダメージ仕様のフィギュア登場",
-      "source": "映画.com",
-      "date": "2026-01-06",
-      "url": "https://eiga.com/news/20260106/24/"
-    },
-    {
-      "title": "シルベスター・スタローン主演の山岳アクション「クリフハンガー」午後ローで本日放送！ あらすじ＆キャストまとめ",
-      "source": "映画.com",
-      "date": "2026-01-08",
-      "url": "https://eiga.com/news/20260108/5/"
     }
   ],
   "bd_releases": [],
