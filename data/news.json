@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-09T11:09:56.985515",
+  "generated_at": "2026-01-09T12:19:43.106586",
   "top_stories": [
+    {
+      "title": "BAFTA Awards Longlists: ‘One Battle After Another’ Leads With Record 16 Nods, ‘Hamnet’ and ‘Sinners’ Follow With 14 Each",
+      "source": "Variety",
+      "date": "2026-01-09",
+      "url": "https://variety.com/2026/film/awards/bafta-awards-longlists-one-battle-after-another-hamnet-sinners-1236627069/"
+    },
     {
       "title": "X Limits AI Image Editing to Paid Users After Grok Deepfake Controversy Spurs U.K. Ban Threat",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-01-09",
       "url": "https://variety.com/2026/film/news/shabana-azmi-ritesh-batra-humans-in-the-loop-oscars-1236627051/"
-    },
-    {
-      "title": "‘Mortal Kombat II’ Star Ludi Lin Joins ‘Comedy InvAsian III’ Cast (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-09",
-      "url": "https://variety.com/2026/tv/news/mortal-kombat-ii-ludi-lin-comedy-invasian-iii-cast-1236627039/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「かぐや姫の物語」あらすじ、声優まとめ　実感のあるキャラクターと余白のある美術で描かれた珠玉のアニメーション",
+      "source": "映画.com",
+      "date": "2026-01-09",
+      "url": "https://eiga.com/news/20260109/21/"
+    },
     {
       "title": "【2026年公開】人気漫画の実写映画・あらすじ・動画を一挙紹介　「SAKAMOTO DAYS」「キングダム」続編、「ルックバック」",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-08",
       "url": "https://eiga.com/news/20260108/18/"
-    },
-    {
-      "title": "「魔女の旅々」新作劇場アニメが製作決定　新録ボイスをおさめた特報を披露",
-      "source": "映画.com",
-      "date": "2026-01-08",
-      "url": "https://eiga.com/news/20260108/17/"
     }
   ],
   "bd_releases": [],
