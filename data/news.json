@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-11T03:01:48.462781",
+  "generated_at": "2026-01-11T04:38:18.513223",
   "top_stories": [
+    {
+      "title": "‘One Battle After Another,’ ‘Sentimental Value’ and ‘Hamnet’ Among AARP Movies for Grownups Winners",
+      "source": "Variety",
+      "date": "2026-01-11",
+      "url": "https://variety.com/2026/awards/news/aarp-movies-for-grownups-winners-2026-1236628100/"
+    },
     {
       "title": "Bob Weir, Grateful Dead Singer, Guitarist and Co-Founder, Dies at 78",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-01-10",
       "url": "https://variety.com/2026/music/news/kennedy-center-split-washington-national-opera-who-started-1236628120/"
-    },
-    {
-      "title": "T.K. Carter, ‘Punky Brewster’ and ‘The Thing’ Actor, Dies at 69",
-      "source": "Variety",
-      "date": "2026-01-10",
-      "url": "https://variety.com/2026/film/news/tk-carter-dead-the-thing-1236628098/"
     }
   ],
   "new_releases": [
+    {
+      "title": "狂気の“巨大首刈りマシーン”登場　「スター・ウォーズ」2倍の製作費でセックスと暴力に明け暮れる暴君描く「カリギュラ」本編映像",
+      "source": "映画.com",
+      "date": "2026-01-11",
+      "url": "https://eiga.com/news/20260111/4/"
+    },
     {
       "title": "【世界の映画館めぐり】名古屋空港、滑走路の見える映画館で「ペリリュー」鑑賞＆あいち航空ミュージアムで「風立ちぬ」の背景を学ぶ",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-09",
       "url": "https://eiga.com/news/20260109/6/"
-    },
-    {
-      "title": "“日本でも撮影を行った自信作”とドウェイン・ジョンソン「スマッシング・マシーン」邦題＆日本公開決定、特報公開！",
-      "source": "映画.com",
-      "date": "2026-01-09",
-      "url": "https://eiga.com/news/20260109/9/"
     }
   ],
   "bd_releases": [],
