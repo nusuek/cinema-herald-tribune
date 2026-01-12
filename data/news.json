@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-12T06:19:22.935465",
+  "generated_at": "2026-01-12T07:18:14.211039",
   "top_stories": [
     {
       "title": "Sweden’s Göteborg Film Festival Introduces Lie Detector",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "手塚治虫の名作漫画をコントアニメ化「ブラックジャックやねん」1月8日から配信中",
+      "source": "映画.com",
+      "date": "2026-01-12",
+      "url": "https://eiga.com/news/20260112/11/"
+    },
     {
       "title": "【第83回ゴールデングローブ賞】Netflixの「アドレセンス」が最多4部門を受賞",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-01-10",
       "url": "https://eiga.com/news/20260110/4/"
-    },
-    {
-      "title": "「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」7月放送開始　主人公・久瀬シイナ役に橘杏咲",
-      "source": "映画.com",
-      "date": "2026-01-10",
-      "url": "https://eiga.com/news/20260110/3/"
     }
   ],
   "bd_releases": [],
