@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-01-13T09:17:13.795390",
+  "generated_at": "2026-01-13T10:11:37.975111",
   "top_stories": [
     {
-      "title": "HBO Max Drops Trailer for First Italian Original Marco Bellocchio’s ‘Portobello’ as It Launches in Italy and Other Key European Markets (EXCLUSIVE)",
+      "title": "HBO Max Rolls Out in 8 European Territories, Announces New Prime Video Bundling Deal",
+      "source": "Variety",
+      "date": "2026-01-13",
+      "url": "https://variety.com/2026/tv/global/hbo-max-european-territories-prime-video-bundle-1236630025/"
+    },
+    {
+      "title": "HBO Max Drops Trailer for First Italian Original, Marco Bellocchio’s ‘Portobello,’ as It Launches in Italy and Other Key European Markets (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-01-13",
       "url": "https://variety.com/2026/streaming/global/hbo-max-italian-original-marco-bellocchio-portobello-1236629303/"
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-01-13",
       "url": "https://variety.com/2026/tv/news/bbc-trump-lawsuit-dismissal-motion-panorama-1236630008/"
-    },
-    {
-      "title": "Jon Stewart Exclaims ‘What the F— Is Happening in This Country?’: ‘From Minnesota, to Venezuela, to Iran’",
-      "source": "Variety",
-      "date": "2026-01-13",
-      "url": "https://variety.com/2026/tv/news/jon-stewart-what-is-happening-minnesota-venezuela-iran-1236630000/"
     }
   ],
   "new_releases": [
+    {
+      "title": "実写版「塔の上のラプンツェル」に「アガサ・オール・アロング」女優か",
+      "source": "映画.com",
+      "date": "2026-01-13",
+      "url": "https://eiga.com/news/20260113/17/"
+    },
+    {
+      "title": "「ズートピア2」が6週連続V！　新作は「五十年目の俺たちの旅」が7位、「エヴァ」再上映もランクイン【国内映画ランキング】",
+      "source": "映画.com",
+      "date": "2026-01-13",
+      "url": "https://eiga.com/news/20260113/22/"
+    },
     {
       "title": "オスカー俳優キリアン・マーフィ、「28年後... 白骨の神殿」に出演！　24年ぶりにシリーズ復帰で「誇りに思う」",
       "source": "映画.com",
@@ -188,18 +200,6 @@
       "source": "映画.com",
       "date": "2026-01-12",
       "url": "https://eiga.com/news/20260112/4/"
-    },
-    {
-      "title": "木村拓哉主演「教場 Requiem」予告編完成！　主題歌はUruの新曲",
-      "source": "映画.com",
-      "date": "2026-01-11",
-      "url": "https://eiga.com/news/20260112/3/"
-    },
-    {
-      "title": "「映画ドラえもん 新・のび太の海底鬼岩城」宣伝アンバサダーに平愛梨が就任　アニメの声優にも初挑戦",
-      "source": "映画.com",
-      "date": "2026-01-11",
-      "url": "https://eiga.com/news/20260112/2/"
     }
   ],
   "bd_releases": [],
