@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-01-15T11:10:18.333685",
+  "generated_at": "2026-01-15T12:19:57.653618",
   "top_stories": [
     {
-      "title": "X Implements New Grok AI Restrictions Following U.K. Investigation, Global Pressure",
+      "title": "Maya Jama on ‘Love Island’s’ Global Success and Finally Pursuing Acting With ‘The Gentlemen’ Role: ‘It’s Always Been in the Back of My Mind’",
       "source": "Variety",
       "date": "2026-01-15",
-      "url": "https://variety.com/2026/digital/news/x-grok-ai-restrictions-uk-investigation-1236632018/"
+      "url": "https://variety.com/2026/tv/global/maya-jama-love-island-global-success-the-gentlemen-acting-debut-1236630831/"
     },
     {
-      "title": "Berlin-Bound Indonesian Horror ‘Sleep No More,’ From Locarno Winner Edwin, Unveils First Trailer (EXCLUSIVE)",
+      "title": "‘Misericordia’ Distributor Janus Films Wins Unifrance Distribution Prize for Robust and Witty Release",
       "source": "Variety",
       "date": "2026-01-15",
-      "url": "https://variety.com/2026/film/news/berlin-indonesian-horror-sleep-no-more-trailer-1236630819/"
+      "url": "https://variety.com/2026/film/global/misericordia-janus-films-unifrance-distribution-prize-1236632035/"
     },
     {
-      "title": "Sámi Drama ‘Árru’ Boarded by The Yellow Affair Ahead of World Premiere at Berlinale (EXCLUSIVE)",
+      "title": "Ken Watanabe and Lee Sang-il on ‘Kokuho,’ the Kabuki Gamble That Became Japan’s Top Live-Action Film and an Oscars Contender: ‘This Film Is About Pursuing Beauty’",
       "source": "Variety",
       "date": "2026-01-15",
-      "url": "https://variety.com/2026/film/global/sami-drama-arru-the-yellow-affair-berlinale-1236632012/"
+      "url": "https://variety.com/2026/film/news/ken-watanabe-lee-sang-il-kokuho-oscars-box-office-1236632099/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【新作が7年ぶり劇場公開】「スター・ウォーズ」イヤーを盛り上げる関連作品3タイトル",
+      "source": "映画.com",
+      "date": "2026-01-15",
+      "url": "https://eiga.com/news/20260115/25/"
+    },
+    {
+      "title": "押山清高ライブドローイング、藤野の部屋再現、藤本タツキのネーム展示も　ファン必見、58分では見終われない！「劇場アニメ ルックバック展」",
+      "source": "映画.com",
+      "date": "2026-01-15",
+      "url": "https://eiga.com/news/20260115/24/"
+    },
     {
       "title": "「映画　えんとつ町のプペル　約束の時計台」ベルリン国際映画祭に出品　本ポスターを披露",
       "source": "映画.com",
@@ -170,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-01-14",
       "url": "https://eiga.com/news/20260114/24/"
-    },
-    {
-      "title": "【1月公開映画：期待度ランキング】「ワーキングマン」「ウォーフェア　戦地最前線」を抑えて1位に輝いたのは……",
-      "source": "映画.com",
-      "date": "2026-01-14",
-      "url": "https://eiga.com/news/20260114/22/"
     }
   ],
   "bd_releases": [],
