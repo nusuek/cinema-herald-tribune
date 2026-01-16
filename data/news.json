@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-16T22:09:53.810388",
+  "generated_at": "2026-01-16T23:09:20.221956",
   "top_stories": [
+    {
+      "title": "Jennifer Lawrence Says ‘I Turned Down’ Tarantino’s ‘Hateful Eight’ Offer and Then Lost ‘Once Upon a Time in Hollywood’ Role After the ‘Internet Went Out of Its Way to Call Me Ugly’",
+      "source": "Variety",
+      "date": "2026-01-16",
+      "url": "https://variety.com/2026/film/news/jennifer-lawrence-tarantino-hollywood-ugly-sharon-tate-1236633346/"
+    },
+    {
+      "title": "‘Nuremberg’ Emerges as Box Office Hidden Gem",
+      "source": "Variety",
+      "date": "2026-01-16",
+      "url": "https://variety.com/2026/film/news/nuremberg-box-office-hidden-gem-1236633390/"
+    },
     {
       "title": "A$AP Rocky Steps Back Into the Arena, All the Wiser, on the Ambitious ‘Don’t Be Dumb’: Album Review",
       "source": "Variety",
       "date": "2026-01-16",
       "url": "https://variety.com/2026/music/album-reviews/asap-rocky-dont-be-dumb-album-review-1236633463/"
-    },
-    {
-      "title": "Snoop Dogg to Star in Eli Roth’s ‘Don’t Go in That House, Bitch!’ (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-16",
-      "url": "https://variety.com/2026/film/columns/snoop-dogg-star-in-eli-roth-dont-go-in-that-house-bitch-1236633474/"
-    },
-    {
-      "title": "OpenAI’s ChatGPT to Start Running Ads Based on Your Chatbot Conversations",
-      "source": "Variety",
-      "date": "2026-01-16",
-      "url": "https://variety.com/2026/digital/news/openai-chatgpt-advertising-user-conversations-1236633426/"
     }
   ],
   "new_releases": [
+    {
+      "title": "鈴木福を主演に起用した理由　「ヒグマ」内藤監督が明かす",
+      "source": "映画.com",
+      "date": "2026-01-16",
+      "url": "https://eiga.com/news/20260117/1/"
+    },
     {
       "title": "【入場特典リスト 1月最新版】「ルックバック」「藤本タツキ　17-26」再上映に豪華特典　「ズートピア2」特典は？",
       "source": "映画.com",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2026-01-15",
       "url": "https://eiga.com/news/20260115/29/"
-    },
-    {
-      "title": "キャストも鑑賞を“激推し”「MERCY マーシー AI裁判」IMAX＆プレミアムラージフォーマット上映決定！ 限定入場者特典も実施",
-      "source": "映画.com",
-      "date": "2026-01-15",
-      "url": "https://eiga.com/news/20260115/28/"
     }
   ],
   "bd_releases": [],
