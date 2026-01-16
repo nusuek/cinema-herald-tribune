@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-15T23:10:26.022749",
+  "generated_at": "2026-01-16T00:49:33.478593",
   "top_stories": [
+    {
+      "title": "‘Daily Show’ Host Michael Kosta Joins Tracy Morgan Series ‘The Fall and Rise of Reggie Dinkins’ as Guest Star (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-01-16",
+      "url": "https://variety.com/2026/tv/news/michael-kosta-tracy-morgan-nbc-show-reggie-dinkins-1236632788/"
+    },
     {
       "title": "Legendary Sells Minority Stake to Tokyo Broadcasting System in Japanese IP Partnership",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-01-15",
       "url": "https://variety.com/2026/film/news/kathleen-kennedy-lucasfilm-dave-filoni-lynwen-brennan-star-wars-1236624307/"
-    },
-    {
-      "title": "Taye Diggs Is Hollywood’s Newest Vertical Drama Star, Playing a Man Romancing His Best Friend’s Daughter in CandyJar Original (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-15",
-      "url": "https://variety.com/2026/tv/news/taye-diggs-vertical-drama-romance-candyjar-1236632447/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ウィキッド 永遠の約束」珠玉のナンバーで彩られたミュージカル予告披露！IMAXなど特別フォーマット上映も決定",
+      "source": "映画.com",
+      "date": "2026-01-16",
+      "url": "https://eiga.com/news/20260116/6/"
+    },
+    {
+      "title": "再会したヒョンビンとリリー・フランキーが熱い抱擁！「メイド・イン・コリア」メイキング映像公開",
+      "source": "映画.com",
+      "date": "2026-01-15",
+      "url": "https://eiga.com/news/20260116/5/"
+    },
     {
       "title": "4Kで蘇るヨン様の微笑み、チェ・ジウの涙 「映画 冬のソナタ 日本特別版」名曲が彩る予告編公開",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-14",
       "url": "https://eiga.com/news/20260115/7/"
-    },
-    {
-      "title": "【明日から公開】「ウォーフェア　戦地最前線」極限状態での脱出ミッションを捉えた特別動画＆キャラクター相関図【Dolby劇場リストあり】",
-      "source": "映画.com",
-      "date": "2026-01-14",
-      "url": "https://eiga.com/news/20260115/6/"
-    },
-    {
-      "title": "「神の雫 Drops of God」シーズン2の日本版本予告公開！　山下智久の“心の葛藤”とらえた場面写真も披露",
-      "source": "映画.com",
-      "date": "2026-01-14",
-      "url": "https://eiga.com/news/20260115/4/"
     }
   ],
   "bd_releases": [],
