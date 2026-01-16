@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-16T06:16:45.681552",
+  "generated_at": "2026-01-16T07:15:11.668769",
   "top_stories": [
+    {
+      "title": "Sony Pictures Networks India Restructures Leadership in Strategic Shift",
+      "source": "Variety",
+      "date": "2026-01-16",
+      "url": "https://variety.com/2026/tv/news/sony-pictures-networks-india-leadership-restructure-1236632887/"
+    },
     {
       "title": "‘Culinary Class Wars’ Renewed for Season 3 at Netflix With Team-Based Format",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-01-16",
       "url": "https://variety.com/2026/tv/news/michael-kosta-tracy-morgan-nbc-show-reggie-dinkins-1236632788/"
-    },
-    {
-      "title": "Legendary Sells Minority Stake to Tokyo Broadcasting System in Japanese IP Partnership",
-      "source": "Variety",
-      "date": "2026-01-15",
-      "url": "https://variety.com/2026/film/news/legendary-sells-minority-stake-tokyo-broadcasting-system-1236632775/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ルックバック」押山清高監督が、人生の最後に描きたいものは？　経済学者・成田悠輔氏と描くこと、AIとアニメ、映画についてトーク",
+      "source": "映画.com",
+      "date": "2026-01-16",
+      "url": "https://eiga.com/news/20260116/18/"
+    },
+    {
+      "title": "「閃光のハサウェイ キルケーの魔女」TVスポット映像に「逆襲のシャア」主役機・νガンダムが登場",
+      "source": "映画.com",
+      "date": "2026-01-16",
+      "url": "https://eiga.com/news/20260116/17/"
+    },
     {
       "title": "「スプリングスティーン　孤独のハイウェイ」のスコット・クーパーがUFOスリラーを監督",
       "source": "映画.com",
@@ -182,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-01-15",
       "url": "https://eiga.com/news/20260115/18/"
-    },
-    {
-      "title": "ゾーイ・サルダナ、史上最高の興行収入を記録した俳優に",
-      "source": "映画.com",
-      "date": "2026-01-15",
-      "url": "https://eiga.com/news/20260115/21/"
     }
   ],
   "bd_releases": [],
