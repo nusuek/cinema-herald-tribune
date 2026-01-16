@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-01-16T11:09:56.398028",
+  "generated_at": "2026-01-16T12:19:18.350109",
   "top_stories": [
     {
-      "title": "BBC in Talks to Produce Content for YouTube in Landmark Deal (Report)",
+      "title": "Berlin Film Festival to Open With Afghan Director Shahrbanoo Sadat’s Romantic Comedy ‘No Good Men’",
+      "source": "Variety",
+      "date": "2026-01-16",
+      "url": "https://variety.com/2026/film/global/afghan-shahrbanoo-sadat-no-good-men-berlin-film-festival-1236632975/"
+    },
+    {
+      "title": "David Ellison Embarks on European Lobbying Trek to Rally Support for His Hostile Bid for Warner Bros. Discovery",
+      "source": "Variety",
+      "date": "2026-01-16",
+      "url": "https://variety.com/2026/film/global/david-ellison-european-lobbying-trek-warner-bros-bid-1236632905/"
+    },
+    {
+      "title": "BBC in Talks to Produce Content for YouTube in Landmark Deal",
       "source": "Variety",
       "date": "2026-01-16",
       "url": "https://variety.com/2026/digital/global/bbc-produce-content-youtube-deal-1236632931/"
-    },
-    {
-      "title": "EO Media Brings Speciality Titles, Rom-Coms, Holiday Movies to Content Americas",
-      "source": "Variety",
-      "date": "2026-01-16",
-      "url": "https://variety.com/2026/tv/global/eo-media-nicely-entertainment-gluon-media-1236632919/"
-    },
-    {
-      "title": "David Jonsson and Aimee Lou Wood to Host BAFTA Film Awards Nominations (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-16",
-      "url": "https://variety.com/2026/film/awards/david-jonsson-aimee-lou-wood-host-bafta-award-nominations-1236631559/"
     }
   ],
   "new_releases": [
+    {
+      "title": "染谷将太主演、コンビニ舞台のホラー「チルド」ベルリン国際映画祭フォーラム部門に選出　26年公開決定",
+      "source": "映画.com",
+      "date": "2026-01-16",
+      "url": "https://eiga.com/news/20260116/27/"
+    },
+    {
+      "title": "バブル時代の東京とともに坂本龍一を映したドキュメント「Tokyo Melody Ryuichi Sakamoto」エリザベス・レナード監督インタビュー",
+      "source": "映画.com",
+      "date": "2026-01-16",
+      "url": "https://eiga.com/news/20260116/20/"
+    },
     {
       "title": "ディズニープラスで見られる「呪術廻戦」あらすじ・キャラクター・声優まとめ【第3期「死滅回游 前編」配信中】",
       "source": "映画.com",
@@ -50,12 +62,6 @@
       "source": "映画.com",
       "date": "2026-01-16",
       "url": "https://eiga.com/news/20260116/23/"
-    },
-    {
-      "title": "バブル時代の東京とともに坂本龍一を映したドキュメント「Tokyo Melody Ryuichi Sakamoto」エリザベス・レナード監督インタビュー",
-      "source": "映画.com",
-      "date": "2026-01-16",
-      "url": "https://eiga.com/news/20260116/20/"
     },
     {
       "title": "「進撃の巨人」復活上映の第2弾入場特典はリヴァイのビジュアルカード　4DX、MX4D、ドルビーアトモス上映も決定",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2026-01-15",
       "url": "https://eiga.com/news/20260115/27/"
-    },
-    {
-      "title": "バスケが題材のメディアプロジェクト「ZERO RISE」TVアニメと舞台で展開　笹森裕貴ら出演者総勢11人を発表",
-      "source": "映画.com",
-      "date": "2026-01-15",
-      "url": "https://eiga.com/news/20260115/26/"
     }
   ],
   "bd_releases": [],
