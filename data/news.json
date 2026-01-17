@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-01-17T05:10:58.404074",
+  "generated_at": "2026-01-17T06:14:35.154824",
   "top_stories": [
-    {
-      "title": "Donald Trump Bought at Least $1 Million in Bonds in Netflix, Warner Bros. Discovery Following Their Deal Announcement",
-      "source": "Variety",
-      "date": "2026-01-17",
-      "url": "https://variety.com/2026/tv/news/trump-bought-netflix-warner-bros-discovery-bonds-1236633738/"
-    },
     {
       "title": "NBC Orders Two More Drama Pilots: ‘What the Dead Know’ From Dick Wolf and a ‘Puzzle Master’ Adaptation",
       "source": "Variety",
@@ -18,9 +12,21 @@
       "source": "Variety",
       "date": "2026-01-17",
       "url": "https://variety.com/2026/film/news/mike-flanagan-exorcist-release-date-1236633686/"
+    },
+    {
+      "title": "Donald Trump Bought at Least $1 Million in Netflix, Warner Bros. Discovery Bonds Following Their Deal Announcement",
+      "source": "Variety",
+      "date": "2026-01-17",
+      "url": "https://variety.com/2026/tv/news/trump-bought-netflix-warner-bros-discovery-bonds-1236633738/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「氷の城壁」第1弾PV＆下校時の小雪たちの姿を収めたキービジュアルなど公開",
+      "source": "映画.com",
+      "date": "2026-01-17",
+      "url": "https://eiga.com/news/20260117/7/"
+    },
     {
       "title": "モリー・ゴードン監督・主演のA24新作「Peaked」にエマ・マッキー",
       "source": "映画.com",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2026-01-16",
       "url": "https://eiga.com/news/20260116/6/"
-    },
-    {
-      "title": "再会したヒョンビンとリリー・フランキーが熱い抱擁！「メイド・イン・コリア」メイキング映像公開",
-      "source": "映画.com",
-      "date": "2026-01-15",
-      "url": "https://eiga.com/news/20260116/5/"
     }
   ],
   "bd_releases": [],
