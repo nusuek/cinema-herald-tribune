@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T07:11:04.218877",
+  "generated_at": "2026-01-18T08:12:55.129722",
   "top_stories": [
     {
       "title": "Filmmaker Cedric Klapisch Collects French Cinema Award at Familial, Culture Ministry Ceremony",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "「スーパーの裏でヤニ吸うふたり」7月放送開始、制作は旭プロダクション　ティザーPV披露",
+      "source": "映画.com",
+      "date": "2026-01-18",
+      "url": "https://eiga.com/news/20260118/7/"
+    },
     {
       "title": "ニコラス・ケイジ＆ジャスティン・ロング、アクションスリラー「Best Pancakes in the County」に主演",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-01-16",
       "url": "https://eiga.com/news/20260116/19/"
-    },
-    {
-      "title": "「バンドリ！ ゆめ∞みた」今夏放送開始、監督は梅津朋美　「Ave Mujica」新作映画は今秋公開",
-      "source": "映画.com",
-      "date": "2026-01-16",
-      "url": "https://eiga.com/news/20260116/24/"
     }
   ],
   "bd_releases": [],
