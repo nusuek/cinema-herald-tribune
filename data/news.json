@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-19T07:20:17.640140",
+  "generated_at": "2026-01-19T08:17:45.243882",
   "top_stories": [
+    {
+      "title": "China Box Office: ‘Zootopia 2’ Leads Again as Market Cools Further Ahead of Lunar New Year",
+      "source": "Variety",
+      "date": "2026-01-19",
+      "url": "https://variety.com/2026/film/box-office/china-box-office-zootopia-2-lunar-new-year-1236634521/"
+    },
     {
       "title": "Stanley Kwan, Anthony Chen Among Producers for Hong Kong HAF’s First Lineup of 17 In-Development Projects",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-01-19",
       "url": "https://variety.com/2026/film/news/siddhant-chaturvedi-do-deewane-seher-mein-teaser-1236634159/"
-    },
-    {
-      "title": "Ajay and Danish Devgn’s Lens Vault Studios Launches ‘Bal Tanhaji’ as Debut Generative AI Project (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-19",
-      "url": "https://variety.com/2026/tv/news/ajay-devgn-lens-vault-studios-bal-tanhaji-generative-ai-project-1236634361/"
     }
   ],
   "new_releases": [
+    {
+      "title": "第49回日本アカデミー賞優秀賞発表　「国宝」が最多12部門16の優秀賞＆新人俳優賞【受賞者・作品一覧】",
+      "source": "映画.com",
+      "date": "2026-01-19",
+      "url": "https://eiga.com/news/20260119/11/"
+    },
     {
       "title": "松山ケンイチ、日曜劇場「リブート」にサプライズ出演　演じるのは鈴木亮平と同じ役!?",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2026-01-17",
       "url": "https://eiga.com/news/20260117/10/"
-    },
-    {
-      "title": "デイミアン・チャゼルの新作にミシェル・ウィリアムズ",
-      "source": "映画.com",
-      "date": "2026-01-17",
-      "url": "https://eiga.com/news/20260117/8/"
     }
   ],
   "bd_releases": [],
