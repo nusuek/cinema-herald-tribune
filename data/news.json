@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-19T10:16:01.998429",
+  "generated_at": "2026-01-19T11:12:47.980049",
   "top_stories": [
+    {
+      "title": "Prince Harry Arrives at London Court as Privacy Case Against Daily Mail Publisher Kicks Off",
+      "source": "Variety",
+      "date": "2026-01-19",
+      "url": "https://variety.com/2026/global/news/prince-harry-court-daily-mail-publisher-privacy-case-1236634563/"
+    },
+    {
+      "title": "Renowned Brazilian Telenovela Writer Aguinaldo Silva Bets on Melodrama in Return to Primetime With Hit Globo Teenage Pregnancy Drama ‘Three Graces’",
+      "source": "Variety",
+      "date": "2026-01-19",
+      "url": "https://variety.com/2026/tv/global/aguinaldo-silva-three-graces-globo-content-americas-1236634523/"
+    },
     {
       "title": "Jessica Rothe SXSW Sci-Fi Thriller ‘Imposters’ Acquired by Blue Finch Films (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-01-19",
       "url": "https://variety.com/2026/film/news/jessica-rothe-sxsw-sci-fi-thriller-imposters-blue-finch-1236634187/"
-    },
-    {
-      "title": "Leesa Gazi to Direct Tagore Adaptation ‘Shasti’ Starring Pori Moni, Chanchal Chowdhury (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-19",
-      "url": "https://variety.com/2026/film/news/leesa-gazi-tagore-shasti-pori-moni-chanchal-chowdhury-1236634527/"
-    },
-    {
-      "title": "BAFTA to Honor Clare Binns, Creative Director of Picturehouse Cinemas",
-      "source": "Variety",
-      "date": "2026-01-19",
-      "url": "https://variety.com/2026/film/global/bafta-clare-binns-picturehouse-1236634548/"
     }
   ],
   "new_releases": [
+    {
+      "title": "TBSがレジェンダリー・エンターテインメントと戦略的パートナーシップを締結",
+      "source": "映画.com",
+      "date": "2026-01-19",
+      "url": "https://eiga.com/news/20260119/19/"
+    },
     {
       "title": "「MERCY マーシー AI裁判」吹替版キャストに山寺宏一と甲斐田裕子！「文句なしの傑作」と激推し",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2026-01-17",
       "url": "https://eiga.com/news/20260117/13/"
-    },
-    {
-      "title": "「藤本タツキ17-26」1月16日から再上映スタート　入場特典スペシャルリーフレットも再配布",
-      "source": "映画.com",
-      "date": "2026-01-17",
-      "url": "https://eiga.com/news/20260117/12/"
     }
   ],
   "bd_releases": [],
