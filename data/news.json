@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-22T08:15:38.542605",
+  "generated_at": "2026-01-22T09:21:37.855074",
   "top_stories": [
+    {
+      "title": "Netflix Unveils Turkish Slate, Headlined by Series Adaptation of Nobel Prize-Winning Author Orhan Pamuk’s ‘The Museum of Innocence’",
+      "source": "Variety",
+      "date": "2026-01-22",
+      "url": "https://variety.com/2026/tv/global/netflix-turkish-nobel-prize-orhan-pamuk-museum-of-innocence-1236637544/"
+    },
     {
       "title": "‘The Masked Singer’ Reveals the Identities of Handyman and Scarab: Here Are the Celebrities Under the Costumes",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-01-22",
       "url": "https://variety.com/2026/biz/news/molly-ringwald-variety-panel-sundance-film-festival-1236637381/"
-    },
-    {
-      "title": "‘Percy Jackson’ EP and Courtney B. Vance Explain the Big Twist in the Season 2 Finale: ‘Thalia Has Real Beef With Zeus. It’s Not Theoretical’",
-      "source": "Variety",
-      "date": "2026-01-22",
-      "url": "https://variety.com/2026/tv/news/percy-jackson-courtney-b-vance-season-2-finale-twist-book-1236635713/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「KPOPガールズ! デーモン・ハンターズ」Netflix半期視聴数で史上最多を更新",
+      "source": "映画.com",
+      "date": "2026-01-22",
+      "url": "https://eiga.com/news/20260122/21/"
+    },
     {
       "title": "アカデミー賞ノミネート候補「センチメンタル・バリュー」、ヨーロッパ映画賞で6冠達成",
       "source": "映画.com",
@@ -158,18 +164,6 @@
       "source": "映画.com",
       "date": "2026-01-21",
       "url": "https://eiga.com/news/20260121/24/"
-    },
-    {
-      "title": "NetflixとMAPPAが戦略的パートナーシップ締結、「世界基準のアニメスタジオモデルを共創」することを目指し提携強化",
-      "source": "映画.com",
-      "date": "2026-01-21",
-      "url": "https://eiga.com/news/20260121/22/"
-    },
-    {
-      "title": "「国宝」を彩った俳優陣＆登場キャラクターまとめ　米アカデミー賞ノミネートなるか!?",
-      "source": "映画.com",
-      "date": "2026-01-21",
-      "url": "https://eiga.com/news/20260121/21/"
     }
   ],
   "bd_releases": [],
