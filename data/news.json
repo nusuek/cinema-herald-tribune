@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-23T06:16:54.058159",
+  "generated_at": "2026-01-23T07:15:53.874306",
   "top_stories": [
+    {
+      "title": "‘The History of Concrete’ Review: John Wilson Constructs an Entire Film Around a Subject No One Cares About",
+      "source": "Variety",
+      "date": "2026-01-23",
+      "url": "https://variety.com/2026/film/reviews/the-history-of-concrete-review-john-wilson-1236637530/"
+    },
     {
       "title": "Sundance: Chris Pine, Jenny Slate and Judd Apatow Kick Off Bittersweet Opening Night of Final Park City Edition",
       "source": "Variety",
@@ -12,15 +18,27 @@
       "source": "Variety",
       "date": "2026-01-23",
       "url": "https://variety.com/2026/film/news/ha-chan-shake-your-booty-review-1236634021/"
-    },
-    {
-      "title": "Oscar Predictions: From Inevitable to Unpredictable, How ‘Sinners’ Upended the Race Overnight",
-      "source": "Variety",
-      "date": "2026-01-23",
-      "url": "https://variety.com/lists/2026-oscars-predictions/"
     }
   ],
   "new_releases": [
+    {
+      "title": "アカデミー賞作品賞、主演女優賞など4部門ノミネート！　「ブゴニア」新場面写真披露",
+      "source": "映画.com",
+      "date": "2026-01-23",
+      "url": "https://eiga.com/news/20260123/15/"
+    },
+    {
+      "title": "米アカデミー賞授賞式を今年もNHK BSで生中継　3月16日放送",
+      "source": "映画.com",
+      "date": "2026-01-23",
+      "url": "https://eiga.com/news/20260123/23/"
+    },
+    {
+      "title": "ダース・モールの新たな物語描く新作アニメ「スター・ウォーズ　モール／シャドウ・ロード」4月6日配信開始　特報解禁",
+      "source": "映画.com",
+      "date": "2026-01-23",
+      "url": "https://eiga.com/news/20260123/21/"
+    },
     {
       "title": "リブート版「ベイウォッチ」にマックG監督",
       "source": "映画.com",
@@ -152,24 +170,6 @@
       "source": "映画.com",
       "date": "2026-01-22",
       "url": "https://eiga.com/news/20260122/18/"
-    },
-    {
-      "title": "芳根京子、生田絵梨花の“パワー”に支えられて夢実現　「私がビーバーになる時」主人公声優に決定",
-      "source": "映画.com",
-      "date": "2026-01-22",
-      "url": "https://eiga.com/news/20260122/19/"
-    },
-    {
-      "title": "ブレンダン・フレイザー主演「レンタル・ファミリー」日本撮影のメイキング写真が公開　意外な場所で役作り？",
-      "source": "映画.com",
-      "date": "2026-01-22",
-      "url": "https://eiga.com/news/20260122/17/"
-    },
-    {
-      "title": "「Eye Love You」で人気爆発チェ・ジョンヒョプが主演！「君がきらめく季節に」2月20日から配信",
-      "source": "映画.com",
-      "date": "2026-01-22",
-      "url": "https://eiga.com/news/20260122/16/"
     }
   ],
   "bd_releases": [],
