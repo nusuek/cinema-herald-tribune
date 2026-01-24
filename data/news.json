@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-01-24T00:46:45.312119",
+  "generated_at": "2026-01-24T02:47:47.449067",
   "top_stories": [
     {
-      "title": "Netflix Postpones Alex Honnold’s ‘Skyscraper Live’ Climb Due to Weather Concerns",
+      "title": "‘Extra Geography’ Review: Molly Manners’ Delightful Female Friendship Movie Shines With Original Wit and Disarming British Humor",
       "source": "Variety",
       "date": "2026-01-24",
-      "url": "https://variety.com/2026/tv/news/netflix-postpones-alex-honnold-skyscraper-live-weather-1236639657/"
+      "url": "https://variety.com/2026/film/reviews/extra-geography-review-molly-manners-1236637524/"
     },
     {
-      "title": "Laura Adler, ‘American Dreams’ Casting Director, Dies at 65",
+      "title": "Firing Up ‘The Power Station’ for a 40th Anniversary Boxed Set: Duran Duran’s John Taylor on Coralling Robert Palmer and Members of Chic for a True Pop Supergroup",
       "source": "Variety",
-      "date": "2026-01-23",
-      "url": "https://variety.com/2026/tv/news/laura-adler-dead-american-dreams-1236639532/"
+      "date": "2026-01-24",
+      "url": "https://variety.com/2026/music/news/power-station-anniversary-john-taylor-supergroup-interview-1236639677/"
     },
     {
-      "title": "Renée Fleming Becomes Latest Star to Drop Out of a Kennedy Center Engagement",
+      "title": "Channing Tatum Cried ‘Five, Six, Seven Times’ at ‘Josephine’ Premiere as Film Becomes First Sundance 2026 Sensation",
       "source": "Variety",
-      "date": "2026-01-23",
-      "url": "https://variety.com/2026/music/news/renee-fleming-exits-kennedy-center-engagement-1236639524/"
+      "date": "2026-01-24",
+      "url": "https://variety.com/2026/film/news/channing-tatum-cries-josephine-sundance-premiere-1236639359/"
     }
   ],
   "new_releases": [
+    {
+      "title": "香港で実際に起きた“両親殺害バラバラ事件”を映画化　実話法廷ダークスリラー「正義廻廊」2月27日公開",
+      "source": "映画.com",
+      "date": "2026-01-24",
+      "url": "https://eiga.com/news/20260124/5/"
+    },
+    {
+      "title": "クリストファー・ノーランに手紙で相談、日本初70ミリフィルム使用の「黒の牛」蔦哲一朗監督のこだわり",
+      "source": "映画.com",
+      "date": "2026-01-24",
+      "url": "https://eiga.com/news/20260124/4/"
+    },
     {
       "title": "ベルイマン、「オオカミの家」、村上春樹からの影響も　愛の複雑さ描くドミニカ共和国の美しいアニメ「オリビアと雲」監督インタビュー",
       "source": "映画.com",
@@ -170,18 +182,6 @@
       "source": "映画.com",
       "date": "2026-01-23",
       "url": "https://eiga.com/news/20260123/7/"
-    },
-    {
-      "title": "生見愛瑠演じるアーティスト・Ayane始動　道枝駿佑主演「君が最後に遺した歌」劇中曲のMV公開",
-      "source": "映画.com",
-      "date": "2026-01-23",
-      "url": "https://eiga.com/news/20260123/6/"
-    },
-    {
-      "title": "「閃光のハサウェイ キルケーの魔女」入場特典は描き下ろしイラストカード　公開日午前0時から世界最速上映も決定",
-      "source": "映画.com",
-      "date": "2026-01-22",
-      "url": "https://eiga.com/news/20260123/5/"
     }
   ],
   "bd_releases": [],
