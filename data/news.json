@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-25T09:10:44.663838",
+  "generated_at": "2026-01-25T10:10:03.913130",
   "top_stories": [
+    {
+      "title": "‘The Gallerist’ Review: Natalie Portman Plays a Desperate Miami Art Dealer Whose Latest Show Is About to Make a Killing",
+      "source": "Variety",
+      "date": "2026-01-25",
+      "url": "https://variety.com/2026/film/reviews/the-gallerist-review-natalie-portman-1236640337/"
+    },
+    {
+      "title": "JioHotstar’s ‘Special Ops’ Season 2 Tops 2025 India Streaming Charts as Netflix Leads Overall With 20 Entries in Top 50",
+      "source": "Variety",
+      "date": "2026-01-25",
+      "url": "https://variety.com/2026/tv/news/jiohotstar-special-ops-2025-india-streaming-charts-1236640353/"
+    },
     {
       "title": "‘Zi’ Review: Kogonada Changes Course for a Small, Slight, Beautiful Journey",
       "source": "Variety",
       "date": "2026-01-25",
       "url": "https://variety.com/2026/film/reviews/zi-review-1236640186/"
-    },
-    {
-      "title": "‘Dragon Ball Super: Beerus’ Enhanced Anime Series Set for Fall Launch, Trailer Unveiled",
-      "source": "Variety",
-      "date": "2026-01-25",
-      "url": "https://variety.com/2026/tv/news/dragon-ball-super-beerus-enhanced-anime-series-fall-launch-trailer-1236640345/"
-    },
-    {
-      "title": "‘SNL’ Takes Aim at ICE During ‘Weekend Update’ After I.C.U. Nurse Is Killed in Minnesota",
-      "source": "Variety",
-      "date": "2026-01-25",
-      "url": "https://variety.com/2026/tv/news/snl-slams-ice-weekend-update-1236640253/"
     }
   ],
   "new_releases": [
+    {
+      "title": "尚玄主演、日米インドネシア合作「LONE SAMURAI」日本初公開　Cinema at Sea 2026特集上映「Homecoming」",
+      "source": "映画.com",
+      "date": "2026-01-25",
+      "url": "https://eiga.com/news/20260125/10/"
+    },
     {
       "title": "ナンニ・モレッティ製作「ヴィットリア 抱きしめて」4月10日公開決定　養子縁組に挑む一家の実話描く【予告編あり】",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-01-23",
       "url": "https://eiga.com/news/20260123/20/"
-    },
-    {
-      "title": "ウィル・ポールター「戦争を美化しない」　兵士本人たちと共に撮影した「ウォーフェア」キャストインタビュー映像",
-      "source": "映画.com",
-      "date": "2026-01-23",
-      "url": "https://eiga.com/news/20260123/18/"
     }
   ],
   "bd_releases": [],
