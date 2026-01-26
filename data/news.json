@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-26T22:10:42.129253",
+  "generated_at": "2026-01-26T23:10:50.965245",
   "top_stories": [
+    {
+      "title": "Harry Styles Tapped as Presenter for Grammy Awards",
+      "source": "Variety",
+      "date": "2026-01-26",
+      "url": "https://variety.com/2026/music/news/harry-styles-to-present-at-grammy-awards-2026-1236641513/"
+    },
+    {
+      "title": "Melissa Gilbert Speaks Out Amid Husband Timothy Busfield’s Sex Abuse Charges: ‘Extraordinarily Difficult Time’",
+      "source": "Variety",
+      "date": "2026-01-26",
+      "url": "https://variety.com/2026/tv/news/melissa-gilbert-speaks-out-timothy-busfield-child-sex-abuse-charges-1236641473/"
+    },
     {
       "title": "Richard Gere Joins Jessica Chastain, Ben Stiller in Apple TV Limited Series ‘Off Weeks’",
       "source": "Variety",
       "date": "2026-01-26",
       "url": "https://variety.com/2026/tv/news/richard-gere-jessica-chastain-ben-stiller-apple-off-weeks-1236641375/"
-    },
-    {
-      "title": "UFC 324 Draws 4.96 Million Views in Paramount+ Debut",
-      "source": "Variety",
-      "date": "2026-01-26",
-      "url": "https://variety.com/2026/tv/news/ufc-324-ratings-paramountplus-1236641402/"
-    },
-    {
-      "title": "Blizzard Unveils 2026 Showcase Schedule, Including ‘Overwatch,’ ‘Diablo,’ ‘World of Warcraft’ Reveals (Gaming News Roundup)",
-      "source": "Variety",
-      "date": "2026-01-26",
-      "url": "https://variety.com/2026/gaming/news/blizzard-2026-showcase-gaming-news-roundup-1236641381/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「劇場版 転生したらスライムだった件 蒼海の涙編」オリジナルキャラクターも登場する場面写真が一挙公開",
+      "source": "映画.com",
+      "date": "2026-01-26",
+      "url": "https://eiga.com/news/20260127/3/"
+    },
     {
       "title": "パンダのシャンシャンも出演！　「パンダプラン」ジャッキー・チェンの原動力が明らかになる本編映像と特別映像【第2弾入プレ情報も】",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-01-25",
       "url": "https://eiga.com/news/20260125/12/"
-    },
-    {
-      "title": "「攻殻機動隊展 Ghost and the Shell」グッズ第2弾発表、第1弾と合わせて全150種超　公式図録には1000点以上の資料を収録",
-      "source": "映画.com",
-      "date": "2026-01-25",
-      "url": "https://eiga.com/news/20260125/11/"
     }
   ],
   "bd_releases": [],
