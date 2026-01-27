@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-27T05:17:58.325160",
+  "generated_at": "2026-01-27T06:18:00.828300",
   "top_stories": [
+    {
+      "title": "Hollywood Chamber of Commerce Says Sydney Sweeney Did Not Get Permission to Hang Bras on Hollywood Sign",
+      "source": "Variety",
+      "date": "2026-01-27",
+      "url": "https://variety.com/2026/film/news/sydney-sweeney-bras-hollywood-sign-without-permission-1236641795/"
+    },
     {
       "title": "Jon Stewart Slams Republicans for Claiming Liberals are ‘Gaslighting’ the Trump Administration About Minneapolis ICE Shooting: ‘We’re Gaslighting You?’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-01-27",
       "url": "https://variety.com/2026/film/news/olivia-wilde-invite-bidding-war-sundance-a24-focus-features-1236640402/"
-    },
-    {
-      "title": "Ranbir Kapoor Celebrates Rani Mukerji’s 30-Year Career as ‘Mardaani 3’ Marks Milestone (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-27",
-      "url": "https://variety.com/2026/film/news/ranbir-kapoor-rani-mukerji-mardaani-3-1236641288/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ミステリー小説の最高峰、横溝正史「八つ墓村」完全新作映画化！2026年秋公開",
+      "source": "映画.com",
+      "date": "2026-01-27",
+      "url": "https://eiga.com/news/20260127/14/"
+    },
     {
       "title": "台湾新幹線に仕掛けられた爆弾を止められるか　「96分」緊迫の場面写真を公開",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-26",
       "url": "https://eiga.com/news/20260126/11/"
-    },
-    {
-      "title": "サム・ライミ版「スパイダーマン4」は実現せず「復活させるのは正しくない」",
-      "source": "映画.com",
-      "date": "2026-01-26",
-      "url": "https://eiga.com/news/20260126/7/"
     }
   ],
   "bd_releases": [],
