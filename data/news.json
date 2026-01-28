@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-28T09:22:26.010698",
+  "generated_at": "2026-01-28T10:16:08.506696",
   "top_stories": [
+    {
+      "title": "‘Ted Lasso’ Season 4 Sets Summer Release, Reveals More First-Look Photos as Jason Sudeikis Returns to Richmond",
+      "source": "Variety",
+      "date": "2026-01-28",
+      "url": "https://variety.com/2026/tv/global/ted-lasso-season-4-sets-summer-release-1236643017/"
+    },
+    {
+      "title": "Tony-Winning ‘Jaja’s African Hair Braiding’ Unveils Full Cast for U.K. Bow (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-01-28",
+      "url": "https://variety.com/2026/theater/news/jaja-african-hair-braiding-cast-uk-premiere-1236642396/"
+    },
     {
       "title": "France’s Cesar Awards Nominations: Richard Linklater’s ‘Nouvelle Vague’ Leads the 2026 Race",
       "source": "Variety",
       "date": "2026-01-28",
       "url": "https://variety.com/2026/film/global/cesar-awards-nominations-richard-linklater-nouvelle-vague-1236642423/"
-    },
-    {
-      "title": "COL Group’s Zhuhai-Macau Studio Commences Full Operations With TVB, Mango TV Productions",
-      "source": "Variety",
-      "date": "2026-01-28",
-      "url": "https://variety.com/2026/tv/news/col-group-zhuhai-macau-studio-full-operations-1236643008/"
-    },
-    {
-      "title": "CPH:DOX to Open With Pieter-Jan De Pue’s ‘Mariinka’",
-      "source": "Variety",
-      "date": "2026-01-28",
-      "url": "https://variety.com/2026/film/global/cphdox-pieter-jan-de-pues-mariinka-1236642999/"
     }
   ],
   "new_releases": [
+    {
+      "title": "2025年の映画年間興収2744億円で歴代最高、邦画が2075億円を記録し最高成績！",
+      "source": "映画.com",
+      "date": "2026-01-28",
+      "url": "https://eiga.com/news/20260128/22/"
+    },
     {
       "title": "「コーダ あいのうた」のオスカー俳優トロイ・コッツァー、「おさるのベン」でろう者の父親役　新場面写真公開",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-01-27",
       "url": "https://eiga.com/news/20260127/23/"
-    },
-    {
-      "title": "身分違いの愛に待ち受ける衝撃の運命――マーゴット・ロビー主演「嵐が丘」コンビネーション・ビジュアル公開",
-      "source": "映画.com",
-      "date": "2026-01-27",
-      "url": "https://eiga.com/news/20260127/21/"
     }
   ],
   "bd_releases": [],
