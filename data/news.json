@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-01-29T11:21:43.651066",
+  "generated_at": "2026-01-29T12:26:59.779241",
   "top_stories": [
+    {
+      "title": "Comcast Q4 Sees Fall in Cable Revenue, Wider Peacock Losses, Despite Ad Boost",
+      "source": "Variety",
+      "date": "2026-01-29",
+      "url": "https://variety.com/2026/tv/news/comcast-q4-cable-revenue-wider-peacock-losses-1236644283/"
+    },
+    {
+      "title": "Berlinale Adds Xu Zao’s ‘Light Pillar’ to Perspectives Section",
+      "source": "Variety",
+      "date": "2026-01-29",
+      "url": "https://variety.com/2026/film/festivals/berlinale-xu-zao-light-pillar-perspectives-1236644269/"
+    },
     {
       "title": "‘Inception,’ ‘Clueless’ and ‘Before Sunrise’ Among 25 Movies Added to National Film Registry",
       "source": "Variety",
       "date": "2026-01-29",
       "url": "https://variety.com/2026/film/news/national-film-registry-inception-clueless-1236643601/"
-    },
-    {
-      "title": "There’s More to Rotterdam Than ‘Edgy and Unconventional Cinema,’ Say Festival Heads Vanja Kaludjercic and Clare Stewart: ‘We Want to Be Accessible’",
-      "source": "Variety",
-      "date": "2026-01-29",
-      "url": "https://variety.com/2026/film/global/rotterdam-cinema-festival-vanja-kaludjercic-clare-stewart-1236644210/"
-    },
-    {
-      "title": "‘Demon Slayer’ Powers Japan’s Box Office to $1.79 Billion in 2025, Up 32% Year-on-Year",
-      "source": "Variety",
-      "date": "2026-01-29",
-      "url": "https://variety.com/2026/film/box-office/demon-slayer-japan-box-office-2025-1236644196/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「国宝」フランス公開　全国紙で5点満点、長尺ネックで動員やや苦戦も鑑賞者＆批評家からは高評価【パリ発コラム】",
+      "source": "映画.com",
+      "date": "2026-01-29",
+      "url": "https://eiga.com/news/20260129/29/"
+    },
+    {
+      "title": "大泉洋「俺たちの箱根駅伝」に小林虎之介、奥智哉、庄司浩平、池田匡志、西野遼！　新キャスト18人を4日連続で発表",
+      "source": "映画.com",
+      "date": "2026-01-26",
+      "url": "https://eiga.com/news/20260127/1/"
+    },
+    {
+      "title": "大泉洋×池井戸潤「俺たちの箱根駅伝」に菅生新樹、樋之津琳太郎、相馬理、山崎雄大、旭惟吹が出演",
+      "source": "映画.com",
+      "date": "2026-01-28",
+      "url": "https://eiga.com/news/20260129/2/"
+    },
     {
       "title": "アニメ「刃牙道」2月26日からNetflixで世界独占配信開始　トムス・エンタテインメントが制作続投",
       "source": "映画.com",
@@ -170,24 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-28",
       "url": "https://eiga.com/news/20260129/3/"
-    },
-    {
-      "title": "大泉洋×池井戸潤「俺たちの箱根駅伝」に菅生新樹、樋之津琳太郎、相馬理、山崎雄大、旭惟吹が出演",
-      "source": "映画.com",
-      "date": "2026-01-28",
-      "url": "https://eiga.com/news/20260129/2/"
-    },
-    {
-      "title": "マジックを使った奇想天外バトルを大・放・出!!　「グランド・イリュージョン」第3弾、日本版予告公開",
-      "source": "映画.com",
-      "date": "2026-01-28",
-      "url": "https://eiga.com/news/20260129/1/"
-    },
-    {
-      "title": "「ストレンジャー・シングス」クリエイターが手がける新作ホラー、Netflixで3月配信【タイトルが不穏】",
-      "source": "映画.com",
-      "date": "2026-01-28",
-      "url": "https://eiga.com/news/20260128/32/"
     }
   ],
   "bd_releases": [],
