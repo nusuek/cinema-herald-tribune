@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-29T09:29:46.362460",
+  "generated_at": "2026-01-29T10:23:59.388331",
   "top_stories": [
+    {
+      "title": "‘Inception,’ ‘Clueless’ and ‘Before Sunrise’ Among 25 Movies Added to National Film Registry",
+      "source": "Variety",
+      "date": "2026-01-29",
+      "url": "https://variety.com/2026/film/news/national-film-registry-inception-clueless-1236643601/"
+    },
+    {
+      "title": "There’s More to Rotterdam Than ‘Edgy and Unconventional Cinema,’ Say Festival Heads Vanja Kaludjercic and Clare Stewart: ‘We Want to Be Accessible’",
+      "source": "Variety",
+      "date": "2026-01-29",
+      "url": "https://variety.com/2026/film/global/rotterdam-cinema-festival-vanja-kaludjercic-clare-stewart-1236644210/"
+    },
     {
       "title": "‘Demon Slayer’ Powers Japan’s Box Office to $1.79 Billion in 2025, Up 32% Year-on-Year",
       "source": "Variety",
       "date": "2026-01-29",
       "url": "https://variety.com/2026/film/box-office/demon-slayer-japan-box-office-2025-1236644196/"
-    },
-    {
-      "title": "‘Bridgerton’ Season 4 Cast Guide: All the Characters New and Returning to Netflix’s Romance Series",
-      "source": "Variety",
-      "date": "2026-01-29",
-      "url": "https://variety.com/lists/bridgerton-season-4-cast-characters/"
-    },
-    {
-      "title": "João Nicolau Talks Casting Portuguese Eurovision Star Salvador Sobral in Rotterdam Opener ‘Providence and the Guitar’",
-      "source": "Variety",
-      "date": "2026-01-29",
-      "url": "https://variety.com/2026/film/global/joao-nicolau-salvador-sobral-providence-and-the-guitar-iffr-1236643175/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ケイト・ウィンスレットの娘、デイミアン・チャゼル新作に出演",
+      "source": "映画.com",
+      "date": "2026-01-29",
+      "url": "https://eiga.com/news/20260129/27/"
+    },
     {
       "title": "宇野祥平×前田弘二監督、盟友タッグ25作目はサスペンスコメディ！「Man」9月11日公開　萩原護が共演",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-28",
       "url": "https://eiga.com/news/20260128/25/"
-    },
-    {
-      "title": "「BS10」2月の映画無料放送ラインナップ発表！　松田優作のハリウッドデビュー作にして遺作「ブラック・レイン」ほか全8本をオンエア",
-      "source": "映画.com",
-      "date": "2026-01-28",
-      "url": "https://eiga.com/news/20260128/24/"
     }
   ],
   "bd_releases": [],
