@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T10:23:59.388331",
+  "generated_at": "2026-01-29T11:21:43.651066",
   "top_stories": [
     {
       "title": "‘Inception,’ ‘Clueless’ and ‘Before Sunrise’ Among 25 Movies Added to National Film Registry",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "アニメ「刃牙道」2月26日からNetflixで世界独占配信開始　トムス・エンタテインメントが制作続投",
+      "source": "映画.com",
+      "date": "2026-01-29",
+      "url": "https://eiga.com/news/20260129/28/"
+    },
     {
       "title": "ケイト・ウィンスレットの娘、デイミアン・チャゼル新作に出演",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-28",
       "url": "https://eiga.com/news/20260128/32/"
-    },
-    {
-      "title": "「写真家 浅田政志 “家族の15年”を撮る」NHKで放送　ナレーションは「浅田家！」二宮和也、コメント発表",
-      "source": "映画.com",
-      "date": "2026-01-28",
-      "url": "https://eiga.com/news/20260128/25/"
     }
   ],
   "bd_releases": [],
