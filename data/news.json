@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-29T12:26:59.779241",
+  "generated_at": "2026-01-29T13:49:35.324565",
   "top_stories": [
     {
-      "title": "Comcast Q4 Sees Fall in Cable Revenue, Wider Peacock Losses, Despite Ad Boost",
+      "title": "Melania Trump Doc Pulled From Theaters in South Africa",
       "source": "Variety",
       "date": "2026-01-29",
-      "url": "https://variety.com/2026/tv/news/comcast-q4-cable-revenue-wider-peacock-losses-1236644283/"
+      "url": "https://variety.com/2026/film/global/melania-trump-doc-pulled-from-theaters-south-africa-1236644338/"
     },
     {
-      "title": "Berlinale Adds Xu Zao’s ‘Light Pillar’ to Perspectives Section",
+      "title": "‘Gomorrah – The Origins’ Series Sells Widely, Including to HBO Max in Germany and Turkey",
       "source": "Variety",
       "date": "2026-01-29",
-      "url": "https://variety.com/2026/film/festivals/berlinale-xu-zao-light-pillar-perspectives-1236644269/"
+      "url": "https://variety.com/2026/tv/global/gomorrah-the-origins-series-sells-hbo-max-germany-1236644302/"
     },
     {
-      "title": "‘Inception,’ ‘Clueless’ and ‘Before Sunrise’ Among 25 Movies Added to National Film Registry",
+      "title": "‘Candy Crush’ Launches New Daily Puzzle Game ‘Crushable’ for Yahoo With Ad Starring Frankie Muniz (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-01-29",
-      "url": "https://variety.com/2026/film/news/national-film-registry-inception-clueless-1236643601/"
+      "url": "https://variety.com/2026/gaming/news/candy-crush-crushable-yahoo-games-1236644033/"
     }
   ],
   "new_releases": [
+    {
+      "title": "スカーレット・ヨハンソンの新「エクソシスト」にダイアン・レイン",
+      "source": "映画.com",
+      "date": "2026-01-29",
+      "url": "https://eiga.com/news/20260129/30/"
+    },
     {
       "title": "「国宝」フランス公開　全国紙で5点満点、長尺ネックで動員やや苦戦も鑑賞者＆批評家からは高評価【パリ発コラム】",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-01-28",
       "url": "https://eiga.com/news/20260129/4/"
-    },
-    {
-      "title": "有村架純×黒木華×南沙良が金を密輸!?　天野千尋監督作「マジカル・シークレット・ツアー」6月19日公開決定【予告あり】",
-      "source": "映画.com",
-      "date": "2026-01-28",
-      "url": "https://eiga.com/news/20260129/3/"
     }
   ],
   "bd_releases": [],
