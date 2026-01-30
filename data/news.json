@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-01-30T12:26:31.217671",
+  "generated_at": "2026-01-30T13:44:59.397577",
   "top_stories": [
+    {
+      "title": "Don Lemon Arrested by Federal Agents in L.A. After His Attendance at Anti-ICE Protest",
+      "source": "Variety",
+      "date": "2026-01-30",
+      "url": "https://variety.com/2026/digital/news/don-lemon-arrested-federal-agents-anti-ice-protest-1236645558/"
+    },
+    {
+      "title": "Mediawan Acquires Peter Chernin’s North Road Company",
+      "source": "Variety",
+      "date": "2026-01-30",
+      "url": "https://variety.com/2026/film/global/mediawan-peter-chernins-north-road-company-1236645540/"
+    },
     {
       "title": "Charades Boards Family Thriller ‘Bloodsuckers’ From ‘Midsommar’ Producer (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-01-30",
       "url": "https://variety.com/2026/film/global/charades-bloodsuckers-family-thriller-efm-1236645491/"
-    },
-    {
-      "title": "Royal Shakespeare Company’s ‘Cyrano de Bergerac’ With Adrian Lester Sets West End Transfer",
-      "source": "Variety",
-      "date": "2026-01-30",
-      "url": "https://variety.com/2026/theater/news/royal-shakespeare-company-cyrano-de-bergerac-west-end-1236645476/"
-    },
-    {
-      "title": "BayView Entertainment Takes North American Rights to FlareFlow Microdramas (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-01-30",
-      "url": "https://variety.com/2026/tv/news/bayview-north-american-rights-flareflow-microdramas-1236645480/"
     }
   ],
   "new_releases": [
+    {
+      "title": "キャメロン・ディアス、「ファイティング・ファミリー」監督の新作ロマコメに主演",
+      "source": "映画.com",
+      "date": "2026-01-30",
+      "url": "https://eiga.com/news/20260130/27/"
+    },
     {
       "title": "LGBTQ＋迫害のロシアからフランスへ亡命　クィア・アーティスト、ジェナ・マービンが来日「クイーンダム　誕生」公開",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-01-29",
       "url": "https://eiga.com/news/20260129/31/"
-    },
-    {
-      "title": "スカーレット・ヨハンソンの新「エクソシスト」にダイアン・レイン",
-      "source": "映画.com",
-      "date": "2026-01-29",
-      "url": "https://eiga.com/news/20260129/30/"
     }
   ],
   "bd_releases": [],
