@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-01-31T22:09:54.180752",
+  "generated_at": "2026-01-31T23:10:38.859369",
   "top_stories": [
+    {
+      "title": "‘The Last Resort’ by Maria Sødahl Named Best Nordic Film at Göteborg: ‘Pitch-Perfect Performances and a Razor-Sharp Script’",
+      "source": "Variety",
+      "date": "2026-01-31",
+      "url": "https://variety.com/2026/film/global/the-last-resort-maria-sodahl-best-nordic-film-goteborg-1236647034/"
+    },
     {
       "title": "Kenan Thompson Says He ‘Definitely’ Thinks About Leaving ‘SNL’: ‘It’s Gonna Suck’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-01-31",
       "url": "https://variety.com/2026/film/global/guadalajara-festival-corina-state-of-silence-1236647195/"
-    },
-    {
-      "title": "‘The Secret Agent’ Director Kleber Mendonça Filho Praises Oscar Nominee Wagner Moura: ‘Everything Came Together Because of the Main Actor Who Believes in Generosity’",
-      "source": "Variety",
-      "date": "2026-01-31",
-      "url": "https://variety.com/2026/film/global/the-secret-agent-kleber-mendonca-filho-oscars-wagner-moura-1236647075/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」OP主題歌はシリーズおなじみの水樹奈々が担当　自ら作詞も手がける",
+      "source": "映画.com",
+      "date": "2026-01-31",
+      "url": "https://eiga.com/news/20260201/1/"
+    },
     {
       "title": "「国宝」劇中曲のこだわり、「Luminance」誕生までを原摩利彦が徹底解説【109シネマズプレミアム新宿特別上映】",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-01-30",
       "url": "https://eiga.com/news/20260130/14/"
-    },
-    {
-      "title": "映画評論家・松崎健夫氏が賞の誕生から激動の現代までを読み解く「アカデミー賞入門」2月10日発売！",
-      "source": "映画.com",
-      "date": "2026-01-30",
-      "url": "https://eiga.com/news/20260130/13/"
     }
   ],
   "bd_releases": [],
