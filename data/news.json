@@ -1,37 +1,49 @@
 {
-  "generated_at": "2026-01-31T23:10:38.859369",
+  "generated_at": "2026-02-01T01:07:16.093890",
   "top_stories": [
+    {
+      "title": "Jay-Z, Harvey Weinstein and Pusha T Mentioned in Latest Epstein File Release",
+      "source": "Variety",
+      "date": "2026-02-01",
+      "url": "https://variety.com/2026/film/news/jay-z-harvey-weinstein-pusha-t-epstein-files-1236647297/"
+    },
+    {
+      "title": "Steve Martin and Martin Short Pause Comedy Show to Honor Catherine O’Hara: ‘The Greatest, Most Brilliant, Kindest, Sweetest Angel’",
+      "source": "Variety",
+      "date": "2026-01-31",
+      "url": "https://variety.com/2026/film/news/catherine-ohara-steve-martin-martin-short-1236647281/"
+    },
     {
       "title": "‘The Last Resort’ by Maria Sødahl Named Best Nordic Film at Göteborg: ‘Pitch-Perfect Performances and a Razor-Sharp Script’",
       "source": "Variety",
       "date": "2026-01-31",
       "url": "https://variety.com/2026/film/global/the-last-resort-maria-sodahl-best-nordic-film-goteborg-1236647034/"
-    },
-    {
-      "title": "Kenan Thompson Says He ‘Definitely’ Thinks About Leaving ‘SNL’: ‘It’s Gonna Suck’",
-      "source": "Variety",
-      "date": "2026-01-31",
-      "url": "https://variety.com/2026/tv/news/kenan-thompson-thinks-about-leaving-snl-1236647210/"
-    },
-    {
-      "title": "Top Latin America Fest Guadalajara Goes to Berlin With Best of Fest Hits From Mexico’s ‘Amelie’ to Diego Luna Passion Project, the Standout ‘State of Silence’",
-      "source": "Variety",
-      "date": "2026-01-31",
-      "url": "https://variety.com/2026/film/global/guadalajara-festival-corina-state-of-silence-1236647195/"
     }
   ],
   "new_releases": [
-    {
-      "title": "「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」OP主題歌はシリーズおなじみの水樹奈々が担当　自ら作詞も手がける",
-      "source": "映画.com",
-      "date": "2026-01-31",
-      "url": "https://eiga.com/news/20260201/1/"
-    },
     {
       "title": "「国宝」劇中曲のこだわり、「Luminance」誕生までを原摩利彦が徹底解説【109シネマズプレミアム新宿特別上映】",
       "source": "映画.com",
       "date": "2026-01-31",
       "url": "https://eiga.com/news/20260131/6/"
+    },
+    {
+      "title": "アダム・ドライバー主演「Rabbit, Rabbit」に「ワン・バトル・アフター・アナザー」レジーナ・ホール",
+      "source": "映画.com",
+      "date": "2026-02-01",
+      "url": "https://eiga.com/news/20260201/3/"
+    },
+    {
+      "title": "「PSYREN -サイレン-」追加キャストに武内駿輔、斉藤壮馬、野津山幸宏　「AnimeJapan 2026」ステージ実施も決定",
+      "source": "映画.com",
+      "date": "2026-01-31",
+      "url": "https://eiga.com/news/20260201/2/"
+    },
+    {
+      "title": "「魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance」OP主題歌はシリーズおなじみの水樹奈々が担当　自ら作詞も手がける",
+      "source": "映画.com",
+      "date": "2026-01-31",
+      "url": "https://eiga.com/news/20260201/1/"
     },
     {
       "title": "「攻殻機動隊 THE GHOST IN THE SHELL」7月放送開始　アニメ本編映像初公開のPV披露",
@@ -182,18 +194,6 @@
       "source": "映画.com",
       "date": "2026-01-30",
       "url": "https://eiga.com/news/20260130/16/"
-    },
-    {
-      "title": "「映画　窓ぎわのトットちゃん」1月31日午後1時30分からテレビ朝日で「特別編集版」放送",
-      "source": "映画.com",
-      "date": "2026-01-30",
-      "url": "https://eiga.com/news/20260130/15/"
-    },
-    {
-      "title": "未来の高速で絶体絶命のカークラッシュ！SFアニメ「マーズ・エクスプレス」本編映像が公開",
-      "source": "映画.com",
-      "date": "2026-01-30",
-      "url": "https://eiga.com/news/20260130/14/"
     }
   ],
   "bd_releases": [],
