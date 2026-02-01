@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-02-01T01:07:16.093890",
+  "generated_at": "2026-02-01T04:18:12.624065",
   "top_stories": [
+    {
+      "title": "‘The Studio’ Cancels Apple TV Press Day Panel After Catherine O’Hara’s Death",
+      "source": "Variety",
+      "date": "2026-02-01",
+      "url": "https://variety.com/2026/tv/news/the-studio-apple-tv-press-day-catherine-ohara-1236647377/"
+    },
+    {
+      "title": "Jane Fonda Speaks Out After Don Lemon’s Arrest: ‘They Arrested the Wrong Don’",
+      "source": "Variety",
+      "date": "2026-02-01",
+      "url": "https://variety.com/2026/tv/news/jane-fonda-don-lemon-arrest-ice-1236647352/"
+    },
     {
       "title": "Jay-Z, Harvey Weinstein and Pusha T Mentioned in Latest Epstein File Release",
       "source": "Variety",
       "date": "2026-02-01",
       "url": "https://variety.com/2026/film/news/jay-z-harvey-weinstein-pusha-t-epstein-files-1236647297/"
-    },
-    {
-      "title": "Steve Martin and Martin Short Pause Comedy Show to Honor Catherine O’Hara: ‘The Greatest, Most Brilliant, Kindest, Sweetest Angel’",
-      "source": "Variety",
-      "date": "2026-01-31",
-      "url": "https://variety.com/2026/film/news/catherine-ohara-steve-martin-martin-short-1236647281/"
-    },
-    {
-      "title": "‘The Last Resort’ by Maria Sødahl Named Best Nordic Film at Göteborg: ‘Pitch-Perfect Performances and a Razor-Sharp Script’",
-      "source": "Variety",
-      "date": "2026-01-31",
-      "url": "https://variety.com/2026/film/global/the-last-resort-maria-sodahl-best-nordic-film-goteborg-1236647034/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ムロツヨシ、宮沢氷魚らフルスイングで再登板！「ドラフトキング」続編決定　5月15日からWOWOWで放送・配信",
+      "source": "映画.com",
+      "date": "2026-02-01",
+      "url": "https://eiga.com/news/20260201/6/"
+    },
+    {
+      "title": "今泉⼒哉監督、若葉⻯也主演「街の上で」公開5周年を記念したアンコール上映が決定",
+      "source": "映画.com",
+      "date": "2026-02-01",
+      "url": "https://eiga.com/news/20260201/5/"
+    },
+    {
+      "title": "ケネス・ブラナー監督＆主演「ナイル殺人事件」BSテレ東で本日午後放送！豪華スター共演の極上ミステリーのあらすじ＆キャストまとめ",
+      "source": "映画.com",
+      "date": "2026-02-01",
+      "url": "https://eiga.com/news/20260201/4/"
+    },
     {
       "title": "「国宝」劇中曲のこだわり、「Luminance」誕生までを原摩利彦が徹底解説【109シネマズプレミアム新宿特別上映】",
       "source": "映画.com",
@@ -176,24 +194,6 @@
       "source": "映画.com",
       "date": "2026-01-30",
       "url": "https://eiga.com/news/20260130/18/"
-    },
-    {
-      "title": "「嵐が丘」ワールドプレミア開催！　マーゴット・ロビー＆ジェイコブ・エロルディの“完璧ビジュアル”に会場熱狂",
-      "source": "映画.com",
-      "date": "2026-01-30",
-      "url": "https://eiga.com/news/20260130/17/"
-    },
-    {
-      "title": "谷口悟朗監督「パリに咲くエトワール」主題歌担当・緑黄色社会のコメント映像公開　本編映像の一部も披露",
-      "source": "映画.com",
-      "date": "2026-01-30",
-      "url": "https://eiga.com/news/20260130/23/"
-    },
-    {
-      "title": "AI映像フェスティバル、映画以外にも拡大　ファッションやゲームも対象に",
-      "source": "映画.com",
-      "date": "2026-01-30",
-      "url": "https://eiga.com/news/20260130/16/"
     }
   ],
   "bd_releases": [],
