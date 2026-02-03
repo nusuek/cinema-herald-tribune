@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-02-03T10:27:44.289284",
+  "generated_at": "2026-02-03T11:24:32.070736",
   "top_stories": [
+    {
+      "title": "India’s JioStar Taps Emmy-Winning Pixar Veteran Stephan Bugaj to Lead GenAI Content Strategy",
+      "source": "Variety",
+      "date": "2026-02-03",
+      "url": "https://variety.com/2026/digital/news/jiostar-stephan-bugaj-genai-content-strategy-1236650633/"
+    },
+    {
+      "title": "Jon Stewart Explains Why His Name Appears in the Epstein Files: ‘Excuse Me? I Am Offended’",
+      "source": "Variety",
+      "date": "2026-02-03",
+      "url": "https://variety.com/2026/tv/news/jon-stewart-explains-why-name-appears-epstein-files-1236650609/"
+    },
     {
       "title": "‘Melania’ Director Brett Ratner Says He ‘Didn’t Have a Personal Relationship’ With Jeffrey Epstein Following Photo Leak",
       "source": "Variety",
       "date": "2026-02-03",
       "url": "https://variety.com/2026/politics/global/brett-jeffrey-epstein-files-horrible-denies-1236650608/"
-    },
-    {
-      "title": "ABS-CBN’s iWant Series ‘Nurse the Dead,’ Bilingual Supernatural Workplace Comedy Set in Haunted L.A. Hospital, Unveils First Looks (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-02-03",
-      "url": "https://variety.com/2026/tv/news/abs-cbn-iwant-nurse-the-dead-first-looks-1236650558/"
-    },
-    {
-      "title": "Berlin-Bound Chinese Cultural Revolution Legacy Drama ‘Shanghai Daughter’ Unveils First Trailer (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-02-03",
-      "url": "https://variety.com/2026/film/news/berlin-shanghai-daughter-trailer-1236650542/"
     }
   ],
   "new_releases": [
+    {
+      "title": "トランプ大統領夫人が題材のドキュメンタリーが全米初登場3位の好発信",
+      "source": "映画.com",
+      "date": "2026-02-03",
+      "url": "https://eiga.com/news/20260203/23/"
+    },
     {
       "title": "第60回スーパーボウルで映画予告編が続々　「スター・ウォーズ」新作やスピルバーグ最新作も",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-02-02",
       "url": "https://eiga.com/news/20260202/19/"
-    },
-    {
-      "title": "山下リオ主演のホラー映画「遺愛」が6月公開決定！　特報と海外版ビジュアルを披露",
-      "source": "映画.com",
-      "date": "2026-02-02",
-      "url": "https://eiga.com/news/20260202/17/"
     }
   ],
   "bd_releases": [],
