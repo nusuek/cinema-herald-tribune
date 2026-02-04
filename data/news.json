@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-04T07:35:59.959440",
+  "generated_at": "2026-02-04T08:25:15.999267",
   "top_stories": [
+    {
+      "title": "Holiday Horror ‘Unholy Night’ Lands at Blue Finch Films (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-02-04",
+      "url": "https://variety.com/2026/film/news/holiday-horror-unholy-night-blue-finch-films-1236651624/"
+    },
     {
       "title": "‘Wuthering Heights’ First Reactions: Margot Robbie and Jacob Elordi’s Chemistry Is a ‘Whole Other Level of Hot’ in a ‘Bodice-Ripping Crowd-Pleaser’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-02-04",
       "url": "https://variety.com/2026/film/reviews/barbara-forever-review-1236644009/"
-    },
-    {
-      "title": "Crunchyroll Rolls Out Thai-Language Interface, Expands Localized Content Library (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-02-04",
-      "url": "https://variety.com/2026/tv/news/crunchyroll-thai-interface-local-content-library-1236650549/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「片田舎のおっさん、剣聖になる II」PV第1弾＆ティザービジュアル公開　平田広明らキャスト陣からのコメントも",
+      "source": "映画.com",
+      "date": "2026-02-04",
+      "url": "https://eiga.com/news/20260204/17/"
+    },
     {
       "title": "浴槽で人が溶かされる…エロティック心理スリラー「56日間」2月18日からPrimeVideoで配信",
       "source": "映画.com",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2026-02-03",
       "url": "https://eiga.com/news/20260203/7/"
-    },
-    {
-      "title": "伝説の映画作家チャールズ・バーネット特集上映2月7日開催　監督メッセージ動画＆「マイ・ブラザーズ・ウェディング」場面写真公開",
-      "source": "映画.com",
-      "date": "2026-02-03",
-      "url": "https://eiga.com/news/20260203/13/"
     }
   ],
   "bd_releases": [],
