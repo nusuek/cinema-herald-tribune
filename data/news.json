@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-02-04T23:15:06.005013",
+  "generated_at": "2026-02-05T00:59:23.953380",
   "top_stories": [
+    {
+      "title": "Taylor Swift to Debut ‘Opalite’ Music Video This Week",
+      "source": "Variety",
+      "date": "2026-02-05",
+      "url": "https://variety.com/2026/music/news/taylor-swift-debut-opalite-music-video-this-week-1236652603/"
+    },
+    {
+      "title": "McKenna Grace on the Fun of Glenn Close Yelling at Her in ‘The Hunger Games: Sunrise on the Reaping’ and More From the Dior Addict Sweet Shop Party",
+      "source": "Variety",
+      "date": "2026-02-05",
+      "url": "https://variety.com/2026/film/columns/mckenna-grace-fun-glenn-close-yelling-the-hunger-games-sunrise-on-the-reaping-1236652498/"
+    },
     {
       "title": "‘The Daily Show’ Skewers Gavin Newsom for Sex Scandal and Failure to Solve Homelessness and High-Speed Rail in New Segment (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-02-04",
       "url": "https://variety.com/2026/tv/news/the-daily-show-roasts-gavin-newsom-1236652186/"
-    },
-    {
-      "title": "‘Hunger Games’ Star Sam Claflin Says Shirtless Scenes Led to Body Dysmorphia: ‘There’s This Hollywood Assumption That Men With Six Packs Sell Movies’",
-      "source": "Variety",
-      "date": "2026-02-04",
-      "url": "https://variety.com/2026/film/news/sam-claflin-body-dysmorphia-shirtless-scenes-hunger-games-1236652036/"
-    },
-    {
-      "title": "Hogwarts Gets Collegiate-Style Merch in New ‘Harry Potter’ Homage Collection",
-      "source": "Variety",
-      "date": "2026-02-04",
-      "url": "https://variety.com/2026/shopping/news/harry-potter-homage-vintage-tees-collection-shop-online-1236651545/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「Eye Love You」チェ・ジョンヒョプが主演！「君がきらめく季節に」正反対の男女が距離を縮める第2弾ティザー予告編公開",
+      "source": "映画.com",
+      "date": "2026-02-05",
+      "url": "https://eiga.com/news/20260205/6/"
+    },
     {
       "title": "主演トム・ヒドルストン×原作スティーブン・キング　「ショーシャンクの空に」に次ぐ感動作「サンキュー、チャック」公開決定！【ポスター・本予告・場面写真】",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-02-03",
       "url": "https://eiga.com/news/20260204/1/"
-    },
-    {
-      "title": "中島裕翔＆野口聡一が大興奮！さっぽろ雪まつりに「マンダロリアン・アンド・グローグー」巨大雪像が現れる",
-      "source": "映画.com",
-      "date": "2026-02-03",
-      "url": "https://eiga.com/news/20260204/15/"
     }
   ],
   "bd_releases": [],
