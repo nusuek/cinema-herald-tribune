@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-05T09:31:44.686424",
+  "generated_at": "2026-02-05T10:29:06.168106",
   "top_stories": [
+    {
+      "title": "‘La Portraitiste,’ Written by Florence Longpré and Directed by Annie St-Pierre, Acquired by H264 (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-02-05",
+      "url": "https://variety.com/2026/film/global/la-portraitiste-florence-longpre-annie-st-pierre-h264-1236652069/"
+    },
     {
       "title": "Sony Outlines Expansion Plans for Peanuts Brand Following $457 Million Acquisition",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-02-05",
       "url": "https://variety.com/2026/tv/news/the-grand-tour-new-hosts-1236653214/"
-    },
-    {
-      "title": "‘Oni Hunter X’ Lands at enGEN3 in Partnership With Oni Force, GK Labs Investment (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-02-05",
-      "url": "https://variety.com/2026/digital/news/oni-hunter-x-engen3-oni-force-gk-labs-1236653225/"
     }
   ],
   "new_releases": [
+    {
+      "title": "エプスタインファイルに「ワン・バトル・アフター・アナザー」のモデル？ 実在した秘密クラブの存在が明らかに",
+      "source": "映画.com",
+      "date": "2026-02-05",
+      "url": "https://eiga.com/news/20260205/22/"
+    },
     {
       "title": "Google Earthで世界中の島を調査→理想のロケ地を発見！サム・ライミ監督作「HELP 復讐島」“第三の主人公”キャスティング秘話",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-02-04",
       "url": "https://eiga.com/news/20260204/22/"
-    },
-    {
-      "title": "「片田舎のおっさん、剣聖になる II」PV第1弾＆ティザービジュアル公開　平田広明らキャスト陣からのコメントも",
-      "source": "映画.com",
-      "date": "2026-02-04",
-      "url": "https://eiga.com/news/20260204/17/"
     }
   ],
   "bd_releases": [],
