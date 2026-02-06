@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T05:08:53.595413",
+  "generated_at": "2026-02-06T06:37:29.135383",
   "top_stories": [
     {
       "title": "EJAE Releases New Heartbreak Anthem ‘Time After Time’",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "トム・クルーズ、ミラノ冬季五輪に参加は？",
+      "source": "映画.com",
+      "date": "2026-02-06",
+      "url": "https://eiga.com/news/20260206/30/"
+    },
     {
       "title": "「どうも、好きな人に惚れ薬を依頼された魔女です。」26年にTVアニメ化決定",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-02-05",
       "url": "https://eiga.com/news/20260205/13/"
-    },
-    {
-      "title": "ディズニー新CEOにジョシュ・ダマロが就任へ　アイガーの後継者が決定",
-      "source": "映画.com",
-      "date": "2026-02-05",
-      "url": "https://eiga.com/news/20260205/12/"
     }
   ],
   "bd_releases": [],
