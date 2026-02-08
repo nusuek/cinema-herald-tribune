@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T12:21:16.082329",
+  "generated_at": "2026-02-08T13:36:08.541224",
   "top_stories": [
     {
       "title": "Channel 5 Aims for Super Bowl Touch Down in the U.K. as NFL Grows International Audience: ‘Taylor Swift Definitely Has Helped Plant the Seed’",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "ノーラン監督の弟が「オデュッセイア」を鑑賞　「信じられない偉業」と絶賛",
+      "source": "映画.com",
+      "date": "2026-02-08",
+      "url": "https://eiga.com/news/20260208/11/"
+    },
     {
       "title": "アニメ「HUNTER×HUNTER」キメラアント編・後半、選挙編がTVer初配信",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-02-06",
       "url": "https://eiga.com/news/20260206/21/"
-    },
-    {
-      "title": "渋谷PARCOに坂本龍一「TOKYO MELODY」と80年代カルチャーを体感できるポップアップストア　メイク体験コーナーも",
-      "source": "映画.com",
-      "date": "2026-02-06",
-      "url": "https://eiga.com/news/20260206/20/"
     }
   ],
   "bd_releases": [],
