@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T09:39:53.289988",
+  "generated_at": "2026-02-11T10:36:44.677139",
   "top_stories": [
     {
       "title": "Sky Inks Multi-Year Disney+ Distribution Deal, Offers Streaming Bundle With Netflix, HBO Max and Hayu",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "青春アニメ「どこよりも遠い場所にいる君へ」10月9日公開決定　とたが歌う劇中歌を使用した超特報映像も公開",
+      "source": "映画.com",
+      "date": "2026-02-11",
+      "url": "https://eiga.com/news/20260211/12/"
+    },
     {
       "title": "渡辺謙が体現する“芝居小屋を束ねる男”「木挽町のあだ討ち」新カット公開！“謙さんはあらゆる点で別格の存在”",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-02-09",
       "url": "https://eiga.com/news/20260209/9/"
-    },
-    {
-      "title": "ポール・トーマス・アンダーソン監督、DGA賞を受賞",
-      "source": "映画.com",
-      "date": "2026-02-10",
-      "url": "https://eiga.com/news/20260210/11/"
     }
   ],
   "bd_releases": [],
