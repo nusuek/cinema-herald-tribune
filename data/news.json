@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-02-13T10:27:38.881522",
+  "generated_at": "2026-02-13T11:22:37.299631",
   "top_stories": [
+    {
+      "title": "Bring Me the Horizon Immersive Concert Film ‘L.I.V.E. in São Paulo’ Unveils Trailer, Tickets Now on Sale",
+      "source": "Variety",
+      "date": "2026-02-13",
+      "url": "https://variety.com/2026/music/global/bring-me-the-horizon-concert-film-live-sao-paulo-trailer-1236661992/"
+    },
+    {
+      "title": "Film Factory Picks Up International Sales on Lucía Puenzo’s ‘Pepita the Gunslinger’ (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-02-13",
+      "url": "https://variety.com/2026/film/global/film-factory-lucia-puenzo-pepita-the-gunslinger-berlin-efm-1236662004/"
+    },
     {
       "title": "Hasbro Entertainment and Animaj Launch Lumee to Rethink How Kids’ Content Makes Money Online",
       "source": "Variety",
       "date": "2026-02-13",
       "url": "https://variety.com/2026/tv/global/hasbro-entertainment-animaj-lumee-kids-content-digital-sales-1236623149/"
-    },
-    {
-      "title": "London Sales Company MSC Labels Films ‘No AI Used’ at EFM, Calls for Global Standard (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-02-13",
-      "url": "https://variety.com/2026/film/news/london-sales-company-msc-films-no-ai-used-efm-1236661976/"
-    },
-    {
-      "title": "Period Thriller ’Sorority’ Brought to Market by France TV Distribution (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-02-13",
-      "url": "https://variety.com/2026/tv/global/sorority-lula-cotton-frapier-france-tv-distribution-1236661930/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ティモシー・シャラメ主演「ウォンカとチョコレート工場のはじまり」金曜ロードショーで今夜地上波初放送！あらすじ＆キャストまとめ",
+      "source": "映画.com",
+      "date": "2026-02-13",
+      "url": "https://eiga.com/news/20260213/23/"
+    },
     {
       "title": "ニコラス・ケイジ主演「スパイダー・ノワール」のスチール写真が公開",
       "source": "映画.com",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2026-02-09",
       "url": "https://eiga.com/news/20260209/22/"
-    },
-    {
-      "title": "マット・デイモン、ベン・アフレックら豪華スターが集結！「クライム101」LAでワールドプレミア開催",
-      "source": "映画.com",
-      "date": "2026-02-12",
-      "url": "https://eiga.com/news/20260212/20/"
     }
   ],
   "bd_releases": [],
