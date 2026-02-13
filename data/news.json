@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-02-13T22:19:41.797156",
+  "generated_at": "2026-02-13T23:19:13.499312",
   "top_stories": [
+    {
+      "title": "‘Goat’ Star Gabrielle Union and Filmmakers on Re-Animating Basketball Culture for the Big Screen: ‘Ball is Life’",
+      "source": "Variety",
+      "date": "2026-02-13",
+      "url": "https://variety.com/2026/film/news/gabrielle-union-stephen-curry-goat-basketball-pop-culture-1236661591/"
+    },
+    {
+      "title": "‘Heated Rivalry’ Star Hudson Williams Celebrates Birthday Dancing to ABBA With Lola Tung and More: Inside Gold House’s Lunar New Year Party",
+      "source": "Variety",
+      "date": "2026-02-13",
+      "url": "https://variety.com/2026/scene/news/inside-gold-house-lunar-new-year-party-hudson-williams-lola-tung-1236662705/"
+    },
     {
       "title": "How Emerald Fennell’s ‘Wuthering Heights’ Movie Changes Emily Brontë’s Novel, From More Sex to Missing Characters",
       "source": "Variety",
       "date": "2026-02-13",
       "url": "https://variety.com/2026/film/news/wuthering-heights-movie-changes-bronte-novel-emerald-fennell-1236660758/"
-    },
-    {
-      "title": "Margot Robbie and Jacob Elordi on Embracing Emerald Fennell’s Provocative Vision for ‘Wuthering Heights’: ‘I Would Follow Her Anywhere’",
-      "source": "Variety",
-      "date": "2026-02-13",
-      "url": "https://variety.com/2026/film/features/margot-robbie-jacob-elordi-wuthering-heights-emerald-fennell-1236662585/"
-    },
-    {
-      "title": "Mattel to Acquire Full Ownership of Mattel163 From NetEase (Gaming News Roundup)",
-      "source": "Variety",
-      "date": "2026-02-13",
-      "url": "https://variety.com/2026/gaming/news/mattel-163-gaming-news-roundup-1236658843/"
     }
   ],
   "new_releases": [
+    {
+      "title": "発達に遅れのある息子を一人で育てる母が恋に落ち、息子の恋人は妊娠――母として、女として揺れる心と母子の絆を繊細に描く「私のすべて」監督インタビュー",
+      "source": "映画.com",
+      "date": "2026-02-13",
+      "url": "https://eiga.com/news/20260214/5/"
+    },
+    {
+      "title": "ジャッキー・チェン主演「パンダプラン」　早くも続編ビジュアルを披露！",
+      "source": "映画.com",
+      "date": "2026-02-13",
+      "url": "https://eiga.com/news/20260214/3/"
+    },
+    {
+      "title": "【2月公開映画：期待度ランキング】「木挽町のあだ討ち」「教場 Requiem」を抑えて1位に輝いたのは……",
+      "source": "映画.com",
+      "date": "2026-02-13",
+      "url": "https://eiga.com/news/20260214/2/"
+    },
     {
       "title": "「新劇場版　銀魂　吉原大炎上」入場特典はコミック仕様・60ページ超え「第炎上巻」　“炎上覚悟”の内容",
       "source": "映画.com",
@@ -176,24 +194,6 @@
       "source": "映画.com",
       "date": "2026-02-13",
       "url": "https://eiga.com/news/20260213/7/"
-    },
-    {
-      "title": "戦慄のサイコロジカルホラー「リターン・トゥ・サイレントヒル」Prime Videoで独占配信　監督はクリストフ・ガンズ",
-      "source": "映画.com",
-      "date": "2026-02-13",
-      "url": "https://eiga.com/news/20260213/6/"
-    },
-    {
-      "title": "「ハムナプトラ」新作にブレンダン・フレイザー＆レイチェル・ワイズが正式復帰　28年全米公開へ",
-      "source": "映画.com",
-      "date": "2026-02-13",
-      "url": "https://eiga.com/news/20260213/5/"
-    },
-    {
-      "title": "“東野圭吾初のアニメ化”なぜTVシリーズではなく「映画」だったのか？【「クスノキの番人」製作秘話】",
-      "source": "映画.com",
-      "date": "2026-02-12",
-      "url": "https://eiga.com/news/20260213/4/"
     }
   ],
   "bd_releases": [],
