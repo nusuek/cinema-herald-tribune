@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-02-16T21:17:19.536373",
+  "generated_at": "2026-02-16T22:14:46.598176",
   "top_stories": [
     {
-      "title": "Why Shooting ‘Crime 101’ Was a ‘Love Letter to Los Angeles,’ From an Echo Park Mural to the Sixth Street Bridge",
+      "title": "Anderson Cooper Set to Exit CBS News’ ’60 Minutes’",
       "source": "Variety",
       "date": "2026-02-16",
-      "url": "https://variety.com/2026/artisans/features/crime-101-los-angeles-locations-sixth-street-bridge-1236664767/"
+      "url": "https://variety.com/2026/tv/news/anderson-cooper-exit-60-minutes-cbs-news-1236664874/"
     },
     {
-      "title": "Robert Duvall Was a ‘Marvelous Actor’ Whose Performance ‘Raised Everybody Else,’ ‘Broken Trail’ Director Walter Hill Remembers",
+      "title": "Billy Steinberg, Songwriter Who Co-Wrote Smashes Including ‘Like a Virgin,’ ‘True Colors,’ ‘Eternal Flame’ and ‘So Emotional,’ Dies at 74",
       "source": "Variety",
       "date": "2026-02-16",
-      "url": "https://variety.com/2026/film/news/robert-duvall-remember-walter-hill-broken-trail-marvelous-1236664815/"
+      "url": "https://variety.com/2026/music/obituaries-people-news/billy-steinberg-dead-songwriter-like-a-virgin-true-colors-1236664839/"
     },
     {
-      "title": "‘The Blood Countess’ Review: A Hilarious Isabelle Huppert Fully Puts the Vamp Into Vampire",
+      "title": "Frederick Wiseman, Legendary Documentary Filmmaker, Dies at 96",
       "source": "Variety",
       "date": "2026-02-16",
-      "url": "https://variety.com/2026/film/reviews/the-blood-countess-review-isabelle-huppert-1236660826/"
+      "url": "https://variety.com/2026/film/news/frederick-wiseman-dead-ex-libris-at-berkeley-1236664858/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ゆうちゃみ、映画初出演で“仮面ライダーG6”に変身！　「アギト　超能力戦争」に参加【コメント発表】",
+      "source": "映画.com",
+      "date": "2026-02-16",
+      "url": "https://eiga.com/news/20260217/3/"
+    },
+    {
+      "title": "日韓合作「TOKYO BURST　犯罪都市」で水上恒司＆ユンホ×福士蒼汰＆オム・ギジュン共演！ 特報映像も公開",
+      "source": "映画.com",
+      "date": "2026-02-16",
+      "url": "https://eiga.com/news/20260217/5/"
+    },
     {
       "title": "綾瀬はるか×石井裕也「人はなぜラブレターを書くのか」予告公開　主題歌はヒゲダン書き下ろし",
       "source": "映画.com",
@@ -170,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-02-15",
       "url": "https://eiga.com/news/20260216/1/"
-    },
-    {
-      "title": "「ヘルダイバー」実写映画にジェイソン・モモア主演が決定",
-      "source": "映画.com",
-      "date": "2026-02-15",
-      "url": "https://eiga.com/news/20260215/13/"
     }
   ],
   "bd_releases": [],
