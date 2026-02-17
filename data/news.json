@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-02-16T23:16:57.736911",
+  "generated_at": "2026-02-17T01:00:39.315304",
   "top_stories": [
+    {
+      "title": "Alan Ritchson, Charlize Theron, Florence Pugh Lead Netflix’s 2026 Australia-New Zealand Slate",
+      "source": "Variety",
+      "date": "2026-02-17",
+      "url": "https://variety.com/2026/tv/news/alan-ritchson-charlize-theron-florence-pugh-netflix-2026-australia-new-zealand-slate-1236664478/"
+    },
+    {
+      "title": "‘Reservation Dogs’ Star D’Pharaoh Woon-A-Tai Joins Netflix’s ‘Breakers’ With Antony Starr",
+      "source": "Variety",
+      "date": "2026-02-16",
+      "url": "https://variety.com/2026/tv/news/reservation-dogs-dpharaoh-woon-a-tai-netflix-breakers-1236661379/"
+    },
     {
       "title": "Al Pacino and Robert De Niro Remember ‘The Godfather Part II’ Co-Star Robert Duvall: ‘I Will Miss Him’",
       "source": "Variety",
       "date": "2026-02-16",
       "url": "https://variety.com/2026/film/news/al-pacino-robert-de-niro-tribute-robert-duvall-1236664953/"
-    },
-    {
-      "title": "Remembering Robert Duvall, Whose Acting Brilliance Colored in the Light and Dark Sides of Humanity",
-      "source": "Variety",
-      "date": "2026-02-16",
-      "url": "https://variety.com/2026/film/columns/remembering-robert-duvall-the-godfather-apocalypse-now-1236664873/"
-    },
-    {
-      "title": "‘Nina Roza’ Review: An Eerily Doubled, Intricately Mirrored and Deeply Moving Reflection on Immigrant Identity",
-      "source": "Variety",
-      "date": "2026-02-16",
-      "url": "https://variety.com/2026/film/reviews/nina-roza-review-1236664817/"
     }
   ],
   "new_releases": [
+    {
+      "title": "永瀬廉×吉川愛、3人で“恋人繋ぎ”の撮影秘話「鬼の花嫁」",
+      "source": "映画.com",
+      "date": "2026-02-17",
+      "url": "https://eiga.com/news/20260217/6/"
+    },
     {
       "title": "米ドキュメンタリー映画の巨匠、フレデリック・ワイズマン監督死去　96歳",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-02-16",
       "url": "https://eiga.com/news/20260216/5/"
-    },
-    {
-      "title": "劇場版「コナン」最新作「ハイウェイの堕天使」ファン参加型の宣伝施策が始動　新PVも公開",
-      "source": "映画.com",
-      "date": "2026-02-15",
-      "url": "https://eiga.com/news/20260216/4/"
     }
   ],
   "bd_releases": [],
