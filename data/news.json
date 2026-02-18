@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-02-17T23:16:57.332434",
+  "generated_at": "2026-02-18T01:02:49.799286",
   "top_stories": [
     {
-      "title": "Brian Tyree Henry Adult Animated Series ‘Bass x Machina’ Sets Netflix Release (EXCLUSIVE)",
+      "title": "Warner Bros. Blasts ByteDance for AI Videos of Superman, Batman and ‘Game of Thrones’",
       "source": "Variety",
-      "date": "2026-02-17",
-      "url": "https://variety.com/2026/tv/news/brian-tyree-henry-bass-x-machina-netflix-1236665873/"
+      "date": "2026-02-18",
+      "url": "https://variety.com/2026/film/news/warner-bros-bytedance-ai-batman-superman-game-of-thrones-1236665979/"
     },
     {
-      "title": "Ted Sarandos Slams Paramount for ‘Flooding the Zone With Misinformation’ as Warner Bros. Discovery Initiates New Talks With Rival Suitor",
+      "title": "‘Who Killed Alex Odeh?’ Review: A Modest True Crime Doc Where the Answers Are Out in the Open",
       "source": "Variety",
       "date": "2026-02-17",
-      "url": "https://variety.com/2026/biz/news/ted-sarandos-paramount-misinformation-warner-bros-talks-1236665931/"
+      "url": "https://variety.com/2026/film/reviews/who-killed-alex-odeh-review-1236664721/"
     },
     {
-      "title": "Ryan Coogler’s ‘Sinners,’ Dwayne Johnson, Angela Bassett Saluted at ABFF Honors: ‘Our Stories Are Not Trends, They’re Truths’",
+      "title": "Daniel Radcliffe Tells Press Not to Always Ask HBO’s ‘Harry Potter’ Cast About the Original Movie Actors: ‘Just Let Them Get On… It’s Going to Be Different’",
       "source": "Variety",
       "date": "2026-02-17",
-      "url": "https://variety.com/2026/film/news/abff-honors-ryan-coogler-dwayne-johnson-angela-bassett-1236665013/"
+      "url": "https://variety.com/2026/tv/news/daniel-radcliffe-harry-potter-new-cast-original-movies-1236665918/"
     }
   ],
   "new_releases": [
+    {
+      "title": "日本の動画配信市場が1兆1000億円を突破、Netflix・Amazon・U-NEXTが三つ巴",
+      "source": "映画.com",
+      "date": "2026-02-18",
+      "url": "https://eiga.com/news/20260218/9/"
+    },
+    {
+      "title": "山田杏奈×ショーン・ティア主演「ロスト・アンド・ファウンド　君を探して」共演に村上虹郎、森田想、大東駿介、杉本哲太ら集結",
+      "source": "映画.com",
+      "date": "2026-02-18",
+      "url": "https://eiga.com/news/20260218/8/"
+    },
     {
       "title": "柄本佑主演「メモリィズ」穂志もえか、香椎由宇、イッセー尾形ら新キャスト発表",
       "source": "映画.com",
@@ -158,18 +170,6 @@
       "source": "映画.com",
       "date": "2026-02-17",
       "url": "https://eiga.com/news/20260217/7/"
-    },
-    {
-      "title": "永瀬廉×吉川愛、3人で“恋人繋ぎ”の撮影秘話「鬼の花嫁」",
-      "source": "映画.com",
-      "date": "2026-02-17",
-      "url": "https://eiga.com/news/20260217/6/"
-    },
-    {
-      "title": "米ドキュメンタリー映画の巨匠、フレデリック・ワイズマン監督死去　96歳",
-      "source": "映画.com",
-      "date": "2026-02-16",
-      "url": "https://eiga.com/news/20260217/16/"
     }
   ],
   "bd_releases": [],
