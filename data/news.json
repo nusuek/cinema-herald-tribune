@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-02-18T01:02:49.799286",
+  "generated_at": "2026-02-18T04:08:06.097044",
   "top_stories": [
+    {
+      "title": "YouTube Goes Down: Platform Experiences Technical Issue with Recommendation System",
+      "source": "Variety",
+      "date": "2026-02-18",
+      "url": "https://variety.com/2026/digital/news/youtube-down-homepage-recommendation-system-google-1236666054/"
+    },
+    {
+      "title": "Jane Baer, Animator on ‘Sleeping Beauty’ and ‘Who Framed Roger Rabbit’ Who Founded Baer Animation, Dies at 91",
+      "source": "Variety",
+      "date": "2026-02-18",
+      "url": "https://variety.com/2026/film/people-news/jane-baer-dead-sleeping-beauty-1236666040/"
+    },
     {
       "title": "Warner Bros. Blasts ByteDance for AI Videos of Superman, Batman and ‘Game of Thrones’",
       "source": "Variety",
       "date": "2026-02-18",
       "url": "https://variety.com/2026/film/news/warner-bros-bytedance-ai-batman-superman-game-of-thrones-1236665979/"
-    },
-    {
-      "title": "‘Who Killed Alex Odeh?’ Review: A Modest True Crime Doc Where the Answers Are Out in the Open",
-      "source": "Variety",
-      "date": "2026-02-17",
-      "url": "https://variety.com/2026/film/reviews/who-killed-alex-odeh-review-1236664721/"
-    },
-    {
-      "title": "Daniel Radcliffe Tells Press Not to Always Ask HBO’s ‘Harry Potter’ Cast About the Original Movie Actors: ‘Just Let Them Get On… It’s Going to Be Different’",
-      "source": "Variety",
-      "date": "2026-02-17",
-      "url": "https://variety.com/2026/tv/news/daniel-radcliffe-harry-potter-new-cast-original-movies-1236665918/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「RRR」ラージャマウリ監督の新作、製作費229億円でインド映画史上最高額に",
+      "source": "映画.com",
+      "date": "2026-02-18",
+      "url": "https://eiga.com/news/20260218/11/"
+    },
+    {
+      "title": "2025年の中国映画市場を徹底分析！　観客と映画館の関係に変化、「ナタ　魔童の大暴れ」の存在感、日本映画の行方は？【アジア映画コラム】",
+      "source": "映画.com",
+      "date": "2026-02-17",
+      "url": "https://eiga.com/news/20260217/18/"
+    },
+    {
+      "title": "ワーナー・ブラザース争奪戦、Netflixとの合意後もパラマウントが猛追",
+      "source": "映画.com",
+      "date": "2026-02-18",
+      "url": "https://eiga.com/news/20260218/10/"
+    },
     {
       "title": "日本の動画配信市場が1兆1000億円を突破、Netflix・Amazon・U-NEXTが三つ巴",
       "source": "映画.com",
@@ -106,12 +124,6 @@
       "url": "https://eiga.com/news/20260217/20/"
     },
     {
-      "title": "2025年の中国映画市場を徹底分析！　観客と映画館の関係に変化、「ナタ　魔童の大暴れ」の存在感、日本映画の行方は？【アジア映画コラム】",
-      "source": "映画.com",
-      "date": "2026-02-17",
-      "url": "https://eiga.com/news/20260217/18/"
-    },
-    {
       "title": "日本のアニメはアメリカを「制した」のか？　北米興行の数字が語ること【ハリウッドコラムvol.371】",
       "source": "映画.com",
       "date": "2026-02-17",
@@ -158,18 +170,6 @@
       "source": "映画.com",
       "date": "2026-02-17",
       "url": "https://eiga.com/news/20260217/12/"
-    },
-    {
-      "title": "「KPOPガールズ！」「ハリー・ポッター」効果で米玩具大手株が上昇",
-      "source": "映画.com",
-      "date": "2026-02-17",
-      "url": "https://eiga.com/news/20260217/8/"
-    },
-    {
-      "title": "「スノウボールアース」オープニング主題歌「零-zero-」を現役女子高生シンガーtuki.が歌唱",
-      "source": "映画.com",
-      "date": "2026-02-17",
-      "url": "https://eiga.com/news/20260217/7/"
     }
   ],
   "bd_releases": [],
