@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-02-19T01:02:12.997903",
+  "generated_at": "2026-02-19T04:07:06.862495",
   "top_stories": [
     {
-      "title": "60 Minutes, CBS Sports, Inside Edition to Leave Longtime New York Offices in Real Estate Shuffle",
+      "title": "UFC Fighter Sean Strickland Goes on Sexist, Homophobic Tirade About Bad Bunny and Ronda Rousey During Paramount+ Media Day: ‘No One Gives a F— About Women’s Sports’",
       "source": "Variety",
       "date": "2026-02-19",
-      "url": "https://variety.com/2026/tv/news/60-minutes-cbs-sports-inside-edition-exit-new-york-offices-1236666926/"
+      "url": "https://variety.com/2026/tv/news/ufc-sean-strickland-bad-bunny-ronda-rousey-paramount-1236667020/"
     },
     {
-      "title": "Over Half U.K. Audiences Watch YouTube Via TV Set, According to Ratings Body Barb",
+      "title": "Brendan Carr Confirms FCC Has Begun ‘Enforcement Proceedings’ Against ABC’s ‘The View’ Over Equal Time Issues",
       "source": "Variety",
       "date": "2026-02-19",
-      "url": "https://variety.com/2026/tv/global/youtube-television-set-barb-report-uk-audience-1236666359/"
+      "url": "https://variety.com/2026/tv/news/brendan-carr-fcc-the-view-equal-time-colbert-1236667002/"
     },
     {
-      "title": "Marshmello, Ashlee Simpson, Juicy J Tapped for Diplo’s HonkyTonk at Stagecoach 2026",
+      "title": "Taraji P. Henson Dresses as Scary Spice on Next Week’s ‘The Masked Singer’ In These Exclusive ‘Spice Girls Night’ Clips",
       "source": "Variety",
       "date": "2026-02-19",
-      "url": "https://variety.com/2026/music/news/marshmello-ashlee-simpson-diplo-honkytonk-stagecoach-2026-1236666925/"
+      "url": "https://variety.com/2026/tv/news/taraji-p-henson-scary-spice-the-masked-singer-spice-girls-1236666957/"
     }
   ],
   "new_releases": [
+    {
+      "title": "Netflix、ワーナーに7日間の猶予　パラマウントとの買収協議を容認",
+      "source": "映画.com",
+      "date": "2026-02-19",
+      "url": "https://eiga.com/news/20260219/12/"
+    },
+    {
+      "title": "ナタリー・ポートマン、「スター・ウォーズ」の撮影現場からあるものを持ち帰っていた",
+      "source": "映画.com",
+      "date": "2026-02-19",
+      "url": "https://eiga.com/news/20260219/11/"
+    },
+    {
+      "title": "マヤ・ホーク、バレンタインデーに極秘挙式　ユマ・サーマンとイーサン・ホークがそろって祝福",
+      "source": "映画.com",
+      "date": "2026-02-19",
+      "url": "https://eiga.com/news/20260219/10/"
+    },
+    {
+      "title": "坂本龍一、濱口竜介に続く3人目の日本人審査員　ハリウッドで活躍のHIKARI監督に聞く【第76回ベルリン国際映画祭】",
+      "source": "映画.com",
+      "date": "2026-02-19",
+      "url": "https://eiga.com/news/20260219/19/"
+    },
     {
       "title": "「エクスペンダブルズ3 ワールドミッション」午後ローで本日放送　メル・ギブソン、ハリソン・フォードら“レジェンド”が大集結！　あらすじ＆キャストまとめ",
       "source": "映画.com",
@@ -164,30 +188,6 @@
       "source": "映画.com",
       "date": "2026-02-18",
       "url": "https://eiga.com/news/20260218/12/"
-    },
-    {
-      "title": "「RRR」ラージャマウリ監督の新作、製作費229億円でインド映画史上最高額に",
-      "source": "映画.com",
-      "date": "2026-02-18",
-      "url": "https://eiga.com/news/20260218/11/"
-    },
-    {
-      "title": "2025年の中国映画市場を徹底分析！　観客と映画館の関係に変化、「ナタ　魔童の大暴れ」の存在感、日本映画の行方は？【アジア映画コラム】",
-      "source": "映画.com",
-      "date": "2026-02-17",
-      "url": "https://eiga.com/news/20260217/18/"
-    },
-    {
-      "title": "ワーナー・ブラザース争奪戦、Netflixとの合意後もパラマウントが猛追",
-      "source": "映画.com",
-      "date": "2026-02-18",
-      "url": "https://eiga.com/news/20260218/10/"
-    },
-    {
-      "title": "山田杏奈×ショーン・ティア主演「ロスト・アンド・ファウンド　君を探して」共演に村上虹郎、森田想、大東駿介、杉本哲太ら集結",
-      "source": "映画.com",
-      "date": "2026-02-18",
-      "url": "https://eiga.com/news/20260218/8/"
     }
   ],
   "bd_releases": [],
