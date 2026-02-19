@@ -1,37 +1,43 @@
 {
-  "generated_at": "2026-02-19T12:33:05.554081",
+  "generated_at": "2026-02-19T14:00:24.670621",
   "top_stories": [
     {
-      "title": "The World Needs New Heroes, Argue Creators at Berlinale: ‘We Made This Series Because We Felt Powerless’",
+      "title": "John Coltrane Estate Unveils ‘Coltrane 100’ Centennial Celebration With Symphonic Concert, Rare and Unreleased Recordings, Events and More",
       "source": "Variety",
       "date": "2026-02-19",
-      "url": "https://variety.com/2026/tv/global/all-heroes-are-bastards-the-marquise-phoenix-berlinale-1236666296/"
+      "url": "https://variety.com/2026/music/news/john-coltrane-estate-100-celebration-1236667036/"
     },
     {
-      "title": "Paddington Bear Joins Lineup of Presenters at BAFTA Film Awards",
+      "title": "F1 Grand Prix Races to Screen in Imax Theaters",
       "source": "Variety",
       "date": "2026-02-19",
-      "url": "https://variety.com/2026/film/global/paddington-bear-to-present-bafta-awards-1236667147/"
+      "url": "https://variety.com/2026/film/news/f1-grand-prix-races-imax-theaters-1236666757/"
     },
     {
-      "title": "Iko Uwais to Star in Indonesian Action Film ‘Warrior,’ Reuniting With Silat Roots (EXCLUSIVE)",
+      "title": "Could EU Regulators Favor Paramount Over Netflix in Battle for Warner Bros. Discovery?",
       "source": "Variety",
       "date": "2026-02-19",
-      "url": "https://variety.com/2026/film/news/iko-uwais-indonesian-action-film-warrior-silat-1236667151/"
+      "url": "https://variety.com/2026/film/global/eu-regulator-paramount-netflix-battle-warner-bros-discovery-1236649398/"
     }
   ],
   "new_releases": [
-    {
-      "title": "今すぐ映画館に駆けつけろ！「ワン・バトル・アフター・アナザー」IMAX＆Dolby Cinema上映決定",
-      "source": "映画.com",
-      "date": "2026-02-19",
-      "url": "https://eiga.com/news/20260219/23/"
-    },
     {
       "title": "坂本龍一、濱口竜介に続く日本人審査員　ハリウッドで活躍のHIKARI監督に聞く【第76回ベルリン国際映画祭】",
       "source": "映画.com",
       "date": "2026-02-19",
       "url": "https://eiga.com/news/20260219/19/"
+    },
+    {
+      "title": "マーティン・スコセッシ、「スター・ウォーズ」新作に出演",
+      "source": "映画.com",
+      "date": "2026-02-19",
+      "url": "https://eiga.com/news/20260219/24/"
+    },
+    {
+      "title": "今すぐ映画館に駆けつけろ！「ワン・バトル・アフター・アナザー」IMAX＆Dolby Cinema上映決定",
+      "source": "映画.com",
+      "date": "2026-02-19",
+      "url": "https://eiga.com/news/20260219/23/"
     },
     {
       "title": "大人の没入体験パークへと生まれ変わる「太秦映画村」の第1期リニューアル全貌公開！18禁の「丁半博打」や「拷問屋敷」も",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-02-18",
       "url": "https://eiga.com/news/20260218/22/"
-    },
-    {
-      "title": "世界三大映画祭すべての最高賞を制覇したジャファル・パナヒ監督最新作「シンプル・アクシデント　偶然」予告編",
-      "source": "映画.com",
-      "date": "2026-02-18",
-      "url": "https://eiga.com/news/20260218/25/"
     }
   ],
   "bd_releases": [],
