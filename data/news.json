@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-21T21:10:55.933696",
+  "generated_at": "2026-02-21T22:10:32.483426",
   "top_stories": [
+    {
+      "title": "Michael Imperioli Says ‘A Lot’ of ‘The Sopranos’ Characters Would ‘Probably’ Be Trump Supporters: ‘The Show Is About the American Dream’",
+      "source": "Variety",
+      "date": "2026-02-21",
+      "url": "https://variety.com/2026/tv/news/michael-imperioli-the-sopranos-characters-trump-supporters-1236669372/"
+    },
     {
       "title": "‘American Psycho’ Author Bret Easton Ellis Says ‘High Profile Actors’ Have Turned Down Patrick Bateman Role: ‘They Don’t Want To Be in the Shoes of Christian Bale’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-02-21",
       "url": "https://variety.com/2026/film/news/mark-ruffalo-james-cameron-netflix-warner-bros-paramount-1236669351/"
-    },
-    {
-      "title": "‘Chronicles From the Siege’ Review: Vignettes of Desperation on the Front Lines Deepen the Depiction of Palestinian Lives",
-      "source": "Variety",
-      "date": "2026-02-21",
-      "url": "https://variety.com/2026/film/news/chronicles-from-the-siege-review-1236669122/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「チャーリーズ・エンジェル」再リブート　ソニーが新作映画を開発中",
+      "source": "映画.com",
+      "date": "2026-02-21",
+      "url": "https://eiga.com/news/20260222/1/"
+    },
+    {
+      "title": "【第76回ベルリン国際映画祭】会期後半、コンペ作品はザンドラ・ヒュラー主演作などが高評価",
+      "source": "映画.com",
+      "date": "2026-02-21",
+      "url": "https://eiga.com/news/20260222/15/"
+    },
     {
       "title": "手塚治虫原作の新作長編アニメーション始動、総監督手塚眞が発表",
       "source": "映画.com",
@@ -158,18 +170,6 @@
       "source": "映画.com",
       "date": "2026-02-20",
       "url": "https://eiga.com/news/20260220/31/"
-    },
-    {
-      "title": "竹野内豊＆山田孝之「唄う六人の女」の制作過程を追うドキュメンタリー「WITH」劇場公開決定　ナレーションは津田寛治",
-      "source": "映画.com",
-      "date": "2026-02-20",
-      "url": "https://eiga.com/news/20260220/32/"
-    },
-    {
-      "title": "座長・柄本明渾身の記録映画「今は昔、栄養映画館の旅」本予告編とポスタービジュアル完成！ 場面写真も公開",
-      "source": "映画.com",
-      "date": "2026-02-20",
-      "url": "https://eiga.com/news/20260220/34/"
     }
   ],
   "bd_releases": [],
