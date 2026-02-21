@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-02-20T23:16:51.658950",
+  "generated_at": "2026-02-21T00:56:51.651074",
   "top_stories": [
     {
-      "title": "‘Jersey Shore’ Star Nicole ‘Snooki’ Polizzi Shares Cervical Cancer Diagnosis: ‘Get Your Pap Smears Done’",
+      "title": "Katseye’s Manon to Take Temporary Hiatus From the Group to ‘Focus on Her Health and Wellbeing’",
       "source": "Variety",
-      "date": "2026-02-20",
-      "url": "https://variety.com/2026/tv/news/jersey-shore-nicole-snooki-polizzi-cervical-cancer-1236668839/"
+      "date": "2026-02-21",
+      "url": "https://variety.com/2026/music/news/katseye-manon-announces-temporary-hiatus-from-group-1236668897/"
     },
     {
-      "title": "Anderson Cooper, Stephen Colbert and Sean Strickland Draw Scrutiny to Paramount While Bid for Warner Plays Out",
+      "title": "‘Teenage Mutant Ninja Turtles Mutant Mayhem 2’ Moves to August 2027",
       "source": "Variety",
-      "date": "2026-02-20",
-      "url": "https://variety.com/2026/tv/news/anderson-cooper-stephen-colbert-sean-strickland-paramount-1236668726/"
+      "date": "2026-02-21",
+      "url": "https://variety.com/2026/film/news/teenage-mutant-ninja-turtles-mutant-mayhem-2-august-2027-release-date-1236668892/"
     },
     {
-      "title": "Stellan Skarsgård on His First Oscar Nomination, Working With Robin Williams and Lars von Trier and Why AI Isn’t the Real Threat",
+      "title": "New Microsoft Gaming CEO Asha Sharma on What Makes a ‘Great Game,’ Having ‘No Tolerance for Bad AI’ and Replacing Phil Spencer",
       "source": "Variety",
       "date": "2026-02-20",
-      "url": "https://variety.com/2026/film/awards/stellan-skarsgard-oscars-robin-williams-lars-von-trier-ai-1236667958/"
+      "url": "https://variety.com/2026/gaming/news/new-microsoft-gaming-ceo-asha-sharma-xbox-games-ai-1236668829/"
     }
   ],
   "new_releases": [
+    {
+      "title": "藤子・F・不二雄のSF短編漫画「ミノタウロスの皿」が初舞台化　12月に新国立劇場で上演",
+      "source": "映画.com",
+      "date": "2026-02-21",
+      "url": "https://eiga.com/news/20260221/4/"
+    },
     {
       "title": "木村拓哉主演「教場 Requiem」は新たな大作映画のビジネスモデルを作れるか？【コラム／細野真宏の試写室日記】",
       "source": "映画.com",
@@ -158,12 +164,6 @@
       "source": "映画.com",
       "date": "2026-02-20",
       "url": "https://eiga.com/news/20260220/18/"
-    },
-    {
-      "title": "「モンスターズ・ユニバーシティ」3月20日に金曜ロードショーで放送！【「モンスターズ・インク」続編】",
-      "source": "映画.com",
-      "date": "2026-02-20",
-      "url": "https://eiga.com/news/20260220/20/"
     }
   ],
   "bd_releases": [],
