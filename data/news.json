@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-02-21T00:56:51.651074",
+  "generated_at": "2026-02-21T03:17:14.424201",
   "top_stories": [
+    {
+      "title": "Ted Sarandos Fights to Seal Warner Bros. Discovery Deal: Netflix Co-CEO on Battling ‘Misinformation,’ the Future of HBO Max and His ‘Blood Oath’ for Theatrical Exhibition",
+      "source": "Variety",
+      "date": "2026-02-21",
+      "url": "https://variety.com/2026/film/news/ted-sarandos-hbo-max-theatrical-exhibition-warner-bros-discovery-1236668940/"
+    },
+    {
+      "title": "‘The Dreadful’ Director on the ‘Forbidden Fruit’ of a Kit Harington-Sophie Turner Romance and Telling a Dark Ages Horror Story Focused on Women",
+      "source": "Variety",
+      "date": "2026-02-21",
+      "url": "https://variety.com/2026/film/features/the-dreadful-sophie-turner-kit-harington-forbidden-romance-1236668805/"
+    },
     {
       "title": "Katseye’s Manon to Take Temporary Hiatus From the Group to ‘Focus on Her Health and Wellbeing’",
       "source": "Variety",
       "date": "2026-02-21",
       "url": "https://variety.com/2026/music/news/katseye-manon-announces-temporary-hiatus-from-group-1236668897/"
-    },
-    {
-      "title": "‘Teenage Mutant Ninja Turtles Mutant Mayhem 2’ Moves to August 2027",
-      "source": "Variety",
-      "date": "2026-02-21",
-      "url": "https://variety.com/2026/film/news/teenage-mutant-ninja-turtles-mutant-mayhem-2-august-2027-release-date-1236668892/"
-    },
-    {
-      "title": "New Microsoft Gaming CEO Asha Sharma on What Makes a ‘Great Game,’ Having ‘No Tolerance for Bad AI’ and Replacing Phil Spencer",
-      "source": "Variety",
-      "date": "2026-02-20",
-      "url": "https://variety.com/2026/gaming/news/new-microsoft-gaming-ceo-asha-sharma-xbox-games-ai-1236668829/"
     }
   ],
   "new_releases": [
+    {
+      "title": "この転校生、何かがおかしい――タイ発の学園ミステリー「転校生ナノ」日本版リメイク制作決定　主演は仲島有彩",
+      "source": "映画.com",
+      "date": "2026-02-21",
+      "url": "https://eiga.com/news/20260221/6/"
+    },
+    {
+      "title": "「嵐が丘」の世界に没入！ マーゴット・ロビーが演じたキャサリンの寝室を再現したAirbnbが登場",
+      "source": "映画.com",
+      "date": "2026-02-21",
+      "url": "https://eiga.com/news/20260221/5/"
+    },
     {
       "title": "藤子・F・不二雄のSF短編漫画「ミノタウロスの皿」が初舞台化　12月に新国立劇場で上演",
       "source": "映画.com",
@@ -158,12 +170,6 @@
       "source": "映画.com",
       "date": "2026-02-20",
       "url": "https://eiga.com/news/20260220/21/"
-    },
-    {
-      "title": "ティモシー・シャラメ「これまでの役でいちばん自分に近い」と「マーティ・シュプリーム」の夢追う野心家に共感",
-      "source": "映画.com",
-      "date": "2026-02-20",
-      "url": "https://eiga.com/news/20260220/18/"
     }
   ],
   "bd_releases": [],
