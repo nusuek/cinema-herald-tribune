@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T12:20:49.677392",
+  "generated_at": "2026-02-22T13:35:30.275228",
   "top_stories": [
     {
       "title": "BAFTA Film Awards 2026 Winners List (Updating Live)",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "ソニーもバイトダンスに警告書、AI動画めぐるハリウッドの包囲網が5社に拡大",
+      "source": "映画.com",
+      "date": "2026-02-22",
+      "url": "https://eiga.com/news/20260222/12/"
+    },
     {
       "title": "「炎の闘球女 ドッジ弾子」一撃弾子役に中山まなか　前作主人公・弾平役の日髙のり子も出演",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-02-20",
       "url": "https://eiga.com/news/20260221/1/"
-    },
-    {
-      "title": "シャイア・ラブーフ、またも飲酒暴行事件",
-      "source": "映画.com",
-      "date": "2026-02-20",
-      "url": "https://eiga.com/news/20260220/45/"
     }
   ],
   "bd_releases": [],
