@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-02-22T11:11:48.669789",
+  "generated_at": "2026-02-22T12:20:49.677392",
   "top_stories": [
+    {
+      "title": "BAFTA Film Awards 2026 Winners List (Updating Live)",
+      "source": "Variety",
+      "date": "2026-02-22",
+      "url": "https://variety.com/lists/bafta-film-awards-2026-winners-list/"
+    },
+    {
+      "title": "‘A Child of My Own’ Review: Stylized Drama and Documentary Scrap Over the Truth In an Unhappy Maternity Tale",
+      "source": "Variety",
+      "date": "2026-02-22",
+      "url": "https://variety.com/2026/film/news/a-child-of-my-own-review-1236669438/"
+    },
     {
       "title": "How to Watch the 2026 BAFTA Film Awards Online",
       "source": "Variety",
       "date": "2026-02-22",
       "url": "https://variety.com/2026/awards/news/2026-bafta-film-awards-online-1236669364/"
-    },
-    {
-      "title": "‘One Battle After Another,’ ‘Hamnet’ and ‘Frankenstein’ Among Set Decorators Society of America Winners",
-      "source": "Variety",
-      "date": "2026-02-22",
-      "url": "https://variety.com/2026/artisans/news/set-decorators-society-of-america-winners-2026-full-list-1236669437/"
-    },
-    {
-      "title": "‘Forest High’ Review: Three Women Escape the Noise in a Beguiling Mountain Retreat of a Movie",
-      "source": "Variety",
-      "date": "2026-02-22",
-      "url": "https://variety.com/2026/film/reviews/forest-high-review-1236669061/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「炎の闘球女 ドッジ弾子」一撃弾子役に中山まなか　前作主人公・弾平役の日髙のり子も出演",
+      "source": "映画.com",
+      "date": "2026-02-22",
+      "url": "https://eiga.com/news/20260222/11/"
+    },
     {
       "title": "「鉄鍋のジャン！」26年内に放送開始　主人公・秋山醬役に戸谷菊之介　長谷川育美、天﨑滉平、津田健次郎も出演",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-02-20",
       "url": "https://eiga.com/news/20260220/45/"
-    },
-    {
-      "title": "「パルプ・フィクション」俳優ピーター・グリーンさん死去、60歳",
-      "source": "映画.com",
-      "date": "2026-02-20",
-      "url": "https://eiga.com/news/20260220/44/"
     }
   ],
   "bd_releases": [],
