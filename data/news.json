@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-22T08:16:55.635843",
+  "generated_at": "2026-02-22T09:17:47.591797",
   "top_stories": [
+    {
+      "title": "‘Forest High’ Review: Three Women Escape the Noise in a Beguiling Mountain Retreat of a Movie",
+      "source": "Variety",
+      "date": "2026-02-22",
+      "url": "https://variety.com/2026/film/reviews/forest-high-review-1236669061/"
+    },
     {
       "title": "‘KPop Demon Hunters’ Dominates at Annie Awards: Full Winners List",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-02-22",
       "url": "https://variety.com/2026/music/news/kid-rock-slams-journalists-5000-dollar-tour-tickets-1236669404/"
-    },
-    {
-      "title": "Donald Trump Demands Netflix ‘Immediately Fire’ Board Member Susan Rice or ‘Pay the Consequences’: ‘She’s Got No Talent or Skills’",
-      "source": "Variety",
-      "date": "2026-02-22",
-      "url": "https://variety.com/2026/film/news/donald-trump-netflix-fire-susan-rice-warner-bros-1236669384/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「鉄鍋のジャン！」26年内に放送開始　主人公・秋山醬役に戸谷菊之介　長谷川育美、天﨑滉平、津田健次郎も出演",
+      "source": "映画.com",
+      "date": "2026-02-22",
+      "url": "https://eiga.com/news/20260222/10/"
+    },
+    {
+      "title": "「うしろの正面カムイさん」今夏アニメ化決定　カリスマ霊能力者＆女子高生コンビの除霊ストーリー",
+      "source": "映画.com",
+      "date": "2026-02-22",
+      "url": "https://eiga.com/news/20260222/9/"
+    },
     {
       "title": "「ジョン・ウィック」製作チームの新作アクションコメディにウォルトン・ゴギンズ＆クロエ・グレース・モレッツ",
       "source": "映画.com",
@@ -164,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-02-20",
       "url": "https://eiga.com/news/20260220/44/"
-    },
-    {
-      "title": "山﨑賢人主演、実写版「ゴールデンカムイ」金曜ロードショー地上波初放送　あらすじ・キャストまとめ",
-      "source": "映画.com",
-      "date": "2026-02-20",
-      "url": "https://eiga.com/news/20260220/39/"
     }
   ],
   "bd_releases": [],
