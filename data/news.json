@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-02-23T06:56:11.381931",
+  "generated_at": "2026-02-23T07:46:39.893186",
   "top_stories": [
+    {
+      "title": "China Box Office: ‘Pegasus 3’ Dominates Lunar New Year Holiday Frame",
+      "source": "Variety",
+      "date": "2026-02-23",
+      "url": "https://variety.com/2026/film/box-office/china-box-office-pegasus-3-lunar-new-year-holiday-1236670017/"
+    },
     {
       "title": "‘Knight of the Seven Kingdoms’ Creator Explains That Finale Title Change, Going to Dorne in Season 2 and Which Targaryens Will ‘Probably’ Return",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-02-23",
       "url": "https://variety.com/2026/tv/news/industry-season-4-episode-7-max-minghella-interview-1236668640/"
-    },
-    {
-      "title": "Viva Baz Vegas! Baz Luhrmann on the Burning Love That Went Into ‘EPiC’: ‘We Are Giving Elvis the World Tour He Dreamed Of, Playing on the World’s Biggest Screens’",
-      "source": "Variety",
-      "date": "2026-02-23",
-      "url": "https://variety.com/2026/music/news/baz-luhrmann-epic-elvis-presley-in-concert-imax-interview-1236669914/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「メダリスト」さすらいのコーチ・魚淵翔役に花江夏樹、“金の卵”亜昼美玖役に稲垣好　石毛翔弥　小野友樹も出演",
+      "source": "映画.com",
+      "date": "2026-02-23",
+      "url": "https://eiga.com/news/20260223/7/"
+    },
     {
       "title": "「大賢者リドルの時間逆行」ライトアニメ化で4月1日放送開始　榎木淳弥、田所あずさが出演",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-02-21",
       "url": "https://eiga.com/news/20260221/7/"
-    },
-    {
-      "title": "この転校生、何かがおかしい――タイ発の学園ミステリー「転校生ナノ」日本版リメイク制作決定　主演は仲島有彩",
-      "source": "映画.com",
-      "date": "2026-02-21",
-      "url": "https://eiga.com/news/20260221/6/"
     }
   ],
   "bd_releases": [],
