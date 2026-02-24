@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-02-24T09:38:38.582688",
+  "generated_at": "2026-02-24T10:35:17.746533",
   "top_stories": [
+    {
+      "title": "Beta Film Sells Channel 4’s Most-Watched Series ‘Patience’ in 100 Territories",
+      "source": "Variety",
+      "date": "2026-02-24",
+      "url": "https://variety.com/2026/tv/global/beta-film-channel-4-patience-1236670215/"
+    },
+    {
+      "title": "Netflix, Prime Video and Other Streamers in U.K. Will Be Subject to ‘Enhanced Regulation’ and Ofcom Investigations Following New Legislation",
+      "source": "Variety",
+      "date": "2026-02-24",
+      "url": "https://variety.com/2026/tv/global/netflix-streamers-uk-ofcom-enhanced-regulation-investigation-1236671023/"
+    },
     {
       "title": "Banijay Rights Boards BBC Docuseries ‘The Clickbait Clinic With Stacey Dooley’ (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-02-24",
       "url": "https://variety.com/2026/tv/global/banijay-rights-bbc-the-clickbait-clinic-with-stacey-dooley-1236671006/"
-    },
-    {
-      "title": "Anthony Chen’s Berlin Competition Film ‘We Are All Strangers’ Scores Major Worldwide Deals for Paradise City Sales (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-02-24",
-      "url": "https://variety.com/2026/film/news/anthony-chen-we-are-all-strangers-global-deals-1236670221/"
-    },
-    {
-      "title": "Fremantle Seals Production, Distribution on Wacky Comedy Competition ‘Special Delivery’ (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-02-24",
-      "url": "https://variety.com/2026/tv/global/fremantle-special-delivery-tokyo-broadcasting-system-1236670995/"
     }
   ],
   "new_releases": [
+    {
+      "title": "第49回日本アカデミー賞「クリエイティブ貢献賞」を「鬼滅の刃」と「国宝」が受賞！特別賞も「国宝」に決定",
+      "source": "映画.com",
+      "date": "2026-02-24",
+      "url": "https://eiga.com/news/20260224/23/"
+    },
+    {
+      "title": "【入場特典リスト 2月最新版】「超かぐや姫！」豪華イラスト集配布　「銀魂」「ミルキー☆サブウェイ」は新特典",
+      "source": "映画.com",
+      "date": "2026-02-24",
+      "url": "https://eiga.com/news/20260224/22/"
+    },
     {
       "title": "ライアン・ゴズリング主演の感動のSF超大作「プロジェクト・ヘイル・メアリー」日本版予告＆ポスター公開！",
       "source": "映画.com",
@@ -158,12 +170,6 @@
       "source": "映画.com",
       "date": "2026-02-23",
       "url": "https://eiga.com/news/20260224/2/"
-    },
-    {
-      "title": "マーティン・スコセッシ、「スター・ウォーズ」新作に出演",
-      "source": "映画.com",
-      "date": "2026-02-19",
-      "url": "https://eiga.com/news/20260219/24/"
     }
   ],
   "bd_releases": [],
