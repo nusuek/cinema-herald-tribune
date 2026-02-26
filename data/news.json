@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-02-26T03:29:47.983473",
+  "generated_at": "2026-02-26T05:13:57.962797",
   "top_stories": [
+    {
+      "title": "Park Chan-Wook to Preside Over 79th Cannes Film Festival Jury",
+      "source": "Variety",
+      "date": "2026-02-26",
+      "url": "https://variety.com/2026/film/global/park-chan-wook-cannes-film-festival-jury-president-1236672634/"
+    },
+    {
+      "title": "Adult Swim’s ‘Smiling Friends’ to End After Season 3",
+      "source": "Variety",
+      "date": "2026-02-26",
+      "url": "https://variety.com/2026/tv/news/smiling-friends-ending-season-3-adult-swim-1236673215/"
+    },
     {
       "title": "Protestors Gather at ‘Scream 7’ Premiere After Melissa Barrera Fired: ‘Stand For Free Speech’ and ‘Cancel Paramount+’",
       "source": "Variety",
       "date": "2026-02-26",
       "url": "https://variety.com/2026/film/news/protest-scream-7-premiere-melissa-barrera-paramount-1236673201/"
-    },
-    {
-      "title": "‘The Masked Singer’ Reveals the Identity of Snow Cone: Here Is the Celebrity Under the Costume",
-      "source": "Variety",
-      "date": "2026-02-26",
-      "url": "https://variety.com/2026/tv/news/the-masked-singer-season-14-episode-7-recap-snow-cone-1236673079/"
-    },
-    {
-      "title": "‘Scrubs’ Stars and Producers on Who’s Back, Which Couples Survived and Why the Goofiness Was Toned Down — For Now",
-      "source": "Variety",
-      "date": "2026-02-26",
-      "url": "https://variety.com/2026/tv/news/scrubs-return-whos-back-which-couples-survived-changes-1236673175/"
     }
   ],
   "new_releases": [
+    {
+      "title": "自らをキリストの化身と信じ史上最大のユートピアを築いた女性の実話　アマンダ・セイフライド主演「アン・リー」6月5日公開",
+      "source": "映画.com",
+      "date": "2026-02-26",
+      "url": "https://eiga.com/news/20260226/16/"
+    },
+    {
+      "title": "スコセッシ監督次回作にジャレッド・ハリスが合流 ディカプリオ、ローレンスと共演",
+      "source": "映画.com",
+      "date": "2026-02-26",
+      "url": "https://eiga.com/news/20260226/13/"
+    },
     {
       "title": "賀来賢人×「忍びの家」監督による恐怖の物語「Never After Dark」超特報映像公開　木村多江ら追加キャストも発表",
       "source": "映画.com",
@@ -152,12 +164,6 @@
       "source": "映画.com",
       "date": "2026-02-25",
       "url": "https://eiga.com/news/20260225/18/"
-    },
-    {
-      "title": "アンドリュー・スタントン“壮大なスケール”が魅力の監督作4選【最新作は数千年にわたる3つの物語】",
-      "source": "映画.com",
-      "date": "2026-02-25",
-      "url": "https://eiga.com/news/20260225/17/"
     }
   ],
   "bd_releases": [],
