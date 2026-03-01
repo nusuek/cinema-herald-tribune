@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-03-01T19:13:30.192220",
+  "generated_at": "2026-03-01T20:12:16.261498",
   "top_stories": [
+    {
+      "title": "SAG’s Actor Awards Winners (Updating Live)",
+      "source": "Variety",
+      "date": "2026-03-01",
+      "url": "https://variety.com/2026/film/awards/sag-actor-awards-winners-1236672938/"
+    },
+    {
+      "title": "Netflix Boss Ted Sarandos Speaks Out After Losing Warner Bros. Bid: Paramount Offers Were ‘Irrational,’ Relied on Political Pressure Because it’s ‘Cheaper to Make Noise’",
+      "source": "Variety",
+      "date": "2026-03-01",
+      "url": "https://variety.com/2026/film/news/ted-sarandos-losing-warner-bros-paramount-irrational-1236675921/"
+    },
     {
       "title": "‘Sons of Detroit,’ ‘Natchez,’ and ‘Creede U.S.A.’ Among 2026 Sedona Intl. Film Fest Doc Winners (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-03-01",
       "url": "https://variety.com/2026/film/news/sons-of-detroit-natchez-creede-sedona-documentary-1236674865/"
-    },
-    {
-      "title": "‘Scream 7’ Launches to Killer $97 Million at Global Box Office, ‘Wuthering Heights’ Nears $200 Million",
-      "source": "Variety",
-      "date": "2026-03-01",
-      "url": "https://variety.com/2026/film/news/scream-7-global-box-office-milestone-wuthering-heights-nears-200-million-1236675858/"
-    },
-    {
-      "title": "WGA Cancels L.A. Award Show Due to Staff Strike",
-      "source": "Variety",
-      "date": "2026-03-01",
-      "url": "https://variety.com/2026/awards/news/wga-cancels-award-show-strike-1236675266/"
     }
   ],
   "new_releases": [
+    {
+      "title": "高橋一生が転生!?　究極の二役に挑む「リボーン　最後のヒーロー」4月スタート",
+      "source": "映画.com",
+      "date": "2026-03-01",
+      "url": "https://eiga.com/news/20260302/1/"
+    },
     {
       "title": "若尾文子「妻は告白する」「卍」「清作の妻」「赤い天使」「しとやかな獣」BS10で放送【動画あり】",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-02-27",
       "url": "https://eiga.com/news/20260227/33/"
-    },
-    {
-      "title": "柄本佑「木挽町のあだ討ち」反響に安堵の表情　長尾謙杜の“ヒロイン宣言”に場内大盛り上がり",
-      "source": "映画.com",
-      "date": "2026-02-27",
-      "url": "https://eiga.com/news/20260227/29/"
     }
   ],
   "bd_releases": [],
