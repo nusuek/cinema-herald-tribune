@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T05:42:28.432387",
+  "generated_at": "2026-03-01T06:30:57.764303",
   "top_stories": [
     {
       "title": "‘Heated Rivalry’ Stars Connor Storrie and Hudson Williams Reunite on ‘SNL’ for Ice Skating Sketch",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "「エヴァンゲリオン」完全新作シリーズ制作始動　ヨコオタロウがシリーズ構成、 CloverWorksと共同制作",
+      "source": "映画.com",
+      "date": "2026-03-01",
+      "url": "https://eiga.com/news/20260301/9/"
+    },
     {
       "title": "柴咲コウ、監督として参加　「MIRRORLIAR FILMS Season10」2027年公開",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-02-27",
       "url": "https://eiga.com/news/20260227/28/"
-    },
-    {
-      "title": "Netflix、ワーナー買収を断念　パラマウントが約17兆円で逆転勝利へ",
-      "source": "映画.com",
-      "date": "2026-02-27",
-      "url": "https://eiga.com/news/20260227/25/"
     }
   ],
   "bd_releases": [],
