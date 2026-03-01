@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-01T06:30:57.764303",
+  "generated_at": "2026-03-01T07:24:20.554773",
   "top_stories": [
+    {
+      "title": "‘Frankenstein,’ ‘One Battle After Another’ and ‘The Fantastic Four: First Steps’ Take Top Film Prizes at Art Directors Guild Awards",
+      "source": "Variety",
+      "date": "2026-03-01",
+      "url": "https://variety.com/2026/artisans/news/art-directors-guild-awards-2026-winners-list-1236675635/"
+    },
     {
       "title": "‘Heated Rivalry’ Stars Connor Storrie and Hudson Williams Reunite on ‘SNL’ for Ice Skating Sketch",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-03-01",
       "url": "https://variety.com/2026/artisans/news/2026-guild-of-music-supervisors-awards-winners-1236675246/"
-    },
-    {
-      "title": "Trump and Pete Hegseth Try to Justify Iran War on ‘SNL’: ‘I Don’t Know What I’m Doing’",
-      "source": "Variety",
-      "date": "2026-03-01",
-      "url": "https://variety.com/2026/tv/news/trump-pete-hegseth-iran-strike-snl-1236675715/"
     }
   ],
   "new_releases": [
+    {
+      "title": "TYPE-MOON×ufotable「魔法使いの夜」年内公開決定　最新映像を披露",
+      "source": "映画.com",
+      "date": "2026-03-01",
+      "url": "https://eiga.com/news/20260301/10/"
+    },
     {
       "title": "「エヴァンゲリオン」完全新作シリーズ制作始動　ヨコオタロウがシリーズ構成、 CloverWorksと共同制作",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-02-27",
       "url": "https://eiga.com/news/20260227/27/"
-    },
-    {
-      "title": "嫉妬がとまらない――谷崎潤一郎原作「鍵」吹越満×菅野恵×小出恵介で映画化【特報あり】",
-      "source": "映画.com",
-      "date": "2026-02-27",
-      "url": "https://eiga.com/news/20260227/28/"
     }
   ],
   "bd_releases": [],
