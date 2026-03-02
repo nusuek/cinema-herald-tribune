@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-02T06:40:20.233587",
+  "generated_at": "2026-03-02T07:40:15.230849",
   "top_stories": [
+    {
+      "title": "China Box Office: ‘Pegasus 3’ Remains in Pole Position as Holiday Slate Cools",
+      "source": "Variety",
+      "date": "2026-03-02",
+      "url": "https://variety.com/2026/film/box-office/china-box-office-pegasus-3-night-king-1236676499/"
+    },
     {
       "title": "John Oliver Says Paramount Buying Warner Bros. Is ‘Not Great News: ‘How the F—Do I Get Out of Here?’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-03-02",
       "url": "https://variety.com/2026/tv/awards/sag-actor-awards-producers-show-behind-the-scenes-1236676197/"
-    },
-    {
-      "title": "SAG’s Actor Awards Winners: ‘Sinners’ Wins Top Prize, ‘The Studio’ and ‘The Pitt’ Lead for TV",
-      "source": "Variety",
-      "date": "2026-03-02",
-      "url": "https://variety.com/2026/film/awards/sag-actor-awards-winners-sinners-studio-pitt-1236672938/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「とある暗部の少女共棲」26年放送　監督は長井龍雪、アニメーション制作はJ.C.STAFF",
+      "source": "映画.com",
+      "date": "2026-03-02",
+      "url": "https://eiga.com/news/20260302/13/"
+    },
     {
       "title": "「木挽町のあだ討ち」首位！ 「転スラ」「レンタル・ファミリー」「ドラえもん」「嵐が丘」が上位に【映画.comアクセスランキング】",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-02-28",
       "url": "https://eiga.com/news/20260228/11/"
-    },
-    {
-      "title": "【これ以上呪わないでください】「放送禁止」新作、不穏な予告編公開　岩田涼太、ピエール中野、はやせやすひろがコメント発表",
-      "source": "映画.com",
-      "date": "2026-02-28",
-      "url": "https://eiga.com/news/20260228/10/"
     }
   ],
   "bd_releases": [],
