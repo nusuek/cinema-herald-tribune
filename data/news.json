@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-03-03T07:33:39.120283",
+  "generated_at": "2026-03-03T08:25:58.789762",
   "top_stories": [
+    {
+      "title": "LevelK Boards ‘Betty Balloon,’ a Cosy Fun Adventure,  Ahead of Cartoon Movie Unveil (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-03-03",
+      "url": "https://variety.com/2026/film/global/levelk-betty-balloon-cartoon-movie-regner-grasten-1236677046/"
+    },
+    {
+      "title": "Christopher Nolan Pays Tribute to Imax’s David Keighley, Pioneer of Large-Format Cinema, at the Kodak Film Awards",
+      "source": "Variety",
+      "date": "2026-03-03",
+      "url": "https://variety.com/2026/artisans/news/christopher-nolan-tribute-david-keighley-kodak-film-awards-1236677591/"
+    },
     {
       "title": "Hong Kong Film Festival Marks 50th Anniversary With Chinese Cinema Retrospective, Chen Kaige, Tsai Ming-liang, Ann Hui Masterclasses – Global Bulletin",
       "source": "Variety",
       "date": "2026-03-03",
       "url": "https://variety.com/2026/film/news/hong-kong-film-festival-50th-anniversary-celebrations-1236677779/"
-    },
-    {
-      "title": "Anupam Kher Preps Varanasi-Set Film in Spirit of ‘Saaransh,’ Bows ‘Tanvi the Great’ on Prime Video (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-03-03",
-      "url": "https://variety.com/2026/film/news/anupam-kher-varanasi-saaransh-tanvi-the-great-1236676558/"
-    },
-    {
-      "title": "Jon Stewart Slams Trump For Keeping Press in the Dark About Iran War: ‘Our Bombs Are Now Smarter Than Our President’",
-      "source": "Variety",
-      "date": "2026-03-03",
-      "url": "https://variety.com/2026/tv/news/jon-stewart-trump-war-iran-the-daily-show-1236677756/"
     }
   ],
   "new_releases": [
+    {
+      "title": "Paramount+とHBO Max、ひとつの配信サービスに統合へ",
+      "source": "映画.com",
+      "date": "2026-03-03",
+      "url": "https://eiga.com/news/20260303/15/"
+    },
     {
       "title": "ジム・キャリーがクローンに？ セザール賞後に陰謀論が拡散",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-03-02",
       "url": "https://eiga.com/news/20260302/9/"
-    },
-    {
-      "title": "衝撃のラストは口外禁止、絶対ネタバレできない「マッドマックス」超えの映画体験「シラート」6月5日公開",
-      "source": "映画.com",
-      "date": "2026-03-02",
-      "url": "https://eiga.com/news/20260302/6/"
     }
   ],
   "bd_releases": [],
