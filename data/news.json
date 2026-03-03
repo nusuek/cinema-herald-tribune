@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-03-03T20:19:59.530456",
+  "generated_at": "2026-03-03T21:21:57.701624",
   "top_stories": [
+    {
+      "title": "Movie Theater Chain iPic Files for Bankruptcy",
+      "source": "Variety",
+      "date": "2026-03-03",
+      "url": "https://variety.com/2026/film/news/movie-theater-chain-ipic-bankruptcy-1236678473/"
+    },
+    {
+      "title": "LISTEN: It’s HBO: What Will the Paramount-Warner Bros. Discovery Merger Mean for TV’s Premium Pioneer?",
+      "source": "Variety",
+      "date": "2026-03-03",
+      "url": "https://variety.com/2026/tv/news/hbo-paramount-warner-bros-discovery-merge-daily-variety-1236677762/"
+    },
     {
       "title": "‘Paradise’ Star Jon Beavers Joins Emily Deschanel in Criminal Profiler Pilot at NBC, Jennifer Morrison to Direct",
       "source": "Variety",
       "date": "2026-03-03",
       "url": "https://variety.com/2026/tv/news/paradise-jon-beavers-emily-deschanel-nbc-pilot-1236678449/"
-    },
-    {
-      "title": "Apple TV Sets First Look Deal With ‘Imperfect Women’ Creator Annie Weisman",
-      "source": "Variety",
-      "date": "2026-03-03",
-      "url": "https://variety.com/2026/tv/news/annie-weisman-apple-tv-deal-1236678325/"
-    },
-    {
-      "title": "‘Bridgerton’ Season 4 Hits 28 Million Views After Part 2 Drops",
-      "source": "Variety",
-      "date": "2026-03-03",
-      "url": "https://variety.com/2026/tv/news/bridgerton-season-4-part-2-ratings-1236678447/"
     }
   ],
   "new_releases": [
+    {
+      "title": "米倉涼子「劇場版ドクターX FINAL」3月19日に地上波初放送！“見逃し配信無し”一夜限りのスペシャル放送",
+      "source": "映画.com",
+      "date": "2026-03-03",
+      "url": "https://eiga.com/news/20260304/2/"
+    },
     {
       "title": "「LV999の村人」7月放送開始　江頭宏哉、島﨑信長、石見舞菜香、古賀葵、Lynnが出演　第1弾PVなど公開",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-03-02",
       "url": "https://eiga.com/news/20260302/20/"
-    },
-    {
-      "title": "「ロメリア戦記」メインキャストに根本優奈、小笠原仁、大野智敬　主要スタッフも発表",
-      "source": "映画.com",
-      "date": "2026-03-02",
-      "url": "https://eiga.com/news/20260302/17/"
     }
   ],
   "bd_releases": [],
