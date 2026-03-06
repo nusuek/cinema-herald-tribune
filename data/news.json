@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-06T10:21:50.266318",
+  "generated_at": "2026-03-06T11:18:25.527822",
   "top_stories": [
+    {
+      "title": "Indonesia Bans Social Media for Under-16s, Following Australia’s Lead: ‘Parents No Longer Have to Fight Alone Against the Giants of the Algorithm’",
+      "source": "Variety",
+      "date": "2026-03-06",
+      "url": "https://variety.com/2026/digital/news/indonesia-social-media-ban-under-16s-1236680829/"
+    },
     {
       "title": "Brit YouTuber KSI Making Docuseries About Takeover of Lower League Soccer Club Dagenham & Redbridge FC (EXCLUSIVE)",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-03-06",
       "url": "https://variety.com/2026/film/global/the-heart-is-a-muscle-generational-trauma-healing-1236673243/"
-    },
-    {
-      "title": "Amazon MGM Studios Taps Warner Bros. Discovery, Hulu Veteran Buddy Marini to Head Japan",
-      "source": "Variety",
-      "date": "2026-03-06",
-      "url": "https://variety.com/2026/film/news/amazon-mgm-studios-buddy-marini-japan-1236680798/"
     }
   ],
   "new_releases": [
+    {
+      "title": "パク・チャヌク監督「失業者の気持ちわかる」　イ・ビョンホンがサラリーマンの悲哀演じ新境地「しあわせな選択」",
+      "source": "映画.com",
+      "date": "2026-03-06",
+      "url": "https://eiga.com/news/20260306/25/"
+    },
+    {
+      "title": "「鬼滅の刃 無限城編 猗窩座再来」今春終映　3月7日からクリアスタンド、20日からフィナーレ入場特典を配布",
+      "source": "映画.com",
+      "date": "2026-03-06",
+      "url": "https://eiga.com/news/20260306/28/"
+    },
     {
       "title": "実写「ONE PIECE」麦わらの一味キャストが来日！新田真剣佑、仲間との“絆”は「言葉がいらないところまで成長した」",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2026-03-05",
       "url": "https://eiga.com/news/20260305/23/"
-    },
-    {
-      "title": "Netflixアニメ映画「超かぐや姫！」日本全国100館以上に“超拡大公開”　入場者特典第2弾、「Reply」MVも発表",
-      "source": "映画.com",
-      "date": "2026-03-05",
-      "url": "https://eiga.com/news/20260305/30/"
-    },
-    {
-      "title": "「バッドエンド目前のヒロインに転生した私、今世では恋愛するつもりがチートな兄が離してくれません!?」アニメ化企画進行中",
-      "source": "映画.com",
-      "date": "2026-03-05",
-      "url": "https://eiga.com/news/20260305/29/"
     }
   ],
   "bd_releases": [],
