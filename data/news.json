@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-06T09:25:47.698580",
+  "generated_at": "2026-03-06T10:21:50.266318",
   "top_stories": [
+    {
+      "title": "Brit YouTuber KSI Making Docuseries About Takeover of Lower League Soccer Club Dagenham & Redbridge FC (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-03-06",
+      "url": "https://variety.com/2026/tv/global/ksi-docuseries-takeover-dagenham-redbridge-fc-1236680614/"
+    },
     {
       "title": "‘The Heart Is a Muscle’ Director on Family, Fatherhood and Moving From Generational ‘Trauma’ to ‘Healing’ in South African Oscar Entry",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-03-06",
       "url": "https://variety.com/2026/film/news/amazon-mgm-studios-buddy-marini-japan-1236680798/"
-    },
-    {
-      "title": "Jimmy Kimmel on Trump Firing Homeland Security Secretary Kristi Noem: ‘The Funniest Thing Would Be If They Deport Her to El Salvador’",
-      "source": "Variety",
-      "date": "2026-03-06",
-      "url": "https://variety.com/2026/tv/news/jimmy-kimmel-trump-firing-homeland-security-kristi-noem-1236680782/"
     }
   ],
   "new_releases": [
+    {
+      "title": "実写「ONE PIECE」麦わらの一味キャストが来日！新田真剣佑、仲間との“絆”は「言葉がいらないところまで成長した」",
+      "source": "映画.com",
+      "date": "2026-03-05",
+      "url": "https://eiga.com/news/20260305/28/"
+    },
+    {
+      "title": "綾瀬はるか×石井裕也「人はなぜラブレターを書くのか」感涙シーン＆メイキングカット16点公開",
+      "source": "映画.com",
+      "date": "2026-03-06",
+      "url": "https://eiga.com/news/20260306/24/"
+    },
     {
       "title": "窪塚洋介×亀梨和也「外道の歌」シーズン2に南沙良、森崎ウィンら続投！　キービジュアルも発表",
       "source": "映画.com",
@@ -176,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-03-05",
       "url": "https://eiga.com/news/20260305/29/"
-    },
-    {
-      "title": "実写「ONE PIECE」麦わらの一味キャストが来日！新田真剣佑、仲間との“絆”は「言葉がいらないところまで成長した」",
-      "source": "映画.com",
-      "date": "2026-03-05",
-      "url": "https://eiga.com/news/20260305/28/"
     }
   ],
   "bd_releases": [],
