@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-03-08T19:14:06.159558",
+  "generated_at": "2026-03-08T20:11:52.920151",
   "top_stories": [
+    {
+      "title": "Bruno Mars’ ‘The Romantic’ Becomes His First to Debut at No. 1 on Albums Chart",
+      "source": "Variety",
+      "date": "2026-03-08",
+      "url": "https://variety.com/2026/music/news/bruno-mars-the-romantic-first-to-debut-at-no-1-albums-chart-1236681955/"
+    },
+    {
+      "title": "5 Reasons ‘The Bride!’ Was Dead on Arrival at the Box Office",
+      "source": "Variety",
+      "date": "2026-03-08",
+      "url": "https://variety.com/2026/film/box-office/bride-box-office-flop-1236681873/"
+    },
     {
       "title": "Katie Leung ‘Would Not Want to Go Back’ to Her Time Shooting ‘Harry Potter’ Movies: ‘I Was So Easily Influenced’",
       "source": "Variety",
       "date": "2026-03-08",
       "url": "https://variety.com/2026/film/news/harry-potter-katie-leung-return-cho-chang-1236681908/"
-    },
-    {
-      "title": "Country Joe McDonald, Woodstock Star Who Found Counterculture Fame With ‘I-Feel-Like-I’m-Fixin’-to-Die Rag,’ Dies at 84",
-      "source": "Variety",
-      "date": "2026-03-08",
-      "url": "https://variety.com/2026/music/obituaries-people-news/country-joe-mcdonald-dead-fishwoodstock-singer-1236681876/"
-    },
-    {
-      "title": "Arden Cho, Ji-young Yoo, Chloe Zhao, Bowen Yang and More Honor Asian Heritage at Unforgettable Gala Awards",
-      "source": "Variety",
-      "date": "2026-03-08",
-      "url": "https://variety.com/2026/awards/news/unforgettable-gala-awards-2026-1236681837/"
     }
   ],
   "new_releases": [
+    {
+      "title": "芽育×志田未来「エラー」に藤井流星、榊原郁恵、岡田義徳、栗山千明が出演",
+      "source": "映画.com",
+      "date": "2026-03-08",
+      "url": "https://eiga.com/news/20260309/1/"
+    },
     {
       "title": "漫画「菌と鉄」TVアニメ化決定　菌類が人間を支配する管理社会が舞台のディストピアSF",
       "source": "映画.com",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2026-03-06",
       "url": "https://eiga.com/news/20260306/30/"
-    },
-    {
-      "title": "パク・チャヌク監督「失業者の気持ちわかる」　イ・ビョンホンがサラリーマンの悲哀演じ新境地「しあわせな選択」",
-      "source": "映画.com",
-      "date": "2026-03-06",
-      "url": "https://eiga.com/news/20260306/25/"
     }
   ],
   "bd_releases": [],
