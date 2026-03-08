@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-07T23:10:56.716591",
+  "generated_at": "2026-03-08T01:00:04.861387",
   "top_stories": [
+    {
+      "title": "Latest Kennedy Center Exit: Director of National Symphony Orchestra Quits, Will Head to L.A. to Become CEO of the Wallis",
+      "source": "Variety",
+      "date": "2026-03-07",
+      "url": "https://variety.com/2026/music/news/kennedy-center-resign-national-symphony-orchestra-wallis-1236681703/"
+    },
     {
       "title": "Corey Parker, ‘Will & Grace’ and ‘Friday the 13th: A New Beginning’ Actor, Dies at 60",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-03-07",
       "url": "https://variety.com/2026/film/news/pete-docter-pixar-lgbtq-storyline-elio-therapy-1236681692/"
-    },
-    {
-      "title": "Seth MacFarlane Says There Is ‘No Plan’ For ‘Ted’ Season 3 Because the Show Is ‘Really Expensive’: ‘You’re Doing an “Avengers” Movie Every 22 Minutes With the Amount of CGI That it Takes’",
-      "source": "Variety",
-      "date": "2026-03-07",
-      "url": "https://variety.com/2026/tv/news/seth-macfarlane-no-plan-ted-season-three-really-expensive-1236681690/"
     }
   ],
   "new_releases": [
+    {
+      "title": "前川泰之「語り部になってくれれば」　初主演映画「宣誓」“旅立ち”に感無量",
+      "source": "映画.com",
+      "date": "2026-03-08",
+      "url": "https://eiga.com/news/20260308/3/"
+    },
+    {
+      "title": "ゲーム原作「幻想水滸伝」10月放送開始　八代拓、大塚剛央、村瀬歩らが出演決定",
+      "source": "映画.com",
+      "date": "2026-03-07",
+      "url": "https://eiga.com/news/20260308/2/"
+    },
     {
       "title": "「神の雫」4月10日から2クールで放送　甲斐田裕子、藤真秀、渡辺美佐、内田夕夜、浦山迅も出演",
       "source": "映画.com",
@@ -188,18 +200,6 @@
       "source": "映画.com",
       "date": "2026-03-06",
       "url": "https://eiga.com/news/20260306/18/"
-    },
-    {
-      "title": "「面白すぎる！」「気づいたら沼」　新感覚リアリティ番組「占い師たちの運命バトル」が韓国で最も視聴された作品に",
-      "source": "映画.com",
-      "date": "2026-03-06",
-      "url": "https://eiga.com/news/20260306/17/"
-    },
-    {
-      "title": "ワーナーCEO、身売り直後に自社株1億ドル超を売却",
-      "source": "映画.com",
-      "date": "2026-03-06",
-      "url": "https://eiga.com/news/20260306/16/"
     }
   ],
   "bd_releases": [],
