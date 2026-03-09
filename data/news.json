@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-03-09T01:00:21.508578",
+  "generated_at": "2026-03-09T04:03:49.812126",
   "top_stories": [
+    {
+      "title": "Kathleen Kennedy on Lucasfilm Handoff, AI Boundaries and the One Power Grogu Won’t Have in New ‘Mandalorian’ Movie",
+      "source": "Variety",
+      "date": "2026-03-09",
+      "url": "https://variety.com/2026/film/news/kathleen-kennedy-mpse-award-lucasfilm-grogu-et-1236682053/"
+    },
+    {
+      "title": "‘Sinners’ Takes Top Honors at MPSE Golden Reel Awards",
+      "source": "Variety",
+      "date": "2026-03-09",
+      "url": "https://variety.com/2026/artisans/news/mpse-golden-reel-awards-winners-2026-full-list-1236681271/"
+    },
     {
       "title": "Jennifer Runyon, ‘Ghostbusters’ and ‘Charles in Charge’ Actress, Dies at 65",
       "source": "Variety",
       "date": "2026-03-08",
       "url": "https://variety.com/2026/film/news/jennifer-runyon-dead-ghostbusters-charles-in-charge-1236681987/"
-    },
-    {
-      "title": "Thailand’s ‘Girl From Nowhere’ Gets First International Remake With Japanese Adaptation ‘Transfer Student Nanno’ on Fuji TV’s FOD",
-      "source": "Variety",
-      "date": "2026-03-08",
-      "url": "https://variety.com/2026/tv/news/thailand-girl-from-nowhere-japanese-adaptation-1236681807/"
-    },
-    {
-      "title": "Writers Guild Awards: ‘Sinners,’ ‘One Battle After Another,’ ‘The Pitt’ and ‘The Studio’ Nab Top Honors (Full Winners List)",
-      "source": "Variety",
-      "date": "2026-03-08",
-      "url": "https://variety.com/2026/awards/news/writers-guild-awards-2026-winners-1236680565/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「木挽町のあだ討ち」V2、「愛のコリーダ」が前週235位から10位にアップ【映画.comアクセスランキング】",
+      "source": "映画.com",
+      "date": "2026-03-09",
+      "url": "https://eiga.com/news/20260309/10/"
+    },
+    {
+      "title": "【本日地上波初放送】大ヒット映画「ラストマイル」なぜ面白い？10の理由を紹介　作った人々＆レビューまとめもお届け",
+      "source": "映画.com",
+      "date": "2026-03-09",
+      "url": "https://eiga.com/news/20260309/9/"
+    },
+    {
+      "title": "サンドラ・ブロック、「ザ・ロストシティ」の脚本家と再タッグ",
+      "source": "映画.com",
+      "date": "2026-03-09",
+      "url": "https://eiga.com/news/20260309/8/"
+    },
+    {
+      "title": "畑芽育×志田未来「エラー」に藤井流星、榊原郁恵、岡田義徳、栗山千明が出演",
+      "source": "映画.com",
+      "date": "2026-03-08",
+      "url": "https://eiga.com/news/20260309/1/"
+    },
     {
       "title": "道枝駿佑主演「うるわしの宵の月」公開日が10月23日に決定！ ヒロイン安斉星来との特別な恋に目覚める特報映像お披露目",
       "source": "映画.com",
@@ -50,12 +74,6 @@
       "source": "映画.com",
       "date": "2026-03-08",
       "url": "https://eiga.com/news/20260309/2/"
-    },
-    {
-      "title": "芽育×志田未来「エラー」に藤井流星、榊原郁恵、岡田義徳、栗山千明が出演",
-      "source": "映画.com",
-      "date": "2026-03-08",
-      "url": "https://eiga.com/news/20260309/1/"
     },
     {
       "title": "漫画「菌と鉄」TVアニメ化決定　菌類が人間を支配する管理社会が舞台のディストピアSF",
@@ -176,30 +194,6 @@
       "source": "映画.com",
       "date": "2026-03-07",
       "url": "https://eiga.com/news/20260307/4/"
-    },
-    {
-      "title": "【「平成狸合戦ぽんぽこ」だけじゃなかった！】「私がビーバーになる時」スタジオジブリ名作「となりのトトロ」から受けた影響とは？",
-      "source": "映画.com",
-      "date": "2026-03-07",
-      "url": "https://eiga.com/news/20260307/3/"
-    },
-    {
-      "title": "「ちびまる子ちゃん」6年ぶりの新ED主題歌を宇多田ヒカルが担当　生前のさくらももこは宇多田の大ファン",
-      "source": "映画.com",
-      "date": "2026-03-06",
-      "url": "https://eiga.com/news/20260307/2/"
-    },
-    {
-      "title": "「名探偵コナン　ハイウェイの堕天使」IMAXなどプレミアムラージフォーマット版の同時公開が決定　シリーズ史上最大規模の公開館数に",
-      "source": "映画.com",
-      "date": "2026-03-06",
-      "url": "https://eiga.com/news/20260307/1/"
-    },
-    {
-      "title": "「ゆるキャン△ SEASON4」27年に放送決定　主題歌を亜咲花、佐々木恵梨、キミのねが担当　特報PVなども公開",
-      "source": "映画.com",
-      "date": "2026-03-06",
-      "url": "https://eiga.com/news/20260306/32/"
     }
   ],
   "bd_releases": [],
