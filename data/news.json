@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-03-10T09:31:18.272363",
+  "generated_at": "2026-03-10T10:26:02.402618",
   "top_stories": [
+    {
+      "title": "‘Hoppers’ Bounds to No. 1 at U.K., Ireland Box Office",
+      "source": "Variety",
+      "date": "2026-03-10",
+      "url": "https://variety.com/2026/film/box-office/hoppers-no-1-uk-ireland-box-office-1236683312/"
+    },
+    {
+      "title": "Alessandro Benetton Talks ‘Underdog’ Years in Formula 1, Schumacher’s Victories and ‘Disruptive’ Sky Doc-Feature ‘Benetton Formula’ (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-03-10",
+      "url": "https://variety.com/2026/tv/global/alessandro-benetton-benetton-formula-michael-schumacher-1236683279/"
+    },
     {
       "title": "Doha Film Institute Qumra Event Moved Online Due to Iran War",
       "source": "Variety",
       "date": "2026-03-10",
       "url": "https://variety.com/2026/film/festivals/doha-film-institute-qumra-iran-war-1236683275/"
-    },
-    {
-      "title": "‘Ashes,’ From Oscar-Winning ‘No Other Land’ Producers, Follows a Syrian’s Struggle to Bring War Criminals to Justice",
-      "source": "Variety",
-      "date": "2026-03-10",
-      "url": "https://variety.com/2026/film/global/ashes-no-other-land-syria-justice-1236682247/"
-    },
-    {
-      "title": "Blackpink’s Jisoo to Receive Madame Figaro Rising Star Award at Canneseries",
-      "source": "Variety",
-      "date": "2026-03-10",
-      "url": "https://variety.com/2026/tv/markets-festivals/blackpink-jisoo-rising-star-award-canneseries-1236682609/"
     }
   ],
   "new_releases": [
+    {
+      "title": "大森元貴×菊池風磨主演「#真相をお話しします」第46回ポルト国際映画祭でアジア映画最高賞を受賞！",
+      "source": "映画.com",
+      "date": "2026-03-10",
+      "url": "https://eiga.com/news/20260310/20/"
+    },
     {
       "title": "高橋一生主演、妖怪モチーフの美しくも残酷な愛の物語「脛擦りの森」新場面写真8点公開",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-03-09",
       "url": "https://eiga.com/news/20260309/14/"
-    },
-    {
-      "title": "錦戸亮主演、「映画 1リットルの涙」2027年公開　レミオロメンの楽曲が新たな感涙の記憶を刻む",
-      "source": "映画.com",
-      "date": "2026-03-08",
-      "url": "https://eiga.com/news/20260309/3/"
     }
   ],
   "bd_releases": [],
