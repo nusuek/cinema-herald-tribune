@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-10T07:32:13.262683",
+  "generated_at": "2026-03-10T08:26:07.149738",
   "top_stories": [
+    {
+      "title": "Tokyo International Film Festival, Market Set Dates for 39th Edition",
+      "source": "Variety",
+      "date": "2026-03-10",
+      "url": "https://variety.com/2026/film/markets-festivals/tokyo-international-film-festival-market-2026-dates-1236682284/"
+    },
     {
       "title": "Málaga Launches Spanish, Latin American Work-in-Progress Showcase",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-03-10",
       "url": "https://variety.com/2026/film/global/malaga-festival-maff-diamonds-are-forever-camila-agustini-1236680844/"
-    },
-    {
-      "title": "Málaga Unveils Spanish Animated Features In The Pipeline, as Rodrigo Blaas Preps Golden Talk",
-      "source": "Variety",
-      "date": "2026-03-10",
-      "url": "https://variety.com/2026/film/global/rodrigo-blaas-spain-animation-roc-espinet-capitan-arana-1236683254/"
     }
   ],
   "new_releases": [
+    {
+      "title": "イーサン・ホークが哀愁滲ませる本編映像完成！ アカデミー賞注目の一作「ブルームーン」",
+      "source": "映画.com",
+      "date": "2026-03-10",
+      "url": "https://eiga.com/news/20260310/18/"
+    },
     {
       "title": "「ザ・スーパーマリオギャラクシー・ムービー」新キャラ参戦の最終トレーラー公開！　第1弾入場特典も発表",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-03-08",
       "url": "https://eiga.com/news/20260309/3/"
-    },
-    {
-      "title": "「骨ドラゴンのマナ娘」動画工房制作でTVアニメ化決定　人間の少女とドラゴンが親子関係を結ぶ物語",
-      "source": "映画.com",
-      "date": "2026-03-09",
-      "url": "https://eiga.com/news/20260309/13/"
     }
   ],
   "bd_releases": [],
