@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-10T03:18:32.090580",
+  "generated_at": "2026-03-10T05:03:32.329649",
   "top_stories": [
+    {
+      "title": "‘Soap Fever’ Director on American Soap Opera Mania in 90s Finland: ‘In Moments of Crisis, People Don’t Need Prestige, They Need Connection’",
+      "source": "Variety",
+      "date": "2026-03-10",
+      "url": "https://variety.com/2026/film/global/soap-fever-director-inka-achte-thessaloniki-1236681977/"
+    },
     {
       "title": "Quentin Tarantino Fires Back at Rosanna Arquette for Criticizing His N-Word Use in Movies: ‘A Decided Lack of Class, No Less Honor’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-03-10",
       "url": "https://variety.com/2026/shopping/news/watch-fiba-womens-basketball-world-cup-2026-qualifying-online-1236682981/"
-    },
-    {
-      "title": "Hugh Jackman Sings for Rupert Murdoch at His 95th Birthday Party",
-      "source": "Variety",
-      "date": "2026-03-10",
-      "url": "https://variety.com/2026/film/news/hugh-jackman-sings-rupert-murdoch-birthday-party-1236683132/"
     }
   ],
   "new_releases": [
+    {
+      "title": "山下智久主演、「映画　正直不動産」に“師”山﨑努が出演！　本ポスターと本予告を披露＆挿入曲も決定！",
+      "source": "映画.com",
+      "date": "2026-03-09",
+      "url": "https://eiga.com/news/20260310/4/"
+    },
+    {
+      "title": "【映画.com配信アクセスランキング】第1位は「愛のコリーダ」、「プラダを着た悪魔」「ウィキッド　ふたりの魔女」などがランクイン　今すぐ観られるベスト10を発表",
+      "source": "映画.com",
+      "date": "2026-03-10",
+      "url": "https://eiga.com/news/20260310/12/"
+    },
     {
       "title": "パラマウント・WBD合併に暗雲　カリフォルニア州が反トラスト調査",
       "source": "映画.com",
@@ -44,12 +56,6 @@
       "source": "映画.com",
       "date": "2026-03-10",
       "url": "https://eiga.com/news/20260310/9/"
-    },
-    {
-      "title": "山下智久主演、「映画　正直不動産」に“師”山﨑努が出演！　本ポスターと本予告を披露＆挿入曲も決定！",
-      "source": "映画.com",
-      "date": "2026-03-09",
-      "url": "https://eiga.com/news/20260310/4/"
     },
     {
       "title": "目黒蓮主演「SAKAMOTO DAYS」ふくよかな坂本は輪ゴムをはじく！主要キャラ集結ポスター公開",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-03-09",
       "url": "https://eiga.com/news/20260309/8/"
-    },
-    {
-      "title": "畑芽育×志田未来「エラー」に藤井流星、榊原郁恵、岡田義徳、栗山千明が出演",
-      "source": "映画.com",
-      "date": "2026-03-08",
-      "url": "https://eiga.com/news/20260309/1/"
     }
   ],
   "bd_releases": [],
