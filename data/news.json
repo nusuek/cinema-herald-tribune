@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-10T23:15:38.397299",
+  "generated_at": "2026-03-11T00:56:17.840784",
   "top_stories": [
+    {
+      "title": "WGA to Seek Payment for AI Training on Scripts as Talks With Studios Set to Begin",
+      "source": "Variety",
+      "date": "2026-03-11",
+      "url": "https://variety.com/2026/film/news/wga-ai-training-amptp-talks-1236684012/"
+    },
     {
       "title": "Final Oscar Predictions: Original Song — ‘KPop Demon Hunters’ Is Poised to Make Oscar History, But Don’t Sleep on ‘Sinners’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-03-10",
       "url": "https://variety.com/gallery/oscars-2026-governors-ball-food-menu-photos/"
-    },
-    {
-      "title": "Rachel Zegler Says ‘Snow White’ Casting Backlash Was ‘Really Confusing’ and ‘I Refuse to Assimilate for Anybody Else’s Comfort’",
-      "source": "Variety",
-      "date": "2026-03-10",
-      "url": "https://variety.com/2026/film/news/rachel-zegler-snow-white-casting-backlash-disney-1236684079/"
     }
   ],
   "new_releases": [
+    {
+      "title": "Netflix、ベン・アフレック設立のAI企業を買収",
+      "source": "映画.com",
+      "date": "2026-03-11",
+      "url": "https://eiga.com/news/20260311/6/"
+    },
     {
       "title": "「エヴァ」30周年記念フェスの会場で上映された新作短編アニメがYouTubeで配信中",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2026-03-09",
       "url": "https://eiga.com/news/20260310/3/"
-    },
-    {
-      "title": "是枝裕和×藤本タツキ「ルックバック」アメリカ、カナダ、イギリス、アイルランドで配給決定　北米配給会社「GKIDS」と合意",
-      "source": "映画.com",
-      "date": "2026-03-09",
-      "url": "https://eiga.com/news/20260310/1/"
     }
   ],
   "bd_releases": [],
