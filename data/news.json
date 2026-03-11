@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-11T19:33:59.750179",
+  "generated_at": "2026-03-11T20:20:42.179734",
   "top_stories": [
+    {
+      "title": "Audacy’s ‘Campus Files’ Podcast Returns For Season 2, Unpacking College Controversies Including Yale’s Naked Freshman Photo Scandal",
+      "source": "Variety",
+      "date": "2026-03-11",
+      "url": "https://variety.com/2026/digital/news/campus-files-season-2-podcast-yale-naked-freshman-photo-scandal-1236684977/"
+    },
     {
       "title": "LISTEN: Oscars Rewind With Nicole Kidman as She Revisits Her 2003 Best Actress Win for ‘The Hours’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-03-11",
       "url": "https://variety.com/2026/film/news/half-americans-went-to-movie-theater-2025-1236684921/"
-    },
-    {
-      "title": "Tonies Debuts Disney Plush Toys — Including Simba, Mickey Mouse, Olaf and More",
-      "source": "Variety",
-      "date": "2026-03-11",
-      "url": "https://variety.com/2026/shopping/news/disney-cuddle-tonies-toys-buy-online-1236684738/"
     }
   ],
   "new_releases": [
+    {
+      "title": "仁村紗和、志尊淳主演「10回切って倒れない木はない」にヒロイン役で出演",
+      "source": "映画.com",
+      "date": "2026-03-11",
+      "url": "https://eiga.com/news/20260312/1/"
+    },
+    {
+      "title": "映画「キングダム」最新作のタイトルは「キングダム　魂の決戦」　原作屈指の人気エピソード「合従軍編」を映像化【特報映像も披露】",
+      "source": "映画.com",
+      "date": "2026-03-11",
+      "url": "https://eiga.com/news/20260312/2/"
+    },
     {
       "title": "シュワルツェネッガー、40年越しの「コナン・ザ・グレート」新作に出演へ",
       "source": "映画.com",
@@ -170,18 +182,6 @@
       "source": "映画.com",
       "date": "2026-03-10",
       "url": "https://eiga.com/news/20260310/24/"
-    },
-    {
-      "title": "ピクサー「エリオ」LGBTQ描写の削除理由が明らかに",
-      "source": "映画.com",
-      "date": "2026-03-10",
-      "url": "https://eiga.com/news/20260310/23/"
-    },
-    {
-      "title": "加藤清史郎主演「君が死刑になる前に」追加キャストに唐田えりか、鈴木仁、与田祐希、内博貴ら",
-      "source": "映画.com",
-      "date": "2026-03-10",
-      "url": "https://eiga.com/news/20260310/22/"
     }
   ],
   "bd_releases": [],
