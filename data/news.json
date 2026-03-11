@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-03-11T09:30:34.443666",
+  "generated_at": "2026-03-11T10:26:38.314550",
   "top_stories": [
+    {
+      "title": "Barbra Streisand to Receive Cannes Honorary Palme d’Or",
+      "source": "Variety",
+      "date": "2026-03-11",
+      "url": "https://variety.com/2026/film/awards/barbra-streisand-cannes-honorary-palme-dor-1236684174/"
+    },
+    {
+      "title": "Sourav Ganguly to Host Revived ‘Bigg Boss Bangla’ After 10-Year Hiatus – Global Bulletin",
+      "source": "Variety",
+      "date": "2026-03-11",
+      "url": "https://variety.com/2026/tv/news/sourav-ganguly-bigg-boss-bangla-1236684364/"
+    },
     {
       "title": "Anthony Chen’s ‘We Are All Strangers,’ Philip Yung’s ‘Cyclone’ to Bookend 50th Hong Kong Film Festival",
       "source": "Variety",
       "date": "2026-03-11",
       "url": "https://variety.com/2026/film/festivals/anthony-chen-we-are-all-strangers-hong-kong-film-festival-1236684351/"
-    },
-    {
-      "title": "Emma Wall, Betsy Hershey Talk U.S. Climate Activism in Adam McKay-Produced ‘Just Look Up’: ‘It’s No Coincidence Venezuela and Iran Are Oil-Producing Countries’",
-      "source": "Variety",
-      "date": "2026-03-11",
-      "url": "https://variety.com/2026/film/global/emma-wall-betsy-hershey-adam-mckay-produced-just-look-up-1236683563/"
-    },
-    {
-      "title": "CPH:DOX Industry Head Talks ‘Privilege’ of Hosting Doc Festival in Denmark in Sensitive Political Times: ‘There’s a Tradition of Calling Things by Their Names’",
-      "source": "Variety",
-      "date": "2026-03-11",
-      "url": "https://variety.com/2026/film/global/cphdox-industry-head-privilege-hosting-festival-in-denmark-1236684000/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「俺たちのアナコンダ」、ジャック・ブラックたちの滲み出るポンコツ感に期待高まる場面写真",
+      "source": "映画.com",
+      "date": "2026-03-11",
+      "url": "https://eiga.com/news/20260311/24/"
+    },
     {
       "title": "「正義廻廊」から始める香港映画界の考察――香港の観客は香港映画を見捨ててはいない【アジア映画コラム】",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-03-10",
       "url": "https://eiga.com/news/20260310/20/"
-    },
-    {
-      "title": "高橋一生主演、妖怪モチーフの美しくも残酷な愛の物語「脛擦りの森」新場面写真8点公開",
-      "source": "映画.com",
-      "date": "2026-03-10",
-      "url": "https://eiga.com/news/20260310/19/"
     }
   ],
   "bd_releases": [],
