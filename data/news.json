@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-16T10:48:35.604565",
+  "generated_at": "2026-03-16T11:37:06.773199",
   "top_stories": [
+    {
+      "title": "AI Registry to Protect Athlete Likenesses and Digital IP Launched by New Sports-Tech Firm Callandor Group (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-03-16",
+      "url": "https://variety.com/2026/digital/news/ai-registry-athlete-likeness-protection-callandor-1236689767/"
+    },
     {
       "title": "National Theatre Director Indhu Rubasingham Eyes Bollywood Talent, India Expansion — and Brings Ayesha Dharker Full Circle in ‘The Jungle Book’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-03-16",
       "url": "https://variety.com/2026/film/awards/ireland-jessie-buckley-historic-oscars-best-actress-win-1236689859/"
-    },
-    {
-      "title": "‘The Jungle Book’ at London’s National Theatre Casts Olivier Winner Hiran Abeysekera as Mowgli (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-03-16",
-      "url": "https://variety.com/2026/theater/news/the-jungle-book-national-theatre-mowgli-1236687780/"
     }
   ],
   "new_releases": [
+    {
+      "title": "第98回アカデミー賞最多6冠「ワン・バトル・アフター・アナザー」3月27日から全国劇場で凱旋上映決定",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/26/"
+    },
+    {
+      "title": "「えんとつ町のプペル 約束の時計台」コラボドレスを「キンコン」梶原雄太の娘・叶渚が着用　父とランウェイで初共演",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/25/"
+    },
     {
       "title": "「映画ドラえもん」が3V！　新作「私がビーバーになる時」2位、「ゴールデンカムイ」3位　「超かぐや姫！」が大幅ランクアップ【国内映画ランキング】",
       "source": "映画.com",
@@ -170,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-03-15",
       "url": "https://eiga.com/news/20260315/10/"
-    },
-    {
-      "title": "「ヒナまつり」大武政夫の最新作「J⇔M ジェイエム」TVアニメ化決定　殺し屋と女子小学生の入れ替わり物語",
-      "source": "映画.com",
-      "date": "2026-03-15",
-      "url": "https://eiga.com/news/20260315/9/"
     }
   ],
   "bd_releases": [],
