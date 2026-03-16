@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-03-16T22:20:44.189292",
+  "generated_at": "2026-03-16T23:19:16.342461",
   "top_stories": [
+    {
+      "title": "‘DreamQuil’ Review: A Satirical Sci-Fi Soap Opera That Doesn’t Fully Connect",
+      "source": "Variety",
+      "date": "2026-03-16",
+      "url": "https://variety.com/2026/film/news/dreamquil-review-elizabeth-banks-1236690568/"
+    },
+    {
+      "title": "Noah Kahan Makes SXSW Laugh and Cry With Netflix Doc About Depression and Body Dysmorphia: ‘It’s Easy to Shut These Things Away’",
+      "source": "Variety",
+      "date": "2026-03-16",
+      "url": "https://variety.com/2026/film/news/noah-kahan-netflix-doc-depression-sxsw-1236690529/"
+    },
     {
       "title": "Adam Schiff to Hold Hearing on Hollywood Jobs With Noah Wyle and IATSE’s Matt Loeb",
       "source": "Variety",
       "date": "2026-03-16",
       "url": "https://variety.com/2026/film/news/adam-schiff-noah-wyle-matt-loeb-jobs-1236690505/"
-    },
-    {
-      "title": "David Zaslav to Receive Estimated $887 Million in Compensation Related to Warner Bros.-Paramount Merger",
-      "source": "Variety",
-      "date": "2026-03-16",
-      "url": "https://variety.com/2026/biz/news/david-zaslav-pay-warner-bros-paramount-merger-1236690521/"
-    },
-    {
-      "title": "Horror’s Big Night: ‘Sinners’ and ‘Weapons’ Oscar Wins Have Filmmakers Celebrating the Genre",
-      "source": "Variety",
-      "date": "2026-03-16",
-      "url": "https://variety.com/2026/awards/features/sinners-weapons-oscar-wins-horror-directors-1236688961/"
     }
   ],
   "new_releases": [
+    {
+      "title": "セントチヒロ・チッチ、「氷血」でホラー映画初参戦　主演・北山宏光と夫婦役で共演",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260317/7/"
+    },
+    {
+      "title": "実写版チョッパーはどのように誕生したのか　新田真剣佑らキャストが語る「ONE PIECE」の裏側",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260317/6/"
+    },
     {
       "title": "「名探偵コナン」厳選120エピソードがTVerで順次配信　萩原千速＆神奈川県警セレクションなど",
       "source": "映画.com",
@@ -158,18 +170,6 @@
       "source": "映画.com",
       "date": "2026-03-16",
       "url": "https://eiga.com/news/20260316/8/"
-    },
-    {
-      "title": "【第98回アカデミー賞】「WEAPONS ウェポンズ」エイミー・マディガンが助演女優賞　約40年ぶり2度目のノミネートで初オスカー",
-      "source": "映画.com",
-      "date": "2026-03-15",
-      "url": "https://eiga.com/news/20260316/4/"
-    },
-    {
-      "title": "【第98回アカデミー賞】助演男優賞は「ワンバト」ショーン・ペン　初の助演男優賞受賞で3つ目のオスカー像",
-      "source": "映画.com",
-      "date": "2026-03-16",
-      "url": "https://eiga.com/news/20260316/9/"
     }
   ],
   "bd_releases": [],
