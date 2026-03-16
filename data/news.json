@@ -1,31 +1,91 @@
 {
-  "generated_at": "2026-03-16T01:07:43.751812",
+  "generated_at": "2026-03-16T04:27:47.123735",
   "top_stories": [
     {
-      "title": "Barbra Streisand Honors Robert Redford With Stirring ‘The Way We Were’ Performance at Oscars",
+      "title": "Nine Variety Actors on Actors, Directors on Directors, Cover, Awards Circuit Podcast and Inside the Frame Winners at Oscars 2026",
       "source": "Variety",
       "date": "2026-03-16",
-      "url": "https://variety.com/2026/tv/news/barbra-streisand-oscars-sings-way-we-were-robert-redford-1236687141/"
+      "url": "https://variety.com/2026/film/news/actors-on-actors-variety-cover-podcast-oscar-winners-1236689722/"
     },
     {
-      "title": "Diane Keaton Honored During Oscars In Memoriam by ‘The Family Stone’ Star Rachel McAdams: ‘A Legend With No End’",
+      "title": "Korea Box Office: ‘The King’s Warden’ Surpasses 13 Million Admissions in Sixth Week",
       "source": "Variety",
       "date": "2026-03-16",
-      "url": "https://variety.com/2026/awards/news/diane-keaton-oscars-in-memoriam-1236686086/"
+      "url": "https://variety.com/2026/film/box-office/korea-box-office-the-kings-warden-13-million-admissions-1236689718/"
     },
     {
-      "title": "Billy Crystal Delivers Emotional Rob Reiner Tribute at Oscars and Is Joined by Meg Ryan, Kathy Bates, Demi Moore, Jerry O’Connell and More: ‘What Fun We Had’",
+      "title": "China Box Office: ‘Pegasus 3’ Stays Ahead as ‘GOAT’ Debuts",
       "source": "Variety",
       "date": "2026-03-16",
-      "url": "https://variety.com/2026/awards/news/rob-reiner-oscars-tribute-billy-crystal-meg-ryan-1236686936/"
+      "url": "https://variety.com/2026/film/box-office/china-box-office-pegasus-3-goat-1236689690/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【第98回アカデミー賞総括／受賞一覧】「ワン・バトル・アフター・アナザー」が最多6冠　「罪人たち」は主演男優賞ほか4部門受賞",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/18/"
+    },
+    {
+      "title": "【第98回アカデミー賞】作品賞はレオナルド・ディカプリオ主演「ワン・バトル・アフター・アナザー」",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/16/"
+    },
+    {
+      "title": "【第98回アカデミー賞】マイケル・B・ジョーダンが「罪人たち」で主演男優賞！　初ノミネートで初のオスカーを獲得！",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/13/"
+    },
+    {
+      "title": "【第98回アカデミー賞】「ワン・バトル・アフター・アナザー」ポール・トーマス・アンダーソンが監督賞を初受賞！",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/12/"
+    },
+    {
+      "title": "【第98回アカデミー賞】主演女優賞はジェシー・バックリー「ハムネット」で初受賞",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/14/"
+    },
+    {
+      "title": "【第98回アカデミー賞】「KPOPガールズ! デーモン・ハンターズ」の「Golden」が歌曲賞！",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/11/"
+    },
+    {
+      "title": "【第98回アカデミー賞】グローグーが授賞式に出席！世界中の視聴者に、キュートな魅力を届ける",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/15/"
+    },
+    {
+      "title": "最低映画の祭典ラジー賞はアイス・キューブ主演SF映画が最多5冠",
+      "source": "映画.com",
+      "date": "2026-03-15",
+      "url": "https://eiga.com/news/20260316/7/"
+    },
+    {
+      "title": "【第98回アカデミー賞】短編実写映画賞でサプライズ！　「歌うたい」「Two People Exchanging Saliva」がタイ受賞",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/10/"
+    },
     {
       "title": "【第98回アカデミー賞】「ワン・バトル・アフター・アナザー」新設されたキャスティング賞を受賞！",
       "source": "映画.com",
       "date": "2026-03-16",
       "url": "https://eiga.com/news/20260316/8/"
+    },
+    {
+      "title": "【第98回アカデミー賞】「WEAPONS ウェポンズ」エイミー・マディガンが助演女優賞　約40年ぶり2度目のノミネートで初オスカー",
+      "source": "映画.com",
+      "date": "2026-03-15",
+      "url": "https://eiga.com/news/20260316/4/"
     },
     {
       "title": "【第98回アカデミー賞】助演男優賞は「ワンバト」ショーン・ペン　初の助演男優賞受賞で3つ目のオスカー像",
@@ -40,12 +100,6 @@
       "url": "https://eiga.com/news/20260316/5/"
     },
     {
-      "title": "【第98回アカデミー賞】「WEAPONS ウェポンズ」エイミー・マディガンが助演女優賞　約40年ぶり2度目のノミネートで初オスカー",
-      "source": "映画.com",
-      "date": "2026-03-15",
-      "url": "https://eiga.com/news/20260316/4/"
-    },
-    {
       "title": "【第98回アカデミー賞】デル・トロ監督作「フランケンシュタイン」がメイクアップ＆ヘアスタイリング賞！　「国宝」＆「スマッシング・マシーン」カズ・ヒロは受賞ならず",
       "source": "映画.com",
       "date": "2026-03-15",
@@ -56,12 +110,6 @@
       "source": "映画.com",
       "date": "2026-03-11",
       "url": "https://eiga.com/news/20260311/25/"
-    },
-    {
-      "title": "最低映画の祭典ラジー賞はアイス・キューブ主演SF映画が最多5冠",
-      "source": "映画.com",
-      "date": "2026-03-15",
-      "url": "https://eiga.com/news/20260316/7/"
     },
     {
       "title": "小栗旬×リリー・ジェームズ主演！ 三池崇史監督＆米NEONがタッグを組む「バッド・ルーテナント：トウキョウ」2026年公開決定",
@@ -122,54 +170,6 @@
       "source": "映画.com",
       "date": "2026-03-15",
       "url": "https://eiga.com/news/20260315/4/"
-    },
-    {
-      "title": "ケイト・ウィンスレット、新「ロード・オブ・ザ・リング」に出演交渉中",
-      "source": "映画.com",
-      "date": "2026-03-15",
-      "url": "https://eiga.com/news/20260315/3/"
-    },
-    {
-      "title": "「her」「アメリカン・ハッスル」のアンナプルナが再始動",
-      "source": "映画.com",
-      "date": "2026-03-14",
-      "url": "https://eiga.com/news/20260315/2/"
-    },
-    {
-      "title": "舞台「結城友奈は勇者である」6月に東京で再演　結城友奈役の本西彩希帆らが前作から続投",
-      "source": "映画.com",
-      "date": "2026-03-14",
-      "url": "https://eiga.com/news/20260315/1/"
-    },
-    {
-      "title": "市川團十郎、鈴木亮平主演「リブート」最終章に登場する最後の大物に！ 日本の“リブート”目論む政治家役に",
-      "source": "映画.com",
-      "date": "2026-03-14",
-      "url": "https://eiga.com/news/20260315/13/"
-    },
-    {
-      "title": "「アオアシ」シーズン2、10月4日放送開始　ティザービジュアル＆PVで「Aチーム編」の幕が上がる",
-      "source": "映画.com",
-      "date": "2026-03-14",
-      "url": "https://eiga.com/news/20260314/13/"
-    },
-    {
-      "title": "「北斗の拳」レイ役に中村悠一、マミヤ役に青木瑠璃子、山寺宏一がナレーション　OP主題歌は[Alexandros]が担当",
-      "source": "映画.com",
-      "date": "2026-03-14",
-      "url": "https://eiga.com/news/20260314/12/"
-    },
-    {
-      "title": "「ゴールデンカムイ 網走監獄襲撃編」の山﨑賢人、原作者の野田サトルからの激励「人生楽しんだもん勝ち」に感激！",
-      "source": "映画.com",
-      "date": "2026-03-14",
-      "url": "https://eiga.com/news/20260314/14/"
-    },
-    {
-      "title": "GoogleがSF映画コンペを開催、グランプリに約4億円",
-      "source": "映画.com",
-      "date": "2026-03-14",
-      "url": "https://eiga.com/news/20260314/11/"
     }
   ],
   "bd_releases": [],
