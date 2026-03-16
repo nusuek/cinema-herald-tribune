@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-16T12:40:08.580357",
+  "generated_at": "2026-03-16T14:11:06.442839",
   "top_stories": [
+    {
+      "title": "Netflix’s ‘Assassin’s Creed’ Series Adds Noomi Rapace, Ramzy Bedia, Sean Harris, Corrado Invernizzi to Cast",
+      "source": "Variety",
+      "date": "2026-03-16",
+      "url": "https://variety.com/2026/tv/global/netflix-assassins-creed-series-noomi-rapace-more-cast-1236689967/"
+    },
     {
       "title": "Oscars Postmortem: Paul Thomas Anderson’s Six-Month Reign, Ryan Coogler’s Historic Platform for Black Women and How Timothée Chalamet Lost the Race",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-03-16",
       "url": "https://variety.com/2026/digital/news/ai-registry-athlete-likeness-protection-callandor-1236689767/"
-    },
-    {
-      "title": "National Theatre Director Indhu Rubasingham Eyes Bollywood Talent, India Expansion — and Brings Ayesha Dharker Full Circle in ‘The Jungle Book’",
-      "source": "Variety",
-      "date": "2026-03-16",
-      "url": "https://variety.com/2026/theater/news/national-theatre-chief-india-bollywood-jungle-book-1236688185/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「魔女の宅急便」IMAX版リバイバル、全米興収トップ10入り",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/30/"
+    },
+    {
+      "title": "亀梨和也が“捕り物の天才”銭形平次を令和に甦らせる　スペシャル時代劇、放送決定",
+      "source": "映画.com",
+      "date": "2026-03-16",
+      "url": "https://eiga.com/news/20260316/29/"
+    },
     {
       "title": "【シリーズ3作品が視覚効果賞を受賞】「アバター」が切り開く映像革命、何がすごいの？",
       "source": "映画.com",
@@ -164,24 +176,6 @@
       "source": "映画.com",
       "date": "2026-03-15",
       "url": "https://eiga.com/news/20260316/3/"
-    },
-    {
-      "title": "「おそ松さん 人類クズ化計画!!!!!?」本予告＆本ポスタービジュアル公開　主題歌はAぇ! Groupの新曲",
-      "source": "映画.com",
-      "date": "2026-03-15",
-      "url": "https://eiga.com/news/20260316/1/"
-    },
-    {
-      "title": "「転生ゴブリンだけど質問ある？」戸谷菊之介主演で10月にTVアニメ化　日笠陽子、橘杏咲も出演",
-      "source": "映画.com",
-      "date": "2026-03-15",
-      "url": "https://eiga.com/news/20260315/12/"
-    },
-    {
-      "title": "「令和のダラさん」7月放送開始　ダラさん役に田村睦心、三十木谷姉弟役に津田美波、寺澤百花　本予告ほか公開",
-      "source": "映画.com",
-      "date": "2026-03-15",
-      "url": "https://eiga.com/news/20260315/11/"
     }
   ],
   "bd_releases": [],
