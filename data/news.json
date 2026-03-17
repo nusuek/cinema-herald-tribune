@@ -1,26 +1,62 @@
 {
-  "generated_at": "2026-03-17T01:00:49.683883",
+  "generated_at": "2026-03-17T04:05:04.034846",
   "top_stories": [
     {
-      "title": "FilMart Celebrates Three Decades of Shaping Asia’s Screen Industry: ‘We Add Value by Helping International Companies Navigate the Regional Market’",
+      "title": "Jon Stewart Says ‘Opera and Ballet Have Defeated Timothée Chalamet’ After Misty Copeland’s Oscars Performance: ‘No Contest! A Knockout!’",
       "source": "Variety",
       "date": "2026-03-17",
-      "url": "https://variety.com/2026/film/news/filmart-three-decades-asia-screen-industry-1236687601/"
+      "url": "https://variety.com/2026/tv/news/jon-stewart-opera-ballet-timothee-chalamet-misty-copeland-1236690771/"
     },
     {
-      "title": "Num Kanchai, Weir Sukollawat and Two Popetorn Lead Thai Action-Drama ‘Prasert’ (EXCLUSIVE)",
+      "title": "Chinese Auteur Jia Zhangke Wraps Short Film in Italy, Talks AI at Asian Film Awards Masterclass",
       "source": "Variety",
       "date": "2026-03-17",
-      "url": "https://variety.com/2026/film/news/num-kanchai-weir-sukollawat-thai-action-drama-prasert-1236686335/"
+      "url": "https://variety.com/2026/film/asia/jia-zhangke-short-film-italy-ai-masterclass-1236690744/"
     },
     {
-      "title": "AI-Generated Feature ‘Raphael’ Anchors MBC C&I’s Hong Kong FilMart Slate (EXCLUSIVE)",
+      "title": "‘The Night Manager’ Chinese-Language Remake Expands Cast",
       "source": "Variety",
       "date": "2026-03-17",
-      "url": "https://variety.com/2026/film/markets-festivals/ai-generated-film-raphael-mbc-ci-hong-kong-filmart-slate-1236686079/"
+      "url": "https://variety.com/2026/tv/news/the-night-manager-chinese-language-remake-cast-expansion-1236690621/"
     }
   ],
   "new_releases": [
+    {
+      "title": "アカデミー賞助演男優賞受賞のショーン・ペン　授賞式欠席の理由が明らかに",
+      "source": "映画.com",
+      "date": "2026-03-17",
+      "url": "https://eiga.com/news/20260317/19/"
+    },
+    {
+      "title": "ポール・トーマス・アンダーソン監督、一夜で3つのオスカー像を獲得　ショーン・ペンは授賞式欠席【「ワンバト」アカデミー賞受賞スピーチ】",
+      "source": "映画.com",
+      "date": "2026-03-17",
+      "url": "https://eiga.com/news/20260317/12/"
+    },
+    {
+      "title": "マイケル・B・ジョーダン＆ライアン・クーグラー、初のオスカー獲得【「罪人たち」アカデミー賞受賞スピーチ】",
+      "source": "映画.com",
+      "date": "2026-03-17",
+      "url": "https://eiga.com/news/20260317/11/"
+    },
+    {
+      "title": "山路和弘がダース・モール声優を続投！「スター・ウォーズ　モール／シャドウ・ロード」本予告＆最新ポスター公開",
+      "source": "映画.com",
+      "date": "2026-03-17",
+      "url": "https://eiga.com/news/20260317/16/"
+    },
+    {
+      "title": "「G.I.ジョー」リブート企画、パラマウントが見送り",
+      "source": "映画.com",
+      "date": "2026-03-17",
+      "url": "https://eiga.com/news/20260317/10/"
+    },
+    {
+      "title": "何かがおかしい！　原作・脚本・主演：佐藤二朗「名無し」、衝撃のポスタービジュアルと場面写真を披露",
+      "source": "映画.com",
+      "date": "2026-03-17",
+      "url": "https://eiga.com/news/20260317/9/"
+    },
     {
       "title": "セントチヒロ・チッチ、「氷血」でホラー映画初参戦　主演・北山宏光と夫婦役で共演",
       "source": "映画.com",
@@ -134,36 +170,6 @@
       "source": "映画.com",
       "date": "2026-03-16",
       "url": "https://eiga.com/news/20260316/13/"
-    },
-    {
-      "title": "【第98回アカデミー賞】「ワン・バトル・アフター・アナザー」ポール・トーマス・アンダーソンが監督賞を初受賞！",
-      "source": "映画.com",
-      "date": "2026-03-16",
-      "url": "https://eiga.com/news/20260316/12/"
-    },
-    {
-      "title": "【第98回アカデミー賞】主演女優賞はジェシー・バックリー「ハムネット」で初受賞",
-      "source": "映画.com",
-      "date": "2026-03-16",
-      "url": "https://eiga.com/news/20260316/14/"
-    },
-    {
-      "title": "【第98回アカデミー賞】「KPOPガールズ! デーモン・ハンターズ」の「Golden」が歌曲賞！",
-      "source": "映画.com",
-      "date": "2026-03-16",
-      "url": "https://eiga.com/news/20260316/11/"
-    },
-    {
-      "title": "最低映画の祭典ラジー賞はアイス・キューブ主演SF映画が最多5冠",
-      "source": "映画.com",
-      "date": "2026-03-15",
-      "url": "https://eiga.com/news/20260316/7/"
-    },
-    {
-      "title": "【第98回アカデミー賞】短編実写映画賞でサプライズ！　「歌うたい」「Two People Exchanging Saliva」がタイ受賞",
-      "source": "映画.com",
-      "date": "2026-03-16",
-      "url": "https://eiga.com/news/20260316/10/"
     }
   ],
   "bd_releases": [],
