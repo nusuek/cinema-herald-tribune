@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-03-17T08:36:38.914852",
+  "generated_at": "2026-03-17T09:41:55.259659",
   "top_stories": [
+    {
+      "title": "Linmon Media Unveils 2026–2027 Slate and Microdrama Expansion at FilMart Hong Kong",
+      "source": "Variety",
+      "date": "2026-03-17",
+      "url": "https://variety.com/2026/digital/asia/linmon-media-microdrama-1236690903/"
+    },
+    {
+      "title": "AI, Cross-Border Collaboration and Global Content Strategies Explored at FilMart Forum: ‘As Long as the Story Is Strong, AI Can Support Creators in Connecting With Audiences’",
+      "source": "Variety",
+      "date": "2026-03-17",
+      "url": "https://variety.com/2026/film/markets-festivals/ai-cross-border-collaboration-filmart-forum-1236690904/"
+    },
     {
       "title": "Applause Entertainment, Story TV Team for Premium Microdrama Slate in India (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-03-17",
       "url": "https://variety.com/2026/tv/news/applause-entertainment-story-tv-microdrama-slate-india-1236690675/"
-    },
-    {
-      "title": "Malaysia’s FINAS Unveils $76 Million Rebate Renewal at FilMart, Targets Role as Southeast Asia Production Hub",
-      "source": "Variety",
-      "date": "2026-03-17",
-      "url": "https://variety.com/2026/film/news/malaysia-finas-76-million-rebate-renewal-filmart-1236690877/"
-    },
-    {
-      "title": "Arte President Bruno Patino Issues Industry-Wide Alert: AI Has Now Pushed Us Into a ‘Relationship Economy,’ the Only Way Forward Is ‘Coalition’",
-      "source": "Variety",
-      "date": "2026-03-17",
-      "url": "https://variety.com/2026/film/global/arte-head-bruno-patino-ai-relationship-economy-coalition-1236689970/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「プロジェクト・ヘイル・メアリー」でライアン・ゴズリングの相棒ロッキー役声優に花江夏樹が決定！ コメント映像も公開",
+      "source": "映画.com",
+      "date": "2026-03-17",
+      "url": "https://eiga.com/news/20260317/23/"
+    },
     {
       "title": "都内満席回&胸アツ感想続出の「マーティ・シュプリーム 世界をつかめ」日本撮影シーン本編映像初公開！",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-03-16",
       "url": "https://eiga.com/news/20260316/24/"
-    },
-    {
-      "title": "【第98回アカデミー賞】グローグーが授賞式に出席！世界中の視聴者に、キュートな魅力を届ける",
-      "source": "映画.com",
-      "date": "2026-03-16",
-      "url": "https://eiga.com/news/20260316/15/"
     }
   ],
   "bd_releases": [],
