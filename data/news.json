@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-18T06:46:12.333695",
+  "generated_at": "2026-03-18T07:43:07.415688",
   "top_stories": [
+    {
+      "title": "L.A. Soundstages Remain One-Third Empty Even as New Facilities Open",
+      "source": "Variety",
+      "date": "2026-03-18",
+      "url": "https://variety.com/2026/film/news/soundstage-occupancy-filmla-report-vacant-1236691657/"
+    },
     {
       "title": "Zendaya Describes ‘Euphoria’ Season 3 as a ‘Whirlwind’ That ‘Flew By’ and ‘I Hope it Turns Out Beautifully’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-03-18",
       "url": "https://variety.com/2026/film/news/vietnam-bunny-international-theatrical-release-3388-films-1236691922/"
-    },
-    {
-      "title": "Zendaya Stuns ‘The Drama’ Premiere by Wearing the Same Dress From 2015 Oscars: ‘It Felt Right’",
-      "source": "Variety",
-      "date": "2026-03-18",
-      "url": "https://variety.com/2026/film/news/zendaya-the-drama-premiere-dress-2015-oscars-1236691925/"
     }
   ],
   "new_releases": [
+    {
+      "title": "孤独な2人の不思議な共同生活、ソン・クックのほほ笑み――「大丈夫、大丈夫、大丈夫！」予告編公開",
+      "source": "映画.com",
+      "date": "2026-03-18",
+      "url": "https://eiga.com/news/20260318/16/"
+    },
     {
       "title": "漫画「ブレス」A-1 Pictures制作で27年にTVアニメ化　元モデル男子＆そばかす女子のメイクアップストーリー",
       "source": "映画.com",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2026-03-17",
       "url": "https://eiga.com/news/20260317/13/"
-    },
-    {
-      "title": "アカデミー賞助演男優賞受賞のショーン・ペン　授賞式欠席の理由が明らかに",
-      "source": "映画.com",
-      "date": "2026-03-17",
-      "url": "https://eiga.com/news/20260317/19/"
     }
   ],
   "bd_releases": [],
