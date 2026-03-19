@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-19T08:27:18.936074",
+  "generated_at": "2026-03-19T09:31:22.676394",
   "top_stories": [
+    {
+      "title": "The Open Reel Swoops on Málaga WIP Winner ‘Little Tragedies’ (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-03-19",
+      "url": "https://variety.com/2026/film/markets-festivals/the-open-reel-little-tragedies-malaga-wip-winner-1236692069/"
+    },
     {
       "title": "LIV Golf South Africa 2026: Where to Watch the Golf Tournament Live Online",
       "source": "Variety",
@@ -12,15 +18,33 @@
       "source": "Variety",
       "date": "2026-03-19",
       "url": "https://variety.com/2026/music/news/tina-turner-sells-catalog-pophouse-1236692878/"
-    },
-    {
-      "title": "Louis Theroux on Capturing Reality of Israeli Settlements in ‘The Settlers’: ‘I’d Never Seen Something Like This Unfold in the Open With No Shame’",
-      "source": "Variety",
-      "date": "2026-03-19",
-      "url": "https://variety.com/2026/film/markets-festivals/louis-theroux-reality-of-israeli-settlements-the-settlers-1236692747/"
     }
   ],
   "new_releases": [
+    {
+      "title": "NASA監修の“科学”×宇宙船など30ｍ超の“巨大セット”「プロジェクト・ヘイル・メアリー」リアル追求したメイキング映像公開！",
+      "source": "映画.com",
+      "date": "2026-03-19",
+      "url": "https://eiga.com/news/20260319/20/"
+    },
+    {
+      "title": "「私がビーバーになる時」観た人の感想は？　レビューまとめ「いい意味で裏切られる」「動物たちが思いっきり野生」「圧倒的サメパワー」",
+      "source": "映画.com",
+      "date": "2026-03-19",
+      "url": "https://eiga.com/news/20260319/22/"
+    },
+    {
+      "title": "ザジー・ビーツのアクションに観客熱狂！　脱出型ホラーアクション「ゼイ・ウィル・キル・ユー」ワールドプレミアレポート",
+      "source": "映画.com",
+      "date": "2026-03-19",
+      "url": "https://eiga.com/news/20260319/21/"
+    },
+    {
+      "title": "故バル・キルマーさん、AIで映画に「出演」　遺族が全面協力",
+      "source": "映画.com",
+      "date": "2026-03-19",
+      "url": "https://eiga.com/news/20260319/23/"
+    },
     {
       "title": "存在しても、生きることができなかった女性や少女たちの記憶――夭折の女性写真家がインスピレーション「落下音」場面写真",
       "source": "映画.com",
@@ -152,30 +176,6 @@
       "source": "映画.com",
       "date": "2026-03-18",
       "url": "https://eiga.com/news/20260318/21/"
-    },
-    {
-      "title": "李相日監督、加瀬亮×オダギリジョー×栗山千明「スクラップ・ヘブン」21年ぶりリバイバル上映決定！",
-      "source": "映画.com",
-      "date": "2026-03-18",
-      "url": "https://eiga.com/news/20260318/19/"
-    },
-    {
-      "title": "𠮷田恵輔監督「四月の余白」少年の狂気的な暴力と対峙する大人たちの痛切な表情を捉えた場面写真",
-      "source": "映画.com",
-      "date": "2026-03-18",
-      "url": "https://eiga.com/news/20260318/20/"
-    },
-    {
-      "title": "染谷将太主演の“コンビニホラー”「チルド」7月17日公開決定　共演は唐田えりか、令和ロマンくるま【特報映像も披露】",
-      "source": "映画.com",
-      "date": "2026-03-18",
-      "url": "https://eiga.com/news/20260318/18/"
-    },
-    {
-      "title": "「ハムネット」オスカー受賞ジェシー・バックリー＆ポール・メスカルが役者の化学反応語る特別動画公開",
-      "source": "映画.com",
-      "date": "2026-03-18",
-      "url": "https://eiga.com/news/20260318/17/"
     }
   ],
   "bd_releases": [],
