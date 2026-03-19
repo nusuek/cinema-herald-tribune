@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-19T11:25:32.857881",
+  "generated_at": "2026-03-19T12:32:53.353065",
   "top_stories": [
+    {
+      "title": "Unifrance Managing Director Daniela Elstner Files Police Complaint Against Singer and Actor Patrick Bruel for Attempted Rape and Sexual Assault",
+      "source": "Variety",
+      "date": "2026-03-19",
+      "url": "https://variety.com/2026/film/global/unifrance-daniela-elstner-police-complaint-patrick-bruel-1236693188/"
+    },
     {
       "title": "Piers Morgan Walks Out of Explosive Interview With HSTikkyTokky, Influencer Featured in Louis Theroux’s ‘Inside the Manosphere’: ‘I Think You’re a F—ing Idiot’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-03-19",
       "url": "https://variety.com/2026/film/markets-festivals/haf-project-market-award-winners-2026-1236693175/"
-    },
-    {
-      "title": "Tiwa Savage, Earl Sweatshirt, Rachel Chinouriri and More Lead SXSW London Music Lineup",
-      "source": "Variety",
-      "date": "2026-03-19",
-      "url": "https://variety.com/2026/music/festivals/sxsw-london-music-lineup-tiwa-savage-earl-sweatshirt-1236693098/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「鬼の花嫁」に石見舞菜香、逢坂良太、千本木彩花、花江夏樹が出演決定　PVでキャラクターボイス初披露",
+      "source": "映画.com",
+      "date": "2026-03-19",
+      "url": "https://eiga.com/news/20260319/27/"
+    },
+    {
+      "title": "大沢たかお主演「沈黙の艦隊」続編制作決定！　かわぐちかいじの原作を最後まで描き切る“シリーズ完結宣言”",
+      "source": "映画.com",
+      "date": "2026-03-19",
+      "url": "https://eiga.com/news/20260319/30/"
+    },
     {
       "title": "【フランス映画祭2026】ソフィー・マルソーらが来日！河合優実が開幕宣言「映画の輪がさらに広がってほしい」",
       "source": "映画.com",
@@ -164,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-03-18",
       "url": "https://eiga.com/news/20260319/3/"
-    },
-    {
-      "title": "「未来」黒島結菜、北川景子、松坂桃李らの熱演を原作者・湊かなえが絶賛！「原作の向こう側の世界を見せていただいた」",
-      "source": "映画.com",
-      "date": "2026-03-18",
-      "url": "https://eiga.com/news/20260318/26/"
     }
   ],
   "bd_releases": [],
