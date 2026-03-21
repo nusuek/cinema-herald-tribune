@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T06:27:31.770330",
+  "generated_at": "2026-03-21T07:24:28.640224",
   "top_stories": [
     {
       "title": "Hong Kong FilMart 2026: Six Takeaways From Asia’s Buzzy Film and Entertainment Content Marketplace",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "劇場アニメ「数分間のエールを」3月21日夜にEテレで地上波初放送　MV制作をめぐる青春群像劇",
+      "source": "映画.com",
+      "date": "2026-03-21",
+      "url": "https://eiga.com/news/20260321/8/"
+    },
     {
       "title": "【入場特典リスト 3月最新版】劇場版「暗殺教室」は原作者描き下ろし豪華アイテム　「鬼滅の刃」ついにフィナーレ特典登場",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-03-19",
       "url": "https://eiga.com/news/20260319/28/"
-    },
-    {
-      "title": "「鬼の花嫁」に石見舞菜香、逢坂良太、千本木彩花、花江夏樹が出演決定　PVでキャラクターボイス初披露",
-      "source": "映画.com",
-      "date": "2026-03-19",
-      "url": "https://eiga.com/news/20260319/27/"
     }
   ],
   "bd_releases": [],
