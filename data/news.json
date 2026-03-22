@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-22T21:14:59.483943",
+  "generated_at": "2026-03-22T22:12:40.659723",
   "top_stories": [
+    {
+      "title": "What’s in the ‘Hannah Montana’ 20th Anniversary Special? Surprise Guests, a New Miley Cyrus Song and More",
+      "source": "Variety",
+      "date": "2026-03-22",
+      "url": "https://variety.com/2026/music/news/hannah-montana-anniversary-special-songs-guests-miley-cyrus-1236695037/"
+    },
     {
       "title": "Sam Kieth, ‘The Maxx’ and ‘Sandman’ Comic Book Artist, Dies at 63",
       "source": "Variety",
@@ -12,15 +18,27 @@
       "source": "Variety",
       "date": "2026-03-22",
       "url": "https://variety.com/2026/tv/news/carrie-anne-fleming-dead-izombie-supernatural-1236696349/"
-    },
-    {
-      "title": "Donald Trump Reposts ‘SNL U.K.’ Sketch in Which Keir Starmer Breaks Up With U.S. President Over Voice Note",
-      "source": "Variety",
-      "date": "2026-03-22",
-      "url": "https://variety.com/2026/politics/news/donald-trump-reposts-snl-uk-sketch-keir-starmer-voice-note-1236696357/"
     }
   ],
   "new_releases": [
+    {
+      "title": "愛おしそうに見つめる永瀬廉、緊張しながらも前を向く吉川愛　「鬼の花嫁」本編映像公開、入場特典も発表",
+      "source": "映画.com",
+      "date": "2026-03-22",
+      "url": "https://eiga.com/news/20260323/3/"
+    },
+    {
+      "title": "「トイ・ストーリー」日本公開30周年！　唐沢寿明＆所ジョージ、ウッディ×バズと歩んだ30年を名シーンと振り返る映像公開",
+      "source": "映画.com",
+      "date": "2026-03-22",
+      "url": "https://eiga.com/news/20260323/1/"
+    },
+    {
+      "title": "【日本公開30周年】「トイ・ストーリー」が、いまも色あせない理由は？　今夏には「トイ・ストーリー5」が公開",
+      "source": "映画.com",
+      "date": "2026-03-22",
+      "url": "https://eiga.com/news/20260323/2/"
+    },
     {
       "title": "「マリッジトキシン」OP主題歌を平手友梨奈が担当　制作の舞台裏に迫るメイキング映像も公開",
       "source": "映画.com",
@@ -152,30 +170,6 @@
       "source": "映画.com",
       "date": "2026-03-20",
       "url": "https://eiga.com/news/20260321/2/"
-    },
-    {
-      "title": "「魔法の姉妹ルルットリリィ」4月5日から分割2クールで放送　新PV、エンディング主題歌、追加キャスト発表",
-      "source": "映画.com",
-      "date": "2026-03-20",
-      "url": "https://eiga.com/news/20260321/1/"
-    },
-    {
-      "title": "「クワイエット・プレイス」第3作のキャスト発表、シリーズ最終章か",
-      "source": "映画.com",
-      "date": "2026-03-20",
-      "url": "https://eiga.com/news/20260320/18/"
-    },
-    {
-      "title": "ソフィー・マルソーが“おばあちゃん役”　フランス映画界は「多くの女性監督が誕生し、女性の視点が反映されるようになった」",
-      "source": "映画.com",
-      "date": "2026-03-20",
-      "url": "https://eiga.com/news/20260320/25/"
-    },
-    {
-      "title": "「えんとつ町のプペル　約束の時計台」永瀬ゆずな、窪田正孝、MEGUMIらのアフレコ映像を配信　東野幸治、カジサックらが演じるキャラの場面写真も披露",
-      "source": "映画.com",
-      "date": "2026-03-20",
-      "url": "https://eiga.com/news/20260320/17/"
     }
   ],
   "bd_releases": [],
