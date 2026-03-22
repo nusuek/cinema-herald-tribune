@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-22T10:14:41.282888",
+  "generated_at": "2026-03-22T11:13:14.058470",
   "top_stories": [
+    {
+      "title": "‘SNL U.K.’ Is Strongest When Leaning Into What Makes British Comedy Great — but Its Replicated Format Risks Feeling Too American: TV Review",
+      "source": "Variety",
+      "date": "2026-03-22",
+      "url": "https://variety.com/2026/tv/global/snl-uk-review-strong-british-comedy-format-too-american-1236696192/"
+    },
     {
       "title": "‘Hamnet’ Spoofed in ‘SNL U.K.’ Sketch in Which Shakespeare Returns From London With Ketamine, ‘Team Anne Boleyn’ Tote and ‘C—y Little Earring’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-03-21",
       "url": "https://variety.com/2026/tv/global/princess-diana-david-attenborough-snl-uk-1236677970/"
-    },
-    {
-      "title": "First ‘SNL U.K.’ Weekend Update Takes Aim at Former Prince Andrew: His New Residence, Marsh Farm, Is ‘Named After the Nearby Marsh Where His Body Will Be Found’",
-      "source": "Variety",
-      "date": "2026-03-21",
-      "url": "https://variety.com/2026/tv/global/snl-uk-first-weekend-update-roasts-former-prince-andrew-1236696142/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「探偵はBARにいる」シリーズ9年ぶりの最新作12月25日公開　大泉洋「待っていた皆さんの期待を裏切らない」と自信",
+      "source": "映画.com",
+      "date": "2026-03-22",
+      "url": "https://eiga.com/news/20260322/12/"
+    },
     {
       "title": "綾瀬はるか×ヒゲダン藤原聡が熱く語る「人はなぜラブレターを書くのか」スペシャル対談映像公開",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-03-20",
       "url": "https://eiga.com/news/20260320/15/"
-    },
-    {
-      "title": "ジャン＝リュック・ゴダール特集上映6月20日開催　2001年から10年間の長編4作上映",
-      "source": "映画.com",
-      "date": "2026-03-20",
-      "url": "https://eiga.com/news/20260320/13/"
     }
   ],
   "bd_releases": [],
