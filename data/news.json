@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-03-23T10:40:30.231639",
+  "generated_at": "2026-03-23T11:34:42.702445",
   "top_stories": [
+    {
+      "title": "NBC Sports’ Major League Baseball Launch Crashes Into Big City Landscapes",
+      "source": "Variety",
+      "date": "2026-03-23",
+      "url": "https://variety.com/2026/tv/news/nbc-sports-major-league-baseball-launch-1236696302/"
+    },
+    {
+      "title": "Set During the Nazi Occupation of Belgium, WWII Labor Camp Drama ‘Breendonk’ Explores Moral Dilemmas From Past and Present",
+      "source": "Variety",
+      "date": "2026-03-23",
+      "url": "https://variety.com/2026/tv/global/breendonk-vrt-studio-tf1-de-mensen-new-8-1236696290/"
+    },
     {
       "title": "African Screenwriters Unveil Genre Shows at Series Mania (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-03-23",
       "url": "https://variety.com/2026/tv/global/africa-tv-screenwriters-series-mania-2026-1236696284/"
-    },
-    {
-      "title": "France TV Distribution Closes U.S., Canada, U.K. With Walter Presents on Singular French Procedural ‘Curious By Nature’ (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-03-23",
-      "url": "https://variety.com/2026/tv/global/france-tv-distribution-curious-by-nature-walter-presents-1236696473/"
-    },
-    {
-      "title": "All3Media International Scores Global Pre-Sales for Gemma Arterton Spy Thriller ‘Secret Service’ (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-03-23",
-      "url": "https://variety.com/2026/tv/global/all3media-international-gemma-arterton-secret-service-1236696235/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ほどなく、お別れです」公開45日間で興収40億円突破！　浜辺美波、目黒蓮、三木孝浩監督がコメント発表",
+      "source": "映画.com",
+      "date": "2026-03-23",
+      "url": "https://eiga.com/news/20260323/26/"
+    },
+    {
+      "title": "「マインクラフト」初のテーマパーク、2027年にイギリスで開業",
+      "source": "映画.com",
+      "date": "2026-03-23",
+      "url": "https://eiga.com/news/20260323/23/"
+    },
     {
       "title": "ジェイソン・モモア、ハワイの大洪水で避難「自分たちは今のところ無事だが、そうではない人々もたくさんいる」",
       "source": "映画.com",
@@ -158,12 +170,6 @@
       "source": "映画.com",
       "date": "2026-03-22",
       "url": "https://eiga.com/news/20260322/12/"
-    },
-    {
-      "title": "綾瀬はるか×ヒゲダン藤原聡が熱く語る「人はなぜラブレターを書くのか」スペシャル対談映像公開",
-      "source": "映画.com",
-      "date": "2026-03-22",
-      "url": "https://eiga.com/news/20260322/11/"
     }
   ],
   "bd_releases": [],
