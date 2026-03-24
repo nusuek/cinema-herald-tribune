@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-24T05:17:33.787615",
+  "generated_at": "2026-03-24T06:48:19.702611",
   "top_stories": [
+    {
+      "title": "Ranveer Singh’s ‘Dhurandhar: The Revenge’ Crosses $82 Million Worldwide in Record-Breaking Opening Weekend",
+      "source": "Variety",
+      "date": "2026-03-24",
+      "url": "https://variety.com/2026/film/box-office/ranveer-singh-dhurandhar-the-revenge-82-million-worldwide-1236697441/"
+    },
     {
       "title": "Jon Stewart Jokes the ‘Only Thing Giving Me Joy’ in Trump’s America Is ‘Looking Forward’ to Watching Taylor Frankie Paul on ‘The Bachelorette’: ‘Hold on, I’m Getting a Call’",
       "source": "Variety",
@@ -12,26 +18,44 @@
       "source": "Variety",
       "date": "2026-03-24",
       "url": "https://variety.com/2026/tv/news/emily-osment-mitchel-musso-skip-hannah-montana-anniversary-1236697402/"
-    },
-    {
-      "title": "‘Giant’ Broadway Review: John Lithgow as a Venomous Roald Dahl Animates a Staggering Production",
-      "source": "Variety",
-      "date": "2026-03-24",
-      "url": "https://variety.com/2026/legit/reviews/giant-broadway-review-john-lithgow-roald-dahl-1236696703/"
     }
   ],
   "new_releases": [
     {
-      "title": "K-POPはいかにしてアメリカを制覇したか　米業界紙が分析",
+      "title": "「ぐらんぶる Season3」7月放送開始　伊織らがパラオで出会う新キャラ役に大原さやか、瀬戸麻沙美、洲崎綾",
       "source": "映画.com",
       "date": "2026-03-24",
-      "url": "https://eiga.com/news/20260324/9/"
+      "url": "https://eiga.com/news/20260324/11/"
+    },
+    {
+      "title": "「リーチャー」主演アラン・リッチソン、隣人を殴る動画が流出",
+      "source": "映画.com",
+      "date": "2026-03-24",
+      "url": "https://eiga.com/news/20260324/15/"
     },
     {
       "title": "【本日配信】世界中のティーンが熱狂！特別番組「ハンナ・モンタナ 20周年記念スペシャル」",
       "source": "映画.com",
       "date": "2026-03-24",
       "url": "https://eiga.com/news/20260324/13/"
+    },
+    {
+      "title": "実写版「モアナと伝説の海」本予告を世界同時公開！　ドウェイン・ジョンソン演じる“伝説の英雄”マウイの姿も明らかに！",
+      "source": "映画.com",
+      "date": "2026-03-24",
+      "url": "https://eiga.com/news/20260324/14/"
+    },
+    {
+      "title": "「ガンバレ！中村くん!!」OP主題歌で岡村靖幸と中島健人が初コラボ　楽曲の一部を収めた本PVも公開",
+      "source": "映画.com",
+      "date": "2026-03-24",
+      "url": "https://eiga.com/news/20260324/10/"
+    },
+    {
+      "title": "K-POPはいかにしてアメリカを制覇したか　米業界紙が分析",
+      "source": "映画.com",
+      "date": "2026-03-24",
+      "url": "https://eiga.com/news/20260324/9/"
     },
     {
       "title": "「プロジェクト・ヘイル・メアリー」にカメオ出演した大物女優は？",
@@ -146,24 +170,6 @@
       "source": "映画.com",
       "date": "2026-03-23",
       "url": "https://eiga.com/news/20260323/16/"
-    },
-    {
-      "title": "「異世界でチート能力を手にした俺は、現実世界をも無双する」テレビSPが3月30日放送　三宅健太、千葉繁、井上麻里奈が出演",
-      "source": "映画.com",
-      "date": "2026-03-23",
-      "url": "https://eiga.com/news/20260323/14/"
-    },
-    {
-      "title": "「木挽町のあだ討ち」V4、「プロジェクト・ヘイル・メアリー」が2位、「ゴールデンカムイ」が3位【映画.comアクセスランキング】",
-      "source": "映画.com",
-      "date": "2026-03-23",
-      "url": "https://eiga.com/news/20260323/22/"
-    },
-    {
-      "title": "「ソニック」映画第4弾のキャスト発表、キアヌ・リーブスら続投",
-      "source": "映画.com",
-      "date": "2026-03-23",
-      "url": "https://eiga.com/news/20260323/13/"
     }
   ],
   "bd_releases": [],
