@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-24T09:42:04.191173",
+  "generated_at": "2026-03-24T10:38:10.101179",
   "top_stories": [
+    {
+      "title": "‘Project Hail Mary,’ ‘Dhurandhar: The Revenge’ Lead U.K., Ireland Box Office",
+      "source": "Variety",
+      "date": "2026-03-24",
+      "url": "https://variety.com/2026/film/news/project-hail-mary-dhurandhar-the-revenge-uk-ireland-box-office-1236697523/"
+    },
     {
       "title": "‘Dhurandhar’ Headlines Record $2.18 Billion 2025 for Indian Film as Overall Media and Entertainment Sector Reaches $29.6 Billion",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-03-24",
       "url": "https://variety.com/2026/film/global/adam-cunningham-allied-global-marketing-1236697491/"
-    },
-    {
-      "title": "Indian Singer Shreya Ghoshal to Release First-Ever Live Album From ‘All Hearts’ Tour (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-03-24",
-      "url": "https://variety.com/2026/music/news/shreya-ghoshal-live-album-all-hearts-tour-1236697449/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【インタビュー】「映画　えんとつ町のプペル　約束の時計台」永瀬ゆずなと西野亮廣が語る、アドリブ満載だった声の収録　突然生まれた「ワオーン」",
+      "source": "映画.com",
+      "date": "2026-03-24",
+      "url": "https://eiga.com/news/20260324/20/"
+    },
     {
       "title": "ジェイソン・ステイサム主演「ワーキングマン」が4月17日よりPrime Videoで見放題独占配信決定！",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2026-03-23",
       "url": "https://eiga.com/news/20260323/23/"
-    },
-    {
-      "title": "ジェイソン・モモア、ハワイの大洪水で避難「自分たちは今のところ無事だが、そうではない人々もたくさんいる」",
-      "source": "映画.com",
-      "date": "2026-03-23",
-      "url": "https://eiga.com/news/20260323/21/"
     }
   ],
   "bd_releases": [],
