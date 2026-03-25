@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T07:43:32.759963",
+  "generated_at": "2026-03-25T08:34:48.312754",
   "top_stories": [
     {
       "title": "Webtoon’s Studio N CEO Says Western Industry Is Still Learning the Power of Webcomic IP: ‘Every Time We Have a Hit Project, Our Job Gets Easier’",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "ディズニー実写版「シンデレラ」のスピンオフ映画は義姉妹が主人公",
+      "source": "映画.com",
+      "date": "2026-03-25",
+      "url": "https://eiga.com/news/20260325/20/"
+    },
     {
       "title": "「SEKIRO: NO DEFEAT」26年に劇場公開決定、PV披露　主題曲は坂本龍一さんの「Blu」",
       "source": "映画.com",
@@ -158,12 +164,6 @@
       "source": "映画.com",
       "date": "2026-03-24",
       "url": "https://eiga.com/news/20260324/22/"
-    },
-    {
-      "title": "BTS復帰コンサート、観客数が予測の半分以下　HYBE株価が急落",
-      "source": "映画.com",
-      "date": "2026-03-24",
-      "url": "https://eiga.com/news/20260324/16/"
     }
   ],
   "bd_releases": [],
