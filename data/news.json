@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T07:52:12.346331",
+  "generated_at": "2026-03-26T08:39:01.090202",
   "top_stories": [
     {
       "title": "Netflix Wedding Horror Series ‘Something Very Bad Is Going to Happen’ Has a Great Hook, But Takes Too Long to Get There: TV Review",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "実写版「ガンダム」に「スパイダーマン」マイケル・マンド",
+      "source": "映画.com",
+      "date": "2026-03-26",
+      "url": "https://eiga.com/news/20260326/19/"
+    },
     {
       "title": "マイリー・サイラス、20年越しの「ハンナ・モンタナ」に「新しい視点」",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-03-25",
       "url": "https://eiga.com/news/20260325/19/"
-    },
-    {
-      "title": "キルスティン・ダンスト、「マインクラフト」続編に出演決定",
-      "source": "映画.com",
-      "date": "2026-03-25",
-      "url": "https://eiga.com/news/20260325/18/"
     }
   ],
   "bd_releases": [],
