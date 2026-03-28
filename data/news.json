@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-03-27T23:20:31.708458",
+  "generated_at": "2026-03-28T01:01:42.258256",
   "top_stories": [
+    {
+      "title": "‘Animal Friends,’ With Ryan Reynolds and Jason Momoa, Moves to Next Year",
+      "source": "Variety",
+      "date": "2026-03-28",
+      "url": "https://variety.com/2026/film/news/animal-friends-ryan-reynolds-jason-momoa-2027-1236701897/"
+    },
+    {
+      "title": "James Tolkan, ‘Top Gun’ and ‘Back to the Future’ Actor, Dies at 94",
+      "source": "Variety",
+      "date": "2026-03-27",
+      "url": "https://variety.com/2026/film/news/james-tolkan-dead-top-gun-back-to-the-future-1236701891/"
+    },
     {
       "title": "‘Talamasca: The Secret Order’ Canceled After One Season at AMC (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-03-27",
       "url": "https://variety.com/2026/tv/news/talamasca-the-secret-order-canceled-amc-anne-rice-1236701872/"
-    },
-    {
-      "title": "‘World of Warcraft’ Concert Series Sets Anniversary Tour (Gaming News Roundup)",
-      "source": "Variety",
-      "date": "2026-03-27",
-      "url": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-march-23-1236697956/"
-    },
-    {
-      "title": "The 9 Most Shocking ‘Jo Nesbø’s Detective Hole’ Deaths, From a Vacuum Sealed Corpse to That Dismembered Member",
-      "source": "Variety",
-      "date": "2026-03-27",
-      "url": "https://variety.com/2026/tv/global/jo-nesbo-detective-hole-shocking-deaths-netflix-1236699534/"
     }
   ],
   "new_releases": [
+    {
+      "title": "なぜ令和に“究極の恋愛＆シンデレラストーリー”？永瀬廉×吉川愛「鬼の花嫁」プロデューサーが映像化の理由を明かす",
+      "source": "映画.com",
+      "date": "2026-03-28",
+      "url": "https://eiga.com/news/20260328/3/"
+    },
+    {
+      "title": "鈴木亮平主演「リブート」遂に最終回！　大西利空らがゲスト出演、Netflixでの全世界配信も決定",
+      "source": "映画.com",
+      "date": "2026-03-28",
+      "url": "https://eiga.com/news/20260328/4/"
+    },
     {
       "title": "毒親、クズ男、薬物依存…傷ついても出産を選んだ5人の少女が母になる歩み映す「そして彼女たちは」監督インタビュー",
       "source": "映画.com",
@@ -176,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-03-27",
       "url": "https://eiga.com/news/20260327/5/"
-    },
-    {
-      "title": "もう見た？映画史上“最も視聴された予告”「スパイダーマン　ブランド・ニュー・デイ」新しいヴィランが写る新場面写真も公開",
-      "source": "映画.com",
-      "date": "2026-03-26",
-      "url": "https://eiga.com/news/20260326/22/"
     }
   ],
   "bd_releases": [],
