@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-28T15:18:44.717849",
+  "generated_at": "2026-03-28T16:18:17.084606",
   "top_stories": [
+    {
+      "title": "Box Office: ‘Project Hail Mary’ Adds $14.6 Million; ‘They Will Kill You’ Cuts Down $2.3 Million on Opening Day",
+      "source": "Variety",
+      "date": "2026-03-28",
+      "url": "https://variety.com/2026/film/news/box-office-project-hail-mary-they-will-kill-you-1236701968/"
+    },
     {
       "title": "Where to Watch Moses Itauma vs. Jermaine Franklin Boxing Live Online",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-03-28",
       "url": "https://variety.com/2026/tv/news/peter-alexander-exit-nbc-news-1236701929/"
-    },
-    {
-      "title": "‘Animal Friends,’ With Ryan Reynolds and Jason Momoa, Moves to Next Year",
-      "source": "Variety",
-      "date": "2026-03-28",
-      "url": "https://variety.com/2026/film/news/animal-friends-ryan-reynolds-jason-momoa-2027-1236701897/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「デアデビル」悪役俳優、スパイダーマンとの実写対決を熱望",
+      "source": "映画.com",
+      "date": "2026-03-26",
+      "url": "https://eiga.com/news/20260326/20/"
+    },
     {
       "title": "【入場特典リスト 3月最新版】「超かぐや姫！」「ゴールデンカムイ」「暗殺教室」に新特典　終映間近「鬼滅」の最後の特典は？",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-03-27",
       "url": "https://eiga.com/news/20260327/16/"
-    },
-    {
-      "title": "やまと、ついにニューヨークへ！「沈黙の艦隊」シリーズ3作目の超特報映像公開　大沢たかお＆玉木宏がコメント",
-      "source": "映画.com",
-      "date": "2026-03-27",
-      "url": "https://eiga.com/news/20260327/18/"
     }
   ],
   "bd_releases": [],
