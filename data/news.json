@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-03-30T08:13:49.038893",
+  "generated_at": "2026-03-30T10:03:37.088540",
   "top_stories": [
     {
-      "title": "Korea Box Office: ‘The King’s Warden’ Surpasses 15 Million Admissions to Extend Record",
+      "title": "Taiwan’s 9m88 on Acting, Songwriting and the Space Between: ‘Both Fall Under Performing Arts, but in Many Ways They Feel Almost Contradictory’",
       "source": "Variety",
       "date": "2026-03-30",
-      "url": "https://variety.com/2026/film/box-office/korea-box-office-the-kings-warden-15-million-admissions-1236702336/"
+      "url": "https://variety.com/2026/film/news/9m88-music-screen-career-1236702366/"
     },
     {
-      "title": "China Box Office: ‘Project Hail Mary’ Overtakes ‘Hoppers’ to Claim Top Spot",
+      "title": "Jane Campion to Preside Over Jury at Italy’s Taormina Film Festival (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-03-30",
-      "url": "https://variety.com/2026/film/box-office/china-box-office-project-hail-mary-1236702329/"
+      "url": "https://variety.com/2026/film/festivals/jane-campion-jury-president-italy-taormina-film-festival-1236702343/"
     },
     {
-      "title": "Alex Duong, Stand-Up Comedian and ‘Blue Bloods’ Actor, Dies at 42",
+      "title": "‘Tomb Raider’ Production ‘Briefly Paused’ After Sophie Turner Injured on Set",
       "source": "Variety",
-      "date": "2026-03-29",
-      "url": "https://variety.com/2026/tv/news/alex-duong-dead-stand-up-blue-bloods-1236702311/"
+      "date": "2026-03-30",
+      "url": "https://variety.com/2026/tv/global/tomb-raider-production-paused-sophie-turner-injury-1236702358/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「バック・トゥ・ザ・フューチャー」「トップガン」ジェームズ・トルカンさん死去",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/20/"
+    },
+    {
+      "title": "海外でカルト的人気を誇るジャン・ヤマンが“圧強め”な伝説の海賊に！　「サンドカン」シーズン1、、5月2日からHuluで独占配信",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/19/"
+    },
+    {
+      "title": "ディズニーパリに「アナと雪の女王」の王国が誕生、新CEO初の大舞台に",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/18/"
+    },
+    {
+      "title": "「フランス実験映画祭 2026」開催　モーリス・ルメートル、ロバート・クレイマー、女性の身体とアイデンティティをテーマにしたデュオを特集",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/17/"
+    },
     {
       "title": "「ライオン・キング」の歌詞をジョークにしたら訴えられた――原曲の歌い手が損害賠償を求めてコメディアンを提訴",
       "source": "映画.com",
@@ -176,30 +200,6 @@
       "source": "映画.com",
       "date": "2026-03-29",
       "url": "https://eiga.com/news/20260329/6/"
-    },
-    {
-      "title": "ライアン・ゴズリング、「エブエブ」ダニエルズ監督の新作映画に主演へ",
-      "source": "映画.com",
-      "date": "2026-03-29",
-      "url": "https://eiga.com/news/20260329/5/"
-    },
-    {
-      "title": "塚本晋也監督最新作「ネルソンさん、あなたは人を殺しましたか？」9月公開　ベトナム戦争をめぐるタブー、加害者の傷描く",
-      "source": "映画.com",
-      "date": "2026-03-29",
-      "url": "https://eiga.com/news/20260329/4/"
-    },
-    {
-      "title": "Wヒーローによる新時代の幕開け！映画「仮面ライダーゼッツ」「超宇宙刑事ギャバン インフィニティ」2本立てで7月24日公開決定",
-      "source": "映画.com",
-      "date": "2026-03-29",
-      "url": "https://eiga.com/news/20260329/3/"
-    },
-    {
-      "title": "TYPE-MOON×ufotable「魔法使いの夜」主人公・蒼崎青子を描いた第1弾キービジュアル披露",
-      "source": "映画.com",
-      "date": "2026-03-28",
-      "url": "https://eiga.com/news/20260329/2/"
     }
   ],
   "bd_releases": [],
