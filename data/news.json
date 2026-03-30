@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-30T04:33:19.487506",
+  "generated_at": "2026-03-30T06:22:00.905293",
   "top_stories": [
+    {
+      "title": "China Box Office: ‘Project Hail Mary’ Overtakes ‘Hoppers’ to Claim Top Spot",
+      "source": "Variety",
+      "date": "2026-03-30",
+      "url": "https://variety.com/2026/film/news/china-box-office-project-hail-mary-1236702329/"
+    },
     {
       "title": "Alex Duong, Stand-Up Comedian and ‘Blue Bloods’ Actor, Dies at 42",
       "source": "Variety",
@@ -12,15 +18,33 @@
       "source": "Variety",
       "date": "2026-03-29",
       "url": "https://variety.com/2026/film/news/donald-glover-campaigned-yoshi-super-mario-galaxy-movie-1236702287/"
-    },
-    {
-      "title": "Spanish Queer Drama ’Maspalomas’ Wins Top Prize at Sonoma Film Festival as Steven Soderbergh’s ‘The Christophers’ Takes Audience Award",
-      "source": "Variety",
-      "date": "2026-03-29",
-      "url": "https://variety.com/2026/film/news/maspalomas-prize-sonoma-film-festival-1236702281/"
     }
   ],
   "new_releases": [
+    {
+      "title": "南沙良がショットガンをぶっ放す！　日本×香港合作アクション「殺手#4」、4種のアクションシーン映像を披露！",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/15/"
+    },
+    {
+      "title": "「転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件」7月放送開始　土岐隼一、花井美春、春瀬なつみ、和泉風花が出演",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/14/"
+    },
+    {
+      "title": "「プロジェクト・ヘイル・メアリー」首位、「全知的な読者の視点から」「鬼の花嫁」「プぺル」がアップ【映画.comアクセスランキング】",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/13/"
+    },
+    {
+      "title": "長尾謙杜、“江戸時代の京”を着物姿で練り歩き！太秦サポーターに就任「この撮影所にずっと通い続けることができる俳優になりたい」",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/12/"
+    },
     {
       "title": "「攻殻機動隊 THE GHOST IN THE SHELL」素子とフチコマを描いたキービジュアル＆最新PV披露",
       "source": "映画.com",
@@ -176,24 +200,6 @@
       "source": "映画.com",
       "date": "2026-03-28",
       "url": "https://eiga.com/news/20260329/1/"
-    },
-    {
-      "title": "「AnimeJapan」27、28年の開催地は大阪に変更　27年は3月27、28日にインテックス大阪で開催",
-      "source": "映画.com",
-      "date": "2026-03-28",
-      "url": "https://eiga.com/news/20260329/14/"
-    },
-    {
-      "title": "「デアデビル」悪役俳優、スパイダーマンとの実写対決を熱望",
-      "source": "映画.com",
-      "date": "2026-03-26",
-      "url": "https://eiga.com/news/20260326/20/"
-    },
-    {
-      "title": "【入場特典リスト 3月最新版】「超かぐや姫！」「ゴールデンカムイ」「暗殺教室」に新特典　終映間近「鬼滅」の最後の特典は？",
-      "source": "映画.com",
-      "date": "2026-03-28",
-      "url": "https://eiga.com/news/20260328/18/"
     }
   ],
   "bd_releases": [],
