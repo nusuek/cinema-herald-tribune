@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-30T11:44:23.514497",
+  "generated_at": "2026-03-30T12:45:34.002035",
   "top_stories": [
+    {
+      "title": "Blackpink’s Lisa Announces Las Vegas Residency, ‘Viva La Lisa’ (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-03-30",
+      "url": "https://variety.com/2026/music/news/blackpink-lisa-las-vegas-residency-viva-la-lisa-1236702302/"
+    },
     {
       "title": "Russell Brand’s Rape Trial Delayed to October",
       "source": "Variety",
@@ -12,15 +18,27 @@
       "source": "Variety",
       "date": "2026-03-30",
       "url": "https://variety.com/2026/film/global/fribourg-film-festival-takeaways-2026-1236702380/"
-    },
-    {
-      "title": "BBC Radio 2’s Scott Mills Exits After Allegations Over His ‘Personal Conduct’",
-      "source": "Variety",
-      "date": "2026-03-30",
-      "url": "https://variety.com/2026/tv/global/bbc-radio-2-scott-mills-exits-personal-conduct-allegations-1236702392/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「炎の闘球女 ドッジ弾子」7月放送開始　大人になった前作のキャラ役で小西克幸、稲田徹が出演　ティザーPVも公開",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/25/"
+    },
+    {
+      "title": "「死亡遊戯で飯を食う。」新作「44:CLOUDY BEACH」7月10日から2週間限定劇場上映　新キャラ役に永瀬アンナ、田村ゆかりら",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/24/"
+    },
+    {
+      "title": "「スター・ウォーズ」はアニメーション作品もアツい！ファン待望の新作「モール／シャドウ・ロード」始動",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/26/"
+    },
     {
       "title": "「映画ドラえもん」が5週連続V！　新作は3位「鬼の花嫁」、5位「えんとつ町のプペル」　「鬼滅の刃　無限城編」が史上2作目の興収400億円作品に【国内映画ランキング】",
       "source": "映画.com",
@@ -176,24 +194,6 @@
       "source": "映画.com",
       "date": "2026-03-29",
       "url": "https://eiga.com/news/20260329/11/"
-    },
-    {
-      "title": "「グロウアップショウ ～ひまわりのサーカス団～」7月放送開始　野田朋花、釘宮理恵らメインキャスト発表",
-      "source": "映画.com",
-      "date": "2026-03-29",
-      "url": "https://eiga.com/news/20260329/10/"
-    },
-    {
-      "title": "海の上を歩き弟子たちを救うイエス・キリストの奇跡！「キング・オブ・キングス」本編映像＆チャン・ソンホ監督のコメント披露",
-      "source": "映画.com",
-      "date": "2026-03-29",
-      "url": "https://eiga.com/news/20260329/12/"
-    },
-    {
-      "title": "TVアニメ「カリスマ」27年1月から放送開始　カリスマ集合のティザービジュアル公開",
-      "source": "映画.com",
-      "date": "2026-03-29",
-      "url": "https://eiga.com/news/20260329/9/"
     }
   ],
   "bd_releases": [],
