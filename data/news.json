@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-03-30T06:22:00.905293",
+  "generated_at": "2026-03-30T08:13:49.038893",
   "top_stories": [
+    {
+      "title": "Korea Box Office: ‘The King’s Warden’ Surpasses 15 Million Admissions to Extend Record",
+      "source": "Variety",
+      "date": "2026-03-30",
+      "url": "https://variety.com/2026/film/box-office/korea-box-office-the-kings-warden-15-million-admissions-1236702336/"
+    },
     {
       "title": "China Box Office: ‘Project Hail Mary’ Overtakes ‘Hoppers’ to Claim Top Spot",
       "source": "Variety",
       "date": "2026-03-30",
-      "url": "https://variety.com/2026/film/news/china-box-office-project-hail-mary-1236702329/"
+      "url": "https://variety.com/2026/film/box-office/china-box-office-project-hail-mary-1236702329/"
     },
     {
       "title": "Alex Duong, Stand-Up Comedian and ‘Blue Bloods’ Actor, Dies at 42",
       "source": "Variety",
       "date": "2026-03-29",
       "url": "https://variety.com/2026/tv/news/alex-duong-dead-stand-up-blue-bloods-1236702311/"
-    },
-    {
-      "title": "Donald Glover ‘Campaigned’ to Voice Yoshi in ‘The Super Mario Galaxy Movie’, Says Jack Black: ‘He Loves That Universe’",
-      "source": "Variety",
-      "date": "2026-03-29",
-      "url": "https://variety.com/2026/film/news/donald-glover-campaigned-yoshi-super-mario-galaxy-movie-1236702287/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ライオン・キング」の歌詞をジョークにしたら訴えられた――原曲の歌い手が損害賠償を求めてコメディアンを提訴",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/7/"
+    },
+    {
+      "title": "「プロジェクト・ヘイル・メアリー」観た人の感想は？　レビューまとめ「好奇心が刺激される作品」「ライアン・ゴズリングに思い切り感情移入」",
+      "source": "映画.com",
+      "date": "2026-03-30",
+      "url": "https://eiga.com/news/20260330/16/"
+    },
     {
       "title": "南沙良がショットガンをぶっ放す！　日本×香港合作アクション「殺手#4」、4種のアクションシーン映像を披露！",
       "source": "映画.com",
@@ -62,12 +74,6 @@
       "source": "映画.com",
       "date": "2026-03-29",
       "url": "https://eiga.com/news/20260330/3/"
-    },
-    {
-      "title": "「ライオン・キング」の歌詞をジョークにしたら訴えられた――原曲の歌い手が損害賠償を求めてコメディアンを提訴",
-      "source": "映画.com",
-      "date": "2026-03-30",
-      "url": "https://eiga.com/news/20260330/7/"
     },
     {
       "title": "実写版「モアナと伝説の海」“半神マウイ”ドウェイン・ジョンソンの髪型に注目が集まる",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2026-03-28",
       "url": "https://eiga.com/news/20260329/2/"
-    },
-    {
-      "title": "キャスティングディレクター奈良橋陽子、「ハムネット」俳優陣を絶賛＆ハリウッドでのエピソード語る",
-      "source": "映画.com",
-      "date": "2026-03-28",
-      "url": "https://eiga.com/news/20260329/1/"
     }
   ],
   "bd_releases": [],
