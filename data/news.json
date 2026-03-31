@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-31T11:38:25.997800",
+  "generated_at": "2026-03-31T12:44:37.765956",
   "top_stories": [
+    {
+      "title": "Taylor Swift Releases ‘Elizabeth Taylor’ Music Video Featuring Clips of the Screen Icon",
+      "source": "Variety",
+      "date": "2026-03-31",
+      "url": "https://variety.com/2026/music/news/taylor-swift-elizabeth-taylor-music-video-1236703350/"
+    },
     {
       "title": "Disney+ Signs Deal With Italian State Broadcaster RAI, in Latest Similar Agreement With Leading European Public Networks",
       "source": "Variety",
@@ -8,19 +14,25 @@
       "url": "https://variety.com/2026/tv/global/disney-deal-italian-state-broadcaster-rai-european-public-1236703349/"
     },
     {
-      "title": "Sarah Everard’s Abduction to Be Dramatized by ‘Philomena’ Scribe Jeff Pope for BBC",
+      "title": "Sarah Everard Abduction to Be Dramatized by ‘Philomena’ Scribe Jeff Pope for BBC",
       "source": "Variety",
       "date": "2026-03-31",
       "url": "https://variety.com/2026/tv/global/sarah-everard-drama-bbc-jeff-pope-1236703351/"
-    },
-    {
-      "title": "‘Project Hail Mary’ Holds No. 1 at U.K., Ireland Box Office as ‘Magic Faraway Tree’ Opens Strong",
-      "source": "Variety",
-      "date": "2026-03-31",
-      "url": "https://variety.com/2026/film/box-office/project-hail-mary-magic-faraway-tree-uk-ireland-box-office-1236703339/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【映画.com配信アクセスランキング】第1位は「ナイトフラワー」、「プペル」「ルックバック」などがランクイン　今すぐ観られるベスト10を発表",
+      "source": "映画.com",
+      "date": "2026-03-31",
+      "url": "https://eiga.com/news/20260331/27/"
+    },
+    {
+      "title": "【アマプラ4月配信まとめ】「少年と犬」「お嬢と番犬くん」「28年後...」などを見放題独占配信＆「港のひかり」「ワーキングマン」などが独占配信！　見放題最速配信作にも注目",
+      "source": "映画.com",
+      "date": "2026-03-31",
+      "url": "https://eiga.com/news/20260331/22/"
+    },
     {
       "title": "宇賀那健一監督、初の長編自主映画は不器用な親子の“ボディホラー”　「世界の終わりより」製作決定",
       "source": "映画.com",
@@ -32,12 +44,6 @@
       "source": "映画.com",
       "date": "2026-03-31",
       "url": "https://eiga.com/news/20260331/23/"
-    },
-    {
-      "title": "【アマプラ4月配信まとめ】「少年と犬」「お嬢と番犬くん」「28年後...」などを見放題独占配信＆「港のひかり」「ワーキングマン」などが独占配信！　見放題最速配信作にも注目",
-      "source": "映画.com",
-      "date": "2026-03-31",
-      "url": "https://eiga.com/news/20260331/22/"
     },
     {
       "title": "坂本龍一がトリオ編成で初めて制作したアルバム「1996」アナログ試聴&「Trio Tour 2012」上映イベント開催",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-03-30",
       "url": "https://eiga.com/news/20260330/30/"
-    },
-    {
-      "title": "「スーパーの裏でヤニ吸うふたり」OPテーマは「ずっと真夜中でいいのに。」　EDテーマはimaseが担当",
-      "source": "映画.com",
-      "date": "2026-03-30",
-      "url": "https://eiga.com/news/20260330/29/"
     }
   ],
   "bd_releases": [],
