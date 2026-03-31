@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-03-30T23:24:09.929852",
+  "generated_at": "2026-03-31T01:08:58.177991",
   "top_stories": [
+    {
+      "title": "‘Paradise’ Season 2 Finale: Sterling K. Brown, Thomas Doherty and Executive Producer Talk Big Sci-Fi Twist, ‘Multiverse’ Plans for Third and Final Season",
+      "source": "Variety",
+      "date": "2026-03-30",
+      "url": "https://variety.com/2026/tv/news/paradise-season-2-ending-explained-alex-dylan-season-3-1236702757/"
+    },
     {
       "title": "What’s Coming to Disney+ in April 2026",
       "source": "Variety",
@@ -8,24 +14,36 @@
       "url": "https://variety.com/feature/whats-on-disney-plus-new-shows-movies-1203517920/"
     },
     {
-      "title": "Where to Buy Tickets For Broadway’s Biggest Shows This Spring: ‘Chess,’ ‘Every Brilliant Thing’ and More",
+      "title": "LISTEN: ‘Project Hail Mary’ Holds on Tight; Why ‘The Bold and the Beautiful’ is Launching a Streaming App",
       "source": "Variety",
       "date": "2026-03-30",
-      "url": "https://variety.com/shop/broadway-show-tickets-where-to-buy-1234970196/"
-    },
-    {
-      "title": "Imax CEO Richard Gelfond Taking Temporary Medical Leave Due to Pneumonia",
-      "source": "Variety",
-      "date": "2026-03-30",
-      "url": "https://variety.com/2026/film/news/imax-ceo-richard-gelfond-medical-leave-pneumonia-1236702987/"
+      "url": "https://variety.com/2026/film/news/bold-and-beautiful-project-hail-mary-bradley-bell-daily-1236703149/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「天幕のジャードゥーガル」主人公・シタラ役に関根明良　桑島法子、入野自由らも出演　第1弾PVでボイス初公開",
+      "source": "映画.com",
+      "date": "2026-03-31",
+      "url": "https://eiga.com/news/20260331/9/"
+    },
     {
       "title": "堺雅人「VIVANT」続編、7月から異例の2クール連続放送！ 新章開幕告げる記念ムービーも完成",
       "source": "映画.com",
       "date": "2026-03-30",
       "url": "https://eiga.com/news/20260331/6/"
+    },
+    {
+      "title": "「鉄道むすめ」発のTVアニメ「てつりょー！」今秋から放送開始　第1弾キービジュアル＆PV公開",
+      "source": "映画.com",
+      "date": "2026-03-31",
+      "url": "https://eiga.com/news/20260331/8/"
+    },
+    {
+      "title": "「花様年華」4K＆未公開の短編「花様年華2001」を同時上映　「花様年華 25周年特別版」5月1日公開",
+      "source": "映画.com",
+      "date": "2026-03-31",
+      "url": "https://eiga.com/news/20260331/7/"
     },
     {
       "title": "吉本ばなな原作×岸井ゆきの×ツェン・ジンホア主演「シンシン アンド ザ マウス」に藤原季節、中田青渚、柄本時生らが出演",
@@ -170,24 +188,6 @@
       "source": "映画.com",
       "date": "2026-03-30",
       "url": "https://eiga.com/news/20260330/10/"
-    },
-    {
-      "title": "上流階級だけが感染する謎の奇病が蔓延→歯が白く輝いた者から死に至る　「プラットフォーム」監督の新作、6月公開",
-      "source": "映画.com",
-      "date": "2026-03-30",
-      "url": "https://eiga.com/news/20260330/11/"
-    },
-    {
-      "title": "【本日放送スタート】NHK連続テレビ小説「風、薫る」、ダブル主演を務める見上愛と上坂樹里がコメント",
-      "source": "映画.com",
-      "date": "2026-03-29",
-      "url": "https://eiga.com/news/20260330/3/"
-    },
-    {
-      "title": "実写版「モアナと伝説の海」“半神マウイ”ドウェイン・ジョンソンの髪型に注目が集まる",
-      "source": "映画.com",
-      "date": "2026-03-30",
-      "url": "https://eiga.com/news/20260330/6/"
     }
   ],
   "bd_releases": [],
