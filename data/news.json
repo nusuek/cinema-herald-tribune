@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-02T07:56:16.658613",
+  "generated_at": "2026-04-02T08:44:01.990785",
   "top_stories": [
+    {
+      "title": "Cannes’ Marché du Film Reinforces Focus on Creators, AI, Innovation and Immersive With 2026 Program",
+      "source": "Variety",
+      "date": "2026-04-02",
+      "url": "https://variety.com/2026/film/global/cannes-marche-du-film-immersive-creator-ai-2026-program-1236704795/"
+    },
     {
       "title": "‘XO, Kitty’ Showrunner Breaks Down Kitty and Min Ho’s Relationship, Lara Jean’s Return and the Original Ending to Season 3",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-04-02",
       "url": "https://variety.com/2026/film/news/myanmar-actor-poe-mamhe-thar-gohan-1236705118/"
-    },
-    {
-      "title": "‘Ravana,’ Student-Led Theatrical Feature, Set at India’s Reliance Animation Academy, Tenali Rama (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-04-02",
-      "url": "https://variety.com/2026/film/news/ravana-student-film-reliance-animation-academy-1236704314/"
     }
   ],
   "new_releases": [
+    {
+      "title": "トラビス・ナイト監督が人気アクションフィギュアシリーズを実写映画化！ 「マスターズ・オブ・ユニバース」6月5日日米同時公開",
+      "source": "映画.com",
+      "date": "2026-04-02",
+      "url": "https://eiga.com/news/20260402/17/"
+    },
+    {
+      "title": "VFXとインド古来の棒術アクションが融合！　映画「Mirai 運命の戦士」8月21日公開決定！　ポスタービジュアルと予告編を披露",
+      "source": "映画.com",
+      "date": "2026-04-02",
+      "url": "https://eiga.com/news/20260402/18/"
+    },
     {
       "title": "【4月2日はチップとデールの誕生日】大人気シマリスコンビの冒険と活躍を描いた作品まとめ",
       "source": "映画.com",
@@ -158,24 +170,6 @@
       "source": "映画.com",
       "date": "2026-04-01",
       "url": "https://eiga.com/news/20260401/18/"
-    },
-    {
-      "title": "日本のプライドパレードを立ち上げた活動家・南定四郎とは―「熱狂をこえて」公開決定！ビジュアル＆予告編公開",
-      "source": "映画.com",
-      "date": "2026-04-01",
-      "url": "https://eiga.com/news/20260401/16/"
-    },
-    {
-      "title": "ベニー・サフディ監督来日、PRIDE創世記の格闘家演じたドウェイン・ジョンソンを絶賛＆日本への愛語る",
-      "source": "映画.com",
-      "date": "2026-04-01",
-      "url": "https://eiga.com/news/20260401/13/"
-    },
-    {
-      "title": "32歳の坂本龍一幻のドキュメンタリー「Tokyo Melody Ryuichi Sakamoto」がHuluで独占配信決定！",
-      "source": "映画.com",
-      "date": "2026-03-27",
-      "url": "https://eiga.com/news/20260327/5/"
     }
   ],
   "bd_releases": [],
