@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T12:27:51.953602",
+  "generated_at": "2026-04-05T13:44:00.384875",
   "top_stories": [
     {
       "title": "Pepsi Cancels Sponsorship of U.K. Festival Where Kanye West Is Set to Headline, Hours After Prime Minister Decries ‘His Previous Celebration of Nazism’",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "クランチロール・アニメアワード2026、「ダンダダン」「薬屋のひとりごと」「ベルサイユのばら」などがノミネート",
+      "source": "映画.com",
+      "date": "2026-04-05",
+      "url": "https://eiga.com/news/20260405/14/"
+    },
     {
       "title": "「刃牙道」第2クールがNetflixで独占配信決定　本部以蔵が宮本武蔵に挑むティザーPV、ティザービジュアルなど公開",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-04-03",
       "url": "https://eiga.com/news/20260404/2/"
-    },
-    {
-      "title": "第79回カンヌ国際映画祭オープニング作品は偽の霊媒師とスランプの画家が恋に落ちるラブコメディ",
-      "source": "映画.com",
-      "date": "2026-04-03",
-      "url": "https://eiga.com/news/20260403/11/"
     }
   ],
   "bd_releases": [],
