@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-04T23:19:02.230065",
+  "generated_at": "2026-04-05T01:10:58.198063",
   "top_stories": [
+    {
+      "title": "Hollywood High Forever: Mitski’s Residency Shines a Fresh Light on the Famed School’s Rich Show-Biz History",
+      "source": "Variety",
+      "date": "2026-04-04",
+      "url": "https://variety.com/2026/music/news/hollywood-high-school-mitski-concerts-entertainment-history-1236708567/"
+    },
     {
       "title": "Legendary ’60 Minutes’ Correspondent Steve Kroft Says He ‘Hated’ Working on The Show: ‘It’s Just 24 Hours a Day’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-04-04",
       "url": "https://variety.com/2026/tv/global/riz-ahmed-saturday-night-live-uk-1236708497/"
-    },
-    {
-      "title": "‘SNL U.K.’ Weekend Update Takes Aim at Facebook Founder Mark Zuckerberg: ‘I Hope He Uses That Bunker in Exactly the Same Way Hitler Did’",
-      "source": "Variety",
-      "date": "2026-04-04",
-      "url": "https://variety.com/2026/tv/global/snl-uk-weekend-update-mark-zuckerberg-hitler-1236708518/"
     }
   ],
   "new_releases": [
+    {
+      "title": "自然体で生きるソフィー・マルソー　「ラ・ブーム」から初のおばあちゃん役までのキャリア、“自由な映画”への思い語る",
+      "source": "映画.com",
+      "date": "2026-04-05",
+      "url": "https://eiga.com/news/20260405/5/"
+    },
+    {
+      "title": "「名探偵プリキュア！」映画化、9月18日公開決定　みくるが謎解きを出題する特報披露",
+      "source": "映画.com",
+      "date": "2026-04-05",
+      "url": "https://eiga.com/news/20260405/4/"
+    },
     {
       "title": "「ゴールデンカムイ」最終章ついに完結――「暴走列車編」今冬展開　ティザービジュアル公開",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2026-04-03",
       "url": "https://eiga.com/news/20260403/23/"
-    },
-    {
-      "title": "「スクリーム7」大ヒットで早くも第8作が始動",
-      "source": "映画.com",
-      "date": "2026-04-03",
-      "url": "https://eiga.com/news/20260403/21/"
-    },
-    {
-      "title": "「魔法騎士レイアース」10月放送開始　主人公の魔法騎士役に佐倉綾音、大久保瑠美、高橋李依",
-      "source": "映画.com",
-      "date": "2026-04-03",
-      "url": "https://eiga.com/news/20260403/20/"
     }
   ],
   "bd_releases": [],
