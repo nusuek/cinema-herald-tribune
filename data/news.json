@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-06T19:42:48.279872",
+  "generated_at": "2026-04-06T20:25:52.228621",
   "top_stories": [
+    {
+      "title": "Lil Nas X to Have Assault Charges Dismissed After Continuing Mental Health Treatment",
+      "source": "Variety",
+      "date": "2026-04-06",
+      "url": "https://variety.com/2026/music/news/lil-nas-x-assault-charges-dismissed-mental-health-program-1236709714/"
+    },
     {
       "title": "‘And Just Like That’ Auction: Carrie’s Furniture, Charlotte’s Costumes, Che Diaz Script and Hot Fellas Onesies",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-04-06",
       "url": "https://variety.com/2026/tv/news/ashley-hesseltine-debut-comedy-special-here-comes-the-bride-1236709371/"
-    },
-    {
-      "title": "Steven Spielberg Says Denis Villeneuve’s ‘Dune’ Films Are ‘Among My Favorite Science-Fiction Movies of All Time’ and ‘I Can’t Wait to See the Third’",
-      "source": "Variety",
-      "date": "2026-04-06",
-      "url": "https://variety.com/2026/film/news/steven-spielberg-dune-best-sci-fi-movies-all-time-1236709283/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「キングダム　魂の決戦」怒涛のアクションシーンが炸裂する最新予告公開　“秦vs六国”両軍の精鋭たちが入り乱れる本ポスターも披露",
+      "source": "映画.com",
+      "date": "2026-04-06",
+      "url": "https://eiga.com/news/20260407/1/"
+    },
     {
       "title": "メリル・ストリープとアン・ハサウェイがそろって来日！　「プラダを着た悪魔」20年ぶり続編の見どころ語る",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-04-05",
       "url": "https://eiga.com/news/20260405/12/"
-    },
-    {
-      "title": "「新劇場版☆ケロロ軍曹」公開日が6月26日に決定　オリジナルキャラのビジュアルも披露",
-      "source": "映画.com",
-      "date": "2026-04-05",
-      "url": "https://eiga.com/news/20260405/11/"
     }
   ],
   "bd_releases": [],
