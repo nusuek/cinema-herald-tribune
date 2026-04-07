@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-04-06T23:24:21.209457",
+  "generated_at": "2026-04-07T01:09:26.127585",
   "top_stories": [
+    {
+      "title": "Fox Renews ‘Memory of a Killer,’ Starring Michael Imperioli and Patrick Dempsey, for Season 2",
+      "source": "Variety",
+      "date": "2026-04-07",
+      "url": "https://variety.com/2026/tv/news/memory-of-a-killer-season-2-fox-renews-1236710024/"
+    },
+    {
+      "title": "Shaquille O’Neal, Warner Launch ‘Dunkman’ Professional Dunk League",
+      "source": "Variety",
+      "date": "2026-04-06",
+      "url": "https://variety.com/2026/tv/news/shaquille-oneal-warner-launch-dunkman-professional-league-1236709974/"
+    },
     {
       "title": "‘Shrinking’ Creator Assures Fans Season 4 Will Have a Time Jump, but Not Be a Complete Reboot",
       "source": "Variety",
       "date": "2026-04-06",
       "url": "https://variety.com/2026/tv/news/shrinking-season-4-same-cast-story-reboot-time-jump-1236709719/"
-    },
-    {
-      "title": "How Producing 800 Episodes of ‘Chopped’ Led to the Farming Industry Doc ‘Fork in the Road’",
-      "source": "Variety",
-      "date": "2026-04-06",
-      "url": "https://variety.com/2026/film/festivals/chopped-fork-in-the-road-skyfire-film-fest-1236709766/"
-    },
-    {
-      "title": "Why the Rehabilitation of Kanye West Says So Much About America",
-      "source": "Variety",
-      "date": "2026-04-06",
-      "url": "https://variety.com/2026/music/opinion/why-kanye-west-rehabilitation-says-so-much-about-america-1236709926/"
     }
   ],
   "new_releases": [
+    {
+      "title": "米脚本家組合、契約切れ前にスタジオと電撃合意",
+      "source": "映画.com",
+      "date": "2026-04-07",
+      "url": "https://eiga.com/news/20260407/9/"
+    },
+    {
+      "title": "イーライ・ロス監督の新作スラッシャー「Ice Cream Man」8月公開決定　スヌープ・ドッグが音楽参加、ナズも製作に",
+      "source": "映画.com",
+      "date": "2026-04-07",
+      "url": "https://eiga.com/news/20260407/4/"
+    },
     {
       "title": "【映画.com配信アクセスランキング】第1位は「ナイトフラワー」、「バケモノの子」「おおかみこどもの雨と雪」などがランクイン　今すぐ観られるベスト10を発表",
       "source": "映画.com",
@@ -176,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-04-05",
       "url": "https://eiga.com/news/20260406/1/"
-    },
-    {
-      "title": "クランチロール・アニメアワード2026、「ダンダダン」「薬屋のひとりごと」「ベルサイユのばら」などがノミネート",
-      "source": "映画.com",
-      "date": "2026-04-05",
-      "url": "https://eiga.com/news/20260405/14/"
     }
   ],
   "bd_releases": [],
