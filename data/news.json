@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-07T23:26:39.153090",
+  "generated_at": "2026-04-08T01:10:35.832815",
   "top_stories": [
+    {
+      "title": "‘Cats: The Jellicle Ball’ Broadway Review: Andrew Lloyd Webber’s Musical Gets Fresh and Fierce Update as an Ode to Queer Ballroom Culture",
+      "source": "Variety",
+      "date": "2026-04-08",
+      "url": "https://variety.com/2026/legit/reviews/cats-the-jellicle-ball-broadway-review-andrew-lloyd-webber-musical-ballroom-culture-1236709562/"
+    },
     {
       "title": "PGA Awards Announces 2027 and 2028 Ceremony Dates, Reveals Key Timeline",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-04-07",
       "url": "https://variety.com/2026/film/awards/sag-actor-awards-2027-2028-dates-netflix-1236710962/"
-    },
-    {
-      "title": "Mark Hamill Supports New ‘Star Wars’ Boss After Kathleen Kennedy’s Exit and ‘Last Jedi’ Issues: ‘I Can’t Think of Better Hands’ Than Dave Filoni",
-      "source": "Variety",
-      "date": "2026-04-07",
-      "url": "https://variety.com/2026/film/news/mark-hamill-star-wars-boss-last-jedi-issues-1236710439/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【午前十時の映画祭16】「AKIRA」が初動3日間で7756人動員、「タイタニック」を抜き映画祭歴代第1位に！",
+      "source": "映画.com",
+      "date": "2026-04-08",
+      "url": "https://eiga.com/news/20260408/4/"
+    },
+    {
+      "title": "スピルバーグ「DUNE」はもっとも好きなSF映画のひとつ",
+      "source": "映画.com",
+      "date": "2026-04-08",
+      "url": "https://eiga.com/news/20260408/3/"
+    },
     {
       "title": "「楽園追放 心のレゾナンス」第4弾ティザーPV、新機体を描いた新キービジュアル公開　あらすじも発表",
       "source": "映画.com",
@@ -152,18 +164,6 @@
       "source": "映画.com",
       "date": "2026-04-07",
       "url": "https://eiga.com/news/20260407/4/"
-    },
-    {
-      "title": "【映画.com配信アクセスランキング】第1位は「ナイトフラワー」、「バケモノの子」「おおかみこどもの雨と雪」などがランクイン　今すぐ観られるベスト10を発表",
-      "source": "映画.com",
-      "date": "2026-04-06",
-      "url": "https://eiga.com/news/20260407/3/"
-    },
-    {
-      "title": "有村架純、黒木華、南沙良が闇バイトに手を染める映画「マジカル・シークレット・ツアー」本予告公開　主題歌には椎名林檎の「ありあまる富」を起用",
-      "source": "映画.com",
-      "date": "2026-04-06",
-      "url": "https://eiga.com/news/20260407/2/"
     }
   ],
   "bd_releases": [],
