@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-12T14:30:41.620052",
+  "generated_at": "2026-04-12T15:24:49.053801",
   "top_stories": [
+    {
+      "title": "Box Office: ‘Super Mario Galaxy Movie’ Scores $69 Million in Second Weekend, ‘You, Me and Tuscany’ Opens to $8 Million",
+      "source": "Variety",
+      "date": "2026-04-12",
+      "url": "https://variety.com/2026/film/box-office/box-office-super-mario-galaxy-movie-scores-second-weekend-you-me-tuscany-opening-1236719765/"
+    },
     {
       "title": "Subscriptions for Mubi Fell 200,000 Following PR Storm, but Rallied in First Quarter to a Record 1.7 Million",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-04-12",
       "url": "https://variety.com/2026/music/news/justin-bieber-coachella-set-swag-youtube-videos-1236719705/"
-    },
-    {
-      "title": "Asha Bhosle, Indian Singer Whose Voice Defined Bollywood for Seven Decades, Dies at 92",
-      "source": "Variety",
-      "date": "2026-04-12",
-      "url": "https://variety.com/2026/music/obituaries-people-news/asha-bhosle-dead-indian-singer-1236719735/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「勇者のクズ」第2クールから杉田智和、村瀬歩が出演　OP主題歌は「ClariS」、ED主題歌は「w.o.d.」",
+      "source": "映画.com",
+      "date": "2026-04-12",
+      "url": "https://eiga.com/news/20260412/13/"
+    },
     {
       "title": "ディズニーとソニー、新CEO体制で相次ぐ人員削減",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-04-10",
       "url": "https://eiga.com/news/20260410/22/"
-    },
-    {
-      "title": "「スーパーマン」続編ヒロイン役候補に3女優",
-      "source": "映画.com",
-      "date": "2026-04-10",
-      "url": "https://eiga.com/news/20260410/8/"
     }
   ],
   "bd_releases": [],
