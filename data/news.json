@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-04-13T09:23:24.532853",
+  "generated_at": "2026-04-13T11:06:08.868996",
   "top_stories": [
     {
-      "title": "Donald Trump Posts AI-Generated Photo of Himself as Jesus After Slamming Pope Leo as ‘Weak’",
+      "title": "Luca Guadagnino Defends Timothée Chalamet After Ballet and Opera Controversy: I ‘Don’t Understand How One Comment Can Become a Planetary Polemic’",
+      "source": "Variety",
+      "date": "2026-04-13",
+      "url": "https://variety.com/2026/film/global/luca-guadagnino-defends-timothee-chalamet-ballet-opera-comments-1236720113/"
+    },
+    {
+      "title": "Donald Trump Posts AI-Generated Photo of Himself as Jesus After Slamming Pope Leo as ‘Weak’ Over Iran War Criticism; Pontiff Says He Won’t Stand Down",
       "source": "Variety",
       "date": "2026-04-13",
       "url": "https://variety.com/2026/digital/global/donald-trump-ai-jesus-photo-slams-pope-leo-1236720130/"
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-04-13",
       "url": "https://variety.com/2026/film/global/cannes-critics-week-2026-lineup-in-waves-1236720119/"
-    },
-    {
-      "title": "Russo Brothers’ AGBO Sets ‘Major’ SXSW London Partnership Ahead of ‘Avengers: Doomsday’ Release",
-      "source": "Variety",
-      "date": "2026-04-13",
-      "url": "https://variety.com/2026/film/festivals/agbo-sxsw-london-russo-brothers-1236720137/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「コナン」劇場版29作目がシリーズ最高オープニング成績で圧倒的1位！【国内映画ランキング】",
+      "source": "映画.com",
+      "date": "2026-04-13",
+      "url": "https://eiga.com/news/20260413/30/"
+    },
+    {
+      "title": "「メタルギアソリッド」ついに映画化",
+      "source": "映画.com",
+      "date": "2026-04-13",
+      "url": "https://eiga.com/news/20260413/23/"
+    },
     {
       "title": "香港映画界を牽引するルイス・クーの魅力に出会う6作品を「BS10プレミアム」で3カ月連続放送！",
       "source": "映画.com",
@@ -170,24 +182,6 @@
       "source": "映画.com",
       "date": "2026-04-12",
       "url": "https://eiga.com/news/20260412/11/"
-    },
-    {
-      "title": "「身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした」ライトアニメ化　7月からTVKで放送",
-      "source": "映画.com",
-      "date": "2026-04-12",
-      "url": "https://eiga.com/news/20260412/10/"
-    },
-    {
-      "title": "【上質映画館　諸国漫遊記】MOVIX京都／画質と音質が高次元でバランスした見事なスクリーン",
-      "source": "映画.com",
-      "date": "2026-04-12",
-      "url": "https://eiga.com/news/20260412/9/"
-    },
-    {
-      "title": "「シュタインズ・ゲート」15周年プロジェクトが始動　7月に聖地・秋葉原で記念展　ラボメン集結ビジュアルも公開",
-      "source": "映画.com",
-      "date": "2026-04-12",
-      "url": "https://eiga.com/news/20260412/8/"
     }
   ],
   "bd_releases": [],
