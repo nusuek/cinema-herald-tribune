@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-14T04:34:26.363389",
+  "generated_at": "2026-04-14T06:23:20.990809",
   "top_stories": [
+    {
+      "title": "Liam Gallagher Quips on Oasis’ Rock and Roll Hall of Fame Induction: ‘I Dreamt of This as a Little Nobody Singing in the Shower’",
+      "source": "Variety",
+      "date": "2026-04-14",
+      "url": "https://variety.com/2026/music/news/liam-gallagher-quips-oasis-rock-roll-hall-fame-induction-1236720878/"
+    },
     {
       "title": "‘Jumanji 3’ Gets Official Title and Action-Packed Trailer at CinemaCon; Dwayne Johnson Teases Robin Williams Tribute",
       "source": "Variety",
@@ -12,15 +18,27 @@
       "source": "Variety",
       "date": "2026-04-14",
       "url": "https://variety.com/2026/tv/news/jon-stewart-donald-trump-jesus-photo-doctor-the-daily-show-1236720978/"
-    },
-    {
-      "title": "‘Spider-Man: Beyond the Spider-Verse’ First Footage Shows Miles Escaping From Prowler; Directors Tease ‘Final Chapter of Miles’ Story’ at CinemaCon",
-      "source": "Variety",
-      "date": "2026-04-14",
-      "url": "https://variety.com/2026/film/news/spider-man-beyond-the-spider-verse-trailer-cinemacon-1236720745/"
     }
   ],
   "new_releases": [
+    {
+      "title": "シャラメのオペラ発言騒動、出世作の監督が擁護",
+      "source": "映画.com",
+      "date": "2026-04-14",
+      "url": "https://eiga.com/news/20260414/17/"
+    },
+    {
+      "title": "アレック・ボールドウィン、引退の意向　撮影中の銃暴発事故から4年「もう働きたくない」",
+      "source": "映画.com",
+      "date": "2026-04-14",
+      "url": "https://eiga.com/news/20260414/16/"
+    },
+    {
+      "title": "「スパイダーマン　ブランド・ニュー・デイ」2つのポスタービジュアル、全世界同時公開！",
+      "source": "映画.com",
+      "date": "2026-04-14",
+      "url": "https://eiga.com/news/20260414/19/"
+    },
     {
       "title": "シャネルと是枝裕和監督による次世代の映画監督輩出支援プログラム　コンペティション選出作品が4月24日から公開",
       "source": "映画.com",
@@ -158,24 +176,6 @@
       "source": "映画.com",
       "date": "2026-04-13",
       "url": "https://eiga.com/news/20260413/18/"
-    },
-    {
-      "title": "不気味、不気味、不気味……オズグッド・パーキンス監督最新作「KEEPER キーパー」不穏な本編映像＆場面写真を一挙披露",
-      "source": "映画.com",
-      "date": "2026-04-13",
-      "url": "https://eiga.com/news/20260413/20/"
-    },
-    {
-      "title": "「Michael マイケル」ワールドプレミア、“伝説の地”ベルリンに60カ国超、数千人の熱いファンが集結！",
-      "source": "映画.com",
-      "date": "2026-04-13",
-      "url": "https://eiga.com/news/20260413/17/"
-    },
-    {
-      "title": "劇場版「名探偵コナン」ファンが選んだ好きな主題歌トップ10　倉木麻衣、スピッツ、福山雅治、バンプが上位争い",
-      "source": "映画.com",
-      "date": "2026-04-13",
-      "url": "https://eiga.com/news/20260413/15/"
     }
   ],
   "bd_releases": [],
