@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-04-14T10:04:00.123570",
+  "generated_at": "2026-04-14T11:48:13.591190",
   "top_stories": [
     {
-      "title": "Champions League Broadcast Producer Sunset+Vine Taps Duncan East as New CEO (EXCLUSIVE)",
+      "title": "‘I’ll Be Gone in June’ Acquired by Luxbox Ahead of Premiere in Cannes’ Un Certain Regard (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-04-14",
-      "url": "https://variety.com/2026/tv/global/sunset-vine-duncan-east-new-ceo-1236720205/"
+      "url": "https://variety.com/2026/film/global/ill-be-gone-in-june-luxbox-cannes-un-certain-regard-1236721141/"
     },
     {
-      "title": "Keegan Michael-Key Is Fast Becoming TV’s Most Popular Pitchman",
+      "title": "Spanish Cinema Booming Thanks to Robust Incentives, Spectacular Natural Locations, Thriving Creative Ecosystem",
       "source": "Variety",
       "date": "2026-04-14",
-      "url": "https://variety.com/2026/tv/news/keegan-michael-key-tv-popular-pitchman-ore-ida-1236720902/"
+      "url": "https://variety.com/2026/film/global/spain-sirat-decorado-goya-goes-to-new-spanish-films-1236719645/"
     },
     {
-      "title": "‘Decorado,’ From Alberto Vázquez, One of Spain’s Greatest Animation Directors, Broken Down by Producer Iván Miñambres",
+      "title": "‘Buen Camino,’ Italy’s Highest-Grossing Movie of All Time, Set for Spanish Remake (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-04-14",
-      "url": "https://variety.com/2026/film/global/decorado-alberto-vazquez-ivan-minambres-goya-awards-1236721084/"
+      "url": "https://variety.com/2026/film/global/italy-highest-grossing-movie-buen-camino-spanish-remake-1236721036/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ブラッド・バード30年越しの企画「レイ・ガン」にヨハンソン参加",
+      "source": "映画.com",
+      "date": "2026-04-14",
+      "url": "https://eiga.com/news/20260414/23/"
+    },
+    {
+      "title": "坂東龍汰×岡山天音が出演する長編アニメ「我々は宇宙人」特報映像＆ティザービジュアル公開　第79回カンヌ国際映画祭にも出品決定",
+      "source": "映画.com",
+      "date": "2026-04-14",
+      "url": "https://eiga.com/news/20260414/22/"
+    },
     {
       "title": "天才マジシャンたちが集結！「グランド・イリュージョン　ダイヤモンド・ミッション」 キャラクターポスター一挙公開",
       "source": "映画.com",
@@ -170,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-04-13",
       "url": "https://eiga.com/news/20260413/30/"
-    },
-    {
-      "title": "「メタルギアソリッド」ついに映画化",
-      "source": "映画.com",
-      "date": "2026-04-13",
-      "url": "https://eiga.com/news/20260413/23/"
     }
   ],
   "bd_releases": [],
