@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-04-15T08:19:16.423670",
+  "generated_at": "2026-04-15T10:04:43.705173",
   "top_stories": [
     {
-      "title": "Charlie Chaplin’s ‘The Kid’ Gets Vertical Makeover on U.K. Microdrama App TattleTV (EXCLUSIVE)",
+      "title": "Cannes Docs Showcase Unveils Circle Doc Accelerator Projects (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-04-15",
-      "url": "https://variety.com/2026/tv/news/charlie-chaplin-the-kid-vertical-makeover-tattletv-1236722134/"
+      "url": "https://variety.com/2026/film/news/cannes-docs-showcase-circle-doc-accelerator-projects-2026-1236720917/"
     },
     {
-      "title": "Cannes Sets Japan IP Market in Collaboration With Tokyo International Film Festival Content Market",
+      "title": "United Agents Launches Unscripted Division for Factual and Reality TV Stars, Creators and Influencers (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-04-15",
-      "url": "https://variety.com/2026/film/global/cannes-market-japan-ip-tokyo-international-film-festival-1236721444/"
+      "url": "https://variety.com/2026/tv/news/united-agents-launches-unscripted-division-1236722158/"
     },
     {
-      "title": "Vietnamese Romance ‘Meet Me at the Eclipse’ Sets North American Theatrical Release After Record Home Box Office (EXCLUSIVE)",
+      "title": "‘Euphoria’ Season 3 Leads HBO Max Launch on JioHotstar as Warner Bros. Discovery Expands India Partnership",
       "source": "Variety",
       "date": "2026-04-15",
-      "url": "https://variety.com/2026/film/news/meet-me-at-the-eclipse-north-america-release-mockingbird-pictures-1236722149/"
+      "url": "https://variety.com/2026/tv/news/euphoria-season-3-hbo-max-launch-jiohotstar-india-1236722184/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ピクサーが3年かけて開発した映画をお蔵入りにした理由",
+      "source": "映画.com",
+      "date": "2026-04-15",
+      "url": "https://eiga.com/news/20260415/24/"
+    },
+    {
+      "title": "“聖地”有楽町が再び「スター・ウォーズ」に染まる! 「マンダロリアン・アンド・グローグー」公開記念イベント開催決定!!",
+      "source": "映画.com",
+      "date": "2026-04-15",
+      "url": "https://eiga.com/news/20260415/25/"
+    },
     {
       "title": "ジェニファー・ローレンス×ロバート・パティンソンが“狂演”「DIE MY LOVE ダイ・マイ・ラブ」6月12日公開決定 夫婦の崩壊描く予告編到着",
       "source": "映画.com",
@@ -182,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-04-14",
       "url": "https://eiga.com/news/20260414/22/"
-    },
-    {
-      "title": "完全新作「デート・ア・ライブF Last Date」制作決定　ウェディングドレス姿の十香を描いたビジュアル公開",
-      "source": "映画.com",
-      "date": "2026-04-14",
-      "url": "https://eiga.com/news/20260414/20/"
     }
   ],
   "bd_releases": [],
