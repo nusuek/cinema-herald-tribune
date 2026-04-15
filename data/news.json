@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-15T04:34:41.622558",
+  "generated_at": "2026-04-15T06:24:52.333364",
   "top_stories": [
+    {
+      "title": "Lorne Michaels Wants ‘SNL U.K.’ to Be ‘Smarter and Funnier’ Than U.S. Version: It Should Be the ‘Cooler of the Two Shows’",
+      "source": "Variety",
+      "date": "2026-04-15",
+      "url": "https://variety.com/2026/tv/columns/lorne-michaels-staurday-night-live-uk-smarter-funnier-cooler-1236721839/"
+    },
     {
       "title": "Billy Crystal Sets Broadway Return With ‘860,’ One-Man Show About Losing His Home in Palisades Fires",
       "source": "Variety",
@@ -12,15 +18,27 @@
       "source": "Variety",
       "date": "2026-04-15",
       "url": "https://variety.com/2026/music/news/kanye-west-postpones-marseille-concert-france-ban-1236722074/"
-    },
-    {
-      "title": "‘Ocean’s’ Prequel Sets 2027 Release as ‘Weapons’ Spinoff ‘Gladys,’ ‘Final Destination 7’ and More Added to Warner Bros. Calendar in 2028",
-      "source": "Variety",
-      "date": "2026-04-15",
-      "url": "https://variety.com/2026/film/news/oceans-prequel-gladys-final-destination-7-release-dates-1236722033/"
     }
   ],
   "new_releases": [
+    {
+      "title": "パラマウント×ワーナー統合に1000人超の映画人が反対署名",
+      "source": "映画.com",
+      "date": "2026-04-15",
+      "url": "https://eiga.com/news/20260415/17/"
+    },
+    {
+      "title": "東京国際映画祭、久松猛朗氏がフェスティバル・ディレクターに再登板",
+      "source": "映画.com",
+      "date": "2026-04-15",
+      "url": "https://eiga.com/news/20260415/16/"
+    },
+    {
+      "title": "ミステリーの名手・堤幸彦監督の演出をキャストが明かす　「ミステリー・アリーナ」制作現場エピソードとメイキング写真を披露",
+      "source": "映画.com",
+      "date": "2026-04-15",
+      "url": "https://eiga.com/news/20260415/8/"
+    },
     {
       "title": "「プラダを着た悪魔2」キャスト集結のNYワールドプレミアイベントをディズニープラスで生配信！",
       "source": "映画.com",
@@ -74,12 +92,6 @@
       "source": "映画.com",
       "date": "2026-04-14",
       "url": "https://eiga.com/news/20260415/7/"
-    },
-    {
-      "title": "ミステリーの名手・堤幸彦監督の演出をキャストが明かす　「ミステリー・アリーナ」制作現場エピソードとメイキング写真を披露",
-      "source": "映画.com",
-      "date": "2026-04-15",
-      "url": "https://eiga.com/news/20260415/8/"
     },
     {
       "title": "この世界は狂っています――悲劇の少女の叫びとかすかな希望の光「未来」ファイナル予告　イメージソングはUru「さすらいの唄」",
@@ -182,18 +194,6 @@
       "source": "映画.com",
       "date": "2026-04-14",
       "url": "https://eiga.com/news/20260414/12/"
-    },
-    {
-      "title": "政治的立場は正反対、それぞれの信念に生きた2人の知事「太陽の運命」東京リバイバル上映決定",
-      "source": "映画.com",
-      "date": "2026-04-14",
-      "url": "https://eiga.com/news/20260414/10/"
-    },
-    {
-      "title": "田中麗奈、“映画女優”としての矜持　「がんばっていきまっしょい」から現在まで【ロングインタビュー②】",
-      "source": "映画.com",
-      "date": "2026-04-14",
-      "url": "https://eiga.com/news/20260414/14/"
     }
   ],
   "bd_releases": [],
