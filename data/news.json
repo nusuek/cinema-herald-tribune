@@ -1,26 +1,56 @@
 {
-  "generated_at": "2026-04-16T06:25:49.024206",
+  "generated_at": "2026-04-16T08:19:53.645922",
   "top_stories": [
     {
-      "title": "Oasis’ Comeback Outing Wins ‘Major Tour of the Year’ Prize at Pollstar Awards, as Kendrick Lamar/SZA, Benson Boone and the Weeknd Also Score Top Honors",
+      "title": "Adelaide Film Festival Goes to Cannes Lineup Includes Ukrainian War Portrait, Ecuador Indigenous Doc and Victorian Wilderness Thriller (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-04-16",
-      "url": "https://variety.com/2026/music/news/pollstar-awards-oasis-tours-kendrick-lamar-sza-benson-boone-1236723272/"
+      "url": "https://variety.com/2026/film/markets-festivals/adelaide-film-festival-goes-to-cannes-2026-lineup-1236723195/"
     },
     {
-      "title": "‘I Play Rocky’ CinemaCon Trailer: Newcomer Anthony Ippolito is Dead Ringer For Sylvester Stallone",
+      "title": "Richard Kind on Returning to Max Bialystok in Mel Brooks’ ‘Producers’: ‘He’s a Heinous Man Who Is Loved’",
       "source": "Variety",
       "date": "2026-04-16",
-      "url": "https://variety.com/2026/film/news/i-play-rocky-cinemacon-trailer-sylvester-stallone-1236722980/"
+      "url": "https://variety.com/2026/theater/news/richard-kind-the-producers-west-end-max-bialystok-interview-1236723238/"
     },
     {
-      "title": "‘Highlander’ First Footage Unveils Henry Cavill’s ‘John Wick’-Esque Action, Rave Fight Scene and Immortal Killers",
+      "title": "‘Beef’ Is Overcrowded and Unfocused in an Unnecessary Season 2: TV Review",
       "source": "Variety",
       "date": "2026-04-16",
-      "url": "https://variety.com/2026/film/news/highlander-footage-henry-cavill-john-wick-reboot-1236712744/"
+      "url": "https://variety.com/2026/tv/reviews/beef-season-2-review-netflix-1236722589/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「プラダを着た悪魔2」日本語吹替版声優陣と吹替版予告公開！",
+      "source": "映画.com",
+      "date": "2026-04-16",
+      "url": "https://eiga.com/news/20260416/17/"
+    },
+    {
+      "title": "エリック・ロメール「レネットとミラベル 四つの冒険」4月24から限定上映",
+      "source": "映画.com",
+      "date": "2026-04-16",
+      "url": "https://eiga.com/news/20260416/16/"
+    },
+    {
+      "title": "染谷将太主演「廃用身」の完成度に原作者が太鼓判！【最速試写会レポート】",
+      "source": "映画.com",
+      "date": "2026-04-16",
+      "url": "https://eiga.com/news/20260416/21/"
+    },
+    {
+      "title": "柴田啓佑監督の長編第3作「お別れの歌」で濱正悟が映画初主演！ 今泉佑唯と六平直政共演のドタバタ・ラプソディー",
+      "source": "映画.com",
+      "date": "2026-04-16",
+      "url": "https://eiga.com/news/20260416/15/"
+    },
+    {
+      "title": "菅井友香＆中村ゆりか、ファンからの恋愛相談に真摯な眼差しで回答！【「チェイサーゲームW 水魚の交わり」完成披露イベント】",
+      "source": "映画.com",
+      "date": "2026-04-16",
+      "url": "https://eiga.com/news/20260416/22/"
+    },
     {
       "title": "「ジュマンジ」新作タイトル発表、ロビン・ウィリアムズへのオマージュも",
       "source": "映画.com",
@@ -164,36 +194,6 @@
       "source": "映画.com",
       "date": "2026-04-15",
       "url": "https://eiga.com/news/20260415/20/"
-    },
-    {
-      "title": "「ポールプリンセス!!」新作CGポールダンスショー映像の制作が決定、今年秋にイベント上映",
-      "source": "映画.com",
-      "date": "2026-04-15",
-      "url": "https://eiga.com/news/20260415/19/"
-    },
-    {
-      "title": "パラマウント×ワーナー統合に1000人超の映画人が反対署名",
-      "source": "映画.com",
-      "date": "2026-04-15",
-      "url": "https://eiga.com/news/20260415/17/"
-    },
-    {
-      "title": "東京国際映画祭、久松猛朗氏がフェスティバル・ディレクターに再登板",
-      "source": "映画.com",
-      "date": "2026-04-15",
-      "url": "https://eiga.com/news/20260415/16/"
-    },
-    {
-      "title": "ミステリーの名手・堤幸彦監督の演出をキャストが明かす　「ミステリー・アリーナ」制作現場エピソードとメイキング写真を披露",
-      "source": "映画.com",
-      "date": "2026-04-15",
-      "url": "https://eiga.com/news/20260415/8/"
-    },
-    {
-      "title": "「プラダを着た悪魔2」キャスト集結のNYワールドプレミアイベントをディズニープラスで生配信！",
-      "source": "映画.com",
-      "date": "2026-04-15",
-      "url": "https://eiga.com/news/20260415/15/"
     }
   ],
   "bd_releases": [],
