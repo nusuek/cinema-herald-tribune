@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-04-18T04:19:53.674776",
+  "generated_at": "2026-04-18T06:04:21.266219",
   "top_stories": [
+    {
+      "title": "Madonna Teams Up With Sabrina Carpenter at Coachella for Transcendent Duets: ‘Vogue,’ ‘Like a Prayer’ and New Song",
+      "source": "Variety",
+      "date": "2026-04-18",
+      "url": "https://variety.com/2026/music/news/madonna-sabrina-carpenter-surprise-performance-coachella-1236713383/"
+    },
+    {
+      "title": "Sabrina Carpenter Goes Full ‘Thelma & Louise’ at Coachella Weekend Two With Geena Davis Monologue",
+      "source": "Variety",
+      "date": "2026-04-18",
+      "url": "https://variety.com/2026/music/news/sabrina-carpenter-thelma-louise-coachella-geena-davis-1236724940/"
+    },
     {
       "title": "Ice Spice Addresses Altercation at McDonald’s: ‘This Wouldn’t Happen at Wendy’s’",
       "source": "Variety",
       "date": "2026-04-18",
       "url": "https://variety.com/2026/music/news/ice-spice-addresses-altercation-mcdonalds-wendys-1236724923/"
-    },
-    {
-      "title": "Judge Issues Preliminary Injunction Against Nexstar-Tegna Takeover, Orders Nexstar to Halt Integration Plans",
-      "source": "Variety",
-      "date": "2026-04-18",
-      "url": "https://variety.com/2026/tv/news/nexstar-tegna-preliminary-injunction-judge-block-directv-1236724913/"
-    },
-    {
-      "title": "‘RuPaul’s Drag Race’ Crowns Season 18’s Winner",
-      "source": "Variety",
-      "date": "2026-04-18",
-      "url": "https://variety.com/2026/tv/news/rupauls-drag-race-season-18-winner-1236724496/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「転生貴族、鑑定スキルで成り上がる」第3期が今秋放送　新キャラのムーシャ、ザットが登場するPV＆キービジュアル公開",
+      "source": "映画.com",
+      "date": "2026-04-18",
+      "url": "https://eiga.com/news/20260418/9/"
+    },
     {
       "title": "米シネコン最大手の映画見放題サブスク、再び値上げへ",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-04-17",
       "url": "https://eiga.com/news/20260417/5/"
-    },
-    {
-      "title": "実写版「ストリートファイター」ティザー予告完成！　吹替版は高橋広樹、折笠富美子、安元洋貴、沢城みゆきらが原作と同キャラを担当",
-      "source": "映画.com",
-      "date": "2026-04-17",
-      "url": "https://eiga.com/news/20260417/12/"
     }
   ],
   "bd_releases": [],
