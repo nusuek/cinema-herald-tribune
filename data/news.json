@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-04-20T04:46:39.169255",
+  "generated_at": "2026-04-20T07:07:56.946913",
   "top_stories": [
+    {
+      "title": "Kurt Russell, Kristin Scott Thomas to Be Honored at Monte-Carlo Television Festival",
+      "source": "Variety",
+      "date": "2026-04-20",
+      "url": "https://variety.com/2026/tv/global/kurt-russell-kristin-scott-thomas-monte-carlo-tv-festival-1236725753/"
+    },
+    {
+      "title": "Jacqueline Zünd Explores Climate Inequality in ‘Heat,’ Premiering at Visions du Réel: ‘I Found Dystopia in Real Life’",
+      "source": "Variety",
+      "date": "2026-04-20",
+      "url": "https://variety.com/2026/film/global/jacqueline-zund-heat-visions-du-reel-climate-1236725738/"
+    },
     {
       "title": "Korea Box Office: ‘Salmokji : Whispering Water’ Maintains Command in Second Weekend",
       "source": "Variety",
       "date": "2026-04-20",
       "url": "https://variety.com/2026/film/box-office/korea-box-office-salmokji-whispering-water-project-hail-mary-1236725728/"
-    },
-    {
-      "title": "Philo Pitches New Subscribers With $33 Live TV Package That Includes HBO Max, Discovery+ and AMC+",
-      "source": "Variety",
-      "date": "2026-04-20",
-      "url": "https://variety.com/2026/shopping/news/philo-live-tv-package-channels-hbo-max-discovery-plus-deal-1236543587/"
-    },
-    {
-      "title": "China Box Office: ‘It’s OK’ Retains Top Spot During Quiet Weekend",
-      "source": "Variety",
-      "date": "2026-04-20",
-      "url": "https://variety.com/2026/film/box-office/china-box-office-its-ok-quiet-weekend-1236725713/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ティモシー・シャラメのバレエ発言、波紋広がる　シャーリーズ・セロンも非難",
+      "source": "映画.com",
+      "date": "2026-04-20",
+      "url": "https://eiga.com/news/20260420/14/"
+    },
+    {
+      "title": "宮野真守、始球式でナイスピッチング！　ノーバン投球実現で“マリオ映画”に「勢いが付くかも」",
+      "source": "映画.com",
+      "date": "2026-04-20",
+      "url": "https://eiga.com/news/20260420/13/"
+    },
     {
       "title": "「アベンジャーズ　エンドゲーム」再上映に追加される新映像、「ドゥームズデイ」への導入",
       "source": "映画.com",
@@ -176,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-04-18",
       "url": "https://eiga.com/news/20260418/12/"
-    },
-    {
-      "title": "【5月4日はスター・ウォーズの日】横浜・渋谷・大阪でイベント開催！過去作一挙上映も",
-      "source": "映画.com",
-      "date": "2026-04-18",
-      "url": "https://eiga.com/news/20260418/11/"
     }
   ],
   "bd_releases": [],
