@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-04-21T23:24:59.626594",
+  "generated_at": "2026-04-22T01:13:59.685470",
   "top_stories": [
+    {
+      "title": "Netflix Among Suitors Interested in Buying Radford Lot",
+      "source": "Variety",
+      "date": "2026-04-22",
+      "url": "https://variety.com/2026/film/news/netflix-radford-lot-goldman-1236727411/"
+    },
+    {
+      "title": "‘Obsession’ Filmmaker Curry Barker to Direct ‘The Texas Chainsaw Massacre’ Reimagining at A24 (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-04-21",
+      "url": "https://variety.com/2026/film/news/texas-chainsaw-massacre-curry-barker-director-obsession-1236727385/"
+    },
     {
       "title": "‘Jury Duty: Company Retreat’ Submits 19 Actors for Emmys, Including Sia; Participant Anthony Norman Ineligible (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-04-21",
       "url": "https://variety.com/2026/tv/awards/jury-duty-company-retreat-emmys-submissions-sia-1236727308/"
-    },
-    {
-      "title": "‘Fighting With My Family’ Being Developed Into a Stage Musical With Stephen Merchant and Dwayne Johnson Producing",
-      "source": "Variety",
-      "date": "2026-04-21",
-      "url": "https://variety.com/2026/theater/global/fighting-with-my-family-musical-dwayne-johnson-producing-1236726796/"
-    },
-    {
-      "title": "Drake Announces ‘Iceman’ Album Release Date",
-      "source": "Variety",
-      "date": "2026-04-21",
-      "url": "https://variety.com/2026/music/news/drake-iceman-album-release-date-1236632841/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ファティ・アキン監督「白パンと独裁者」公開決定！ ポスター＆予告編公開、小島秀夫がコメント",
+      "source": "映画.com",
+      "date": "2026-04-22",
+      "url": "https://eiga.com/news/20260422/4/"
+    },
+    {
+      "title": "「スター・ウォーズ　マンダロリアン・アンド・グローグー」日本語吹替版予告公開！内田雄馬、山寺宏一らが吹替版声優に決定",
+      "source": "映画.com",
+      "date": "2026-04-22",
+      "url": "https://eiga.com/news/20260422/5/"
+    },
+    {
+      "title": "「細田守の原点／展」机の上で代表作の名シーンが繰り広げられるキービジュアルが公開　グッズ付きチケットも販売",
+      "source": "映画.com",
+      "date": "2026-04-22",
+      "url": "https://eiga.com/news/20260422/3/"
+    },
     {
       "title": "「映画ドラえもん」歴代オープニングを一挙披露　シリーズ全44作品・1時間強のスペシャル映像【最新作「新・のび太の海底鬼岩城」ヒット記念】",
       "source": "映画.com",
@@ -164,24 +182,6 @@
       "source": "映画.com",
       "date": "2026-04-20",
       "url": "https://eiga.com/news/20260421/5/"
-    },
-    {
-      "title": "子どもの貧困や虐待に目を向けるきっかけに――「未来」黒島結菜、北川景子、湊かなえが語り合う座談会ダイジェスト映像",
-      "source": "映画.com",
-      "date": "2026-04-20",
-      "url": "https://eiga.com/news/20260421/7/"
-    },
-    {
-      "title": "終末世界を描くベストセラーを映画化　リドリー・スコット×ジェイコブ・エロルディ「ラスト・サバイバー」8月28日公開",
-      "source": "映画.com",
-      "date": "2026-04-20",
-      "url": "https://eiga.com/news/20260421/3/"
-    },
-    {
-      "title": "鎮西寿々歌主演、“絶対にやってはいけない遊び”を描く「だぁれかさんとアソぼ？」予告公開　染谷将太らが出演決定",
-      "source": "映画.com",
-      "date": "2026-04-20",
-      "url": "https://eiga.com/news/20260421/4/"
     }
   ],
   "bd_releases": [],
