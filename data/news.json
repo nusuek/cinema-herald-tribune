@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-22T08:21:58.517634",
+  "generated_at": "2026-04-22T10:07:54.196178",
   "top_stories": [
+    {
+      "title": "Soccer Couple Rebekah and Jamie Vardy Set Reality Series at ITV Four Years After ‘Wagatha Christie’ Trial",
+      "source": "Variety",
+      "date": "2026-04-22",
+      "url": "https://variety.com/2026/tv/global/rebekah-vardy-itv-reality-series-wagatha-1236727607/"
+    },
     {
       "title": "‘Summer of 1985’ Creators on Adaptation as Media Res Options John Ajvide Lindqvist Follow-Up Book, ‘Summer of 1986’ (EXCLUSIVE)",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-04-22",
       "url": "https://variety.com/2026/film/global/kelly-reichardt-visions-du-reel-2-1236727590/"
-    },
-    {
-      "title": "Dave Mason, Rock & Roll Hall of Famer Who Co-Founded Traffic and Sang ‘Feelin’ Alright’ and ‘We Just Disagree,’ Dies at 79",
-      "source": "Variety",
-      "date": "2026-04-22",
-      "url": "https://variety.com/2026/music/obituaries-people-news/dave-mason-dead-traffic-feelin-alright-rock-hall-fame-1236727460/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「名探偵コナン」劇場版27作品＆TVシリーズ特別編集版4作品などが「J:COM STREAM」で見放題配信！【「ハイウェイの堕天使」公開記念】",
+      "source": "映画.com",
+      "date": "2026-04-22",
+      "url": "https://eiga.com/news/20260422/12/"
+    },
+    {
+      "title": "OpenAIのサム・アルトマンCEOが持論を語る「AIは人間の作り手への関心を強める」",
+      "source": "映画.com",
+      "date": "2026-04-22",
+      "url": "https://eiga.com/news/20260422/16/"
+    },
     {
       "title": "ついに国内製作の実写ゴジラ30作品すべてのデジタル化が完了！　「ゴジラ・シアター」5月～8月上映の4作品を発表",
       "source": "映画.com",
@@ -164,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-04-21",
       "url": "https://eiga.com/news/20260421/20/"
-    },
-    {
-      "title": "MEGUMIがカンヌで日本映画の魅力を世界へ発信　「JAPANESE NIGHT in Cannes 2026」開催",
-      "source": "映画.com",
-      "date": "2026-04-21",
-      "url": "https://eiga.com/news/20260421/17/"
     }
   ],
   "bd_releases": [],
