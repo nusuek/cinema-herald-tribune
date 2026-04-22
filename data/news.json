@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-04-22T01:13:59.685470",
+  "generated_at": "2026-04-22T04:35:08.067589",
   "top_stories": [
     {
-      "title": "Netflix Among Suitors Interested in Buying Radford Lot",
+      "title": "Dave Mason, Rock & Roll Hall of Famer Who Co-Founded Traffic and Sang ‘Feelin’ Alright’ and ‘We Just Disagree,’ Dies at 79",
       "source": "Variety",
       "date": "2026-04-22",
-      "url": "https://variety.com/2026/film/news/netflix-radford-lot-goldman-1236727411/"
+      "url": "https://variety.com/2026/music/obituaries-people-news/dave-mason-dead-traffic-feelin-alright-rock-hall-fame-1236727460/"
     },
     {
-      "title": "‘Obsession’ Filmmaker Curry Barker to Direct ‘The Texas Chainsaw Massacre’ Reimagining at A24 (EXCLUSIVE)",
+      "title": "‘The Secret Lives of Mormon Wives’ to Resume Season 5 Filming After Pausing Amid Taylor Frankie Paul’s Domestic Violence Investigation",
       "source": "Variety",
-      "date": "2026-04-21",
-      "url": "https://variety.com/2026/film/news/texas-chainsaw-massacre-curry-barker-director-obsession-1236727385/"
+      "date": "2026-04-22",
+      "url": "https://variety.com/2026/tv/news/secret-lives-of-mormon-wives-resumes-filming-season-5-taylor-frankie-paul-1236705791/"
     },
     {
-      "title": "‘Jury Duty: Company Retreat’ Submits 19 Actors for Emmys, Including Sia; Participant Anthony Norman Ineligible (EXCLUSIVE)",
+      "title": "‘The Balusters’ Broadway Review: Anika Noni Rose, Richard Thomas Star in Brilliant and Brutally Funny Look at a Dysfunctional Neighborhood Association",
       "source": "Variety",
-      "date": "2026-04-21",
-      "url": "https://variety.com/2026/tv/awards/jury-duty-company-retreat-emmys-submissions-sia-1236727308/"
+      "date": "2026-04-22",
+      "url": "https://variety.com/2026/legit/news/balusters-broadway-review-anika-noni-rose-richard-thomas-brilliant-comedy-1236726809/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ばなにゃ」アニメ化10周年記念でスペシャルアニメの制作が決定　10周年記念ロゴも公開",
+      "source": "映画.com",
+      "date": "2026-04-22",
+      "url": "https://eiga.com/news/20260422/9/"
+    },
+    {
+      "title": "「時をかける少女」「セーラー服と機関銃」が27年に舞台化！ 主演は乃木坂46 小川彩＆菅原咲月",
+      "source": "映画.com",
+      "date": "2026-04-22",
+      "url": "https://eiga.com/news/20260422/8/"
+    },
+    {
+      "title": "オバマ前大統領の制作会社　Netflixとの契約終了後、独立へ",
+      "source": "映画.com",
+      "date": "2026-04-22",
+      "url": "https://eiga.com/news/20260422/7/"
+    },
+    {
+      "title": "クリーチャーホラー「オラン・イカン」ディーン・フジオカ襲う半魚人の姿が判明！ 「ジュラシック・ワールド」に関わったデザイナーが造形",
+      "source": "映画.com",
+      "date": "2026-04-22",
+      "url": "https://eiga.com/news/20260422/6/"
+    },
     {
       "title": "ファティ・アキン監督「白パンと独裁者」公開決定！ ポスター＆予告編公開、小島秀夫がコメント",
       "source": "映画.com",
@@ -158,30 +182,6 @@
       "source": "映画.com",
       "date": "2026-04-20",
       "url": "https://eiga.com/news/20260421/8/"
-    },
-    {
-      "title": "「攻殻機動隊 STAND ALONE COMPLEX」草薙素子を世界初の等身大フィギュア化　価格132万円で一般販売がスタート",
-      "source": "映画.com",
-      "date": "2026-04-21",
-      "url": "https://eiga.com/news/20260421/10/"
-    },
-    {
-      "title": "【「劇場版TOKYO MER」第3弾公開記念】毎月21日に“MERの重大情報”発表　今月はファンミーティング開催、アートワーク披露など",
-      "source": "映画.com",
-      "date": "2026-04-20",
-      "url": "https://eiga.com/news/20260421/9/"
-    },
-    {
-      "title": "磯村勇斗×オク・テギョン「ソウルメイト」に橋本愛、水上恒司、安田顕ら参戦",
-      "source": "映画.com",
-      "date": "2026-04-20",
-      "url": "https://eiga.com/news/20260421/6/"
-    },
-    {
-      "title": "中島健人、“恋をしたい時に聴きたくなる”主題歌書き下ろし！「ラブ≠コメディ」予告＆ポスター公開",
-      "source": "映画.com",
-      "date": "2026-04-20",
-      "url": "https://eiga.com/news/20260421/5/"
     }
   ],
   "bd_releases": [],
