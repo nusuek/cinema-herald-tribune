@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-04-24T22:29:36.244401",
+  "generated_at": "2026-04-24T23:29:21.933230",
   "top_stories": [
     {
-      "title": "‘Chicago Fire’ Showrunner Andrea Newman Steps Down, Victor Teran to Take Helm of Season 15",
+      "title": "CBS News’ Bari Weiss, Norah O’Donnell Among Attendees at David Ellison’s Dinner Party ‘Honoring’ Donald Trump: Report",
       "source": "Variety",
       "date": "2026-04-24",
-      "url": "https://variety.com/2026/tv/news/chicago-fire-showrunner-exit-victor-teran-season-15-1236730110/"
+      "url": "https://variety.com/2026/film/news/david-ellison-party-honoring-donald-trump-cbs-news-bari-weiss-norah-odonnell-1236730156/"
     },
     {
-      "title": "Matthew McConaughey, Austin Butler, Pedro Pascal and Tang Wei to Star in Park Chan-wook’s ‘The Brigands of Rattlecreek’",
+      "title": "Nikki Glaser Would ‘Absolutely’ Do a Leonardo DiCaprio Roast but Says He Shouldn’t Sign Up for One: ‘Maybe If He Was Donating To Climate Change’",
       "source": "Variety",
       "date": "2026-04-24",
-      "url": "https://variety.com/2026/film/markets-festivals/matthew-mcconaughey-austin-butler-pedro-pascal-tang-wei-park-chan-wook-movie-1236730059/"
+      "url": "https://variety.com/2026/scene/news/nikki-glaser-leonardo-dicaprio-roast-climate-change-donate-1236730118/"
     },
     {
-      "title": "Paramount CEO David Ellison’s Pay in 2025 Was $63.2 Million, Former President Jeff Shell Had $60.7 Million in Compensation",
+      "title": "iHeartRadio and SiriusXM in Early Merger Talks, With Irving Azoff and Apollo Advising",
       "source": "Variety",
       "date": "2026-04-24",
-      "url": "https://variety.com/2026/film/news/paramount-skydance-david-ellison-jeff-shell-pay-2025-compensation-1236730070/"
+      "url": "https://variety.com/2026/digital/news/iheartmedia-siriusxm-merger-talks-azoff-apollo-advising-1236730151/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「メガネ、時々、ヤンキーくん」TVアニメ化　元ヤン男子高校生とヤンキー嫌いの女子高生の青春ラブコメディ",
+      "source": "映画.com",
+      "date": "2026-04-24",
+      "url": "https://eiga.com/news/20260425/3/"
+    },
     {
       "title": "龍玄としプロデュースのアニソンイベントが7月に金沢で開催　大黒摩季、松本梨香、森口博子、ゴールデンボンバーら出演",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-04-23",
       "url": "https://eiga.com/news/20260424/6/"
-    },
-    {
-      "title": "「ミニオンズ フィーバー」5月22日に金曜ロードショーで本編ノーカットで放送！",
-      "source": "映画.com",
-      "date": "2026-04-23",
-      "url": "https://eiga.com/news/20260424/2/"
     }
   ],
   "bd_releases": [],
