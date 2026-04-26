@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-04-26T11:29:46.959529",
+  "generated_at": "2026-04-26T12:35:22.226984",
   "top_stories": [
+    {
+      "title": "NBC News, MS NOW Tamp Down Party Spirit After White House Correspondents Dinner Chaos",
+      "source": "Variety",
+      "date": "2026-04-26",
+      "url": "https://variety.com/2026/tv/news/nbc-news-ms-now-white-house-correspondents-party-1236730765/"
+    },
     {
       "title": "Australia Makes Its Debut at EAVE’s Ties That Bind Co-Production Program",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-04-26",
       "url": "https://variety.com/2026/film/festivals/wim-wenders-yakusho-koji-far-east-film-festival-honor-1236730767/"
-    },
-    {
-      "title": "Madonna Playfully Spanks West Hollywood Nightclub Owner in Front of Addison Rae at Surprise “Confessions II” Performance",
-      "source": "Variety",
-      "date": "2026-04-26",
-      "url": "https://variety.com/2026/music/columns/madonna-spanks-west-hollywood-nighclub-owner-addison-rae-surprise-confessions-ii-performance-1236730748/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「乙女ゲー世界はモブに厳しい世界です」第2期、7月放送開始、両手に花のキービジュアル第1弾＆PVも公開",
+      "source": "映画.com",
+      "date": "2026-04-26",
+      "url": "https://eiga.com/news/20260426/10/"
+    },
     {
       "title": "「エルデンリング」実写映画、英国で撮影入り　トム・バーク、ジョナサン・プライス、ソノヤ・ミズノらが出演",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-04-24",
       "url": "https://eiga.com/news/20260424/28/"
-    },
-    {
-      "title": "和⾷を学びに来⽇した彼女との出会い　⻘柳翔主演「ディッシュアップ」予告編公開",
-      "source": "映画.com",
-      "date": "2026-04-24",
-      "url": "https://eiga.com/news/20260424/20/"
     }
   ],
   "bd_releases": [],
