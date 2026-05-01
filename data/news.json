@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-01T10:58:42.772379",
+  "generated_at": "2026-05-01T11:57:00.418337",
   "top_stories": [
+    {
+      "title": "Anthony Chen’s ‘Somewhere in the South’ Wins TAICCA Prize as ‘Naked in Glendale’ Takes White Light Award at Focus Asia",
+      "source": "Variety",
+      "date": "2026-05-01",
+      "url": "https://variety.com/2026/film/news/focus-asia-2026-awards-naked-in-glendale-somewhere-in-the-south-1236735336/"
+    },
     {
       "title": "‘Under Paris 2’ Back With a Bite: Netflix’s Shark Movie Sequel Starts Filming in France (EXCLUSIVE)",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-05-01",
       "url": "https://variety.com/2026/film/news/lagaan-ashutosh-gowariker-iffi-festival-director-1236735300/"
-    },
-    {
-      "title": "Indonesian Action Thriller ‘Queen of Malacca’ Sets Blue Finch on Sales Ahead of Cannes Market (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-05-01",
-      "url": "https://variety.com/2026/film/news/indonesian-action-thriller-queen-of-malacca-blue-finch-1236735285/"
     }
   ],
   "new_releases": [
+    {
+      "title": "スタジオジブリ「耳をすませば」金曜ロードショーで今夜放送！　あらすじ＆キャストまとめ",
+      "source": "映画.com",
+      "date": "2026-05-01",
+      "url": "https://eiga.com/news/20260501/17/"
+    },
+    {
+      "title": "店内あちこちにグローグーが……「マンダロリアン・アンド・グローグー」コラボカフェが明日5月2日からオープン",
+      "source": "映画.com",
+      "date": "2026-05-01",
+      "url": "https://eiga.com/news/20260501/21/"
+    },
     {
       "title": "Netflixシリーズ「地獄に堕ちるわよ」がもっと面白くなるトリビアまとめ　あらすじ＆キャスト＆キャラ紹介も",
       "source": "映画.com",
@@ -176,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-04-30",
       "url": "https://eiga.com/news/20260430/15/"
-    },
-    {
-      "title": "アン・ハサウェイ主演「ヴェリティ　真実」日本公開は今秋！　ドロ沼キスシーンに背筋が凍る特報＆場面写真を披露",
-      "source": "映画.com",
-      "date": "2026-04-30",
-      "url": "https://eiga.com/news/20260430/17/"
     }
   ],
   "bd_releases": [],
