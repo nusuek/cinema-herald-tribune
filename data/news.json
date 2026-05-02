@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T10:38:47.550865",
+  "generated_at": "2026-05-02T11:34:20.548438",
   "top_stories": [
     {
       "title": "Post Malone Cancels First Few Weeks of ‘Big Ass Stadium’ Shows With Jelly Roll, Citing Need to Finish New Album: ‘We Ain’t Ready for Tour Just Yet’",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "「ミッション：インポッシブル」ルーサー役、LAのレストランで倒れ救急搬送",
+      "source": "映画.com",
+      "date": "2026-05-02",
+      "url": "https://eiga.com/news/20260502/14/"
+    },
     {
       "title": "ロシア人監督のオスカー像が空港で行方不明に…",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-05-01",
       "url": "https://eiga.com/news/20260501/7/"
-    },
-    {
-      "title": "「プラダを着た悪魔2」メリル・ストリープ×アン・ハサウェイ　続編での変化、女性の連帯、キャリアと仕事へのモチベーション",
-      "source": "映画.com",
-      "date": "2026-05-01",
-      "url": "https://eiga.com/news/20260501/6/"
     }
   ],
   "bd_releases": [],
