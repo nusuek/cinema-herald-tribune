@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-05-06T10:52:30.722366",
+  "generated_at": "2026-05-06T12:20:37.293410",
   "top_stories": [
     {
-      "title": "Disney Revenue Rises 7% in Earnings Beat, Disney+ and Hulu Streaming Income Pops 88% to $582 Million",
+      "title": "‘Money Heist,’ ‘Nowhere’ Director Albert Pintó Helms Revenge Thriller ‘Lions in Winter,’ Acquired for World Sales by Film Factory",
       "source": "Variety",
       "date": "2026-05-06",
-      "url": "https://variety.com/2026/tv/news/disney-q2-2026-earnings-josh-damaro-streaming-income-1236738974/"
+      "url": "https://variety.com/2026/film/global/albert-pinto-alvaro-ariza-maria-luisa-gutierrez-sony-1236737949/"
     },
     {
-      "title": "‘Squid Game’ Star Lee Byung-hun Boards Martial Arts Film ‘Nambeol’",
+      "title": "Vin Diesel, Jordana Brewster to Join Cannes Screening of ‘The Fast and the Furious’ as Franchise Celebrates 25th Anniversary",
       "source": "Variety",
       "date": "2026-05-06",
-      "url": "https://variety.com/2026/film/news/squid-game-star-lee-byung-hun-martial-arts-film-nambeol-1236739159/"
+      "url": "https://variety.com/2026/film/global/the-fast-and-the-furious-midnight-screening-cannes-1236739166/"
     },
     {
-      "title": "Cannes Best Director Winner Miguel Gomes’ Long-Awaited War Drama ‘Savagery’ Brought to Market by Luxbox (EXCLUSIVE)",
+      "title": "‘The Housekeeper’ First Look: Richard Eyre’s Daphne du Maurier-Inspired Romance Starring Anthony Hopkins, Helena Bonham Carter and Caitríona Balfe Wraps Production (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-05-06",
-      "url": "https://variety.com/2026/film/global/miguel-gomes-savagery-luxbox-cannes-film-festival-1236739150/"
+      "url": "https://variety.com/2026/film/global/the-housekeeper-first-look-anthony-hopkins-caitriona-balfe-1236737978/"
     }
   ],
   "new_releases": [
+    {
+      "title": "史上最大級の合併に「ストップ」、米消費者がパラマウントを提訴",
+      "source": "映画.com",
+      "date": "2026-05-06",
+      "url": "https://eiga.com/news/20260506/13/"
+    },
     {
       "title": "「劇場版『鬼滅の刃』無限城編　第一章　猗窩座再来」7月にブルーレイ＆DVDが発売　豪華特典などを紹介するCM公開",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-05-05",
       "url": "https://eiga.com/news/20260505/7/"
-    },
-    {
-      "title": "「プロジェクト・ヘイル・メアリー」でライアン・ゴズリングが着ているカーディガン、米国で空前のブーム",
-      "source": "映画.com",
-      "date": "2026-05-05",
-      "url": "https://eiga.com/news/20260505/6/"
     }
   ],
   "bd_releases": [],
