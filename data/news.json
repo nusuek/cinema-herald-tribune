@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-05-07T22:47:54.401310",
+  "generated_at": "2026-05-07T23:40:55.668334",
   "top_stories": [
+    {
+      "title": "The Beatles Drama Series ‘Hamburg Days’ Reveals Key Cast and First Look Images as Shooting Starts",
+      "source": "Variety",
+      "date": "2026-05-07",
+      "url": "https://variety.com/2026/music/global/the-beatles-hamburg-days-key-cast-1236740945/"
+    },
+    {
+      "title": "‘Remarkably Bright Creatures’ Review: Sally Field and Lewis Pullman Help Each Other Heal in a Melodrama of Distinctly Average Intelligence",
+      "source": "Variety",
+      "date": "2026-05-07",
+      "url": "https://variety.com/2026/film/reviews/remarkably-bright-creatures-review-1236736334/"
+    },
     {
       "title": "Taylor Swift’s Attorneys Fire Back in Trademark Lawsuit, Calling Ex-Vegas Showgirl’s Claims of Infringement ‘Absurd’",
       "source": "Variety",
       "date": "2026-05-07",
       "url": "https://variety.com/2026/music/news/taylor-swift-attorneys-fire-back-trademark-lawsuit-showgirl-1236741122/"
-    },
-    {
-      "title": "Stephen Colbert’s Final Weeks: David Letterman, Jimmy Kimmel, Seth Meyers, Jimmy Fallon and John Oliver to Hit ‘Late Show’ Before Last Episode",
-      "source": "Variety",
-      "date": "2026-05-07",
-      "url": "https://variety.com/2026/tv/news/stephen-colbert-letterman-kimmel-meyers-fallon-late-show-end-1236741092/"
-    },
-    {
-      "title": "‘Total Eclipse of the Heart’ Singer Bonnie Tyler Hospitalized for Emergency Surgery in Portugal",
-      "source": "Variety",
-      "date": "2026-05-07",
-      "url": "https://variety.com/2026/music/news/total-eclipse-of-the-heart-bonnie-tyler-hospitalized-1236741078/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「猿の惑星」が再起動   「キングダム」の続編ではなく新たなオリジナルへ",
+      "source": "映画.com",
+      "date": "2026-05-07",
+      "url": "https://eiga.com/news/20260508/6/"
+    },
     {
       "title": "「ヤマトよ永遠に REBEL3199 第六章 碧い迷宮」メインビジュアルと本予告が公開　ヤマトが2026年の東京上空に",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-05-06",
       "url": "https://eiga.com/news/20260507/1/"
-    },
-    {
-      "title": "「進撃の巨人」初のフルオーケストラアレンジのコンサート、10月からワールドツアー開催決定",
-      "source": "映画.com",
-      "date": "2026-05-06",
-      "url": "https://eiga.com/news/20260506/15/"
     }
   ],
   "bd_releases": [],
