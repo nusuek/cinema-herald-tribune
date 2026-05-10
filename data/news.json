@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-10T07:51:13.509600",
+  "generated_at": "2026-05-10T09:17:55.743076",
   "top_stories": [
+    {
+      "title": "‘The Secret Agent’ Sweeps 13th Premios Platino While Netflix’s Ambitious Argentine Series ‘The Eternaut’ Dominates TV Prizes",
+      "source": "Variety",
+      "date": "2026-05-10",
+      "url": "https://variety.com/2026/film/awards/the-secret-agent-13th-premios-platino-netflix-the-eternaut-1236742490/"
+    },
     {
       "title": "Indian Film Star Vijay Sworn In as Tamil Nadu Chief Minister After Days of High Drama",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-05-10",
       "url": "https://variety.com/2026/tv/news/saturday-night-live-tucker-carlson-met-gala-michael-movie-1236742501/"
-    },
-    {
-      "title": "Pete Hegseth, Kash Patel and Justice Kavanaugh Hit the Bar Together to Celebrate Iran War, Alcohol on ‘SNL’ Cold Open",
-      "source": "Variety",
-      "date": "2026-05-10",
-      "url": "https://variety.com/2026/tv/news/snl-open-pete-hegseth-kash-patel-justice-kavanaugh-1236742480/"
     }
   ],
   "new_releases": [
+    {
+      "title": "宮﨑駿監督「未来少年コナン」無料配信開始　「ピーターパンの冒険」「ふしぎな島のフローネ」も順次配信",
+      "source": "映画.com",
+      "date": "2026-05-10",
+      "url": "https://eiga.com/news/20260510/9/"
+    },
     {
       "title": "「世界最強の魔女、始めました　～私だけ『攻略サイト』を見れる世界で自由に生きます～」10月にTVアニメ化",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-05-08",
       "url": "https://eiga.com/news/20260508/21/"
-    },
-    {
-      "title": "ジョージ・クルーニー、ブラッド・ピットら豪華スター共演「オーシャンズ」シリーズ一挙放送！",
-      "source": "映画.com",
-      "date": "2026-05-08",
-      "url": "https://eiga.com/news/20260508/20/"
     }
   ],
   "bd_releases": [],
