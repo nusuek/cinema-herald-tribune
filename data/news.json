@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-10T21:35:47.549713",
+  "generated_at": "2026-05-10T22:33:22.792566",
   "top_stories": [
+    {
+      "title": "Michael Pennington, ‘Star Wars: Return of the Jedi’ Actor, Dies at 82",
+      "source": "Variety",
+      "date": "2026-05-10",
+      "url": "https://variety.com/2026/film/news/michael-pennington-dead-star-wars-return-of-the-jedi-1236744227/"
+    },
     {
       "title": "Kacey Musgraves Has Career-Best Opening Week With ‘Middle of Nowhere,’ as Michael Jackson Lands Two Albums in the Top 10",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-05-10",
       "url": "https://variety.com/2026/tv/news/savannah-guthrie-mothers-day-tribute-missing-mom-nancy-1236744189/"
-    },
-    {
-      "title": "Rita Wilson on Her ‘Sound of a Woman’ Album, Growing Up a Music Lover in L.A. and the Advice From Nora Ephron and Bruce Springsteen That Kickstarted Her Second Act",
-      "source": "Variety",
-      "date": "2026-05-10",
-      "url": "https://variety.com/2026/music/news/rita-wilson-music-sound-woman-album-interview-1236741922/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ブチ切れ令嬢は報復を誓いました」に長谷川育美、小倉唯、上原あゆみ出演　主題歌や放送局も発表",
+      "source": "映画.com",
+      "date": "2026-05-10",
+      "url": "https://eiga.com/news/20260511/1/"
+    },
     {
       "title": "劇場版「ミルキー☆サブウェイ」新作シーンを追加した「臨時増発」版が6月12日から上映　MX4D・4DX版も同日公開",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-05-08",
       "url": "https://eiga.com/news/20260509/1/"
-    },
-    {
-      "title": "「ワールド イズ ダンシング」に櫻井孝宏、飛田展男、能登麻美子ら出演　OP主題歌は「マカロニえんぴつ」の「終宵」",
-      "source": "映画.com",
-      "date": "2026-05-08",
-      "url": "https://eiga.com/news/20260508/28/"
     }
   ],
   "bd_releases": [],
