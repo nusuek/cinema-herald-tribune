@@ -1,37 +1,61 @@
 {
-  "generated_at": "2026-05-12T23:56:17.586243",
+  "generated_at": "2026-05-13T02:07:09.733715",
   "top_stories": [
     {
-      "title": "Cate Blanchett Co-Founds RSL Media, a Non-Profit to Address Consent Around AI Usage",
+      "title": "Michael Che Pulled Out of Kevin Hart Roast Before Shading White Writers for Jokes About ‘Slavery, Sex Crimes, Slurs’ (EXCLUSIVE)",
       "source": "Variety",
-      "date": "2026-05-12",
-      "url": "https://variety.com/2026/film/news/cate-blanchett-rsl-media-ai-usage-1236746845/"
+      "date": "2026-05-13",
+      "url": "https://variety.com/2026/tv/news/michael-che-dropped-out-kevin-hart-roast-white-writers-1236746815/"
     },
     {
-      "title": "‘The Pitt’ Seeks to Overturn ‘Baseless’ ‘ER’ Knock-Off Claims in Appeal",
+      "title": "‘Punisher: One Last Kill’ Is a Brutal Study of PTSD and Grief — and Marvel’s Most Violent Project Yet: TV Review",
       "source": "Variety",
-      "date": "2026-05-12",
-      "url": "https://variety.com/2026/tv/news/the-pitt-er-knockoff-lawsuit-appeal-1236746491/"
+      "date": "2026-05-13",
+      "url": "https://variety.com/2026/tv/reviews/punisher-one-last-kill-review-jon-bernthal-marvel-1236746127/"
     },
     {
-      "title": "SAG-AFTRA Deal Stirs Concerns on Artificial Intelligence and Pensions",
+      "title": "‘I Want Your Sex,’ ‘Girls Like Girls’ and ‘Leviticus’ Among Frameline50’s 2026 Line-Up",
       "source": "Variety",
-      "date": "2026-05-12",
-      "url": "https://variety.com/2026/film/news/sag-aftra-artificial-intelligence-pensions-concerns-1236746577/"
+      "date": "2026-05-13",
+      "url": "https://variety.com/2026/film/news/girls-like-girls-leviticus-frameline50s-2026-line-up-1236746848/"
     }
   ],
   "new_releases": [
-    {
-      "title": "ヨン・サンホ最新作サスペンスミステリー「顔」8月28日公開！「新感染　ファイナル・エクスプレス」限定再上映も",
-      "source": "映画.com",
-      "date": "2026-05-12",
-      "url": "https://eiga.com/news/20260513/4/"
-    },
     {
       "title": "新星・UTAが不気味なガス人間役に抜選 伝説的特撮をリブートするNetflixシリーズ「ガス人間」7月2日世界独占配信決定！ 最新映像も初披露",
       "source": "映画.com",
       "date": "2026-05-12",
       "url": "https://eiga.com/news/20260513/2/"
+    },
+    {
+      "title": "ブライス・ダラス・ハワード、新進気鋭のホラー映画監督の新作に出演",
+      "source": "映画.com",
+      "date": "2026-05-13",
+      "url": "https://eiga.com/news/20260513/9/"
+    },
+    {
+      "title": "伝記映画「Michael マイケル」がPontaパス「推しトク映画」に！",
+      "source": "映画.com",
+      "date": "2026-05-13",
+      "url": "https://eiga.com/news/20260513/11/"
+    },
+    {
+      "title": "西川美和監督最新作「わたしの知らない子どもたち」主演は新人の小八重葵美＆二階堂ふみ！",
+      "source": "映画.com",
+      "date": "2026-05-11",
+      "url": "https://eiga.com/news/20260512/4/"
+    },
+    {
+      "title": "「ホワイト・ロータス」、ヘレナ・ボナム＝カーターの代役にローラ・ダーン",
+      "source": "映画.com",
+      "date": "2026-05-13",
+      "url": "https://eiga.com/news/20260513/8/"
+    },
+    {
+      "title": "ヨン・サンホ最新作サスペンスミステリー「顔」8月28日公開！「新感染　ファイナル・エクスプレス」限定再上映も",
+      "source": "映画.com",
+      "date": "2026-05-12",
+      "url": "https://eiga.com/news/20260513/4/"
     },
     {
       "title": "「RYUJI 竜二」で裏社会を生きる柳楽優弥の妻役に川栄李奈、舎弟コンビを演じるのは萩原利久＆JUNON",
@@ -164,24 +188,6 @@
       "source": "映画.com",
       "date": "2026-05-11",
       "url": "https://eiga.com/news/20260512/5/"
-    },
-    {
-      "title": "西川美和監督最新作「わたしの知らない子どもたち」主演は新人の小八重葵美＆二階堂ふみ！",
-      "source": "映画.com",
-      "date": "2026-05-11",
-      "url": "https://eiga.com/news/20260512/4/"
-    },
-    {
-      "title": "吉野北人×鈴木愛理主演！　仮面夫婦の殺し合い描いた小説「昨夜は殺れたかも」を実写映画化",
-      "source": "映画.com",
-      "date": "2026-05-11",
-      "url": "https://eiga.com/news/20260512/3/"
-    },
-    {
-      "title": "男子高校生2人が紡ぐピュアで眩しい青春恋愛劇「君は夏のなか」主演は奥智哉＆杢代和人！",
-      "source": "映画.com",
-      "date": "2026-05-11",
-      "url": "https://eiga.com/news/20260512/2/"
     }
   ],
   "bd_releases": [],
