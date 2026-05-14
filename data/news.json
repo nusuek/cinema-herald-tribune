@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T21:57:39.298732",
+  "generated_at": "2026-05-14T22:51:42.402028",
   "top_stories": [
     {
       "title": "Byron Allen on How He Plans to Use BuzzFeed to Create a ‘Premier Global Free Streaming Service,’ What It Means to Be Taking Over Colbert’s CBS Time Slot and Why He Wants to Buy Starz",
       "source": "Variety",
       "date": "2026-05-14",
-      "url": "https://variety.com/2026/tv/news/byron-allen-on-buzzfeed-deal-cbs-colbert-time-slot-1236748848/"
+      "url": "https://variety.com/2026/tv/news/byron-allen-buzzfeed-deal-cbs-colbert-time-slot-starz-1236748848/"
     },
     {
       "title": "Amazon Studios Accused of Blacklisting Vendor Who Refused to Pay Kickbacks",
@@ -21,6 +21,18 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "「口は災いの元だと思いますか？」 板垣李光人主演ホラー「口に関するアンケート」劇場で上映された不気味な問い続く幕間映像が公開",
+      "source": "映画.com",
+      "date": "2026-05-14",
+      "url": "https://eiga.com/news/20260515/4/"
+    },
+    {
+      "title": "親子で「スター・ウォーズ」を愛する伊藤英明がナレーション！「マンダロリアン・アンド・グローグー」の世代を超えるアニメ映像公開",
+      "source": "映画.com",
+      "date": "2026-05-14",
+      "url": "https://eiga.com/news/20260515/5/"
+    },
     {
       "title": "「金ロー」で6月12日から4週連続で「トイ・ストーリー」シリーズを放送！　地上波初放送の短編も",
       "source": "映画.com",
@@ -170,24 +182,6 @@
       "source": "映画.com",
       "date": "2026-05-13",
       "url": "https://eiga.com/news/20260514/6/"
-    },
-    {
-      "title": "安田章大×のんが兄妹に「平行と垂直」ポスター＆予告公開　主題歌は浮 with 安田章大「話そう」",
-      "source": "映画.com",
-      "date": "2026-05-13",
-      "url": "https://eiga.com/news/20260514/4/"
-    },
-    {
-      "title": "中島哲也監督最新作「時には懺悔を」最新予告公開　“探偵コンビ”西島秀俊＆満島ひかりがある事件の真相を追う",
-      "source": "映画.com",
-      "date": "2026-05-13",
-      "url": "https://eiga.com/news/20260514/3/"
-    },
-    {
-      "title": "黒木メイサ主演「八神瑛子」鬼気迫るアクション満載のティザー予告映像、場面写真、劇中音楽を公開",
-      "source": "映画.com",
-      "date": "2026-05-13",
-      "url": "https://eiga.com/news/20260514/2/"
     }
   ],
   "bd_releases": [],
