@@ -1,26 +1,80 @@
 {
-  "generated_at": "2026-05-18T01:56:15.155755",
+  "generated_at": "2026-05-18T06:03:32.468797",
   "top_stories": [
     {
-      "title": "Sony Pictures TV and ‘Heated Rivalry’ Streamer Crave Pact for Freddie Highmore-David Shore Drama Series",
+      "title": "Korea Box Office: Michael Jackson Biopic ‘Michael’ Dominates Weekend with Over 50% Market Share",
       "source": "Variety",
       "date": "2026-05-18",
-      "url": "https://variety.com/2026/tv/news/freddie-highmore-david-shore-sony-crave-im-not-here-hurt-1236751188/"
+      "url": "https://variety.com/2026/film/box-office/korea-box-office-michael-devil-wears-prada-2-1236752098/"
     },
     {
-      "title": "‘Karma’ Review: Marion Cotillard and Denis Ménochet Class Up Guillaume Canet’s Lurid, Overlong Potboiler",
+      "title": "China Box Office: ‘Dear You’ Holds Top Spot as ‘The Sheep Detectives’ Enters Top Five",
       "source": "Variety",
       "date": "2026-05-18",
-      "url": "https://variety.com/2026/film/news/karma-review-marion-cotillard-1236751479/"
+      "url": "https://variety.com/2026/film/box-office/china-box-office-dear-you-sheep-detectives-1236752096/"
     },
     {
-      "title": "Inside the 2026 Tony Nominees Event: Carrie Coon Calls for Universal Childcare, Brandon Uranowitz and Stephanie Hsu Want a Better Broadway",
+      "title": "Miike Takashi Makes Documentary Debut as Japan’s K2 Pictures Unveils Slate and $33 Million Fund at Cannes",
       "source": "Variety",
       "date": "2026-05-18",
-      "url": "https://variety.com/2026/legit/awards/tonys-nominees-luncheon-2026-carrie-coon-stephanie-hsu-1236751882/"
+      "url": "https://variety.com/2026/film/markets-festivals/miike-takashi-documentary-debut-k2-pictures-slate-33-million-fund-cannes-1236751708/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「プラダを着た悪魔2」V2、「機動戦士ガンダム」「魔法科高校の劣等生　四葉継承編」などがアップ【映画.comアクセスランキング】",
+      "source": "映画.com",
+      "date": "2026-05-18",
+      "url": "https://eiga.com/news/20260518/12/"
+    },
+    {
+      "title": "東野圭吾の問題作を映画化「殺人の門」第79回カンヌ国際映画祭のマーケットで世界にお披露目 山﨑賢人のビデオメッセージが上映",
+      "source": "映画.com",
+      "date": "2026-05-18",
+      "url": "https://eiga.com/news/20260518/11/"
+    },
+    {
+      "title": "カンヌで開催「JAPANESE NIGHT」に1000人以上来場、日本映画への期待の高さをうかがわせる一夜に",
+      "source": "映画.com",
+      "date": "2026-05-18",
+      "url": "https://eiga.com/news/20260518/10/"
+    },
+    {
+      "title": "イオンシネマ海老名が営業終了、クロージングセレモニーには“ライバル”TOHOシネマズ海老名の総支配人も駆けつける",
+      "source": "映画.com",
+      "date": "2026-05-18",
+      "url": "https://eiga.com/news/20260518/9/"
+    },
+    {
+      "title": "【解禁済み・よきときに】鳥居みゆき主演、元テレビ局ディレクターがメガホンを取った「偏向報道」予告編と場面写真を披露",
+      "source": "映画.com",
+      "date": "2026-05-18",
+      "url": "https://eiga.com/news/20260518/17/"
+    },
+    {
+      "title": "有村架純×黒木華×南沙良が闇バイト！　「マジカル・シークレット・ツアー」“金密輸”の旅の始まりを捉えた本編映像",
+      "source": "映画.com",
+      "date": "2026-05-15",
+      "url": "https://eiga.com/news/20260515/14/"
+    },
+    {
+      "title": "木戸大聖が体現する静かで優しいもうひとりの主人公「モブ子の恋」優しさがにじむ新場面写真公開",
+      "source": "映画.com",
+      "date": "2026-05-18",
+      "url": "https://eiga.com/news/20260518/7/"
+    },
+    {
+      "title": "伊藤潤二「屋根裏の長い髪」アジア向けホラー映画として映像化　日本・タイ・韓国による国際共同企画開発",
+      "source": "映画.com",
+      "date": "2026-05-18",
+      "url": "https://eiga.com/news/20260518/8/"
+    },
+    {
+      "title": "「ミッドナイト・ライブラリー」映画化、フローレンス・ピュー製作＆主演",
+      "source": "映画.com",
+      "date": "2026-05-18",
+      "url": "https://eiga.com/news/20260518/6/"
+    },
     {
       "title": "人気ゲームのアニメ化「SEKIRO: NO DEFEAT」9月4日から3週間限定で劇場上映",
       "source": "映画.com",
@@ -140,66 +194,6 @@
       "source": "映画.com",
       "date": "2026-05-16",
       "url": "https://eiga.com/news/20260517/2/"
-    },
-    {
-      "title": "M!LK曽野舜太、映画「仮面ライダーゼッツ」で最恐のダークヒーロー役に挑戦 「変身ポーズも監督と話し合いを重ね、こだわった」",
-      "source": "映画.com",
-      "date": "2026-05-16",
-      "url": "https://eiga.com/news/20260517/1/"
-    },
-    {
-      "title": "【第79回カンヌ国際映画祭】濱口竜介監督「急に具合が悪くなる」3時間超の長尺にも熱狂的な反応　海外記者からも高評価",
-      "source": "映画.com",
-      "date": "2026-05-16",
-      "url": "https://eiga.com/news/20260516/17/"
-    },
-    {
-      "title": "「KPOPガールズ! デーモン・ハンターズ」ワールドツアー開催へ",
-      "source": "映画.com",
-      "date": "2026-05-16",
-      "url": "https://eiga.com/news/20260516/14/"
-    },
-    {
-      "title": "「これ描いて死ね」OPテーマはキタニタツヤの書き下ろし楽曲「遺書」　“漫画に懸ける青春”を描いた本PV公開",
-      "source": "映画.com",
-      "date": "2026-05-16",
-      "url": "https://eiga.com/news/20260516/13/"
-    },
-    {
-      "title": "第99回アカデミー賞授賞式司会者はコナン・オブライエンに決定",
-      "source": "映画.com",
-      "date": "2026-05-16",
-      "url": "https://eiga.com/news/20260516/12/"
-    },
-    {
-      "title": "若き才能が集結した短編オムニバス「2045 FILMS WORKSHOP vol.1」3つの物語を紐解く予告映像&メインビジュアル公開",
-      "source": "映画.com",
-      "date": "2026-05-16",
-      "url": "https://eiga.com/news/20260516/11/"
-    },
-    {
-      "title": "「愛さないといわれましても ～元魔王の伯爵令嬢は生真面目軍人に餌付けをされて幸せになる～」アニメ化企画が進行中",
-      "source": "映画.com",
-      "date": "2026-05-16",
-      "url": "https://eiga.com/news/20260516/10/"
-    },
-    {
-      "title": "ポール・メスカル＆ジェシー・バックリー、「ハムネット」に続き新作で共演",
-      "source": "映画.com",
-      "date": "2026-05-16",
-      "url": "https://eiga.com/news/20260516/9/"
-    },
-    {
-      "title": "下野紘による対バンライブ「下野紘音楽祭」10月31日に開催　ゲストにGRANRODEO、畠中祐、土岐隼一",
-      "source": "映画.com",
-      "date": "2026-05-16",
-      "url": "https://eiga.com/news/20260516/8/"
-    },
-    {
-      "title": "TYPE-MOON×ufotable「魔法使いの夜」メインキャストは戸松遥、花澤香菜、小林裕介　原作ゲームから続投",
-      "source": "映画.com",
-      "date": "2026-05-16",
-      "url": "https://eiga.com/news/20260516/7/"
     }
   ],
   "bd_releases": [],
