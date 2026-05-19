@@ -1,31 +1,55 @@
 {
-  "generated_at": "2026-05-18T23:01:07.581011",
+  "generated_at": "2026-05-19T01:56:29.410119",
   "top_stories": [
+    {
+      "title": "Netflix Snaps Up Cannes Critics Week’s Animated Feature ‘In Waves’ (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-05-19",
+      "url": "https://variety.com/2026/film/news/netflix-buys-in-waves-cannes-1236753146/"
+    },
+    {
+      "title": "‘Full Phil’ Review: With Woody Harrelson and Kristen Stewart Locked in a Father-Daughter Hatefest, Will Quentin Dupieux’s Latest Bizarro-World Lark Be His Crossover Movie?",
+      "source": "Variety",
+      "date": "2026-05-18",
+      "url": "https://variety.com/2026/film/reviews/full-phil-review-kristen-stewart-woody-harrelson-1236752405/"
+    },
     {
       "title": "‘Game Changer’ Host Sam Reich on What Got Cut From Season 8 Premiere’s Censor-Heavy Episode, Including Jeremy Culhane’s ‘SNL’ Joke",
       "source": "Variety",
       "date": "2026-05-18",
       "url": "https://variety.com/2026/tv/news/game-changer-season-8-premiere-cut-jokes-standards-practices-1236752599/"
-    },
-    {
-      "title": "Stephen Colbert to Host Wrap Party Following Final ‘Late Show’ Taping With ‘Fired and Festive’ Dress Code (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-05-18",
-      "url": "https://variety.com/2026/tv/columns/colbert-host-wrap-party-final-late-show-taping-fired-festive-dress-code-1236753010/"
-    },
-    {
-      "title": "Shirtless Charles Melton, Brutal Murders and Daddy Issues: Nicolas Winding Refn’s ‘Her Private Hell’ Slays Cannes Crowd With 7-Minute Ovation",
-      "source": "Variety",
-      "date": "2026-05-18",
-      "url": "https://variety.com/2026/film/news/nicolas-refn-her-private-hell-cannes-charles-melton-1236739274/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「Michael マイケル」ムーンウォーク初披露の歴史的瞬間！「ビリー・ジーン」本編映像公開、IMAX先行上映決定",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/9/"
+    },
+    {
+      "title": "【映画.com配信アクセスランキング】第1位は「機動戦士ガンダム Twilight AXIS 赤き残影」、「パシフィック・ウォー」などがランクイン　今すぐ観られるベスト10を発表",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/8/"
+    },
     {
       "title": "黒川想矢×キム・ジアン、佐賀と釜山を舞台にした青春映画「3ミリの恋」11月6日公開",
       "source": "映画.com",
       "date": "2026-05-18",
       "url": "https://eiga.com/news/20260519/2/"
+    },
+    {
+      "title": "アン・リー新作はゴールドラッシュ末期の移民物語",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/5/"
+    },
+    {
+      "title": "「ザ・スーパーマリオギャラクシー・ムービー」が返り咲き1位！　新作は「映画 正直不動産」など4作品 【国内映画ランキング】",
+      "source": "映画.com",
+      "date": "2026-05-18",
+      "url": "https://eiga.com/news/20260519/4/"
     },
     {
       "title": "有村架純主演「マジカル・シークレット・ツアー」、椎名林檎の主題歌と本編映像が共鳴するスペシャルPVを披露【キャストコメントあり】",
@@ -158,36 +182,6 @@
       "source": "映画.com",
       "date": "2026-05-18",
       "url": "https://eiga.com/news/20260518/8/"
-    },
-    {
-      "title": "「ミッドナイト・ライブラリー」映画化、フローレンス・ピュー製作＆主演",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/6/"
-    },
-    {
-      "title": "人気ゲームのアニメ化「SEKIRO: NO DEFEAT」9月4日から3週間限定で劇場上映",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/5/"
-    },
-    {
-      "title": "「ジュラシック・パーク」脚本家が「ウエストワールド」をリブート",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/4/"
-    },
-    {
-      "title": "大友克洋が新たなアニメ制作スタジオを設立　新規タイトルの制作が進行中でスタッフの募集も",
-      "source": "映画.com",
-      "date": "2026-05-17",
-      "url": "https://eiga.com/news/20260518/3/"
-    },
-    {
-      "title": "「機動警察パトレイバー EZY File2」の本予告映像とキービジュアルが公開　シバシゲオら新キャラ5人も発表",
-      "source": "映画.com",
-      "date": "2026-05-17",
-      "url": "https://eiga.com/news/20260518/2/"
     }
   ],
   "bd_releases": [],
