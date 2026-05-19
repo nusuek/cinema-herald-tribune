@@ -1,26 +1,86 @@
 {
-  "generated_at": "2026-05-19T01:56:29.410119",
+  "generated_at": "2026-05-19T05:58:43.067917",
   "top_stories": [
     {
-      "title": "Netflix Snaps Up Cannes Critics Week’s Animated Feature ‘In Waves’ (EXCLUSIVE)",
+      "title": "Two-Time Oscar Nominee Andrey Zvyagintsev on Cannes Contender ‘Minotaur’ and Life After (Near) Death: ‘The Light Can Go Out at Any Second’",
       "source": "Variety",
       "date": "2026-05-19",
-      "url": "https://variety.com/2026/film/news/netflix-buys-in-waves-cannes-1236753146/"
+      "url": "https://variety.com/2026/film/global/andrey-zvyagintsev-cannes-minotaur-1236740572/"
     },
     {
-      "title": "‘Full Phil’ Review: With Woody Harrelson and Kristen Stewart Locked in a Father-Daughter Hatefest, Will Quentin Dupieux’s Latest Bizarro-World Lark Be His Crossover Movie?",
+      "title": "‘South Park’ Creators Show Jimmy Kimmel How They Made Trump’s Tiny Penis",
       "source": "Variety",
-      "date": "2026-05-18",
-      "url": "https://variety.com/2026/film/reviews/full-phil-review-kristen-stewart-woody-harrelson-1236752405/"
+      "date": "2026-05-19",
+      "url": "https://variety.com/2026/tv/news/south-park-creators-jimmy-kimmel-trump-penis-jd-vance-1236753247/"
     },
     {
-      "title": "‘Game Changer’ Host Sam Reich on What Got Cut From Season 8 Premiere’s Censor-Heavy Episode, Including Jeremy Culhane’s ‘SNL’ Joke",
+      "title": "Stephen Colbert Reveals NSFW Graphics and Cut Sketches in ‘Worst of the Late Show’ Episode",
       "source": "Variety",
-      "date": "2026-05-18",
-      "url": "https://variety.com/2026/tv/news/game-changer-season-8-premiere-cut-jokes-standards-practices-1236752599/"
+      "date": "2026-05-19",
+      "url": "https://variety.com/2026/tv/news/stephen-colbert-nsfw-sketches-worst-of-late-show-1236753231/"
     }
   ],
   "new_releases": [
+    {
+      "title": "死者を悼み、弔う心が生んだ台湾各地の日本神をめぐるドキュメンタリー「軍服を着た神様」8月公開",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/10/"
+    },
+    {
+      "title": "ライトアニメ「傷だらけ聖女より報復をこめて」シーズン2が10月放送開始　特報ティザーPV公開",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/16/"
+    },
+    {
+      "title": "動画工房制作「メビウス・ダスト」7月に放送決定　メインキャストに竹中悠斗、稗田寧々、佐藤榛夏　第1話冒頭映像が公開",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/17/"
+    },
+    {
+      "title": "【第79回カンヌ国際映画祭】岨手由貴子監督「すべて真夜中の恋人たち」初カンヌ岸井ゆきの＆常連浅野忠信に大きな拍手、フランス料理のシーンで笑いも",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/20/"
+    },
+    {
+      "title": "ピーター・ジャクソン、15年越しの「タンタン」新作の脚本を執筆中",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/15/"
+    },
+    {
+      "title": "「ひろしまアニメーションシーズン2026」コンペ選出作品発表！110の国・地域から3181作品の応募、76作品が入選",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/12/"
+    },
+    {
+      "title": "製作陣がこだわった“予習不要の物語”「マンダロリアン・アンド・グローグー」“初めてのSW体験”を今こそ！",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/14/"
+    },
+    {
+      "title": "もっと、キレイに、つ・な・げ・た・い！　カルトホラー「ムカデ人間 4K」8月21日公開決定＆“謎”特報を披露！",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/11/"
+    },
+    {
+      "title": "80歳の現役アクション俳優・倉田保昭主演作「夢物語」に加藤雅也、武田梨奈らが共演　サモ・ハンとキレッキレの激闘披露する特報映像も",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/13/"
+    },
+    {
+      "title": "橋口亮輔監督「ハッシュ！」「ぐるりのこと。」4Kリマスター版、メインビジュアル＆予告編＆場面写真一挙披露",
+      "source": "映画.com",
+      "date": "2026-05-19",
+      "url": "https://eiga.com/news/20260519/7/"
+    },
     {
       "title": "「Michael マイケル」ムーンウォーク初披露の歴史的瞬間！「ビリー・ジーン」本編映像公開、IMAX先行上映決定",
       "source": "映画.com",
@@ -128,60 +188,6 @@
       "source": "映画.com",
       "date": "2026-05-18",
       "url": "https://eiga.com/news/20260518/14/"
-    },
-    {
-      "title": "市川團十郎の襲名披露公演を捉えた三池崇史監督初のドキュメンタリー映画「襲名」9月公開　祝幕を村上隆が担当",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/13/"
-    },
-    {
-      "title": "「プラダを着た悪魔2」V2、「機動戦士ガンダム」「魔法科高校の劣等生　四葉継承編」などがアップ【映画.comアクセスランキング】",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/12/"
-    },
-    {
-      "title": "東野圭吾の問題作を映画化「殺人の門」第79回カンヌ国際映画祭のマーケットで世界にお披露目 山﨑賢人のビデオメッセージが上映",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/11/"
-    },
-    {
-      "title": "カンヌで開催「JAPANESE NIGHT」に1000人以上来場、日本映画への期待の高さをうかがわせる一夜に",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/10/"
-    },
-    {
-      "title": "イオンシネマ海老名が営業終了、クロージングセレモニーには“ライバル”TOHOシネマズ海老名の総支配人も駆けつける",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/9/"
-    },
-    {
-      "title": "【解禁済み・よきときに】鳥居みゆき主演、元テレビ局ディレクターがメガホンを取った「偏向報道」予告編と場面写真を披露",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/17/"
-    },
-    {
-      "title": "有村架純×黒木華×南沙良が闇バイト！　「マジカル・シークレット・ツアー」“金密輸”の旅の始まりを捉えた本編映像",
-      "source": "映画.com",
-      "date": "2026-05-15",
-      "url": "https://eiga.com/news/20260515/14/"
-    },
-    {
-      "title": "木戸大聖が体現する静かで優しいもうひとりの主人公「モブ子の恋」優しさがにじむ新場面写真公開",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/7/"
-    },
-    {
-      "title": "伊藤潤二「屋根裏の長い髪」アジア向けホラー映画として映像化　日本・タイ・韓国による国際共同企画開発",
-      "source": "映画.com",
-      "date": "2026-05-18",
-      "url": "https://eiga.com/news/20260518/8/"
     }
   ],
   "bd_releases": [],
