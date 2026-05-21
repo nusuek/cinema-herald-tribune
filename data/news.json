@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-05-20T23:01:13.777572",
+  "generated_at": "2026-05-21T01:55:09.889380",
   "top_stories": [
     {
-      "title": "Rami Malek Cries During 8-Minute Cannes Standing Ovation for Ira Sachs’ Gay Drama ‘The Man I Love’",
+      "title": "Stephen Colbert: From Interviewing John Lewis to Hosting at Home During COVID, These Six Moments Defined His ‘Late Show’ Tenure",
       "source": "Variety",
-      "date": "2026-05-20",
-      "url": "https://variety.com/2026/film/news/rami-malek-the-man-i-love-ovation-ira-sachs-1236736769/"
+      "date": "2026-05-21",
+      "url": "https://variety.com/lists/stephen-colbert-late-show-best-moments/"
     },
     {
-      "title": "‘The Bear’ Honored as the Italian Beef Is Named Official State Sandwich of Illinois",
+      "title": "Chelsea Handler Slams ‘Bigots’ Shane Gillis and Tony Hinchcliffe for ‘Racist’ Roast Jokes: ‘I Wasn’t Fine With That’",
       "source": "Variety",
-      "date": "2026-05-20",
-      "url": "https://variety.com/2026/tv/news/the-bear-italian-beef-state-sandwich-1236755337/"
+      "date": "2026-05-21",
+      "url": "https://variety.com/2026/tv/news/chelsea-handler-slams-shane-gillis-tony-hinchcliffe-racists-1236755525/"
     },
     {
-      "title": "‘The Man I Love’ Review: Rami Malek Has His Best Role Since ‘Bohemian Rhapody’ in Ira Sachs’s Delicate and Touching ’80s Character Study",
+      "title": "‘Survivor’ on ‘The White Lotus’: Mike White Announces Which Season 50 Contestants Will Make Cameos",
       "source": "Variety",
-      "date": "2026-05-20",
-      "url": "https://variety.com/2026/film/reviews/the-man-i-love-review-rami-malek-ira-sachs-1236754697/"
+      "date": "2026-05-21",
+      "url": "https://variety.com/2026/tv/news/mike-white-survivor-50-white-lotus-season-4-1236755603/"
     }
   ],
   "new_releases": [
+    {
+      "title": "伊藤万理華、松本まりか×高橋メアリージュン主演「エミリとマリア」参戦　2人と世代ギャップを感じるネイリスト役",
+      "source": "映画.com",
+      "date": "2026-05-21",
+      "url": "https://eiga.com/news/20260521/9/"
+    },
+    {
+      "title": "1986年メキシコW杯誘致に隠された嘘とハッタリ「メヒコ 1986」6月5日からNetflixで配信",
+      "source": "映画.com",
+      "date": "2026-05-21",
+      "url": "https://eiga.com/news/20260521/8/"
+    },
+    {
+      "title": "4Kデジタルリマスター版「魔女の宅急便」IMAX予告映像公開 入場者プレゼントも限定配布",
+      "source": "映画.com",
+      "date": "2026-05-20",
+      "url": "https://eiga.com/news/20260521/3/"
+    },
+    {
+      "title": "藤原竜也×広瀬アリス「全領域異常解決室」劇場版、2部作に！　2027年春公開へ変更",
+      "source": "映画.com",
+      "date": "2026-05-20",
+      "url": "https://eiga.com/news/20260521/7/"
+    },
     {
       "title": "驚きから不安、そして“恐怖”へと深化…鎮西寿々歌主演ホラー「だぁれかさんとアソぼ？」場面写真公開",
       "source": "映画.com",
@@ -38,12 +62,6 @@
       "source": "映画.com",
       "date": "2026-05-20",
       "url": "https://eiga.com/news/20260521/4/"
-    },
-    {
-      "title": "4Kデジタルリマスター版「魔女の宅急便」IMAX予告映像公開 入場者プレゼントも限定配布",
-      "source": "映画.com",
-      "date": "2026-05-20",
-      "url": "https://eiga.com/news/20260521/3/"
     },
     {
       "title": "黒木メイサ主演「八神瑛子」の警察キャストに高良健吾、池内博之、内村颯太の出演が決定！ コメントも公開",
@@ -170,24 +188,6 @@
       "source": "映画.com",
       "date": "2026-05-20",
       "url": "https://eiga.com/news/20260520/8/"
-    },
-    {
-      "title": "巨大戦闘ビークルの猛攻を難なく回避！「スター・ウォーズ　マンダロリアン・アンド・グローグー」本編映像が初公開",
-      "source": "映画.com",
-      "date": "2026-05-20",
-      "url": "https://eiga.com/news/20260520/7/"
-    },
-    {
-      "title": "グラニフ×攻殻機動隊、初コラボアイテムが発売開始　タチコマや笑い男のアイテム充実",
-      "source": "映画.com",
-      "date": "2026-05-20",
-      "url": "https://eiga.com/news/20260520/6/"
-    },
-    {
-      "title": "伊藤英明×染谷将太主演　北朝鮮に密入国、命懸けのノワールアクション　井筒和幸監督「国境」2027年公開決定！",
-      "source": "映画.com",
-      "date": "2026-05-20",
-      "url": "https://eiga.com/news/20260520/5/"
     }
   ],
   "bd_releases": [],
