@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-05-21T23:45:21.716338",
+  "generated_at": "2026-05-22T01:57:09.340943",
   "top_stories": [
+    {
+      "title": "Emmy Predictions: Dark Horses Begin to Emerge as ‘Pluribus’ Rises",
+      "source": "Variety",
+      "date": "2026-05-22",
+      "url": "https://variety.com/lists/2026-emmys-predictions/"
+    },
+    {
+      "title": "Emmys: Guest Actor/Actress — Colman Domingo, Michael J. Fox, Shailene Woodley and Jamie Lee Curtis Lead Star-Studded Field",
+      "source": "Variety",
+      "date": "2026-05-21",
+      "url": "https://variety.com/lists/2026-emmys-guest-actor-actress-predictions/"
+    },
     {
       "title": "CAA Gathers Top Filmmakers, Studio Execs for Cannes Symposium on the Future of Film With Finch & Partners",
       "source": "Variety",
       "date": "2026-05-21",
       "url": "https://variety.com/2026/film/news/caa-finch-film-symposium-cannes-film-festival-1236756492/"
-    },
-    {
-      "title": "Charli xcx Serves High Fashion on the Runway in ‘SS26’ Music Video",
-      "source": "Variety",
-      "date": "2026-05-21",
-      "url": "https://variety.com/2026/music/news/charli-xcx-ss26-music-video-high-fashion-runway-1236756432/"
-    },
-    {
-      "title": "Harry Styles Celebrates Radiohead, Rosalia and Lola Young Win Big, Multiple Artists Slam A.I. at Chaotic Ivor Novellos Songwriter Awards",
-      "source": "Variety",
-      "date": "2026-05-21",
-      "url": "https://variety.com/2026/music/news/harry-styles-radiohead-rosalia-lola-young-ivor-novello-awards-1236756456/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【世界の映画館めぐり】韓国・CGV龍山　“AMAZE! AMAZE! AMAZE!”アジア最大級のIMAXシアターで「プロジェクト・ヘイル・メアリー」を体験",
+      "source": "映画.com",
+      "date": "2026-05-22",
+      "url": "https://eiga.com/news/20260522/8/"
+    },
+    {
+      "title": "イオンシネマで「トイ・ストーリー5」の劇場マナーCMを期間限定上映！　新キャラクターたちの姿も",
+      "source": "映画.com",
+      "date": "2026-05-22",
+      "url": "https://eiga.com/news/20260522/7/"
+    },
     {
       "title": "ガス・バン・サント監督作「デッドマンズ・ワイヤー」ロング予告公開！　映画を彩る珠玉のプレイリストも披露",
       "source": "映画.com",
@@ -170,18 +182,6 @@
       "source": "映画.com",
       "date": "2026-05-21",
       "url": "https://eiga.com/news/20260521/8/"
-    },
-    {
-      "title": "4Kデジタルリマスター版「魔女の宅急便」IMAX予告映像公開 入場者プレゼントも限定配布",
-      "source": "映画.com",
-      "date": "2026-05-20",
-      "url": "https://eiga.com/news/20260521/3/"
-    },
-    {
-      "title": "藤原竜也×広瀬アリス「全領域異常解決室」劇場版、2部作に！　2027年春公開へ変更",
-      "source": "映画.com",
-      "date": "2026-05-20",
-      "url": "https://eiga.com/news/20260521/7/"
     }
   ],
   "bd_releases": [],
