@@ -1,31 +1,73 @@
 {
-  "generated_at": "2026-05-22T01:57:09.340943",
+  "generated_at": "2026-05-22T05:59:01.856270",
   "top_stories": [
     {
-      "title": "Emmy Predictions: Dark Horses Begin to Emerge as ‘Pluribus’ Rises",
+      "title": "‘The Late Show With Stephen Colbert’ Series Finale Was a Letdown: TV Review",
       "source": "Variety",
       "date": "2026-05-22",
-      "url": "https://variety.com/lists/2026-emmys-predictions/"
+      "url": "https://variety.com/2026/tv/news/late-show-series-finale-review-stephen-colbert-letdown-1236756662/"
     },
     {
-      "title": "Emmys: Guest Actor/Actress — Colman Domingo, Michael J. Fox, Shailene Woodley and Jamie Lee Curtis Lead Star-Studded Field",
+      "title": "‘I See Buildings Fall Like Lightning’ Review: Clio Barnard Returns With a Clunky Social-Realist Weepie About Five Friends in Birmingham",
       "source": "Variety",
-      "date": "2026-05-21",
-      "url": "https://variety.com/lists/2026-emmys-guest-actor-actress-predictions/"
+      "date": "2026-05-22",
+      "url": "https://variety.com/2026/film/reviews/i-see-buildings-fall-like-lightning-review-1236756631/"
     },
     {
-      "title": "CAA Gathers Top Filmmakers, Studio Execs for Cannes Symposium on the Future of Film With Finch & Partners",
+      "title": "Hamaguchi Ryusuke on Cannes Palme d’Or Contender ‘All of a Sudden’: ‘What I Was Moved By Was What Was in the Book Itself’",
       "source": "Variety",
-      "date": "2026-05-21",
-      "url": "https://variety.com/2026/film/news/caa-finch-film-symposium-cannes-film-festival-1236756492/"
+      "date": "2026-05-22",
+      "url": "https://variety.com/2026/film/festivals/hamaguchi-ryusuke-all-of-a-sudden-cannes-interview-1236756635/"
     }
   ],
   "new_releases": [
+    {
+      "title": "石橋静河主演のNHK連続テレビ小説「ブラッサム」　426人の中から選ばれた新星・村上蘭が主人公の幼少期演じる",
+      "source": "映画.com",
+      "date": "2026-05-22",
+      "url": "https://eiga.com/news/20260522/14/"
+    },
+    {
+      "title": "「トムとジェリーの宝島」5月24日にTOKYO MXで放送決定！番組最後には最新映画のオープニング映像をテレビ初公開",
+      "source": "映画.com",
+      "date": "2026-05-22",
+      "url": "https://eiga.com/news/20260522/13/"
+    },
     {
       "title": "【世界の映画館めぐり】韓国・CGV龍山　“AMAZE! AMAZE! AMAZE!”アジア最大級のIMAXシアターで「プロジェクト・ヘイル・メアリー」を体験",
       "source": "映画.com",
       "date": "2026-05-22",
       "url": "https://eiga.com/news/20260522/8/"
+    },
+    {
+      "title": "「時代を経ても社会に向き合い続ける作品に」染谷将太が語る「廃用身」の挑戦【インタビュー】",
+      "source": "映画.com",
+      "date": "2026-05-22",
+      "url": "https://eiga.com/news/20260522/12/"
+    },
+    {
+      "title": "世界の映画祭で驚異の82冠達成！CGに頼らない“本物のアクション”「四十九 Seek」日本公開決定",
+      "source": "映画.com",
+      "date": "2026-05-22",
+      "url": "https://eiga.com/news/20260522/11/"
+    },
+    {
+      "title": "「Michael マイケル」ブライアン・メイやスパイク・リーが絶賛、“キング・オブ・ポップ”の再評価高まる",
+      "source": "映画.com",
+      "date": "2026-05-21",
+      "url": "https://eiga.com/news/20260521/20/"
+    },
+    {
+      "title": "アリ・アスターも愛する家族の映画「きれっぱしの愛」小林聡美によるナレーション本予告、新場面写真公開",
+      "source": "映画.com",
+      "date": "2026-05-22",
+      "url": "https://eiga.com/news/20260522/9/"
+    },
+    {
+      "title": "「LOST」「ウォッチメン」生んだ脚本家、「スター・ウォーズ」解雇を語る",
+      "source": "映画.com",
+      "date": "2026-05-22",
+      "url": "https://eiga.com/news/20260522/10/"
     },
     {
       "title": "イオンシネマで「トイ・ストーリー5」の劇場マナーCMを期間限定上映！　新キャラクターたちの姿も",
@@ -88,12 +130,6 @@
       "url": "https://eiga.com/news/20260521/21/"
     },
     {
-      "title": "「Michael マイケル」ブライアン・メイやスパイク・リーが絶賛、“キング・オブ・ポップ”の再評価高まる",
-      "source": "映画.com",
-      "date": "2026-05-21",
-      "url": "https://eiga.com/news/20260521/20/"
-    },
-    {
       "title": "名門合唱団で起きた少女たちへの性的虐待　実際の事件から着想を得た映画「ブロークン・ヴォイス」9月19日公開",
       "source": "映画.com",
       "date": "2026-05-21",
@@ -140,48 +176,6 @@
       "source": "映画.com",
       "date": "2026-05-21",
       "url": "https://eiga.com/news/20260521/15/"
-    },
-    {
-      "title": "チ・チャンウク×今田美桜主演の日韓合作ラブコメ「メリーベリーラブ」 にナム・ユンス参戦",
-      "source": "映画.com",
-      "date": "2026-05-21",
-      "url": "https://eiga.com/news/20260521/14/"
-    },
-    {
-      "title": "ガールズフィッシング漫画「つりこまち」実写映画化決定！ ビジュアル＆原作者メッセージ公開",
-      "source": "映画.com",
-      "date": "2026-05-21",
-      "url": "https://eiga.com/news/20260521/12/"
-    },
-    {
-      "title": "目黒蓮主演「SAKAMOTO DAYS」坂本家の“家族愛”が詰まった心温まる新場面写真＆オフショット公開",
-      "source": "映画.com",
-      "date": "2026-05-21",
-      "url": "https://eiga.com/news/20260521/11/"
-    },
-    {
-      "title": "稲垣吾郎×草彅剛×香取慎吾「バナ穴 BANA_ANA」公開日は6月27日に決定！予測不能な新ビジュアル披露",
-      "source": "映画.com",
-      "date": "2026-05-21",
-      "url": "https://eiga.com/news/20260521/13/"
-    },
-    {
-      "title": "韓国中を沸かせたラブストーリー「サヨナラの引⼒」新場面写真とク・ギョファン＆ムン・ガヨンのメッセージ入り動画公開",
-      "source": "映画.com",
-      "date": "2026-05-21",
-      "url": "https://eiga.com/news/20260521/10/"
-    },
-    {
-      "title": "伊藤万理華、松本まりか×高橋メアリージュン主演「エミリとマリア」参戦　2人と世代ギャップを感じるネイリスト役",
-      "source": "映画.com",
-      "date": "2026-05-21",
-      "url": "https://eiga.com/news/20260521/9/"
-    },
-    {
-      "title": "1986年メキシコW杯誘致に隠された嘘とハッタリ「メヒコ 1986」6月5日からNetflixで配信",
-      "source": "映画.com",
-      "date": "2026-05-21",
-      "url": "https://eiga.com/news/20260521/8/"
     }
   ],
   "bd_releases": [],
