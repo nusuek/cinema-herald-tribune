@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-22T23:54:22.848299",
+  "generated_at": "2026-05-23T01:47:54.816003",
   "top_stories": [
+    {
+      "title": "Paul McCartney Explores His Ever-Present Past in ‘The Boys of Dungeon Lane,’ a Delightful Return to Wings-Era Form: Album Review",
+      "source": "Variety",
+      "date": "2026-05-23",
+      "url": "https://variety.com/2026/music/album-reviews/paul-mccartney-boys-of-dungeon-lane-album-review-1236757156/"
+    },
     {
       "title": "‘Bait’ Team on the Show’s James Bond Plotline and Depicting Inner Struggle: ‘Being Muslim in the West Feels Like You’re Stuck in a Spy Thriller’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-05-22",
       "url": "https://variety.com/2026/film/news/caa-moebius-labs-emerging-filmmakers-showcase-1236757408/"
-    },
-    {
-      "title": "‘Dutton Ranch’ Episode 3: Rip’s Cattle Might Be Ruined by Anti-Vaxxers and Carter Avoids Getting Murdered After Peeing on a Truck",
-      "source": "Variety",
-      "date": "2026-05-22",
-      "url": "https://variety.com/2026/tv/news/dutton-ranch-episode-3-recap-rip-sick-cattle-carter-hookup-1236757328/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ジェームズ・キャメロン監督、「アバター4」の製作の効率化を模索",
+      "source": "映画.com",
+      "date": "2026-05-23",
+      "url": "https://eiga.com/news/20260523/5/"
+    },
+    {
+      "title": "アダム・ドライバー、レナ・ダナムの回顧録での暴露に対してコメント",
+      "source": "映画.com",
+      "date": "2026-05-23",
+      "url": "https://eiga.com/news/20260523/4/"
+    },
     {
       "title": "【上質映画館　諸国漫遊記】TOHOシネマズららぽーと門真／理想を追求した「新設」スクリーンの感激体験",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2026-05-21",
       "url": "https://eiga.com/news/20260522/4/"
-    },
-    {
-      "title": "白骨化した母の遺体と対面、隠された過去とは…ヨン・サンホ監督「顔」予告編",
-      "source": "映画.com",
-      "date": "2026-05-21",
-      "url": "https://eiga.com/news/20260522/5/"
-    },
-    {
-      "title": "「マンダロリアン＆グローグー」前夜祭！大勢のSWファンと一緒のカウントダウン大盛況",
-      "source": "映画.com",
-      "date": "2026-05-21",
-      "url": "https://eiga.com/news/20260522/3/"
     }
   ],
   "bd_releases": [],
