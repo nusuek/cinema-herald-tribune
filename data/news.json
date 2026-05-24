@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-23T23:44:02.109521",
+  "generated_at": "2026-05-24T01:54:02.826554",
   "top_stories": [
+    {
+      "title": "Cannes Jury President Park Chan-wook Teases: ‘I Didn’t Want to Award the Palme d’Or to Any of the Films’",
+      "source": "Variety",
+      "date": "2026-05-24",
+      "url": "https://variety.com/2026/film/news/cannes-park-chan-wook-joke-palme-dor-jury-president-1236757779/"
+    },
     {
       "title": "Live Nation Operates in ‘Climate of Fear,’ Finds U.K. Trade Committee, Urges ‘Full Market Investigation’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-05-23",
       "url": "https://variety.com/2026/film/festivals/neon-seventh-palme-dor-fjord-cannes-1236757761/"
-    },
-    {
-      "title": "Alfred Molina on ‘The Boroughs’ Spoilers, Working With the Duffer Brothers and Doc Ock’s Legacy: ‘I Would Do It Again, No Doubt’",
-      "source": "Variety",
-      "date": "2026-05-23",
-      "url": "https://variety.com/2026/tv/news/alfred-molina-the-boroughs-spoilers-spider-man-brand-new-day-1236756241/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ヴェルヴェット・アンダーグラウンドの歌姫ニコの“最後の旅路”を描く「残響のメロディ」特報＆場面写真公開",
+      "source": "映画.com",
+      "date": "2026-05-24",
+      "url": "https://eiga.com/news/20260524/4/"
+    },
+    {
+      "title": "【第79回カンヌ国際映画祭】クリスティアン・ムンジウが2度目のパルムドール　グランプリのアンドレイ・ズビャギンツェフ「戦争をやめるべき」とロシア語で訴える",
+      "source": "映画.com",
+      "date": "2026-05-24",
+      "url": "https://eiga.com/news/20260524/17/"
+    },
     {
       "title": "【第79回カンヌ国際映画祭】濱口竜介監督「急に具合が悪くなる」ビルジニー・エフィラ、岡本多緒に女優賞　日本人受賞は史上初",
       "source": "映画.com",
@@ -164,24 +176,6 @@
       "source": "映画.com",
       "date": "2026-05-22",
       "url": "https://eiga.com/news/20260522/18/"
-    },
-    {
-      "title": "マイケルの甥ジャファー・ジャクソンらが来日する「Michael マイケル」ジャパンプレミア開催、新ポスター公開",
-      "source": "映画.com",
-      "date": "2026-05-22",
-      "url": "https://eiga.com/news/20260522/20/"
-    },
-    {
-      "title": "“DIY”で創造し続けた謎多き音楽集団に迫る「エレファント6レコーディング・カンパニー」7月31日公開",
-      "source": "映画.com",
-      "date": "2026-05-22",
-      "url": "https://eiga.com/news/20260522/17/"
-    },
-    {
-      "title": "「マスターズ・オブ・ユニバース」日本語吹替版に鈴⽊崚汰、杉⽥智和ら“銀河級声優陣”が集結！",
-      "source": "映画.com",
-      "date": "2026-05-22",
-      "url": "https://eiga.com/news/20260522/19/"
     }
   ],
   "bd_releases": [],
