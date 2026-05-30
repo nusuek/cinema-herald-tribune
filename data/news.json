@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-05-30T02:52:30.037020",
+  "generated_at": "2026-05-30T06:11:52.712585",
   "top_stories": [
+    {
+      "title": "Lucasfilm Pays Tribute to ‘Star Wars’ Editor Marcia Lucas: ‘Deeply Saddened’",
+      "source": "Variety",
+      "date": "2026-05-30",
+      "url": "https://variety.com/2026/film/news/george-lucas-marcia-lucas-1236762877/"
+    },
     {
       "title": "Bill Maher Brutally Mocks Trump’s Disastrous Freedom 250 Concert",
       "source": "Variety",
@@ -8,19 +14,31 @@
       "url": "https://variety.com/2026/tv/news/bill-maher-mocks-trump-freedom-250-concert-real-time-bret-michaels-1236762924/"
     },
     {
-      "title": "’13 Reasons Why’ Actors Ross Butler and Timothy Granaderos Reunite at Filipino Forces Event",
+      "title": "‘The Pitt’ Star Kristin Villanueva Says She Would Like to Explore Producing at Filipino Forces Event",
       "source": "Variety",
       "date": "2026-05-30",
-      "url": "https://variety.com/2026/scene/news/13-reasons-why-actors-ross-butler-and-timothy-granaderos-reunite-filipino-forces-1236762872/"
-    },
-    {
-      "title": "Frankie Valli Cancels Concerts for Remainder of 2026 ‘to Focus on My Health’",
-      "source": "Variety",
-      "date": "2026-05-30",
-      "url": "https://variety.com/2026/music/news/frankie-valli-cancels-concerts-2026-focus-on-health-1236762858/"
+      "url": "https://variety.com/2026/scene/news/pitt-kristin-villanueva-explore-producing-filipino-forces-1236762872/"
     }
   ],
   "new_releases": [
+    {
+      "title": "完全AI生成の長編映画、トライベッカ映画祭の公式部門に初選出",
+      "source": "映画.com",
+      "date": "2026-05-30",
+      "url": "https://eiga.com/news/20260530/8/"
+    },
+    {
+      "title": "トム・ハンクス、「トイ・ストーリー5」最も心を打つシーンを予告",
+      "source": "映画.com",
+      "date": "2026-05-30",
+      "url": "https://eiga.com/news/20260530/7/"
+    },
+    {
+      "title": "イラク戦争が奪ったのは、メッシに憧れる少年の左脚と夢だった　「バグダッド・メッシ　片足のサッカー少年」8月公開",
+      "source": "映画.com",
+      "date": "2026-05-30",
+      "url": "https://eiga.com/news/20260530/6/"
+    },
     {
       "title": "ヘレン・ミレン、現場トラブル報道のトム・ハーディを擁護",
       "source": "映画.com",
@@ -134,24 +152,6 @@
       "source": "映画.com",
       "date": "2026-05-29",
       "url": "https://eiga.com/news/20260529/7/"
-    },
-    {
-      "title": "第35回日本映画プロフェッショナル大賞、作品賞は高橋伴明監督『「桐島です」』 毎熊克哉が主演男優賞を獲得",
-      "source": "映画.com",
-      "date": "2026-05-29",
-      "url": "https://eiga.com/news/20260529/6/"
-    },
-    {
-      "title": "キアヌ・リーブス、「47RONIN」監督の減刑を嘆願",
-      "source": "映画.com",
-      "date": "2026-05-28",
-      "url": "https://eiga.com/news/20260529/5/"
-    },
-    {
-      "title": "「名探偵コナン　ハイウェイの堕天使」5月29日から4DX上映が特別バージョンに　スピード感、座席の振動、エフェクト演出などを強化",
-      "source": "映画.com",
-      "date": "2026-05-28",
-      "url": "https://eiga.com/news/20260529/4/"
     }
   ],
   "bd_releases": [],
