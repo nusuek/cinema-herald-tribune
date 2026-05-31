@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-05-31T11:23:26.849717",
+  "generated_at": "2026-05-31T13:05:53.153542",
   "top_stories": [
+    {
+      "title": "‘Meet the Press’ Launches Live-Event Franchise With ‘Moment’ Conversations",
+      "source": "Variety",
+      "date": "2026-05-31",
+      "url": "https://variety.com/2026/tv/news/meet-the-press-live-events-moment-kristen-welker-nbc-news-1236763334/"
+    },
+    {
+      "title": "President Lula Launches Tela Brasil, a Free-of-Charge Streaming Service Offering Brazilian Productions",
+      "source": "Variety",
+      "date": "2026-05-31",
+      "url": "https://variety.com/2026/film/news/lula-brazilian-streamer-catalog-rio2c-1236763185/"
+    },
     {
       "title": "Kanye West and Travis Scott Concerts Banned in Italy",
       "source": "Variety",
       "date": "2026-05-31",
       "url": "https://variety.com/2026/music/global/kanye-west-travis-scott-concerts-banned-italy-1236763296/"
-    },
-    {
-      "title": "Jay-Z Brings New York Flair to Philadelphia for Triumphant Roots Picnic Performance Featuring Jazmine Sullivan, Bilal and Meek Mill: Concert Review",
-      "source": "Variety",
-      "date": "2026-05-31",
-      "url": "https://variety.com/2026/music/concert-reviews/jay-z-roots-picnic-philadelphia-concert-review-1236763295/"
-    },
-    {
-      "title": "‘Only Murders in the Building,’ ’48 Hours’ Among This Year’s CrimeCon Clue Awards Winners",
-      "source": "Variety",
-      "date": "2026-05-31",
-      "url": "https://variety.com/2026/tv/news/crimecon-clue-awards-winners-2026-only-murders-in-building-1236762945/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「タクシードライバー」脚本家、AIで作られた主人公がドル箱になると予言",
+      "source": "映画.com",
+      "date": "2026-05-31",
+      "url": "https://eiga.com/news/20260531/13/"
+    },
     {
       "title": "「冰剣の魔術師が世界を統べる」第2期が10月放送開始　榎木淳弥、佐伯伊織、関根明良が第1期から続投",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2026-05-29",
       "url": "https://eiga.com/news/20260530/1/"
-    },
-    {
-      "title": "没後8年のマーベル創始者スタン・リー、AI で「復活」へ",
-      "source": "映画.com",
-      "date": "2026-05-29",
-      "url": "https://eiga.com/news/20260529/24/"
     }
   ],
   "bd_releases": [],
