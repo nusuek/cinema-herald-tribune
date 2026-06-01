@@ -1,26 +1,92 @@
 {
-  "generated_at": "2026-06-01T08:17:02.009580",
+  "generated_at": "2026-06-01T14:42:41.944832",
   "top_stories": [
     {
-      "title": "Hasan Piker, Cenk Uygur Reportedly Barred from Attending SXSW London by U.K. Home Office",
+      "title": "Sydney Sweeney Told ‘Euphoria’ Creator Not to Cut Nude Scenes From Season 3 When He Considered Excluding Them: ‘Are You Kidding?’",
       "source": "Variety",
       "date": "2026-06-01",
-      "url": "https://variety.com/2026/digital/global/hasan-piker-cenk-uygur-banned-uk-sxsw-london-1236763721/"
+      "url": "https://variety.com/2026/tv/news/sydney-sweeney-euphoria-nude-scenes-season-3-1236763917/"
     },
     {
-      "title": "How Jason Momoa’s ‘Minecraft,’ ‘Dune’ and DC Superhero Roles Made Him Lego’s Perfect Playmaker",
+      "title": "Italian Producer Marco Perego on Backing Cannes Winners ‘Fjord’ and ‘Minotaur’ as Indie Cinema Comes Under Threat: ‘We Need to Start Talking About Community’",
       "source": "Variety",
       "date": "2026-06-01",
-      "url": "https://variety.com/2026/film/news/jason-momoa-minecraft-2-supergirl-dune-3-lego-psa-1236763676/"
+      "url": "https://variety.com/2026/film/festivals/marco-perego-cannes-fjord-minotaur-indie-cinema-1236763753/"
     },
     {
-      "title": "‘Euphoria’ Officially Ending With Season 3, HBO Confirms",
+      "title": "Korea Box Office: ‘Colony’ Continues Dominant Run While ‘Backrooms’ Debuts in Second",
       "source": "Variety",
       "date": "2026-06-01",
-      "url": "https://variety.com/2026/tv/news/euphoria-ending-season-3-hbo-1236760319/"
+      "url": "https://variety.com/2026/film/box-office/korea-box-office-colony-backrooms-1236763909/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「銀河特急 ミルキー☆サブウェイ」劇場総集編、6月1日からNetflixで世界独占配信スタート",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/25/"
+    },
+    {
+      "title": "トランプ大統領の肝いり建国記念コンサートが空中分解？　出演者が大量辞退",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/24/"
+    },
+    {
+      "title": "「映画ちいかわ」OPテーマはナガノ作詞、ハチワレ歌唱の新曲「くつずれ」　島二郎＆セイレーンの声優も発表",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/21/"
+    },
+    {
+      "title": "「トイ・ストーリー5」にテイラー・スウィフトが関与?　ファン騒然",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/20/"
+    },
+    {
+      "title": "「マンダロリアン・アンド・グローグー」興収15 億円突破！ マンドーとグローグーの直球の楽しさが未経験者にも伝染",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/22/"
+    },
+    {
+      "title": "孤独な中年男と麻薬の売人の物語　80年代フレンチ・ノワールの金字塔「チャオ・パンタン」4K、7月4日公開",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/12/"
+    },
+    {
+      "title": "「マトリックス」シリーズ全4作、「BS10プレミアム」で一挙放送！",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/13/"
+    },
+    {
+      "title": "アル・パチーノの狂演を目に焼き付けろ　日本最終上映「スカーフェイス」ビジュアル＆予告編公開",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/14/"
+    },
+    {
+      "title": "映画「スーパーガール」×K-popガールズグループ“LE SSERAFIM”楽曲コラボが決定！　グリーティング映像を披露",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/17/"
+    },
+    {
+      "title": "「マンダロリアン」が2週連続V！ 新作は「箱の中の羊」など3作品【国内映画ランキング】",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/23/"
+    },
+    {
+      "title": "「TOHOシネマズ」鑑賞料金改定　全国一律見直し、各劇場の立地特性・設備環境などを踏まえ100円～200円アップ",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260601/19/"
+    },
     {
       "title": "奇怪な連続殺人事件の犯人を追う耐えがたい93分「ストレンジ・ハーベスト」凄惨な姿を捉えた本予告＆ポスター完成",
       "source": "映画.com",
@@ -110,66 +176,6 @@
       "source": "映画.com",
       "date": "2026-05-31",
       "url": "https://eiga.com/news/20260531/13/"
-    },
-    {
-      "title": "「冰剣の魔術師が世界を統べる」第2期が10月放送開始　榎木淳弥、佐伯伊織、関根明良が第1期から続投",
-      "source": "映画.com",
-      "date": "2026-05-31",
-      "url": "https://eiga.com/news/20260531/12/"
-    },
-    {
-      "title": "“人生の視点が変わる”おすすめドキュメンタリー映画30選　映画.com編集部が本当に面白い傑作・秀作・必見作を厳選",
-      "source": "映画.com",
-      "date": "2026-05-31",
-      "url": "https://eiga.com/news/20260531/11/"
-    },
-    {
-      "title": "浅田真央＆GENERATIONS中務裕太、キッズと「今夜はビート・イット」でダンス！「マイケルが見たら喜ぶ」",
-      "source": "映画.com",
-      "date": "2026-05-31",
-      "url": "https://eiga.com/news/20260531/16/"
-    },
-    {
-      "title": "「映画館の救世主」IMAXが売られるという衝撃【ハリウッドコラムvol.374】",
-      "source": "映画.com",
-      "date": "2026-05-31",
-      "url": "https://eiga.com/news/20260531/10/"
-    },
-    {
-      "title": "「マンダロリアン」の“中の人”は、あの有名俳優の孫だった",
-      "source": "映画.com",
-      "date": "2026-05-26",
-      "url": "https://eiga.com/news/20260526/12/"
-    },
-    {
-      "title": "反町隆史主演「GTO」生徒役が発表！　稲垣来泉ら新星28人が熾烈なオーディション勝ち抜く",
-      "source": "映画.com",
-      "date": "2026-05-31",
-      "url": "https://eiga.com/news/20260531/8/"
-    },
-    {
-      "title": "LGBTQ+映画と女性監督作の増加、世代交代を意識した若返り　第79回カンヌ国際映画祭振り返り",
-      "source": "映画.com",
-      "date": "2026-05-31",
-      "url": "https://eiga.com/news/20260531/7/"
-    },
-    {
-      "title": "【本日放送】賀来賢人「30歳で芽が出なければ引退」を覚悟　恩師・福田雄一監督との熱い絆とは？",
-      "source": "映画.com",
-      "date": "2026-05-31",
-      "url": "https://eiga.com/news/20260531/6/"
-    },
-    {
-      "title": "ドン・キホーテ限定、ちいかわ×ドンペンのグッズが6月6日から50店舗限定で発売",
-      "source": "映画.com",
-      "date": "2026-05-31",
-      "url": "https://eiga.com/news/20260531/5/"
-    },
-    {
-      "title": "「月華国奇医伝」TVアニメ化　医術に長けた少女・胡葉役に日高里菜　大塚剛央、坂泰斗、千葉翔也も出演",
-      "source": "映画.com",
-      "date": "2026-05-30",
-      "url": "https://eiga.com/news/20260531/4/"
     }
   ],
   "bd_releases": [],
