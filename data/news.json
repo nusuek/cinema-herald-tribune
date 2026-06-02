@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-06-01T22:27:00.911574",
+  "generated_at": "2026-06-02T00:02:36.125806",
   "top_stories": [
+    {
+      "title": "The Academy Launches Global Award Recognizing Exceptional Movie Theaters Worldwide – Film News in Brief",
+      "source": "Variety",
+      "date": "2026-06-01",
+      "url": "https://variety.com/2026/film/news/film-news-in-brief-june-1-2026-1236763966/"
+    },
+    {
+      "title": "Longtime Disney Exec Jim Kapenstein, Who Helped Oversee Some Of Its Biggest Acquisitions, Joins Starz as Chief Legal and Strategy Officer",
+      "source": "Variety",
+      "date": "2026-06-01",
+      "url": "https://variety.com/2026/tv/news/disney-jim-kapenstein-starz-chief-legal-strategy-officer-1236764548/"
+    },
     {
       "title": "Haley Bennett and Jack Whitehall Open SXSW London Film Section With World Premiere of ‘Virginia Woolf’s Night and Day’",
       "source": "Variety",
       "date": "2026-06-01",
       "url": "https://variety.com/2026/film/global/virginia-woolfs-night-and-day-world-premiere-sxsw-london-1236763990/"
-    },
-    {
-      "title": "Josh O’Connor, Tom Francis, Sam Taylor-Johnson, Thea Sharrock and Edward Enninful to Present at Inaugural Power of Women London",
-      "source": "Variety",
-      "date": "2026-06-01",
-      "url": "https://variety.com/2026/biz/news/power-of-women-london-presenters-1236764414/"
-    },
-    {
-      "title": "‘The Lost Boys’ Director Michael Arden on Honoring the Cult Horror Classic and His Plans for ‘Happy Feet’ Broadway Musical With ‘Anthropomorphic Animals’",
-      "source": "Variety",
-      "date": "2026-06-01",
-      "url": "https://variety.com/2026/legit/awards/michael-arden-lost-boys-happy-feet-anthropomorphic-broadway-1236764265/"
     }
   ],
   "new_releases": [
+    {
+      "title": "是枝裕和＆西川美和の愛弟子・孫明雅監督デビュー作「トロフィー」YOU、きたろう、山中崇ら実力派キャスト集結 本予告も完成",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260602/4/"
+    },
+    {
+      "title": "津田健次郎、映画「アンパンマン」最新作に参戦！「本当に嬉しかった」と語るアフレコ映像公開",
+      "source": "映画.com",
+      "date": "2026-06-01",
+      "url": "https://eiga.com/news/20260602/5/"
+    },
     {
       "title": "綾瀬はるか、バブル期の熱血弁護士に！「ファーストボイス」10月2日公開　ファーストサマーウイカ、松本穂香が共演",
       "source": "映画.com",
@@ -164,18 +176,6 @@
       "source": "映画.com",
       "date": "2026-06-01",
       "url": "https://eiga.com/news/20260601/3/"
-    },
-    {
-      "title": "池松壮亮主演、石井裕也監督「開戦前夜」7月31日公開　日本、必敗――真珠湾攻撃4カ月前のシミュレーション、エリートたちの苦悩描く",
-      "source": "映画.com",
-      "date": "2026-05-31",
-      "url": "https://eiga.com/news/20260601/2/"
-    },
-    {
-      "title": "ちいかわ×リポビタン、6月1日からコラボ　対象商品を購入するとオリジナルグッズがもらえる",
-      "source": "映画.com",
-      "date": "2026-05-31",
-      "url": "https://eiga.com/news/20260601/1/"
     }
   ],
   "bd_releases": [],
