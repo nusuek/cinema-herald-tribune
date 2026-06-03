@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-06-02T22:52:23.748808",
+  "generated_at": "2026-06-03T00:21:20.368387",
   "top_stories": [
+    {
+      "title": "‘The Hunting Party’ Canceled After Two Seasons at NBC",
+      "source": "Variety",
+      "date": "2026-06-02",
+      "url": "https://variety.com/2026/tv/news/the-hunting-party-canceled-nbc-1236736781/"
+    },
+    {
+      "title": "Ernest Chambers, ‘The Smothers Brothers Comedy Hour’ Showrunner, Dies at 97",
+      "source": "Variety",
+      "date": "2026-06-02",
+      "url": "https://variety.com/2026/tv/news/ernest-chambers-dead-click-dick-van-dyke-show-1236765054/"
+    },
     {
       "title": "Peabo Bryson, Veteran R&B Singer of ‘Beauty and the Beast’ and ‘Whole New World,’ Dies at 75",
       "source": "Variety",
       "date": "2026-06-02",
       "url": "https://variety.com/2026/music/news/peabo-bryson-dead-beauty-and-the-beast-1236765354/"
-    },
-    {
-      "title": "‘Wolverine’ Game Developers Break Down New Footage, X-Men Cameos, ‘Low-Gore’ Option, Claw Combat and How Logan Can Die",
-      "source": "Variety",
-      "date": "2026-06-02",
-      "url": "https://variety.com/2026/digital/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/"
-    },
-    {
-      "title": "Mindy Kaling and ‘Not Suitable For Work’ Boss on Depicting the Gen-Z Workforce Onscreen and Setting Up Numerous Love Triangles: ‘You Want to Keep People Guessing’",
-      "source": "Variety",
-      "date": "2026-06-02",
-      "url": "https://variety.com/2026/tv/news/mindy-kaling-not-suitable-for-work-gen-z-love-triangles-1236764384/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「スター・ウォーズ」を陰で支えた“もう一人のルーカス”が死去",
+      "source": "映画.com",
+      "date": "2026-06-03",
+      "url": "https://eiga.com/news/20260603/7/"
+    },
+    {
+      "title": "現代に生き残った忍者は闇に潜む──「四十九 Seek」迫力満点の予告編＆新場面写真公開",
+      "source": "映画.com",
+      "date": "2026-06-02",
+      "url": "https://eiga.com/news/20260603/6/"
+    },
+    {
+      "title": "松村北斗×今田美桜「白鳥とコウモリ」解決したはずの殺人事件に関わる新キャスト発表",
+      "source": "映画.com",
+      "date": "2026-06-02",
+      "url": "https://eiga.com/news/20260603/4/"
+    },
+    {
+      "title": "逆襲のヒーロー・鈴鹿央士が伊勢谷友介に拳一つで立ち向かう「喧嘩独学」緊迫のボクシングシーン公開",
+      "source": "映画.com",
+      "date": "2026-06-02",
+      "url": "https://eiga.com/news/20260603/2/"
+    },
     {
       "title": "北山宏光が白い女に抱きつかれる…「氷血」恐怖が止まらない本ビジュアル、予告映像完成！",
       "source": "映画.com",
@@ -164,30 +188,6 @@
       "source": "映画.com",
       "date": "2026-06-01",
       "url": "https://eiga.com/news/20260602/5/"
-    },
-    {
-      "title": "綾瀬はるか、バブル期の熱血弁護士に！「ファーストボイス」10月2日公開　ファーストサマーウイカ、松本穂香が共演",
-      "source": "映画.com",
-      "date": "2026-06-01",
-      "url": "https://eiga.com/news/20260602/3/"
-    },
-    {
-      "title": "プレサンス元社長冤罪事件を内野聖陽主演、松本若菜＆北村一輝共演で映画化した「負けへんで」11月13日公開決定",
-      "source": "映画.com",
-      "date": "2026-06-01",
-      "url": "https://eiga.com/news/20260602/2/"
-    },
-    {
-      "title": "内田有紀×寺西拓人主演で描く、年の差ラブストーリー フジテレビ「ラストノート」7/9放送開始",
-      "source": "映画.com",
-      "date": "2026-06-01",
-      "url": "https://eiga.com/news/20260602/1/"
-    },
-    {
-      "title": "「銀河特急 ミルキー☆サブウェイ」劇場総集編、6月1日からNetflixで世界独占配信スタート",
-      "source": "映画.com",
-      "date": "2026-06-01",
-      "url": "https://eiga.com/news/20260601/25/"
     }
   ],
   "bd_releases": [],
