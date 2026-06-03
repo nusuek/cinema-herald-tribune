@@ -1,26 +1,56 @@
 {
-  "generated_at": "2026-06-03T00:21:20.368387",
+  "generated_at": "2026-06-03T05:52:10.963429",
   "top_stories": [
     {
-      "title": "‘The Hunting Party’ Canceled After Two Seasons at NBC",
+      "title": "Karen Bass and Spencer Pratt Lead in Early Returns in Bizarre L.A. Mayor’s Race",
       "source": "Variety",
-      "date": "2026-06-02",
-      "url": "https://variety.com/2026/tv/news/the-hunting-party-canceled-nbc-1236736781/"
+      "date": "2026-06-03",
+      "url": "https://variety.com/2026/politics/news/karen-bass-spencer-pratt-lead-la-mayors-race-1236765492/"
     },
     {
-      "title": "Ernest Chambers, ‘The Smothers Brothers Comedy Hour’ Showrunner, Dies at 97",
+      "title": "Xavier Becerra and Steve Hilton Lead in Early Returns for California Governor",
       "source": "Variety",
-      "date": "2026-06-02",
-      "url": "https://variety.com/2026/tv/news/ernest-chambers-dead-click-dick-van-dyke-show-1236765054/"
+      "date": "2026-06-03",
+      "url": "https://variety.com/2026/politics/news/xavier-becerra-steve-hilton-tom-steyer-governor-california-1236765425/"
     },
     {
-      "title": "Peabo Bryson, Veteran R&B Singer of ‘Beauty and the Beast’ and ‘Whole New World,’ Dies at 75",
+      "title": "Scott Pelley Fires Back After ’60 Minutes’ Ouster: ‘The Collapse of Values at The Top Has Become Untenable’",
       "source": "Variety",
-      "date": "2026-06-02",
-      "url": "https://variety.com/2026/music/news/peabo-bryson-dead-beauty-and-the-beast-1236765354/"
+      "date": "2026-06-03",
+      "url": "https://variety.com/2026/tv/news/scott-pelley-fires-back-60-minuter-ouster-collapse-of-value-1236765524/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ドロヘドロ Season3」製作決定　林祐一郎監督のイラスト、2期・OPテーマのアニメMVが公開",
+      "source": "映画.com",
+      "date": "2026-06-03",
+      "url": "https://eiga.com/news/20260603/12/"
+    },
+    {
+      "title": "生誕100年のマリリン・モンロー、そっくりさん1000人超が世界記録",
+      "source": "映画.com",
+      "date": "2026-06-03",
+      "url": "https://eiga.com/news/20260603/11/"
+    },
+    {
+      "title": "銀行強盗系インフルエンサーが腐った世の中に宣戦布告！「ブレット・トレイン」監督の新作、9月4日に日米同時公開",
+      "source": "映画.com",
+      "date": "2026-06-03",
+      "url": "https://eiga.com/news/20260603/10/"
+    },
+    {
+      "title": "「SW　マンダロリアン・アンド・グローグー」観た人の感想は？　ユーザーレビューまとめ第2弾「見せ場メガ盛りのSW外伝」「迫力100点」「可愛いは正義」",
+      "source": "映画.com",
+      "date": "2026-06-03",
+      "url": "https://eiga.com/news/20260603/9/"
+    },
+    {
+      "title": "岸本加世子とYOUの大バトル！怒号飛び交う修羅場「FUJIKO」メイキング映像",
+      "source": "映画.com",
+      "date": "2026-06-03",
+      "url": "https://eiga.com/news/20260603/3/"
+    },
     {
       "title": "「スター・ウォーズ」を陰で支えた“もう一人のルーカス”が死去",
       "source": "映画.com",
@@ -152,42 +182,6 @@
       "source": "映画.com",
       "date": "2026-06-02",
       "url": "https://eiga.com/news/20260602/10/"
-    },
-    {
-      "title": "エミリー・ブラント、スピルバーグ新作でAI使用を拒否 「ちょっと怖い」",
-      "source": "映画.com",
-      "date": "2026-06-02",
-      "url": "https://eiga.com/news/20260602/9/"
-    },
-    {
-      "title": "【映画.com配信アクセスランキング】第1位は「傲慢と善良」、「重力ピエロ」「海街diary」などがランクイン　今すぐ観られるベスト10を発表",
-      "source": "映画.com",
-      "date": "2026-06-02",
-      "url": "https://eiga.com/news/20260602/8/"
-    },
-    {
-      "title": "「テアトルアニメゼミ2026 アニメの現在地」6月27日より毎月1回テアトル新宿で開催決定！",
-      "source": "映画.com",
-      "date": "2026-06-02",
-      "url": "https://eiga.com/news/20260602/7/"
-    },
-    {
-      "title": "「劇場版モノノ怪　第三章　蛇神」TVシリーズの薬売りが登場＆セリフを発する最新PV披露",
-      "source": "映画.com",
-      "date": "2026-06-02",
-      "url": "https://eiga.com/news/20260602/6/"
-    },
-    {
-      "title": "是枝裕和＆西川美和の愛弟子・孫明雅監督デビュー作「トロフィー」YOU、きたろう、山中崇ら実力派キャスト集結 本予告も完成",
-      "source": "映画.com",
-      "date": "2026-06-01",
-      "url": "https://eiga.com/news/20260602/4/"
-    },
-    {
-      "title": "津田健次郎、映画「アンパンマン」最新作に参戦！「本当に嬉しかった」と語るアフレコ映像公開",
-      "source": "映画.com",
-      "date": "2026-06-01",
-      "url": "https://eiga.com/news/20260602/5/"
     }
   ],
   "bd_releases": [],
