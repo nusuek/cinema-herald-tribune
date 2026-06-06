@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-06T22:51:45.197562",
+  "generated_at": "2026-06-06T23:53:07.749958",
   "top_stories": [
     {
-      "title": "Olivia Rodrigo Reveals New Album Has Duet With the Cure’s Robert Smith by Way of Surprise Premiere for ‘What’s Wrong WIth Me’ at Primavera Sound",
+      "title": "Olivia Rodrigo Reveals New Album Has Duet With the Cure’s Robert Smith Via Surprise Premiere for ‘What’s Wrong With Me’ at Primavera Sound",
       "source": "Variety",
       "date": "2026-06-06",
       "url": "https://variety.com/2026/music/news/olivia-rodrigo-robert-smith-duet-whats-wrong-with-me-cure-1236768701/"
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "東京スカイツリー×ちいかわ、3年ぶり2度目のコラボイベントが7月10日から開催",
+      "source": "映画.com",
+      "date": "2026-06-06",
+      "url": "https://eiga.com/news/20260607/2/"
+    },
     {
       "title": "お台場に「ちいかわ おばけの森」が登場　巨大ちいかわがシンボルの「ちいかわ神社」も",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-06-05",
       "url": "https://eiga.com/news/20260605/16/"
-    },
-    {
-      "title": "トム・ホランド、ノーラン作と両立のため「スパイダーマン」をずらすようソニーに直談判",
-      "source": "映画.com",
-      "date": "2026-06-05",
-      "url": "https://eiga.com/news/20260605/15/"
     }
   ],
   "bd_releases": [],
