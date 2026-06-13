@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-06-13T05:11:42.570702",
+  "generated_at": "2026-06-13T08:42:00.869927",
   "top_stories": [
+    {
+      "title": "Shanghai Film Fest Launches Tech Unit, Reveals AI Industry Push",
+      "source": "Variety",
+      "date": "2026-06-13",
+      "url": "https://variety.com/2026/film/festivals/shanghai-film-fest-tech-unit-ai-industry-push-1236780477/"
+    },
+    {
+      "title": "Zhang Disha’s Sci-Fi ‘The Decisive Moment’ to Close Shanghai Film Festival",
+      "source": "Variety",
+      "date": "2026-06-13",
+      "url": "https://variety.com/2026/film/festivals/zhang-disha-the-decisive-moment-shanghai-film-festival-closing-film-1236780472/"
+    },
     {
       "title": "DGA Deal Lands Health Plan Gains, Streaming Residual Hikes and Responds to TV Slump by Limiting Actors and Others From Taking Director Jobs",
       "source": "Variety",
       "date": "2026-06-13",
       "url": "https://variety.com/2026/film/news/dga-deal-terms-tv-actors-jobs-directors-1236780373/"
-    },
-    {
-      "title": "Viral ‘Open Door’ YouTube Short to be Adapted Into Feature, Earns Six-Figure Development Deal (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-06-12",
-      "url": "https://variety.com/2026/film/news/open-door-youtube-short-feature-development-deal-1236779948/"
-    },
-    {
-      "title": "‘The Furious’: Inside the Balletic and Brutal Fight Scenes, From Mixing Martial Art Styles to Taking 18 Days to Shoot the Insane Final Showdown",
-      "source": "Variety",
-      "date": "2026-06-12",
-      "url": "https://variety.com/2026/film/features/the-furious-fight-scenes-ending-brawl-1236768730/"
     }
   ],
   "new_releases": [
+    {
+      "title": "生前参加を表明していた坂本龍一の楽曲を使用「黒の牛」、109シネマズプレミアム新宿で7月3日から1週間限定上映",
+      "source": "映画.com",
+      "date": "2026-06-13",
+      "url": "https://eiga.com/news/20260613/11/"
+    },
+    {
+      "title": "「BLACK TORCH」7月4日放送開始　新PV＆新キービジュアル公開、OP主題歌はSiM",
+      "source": "映画.com",
+      "date": "2026-06-13",
+      "url": "https://eiga.com/news/20260613/10/"
+    },
+    {
+      "title": "キネカ大森「マーダム・オル・マサラ 2026」7月～12月ラインナップ発表　「マーク・アントニー」「RRR」など",
+      "source": "映画.com",
+      "date": "2026-06-13",
+      "url": "https://eiga.com/news/20260613/9/"
+    },
     {
       "title": "「令和のダラさん」7月2日放送開始　古賀葵、杉田智和、早見沙織らが出演、ED主題歌は「REIRIE」が担当",
       "source": "映画.com",
@@ -170,30 +188,6 @@
       "source": "映画.com",
       "date": "2026-06-12",
       "url": "https://eiga.com/news/20260612/18/"
-    },
-    {
-      "title": "【「スーパーガール」撮影現場に潜入：第1回】西部劇「トゥルー・グリット」に影響を受けた物語、美術のこだわりとは",
-      "source": "映画.com",
-      "date": "2026-06-12",
-      "url": "https://eiga.com/news/20260612/12/"
-    },
-    {
-      "title": "有村架純がオムツの中に金塊隠し！　「マジカル・シークレット・ツアー」訳あり主婦たちの闇バイトを捉えた本編映像　砂金が当たる入場者特典も決定！",
-      "source": "映画.com",
-      "date": "2026-06-12",
-      "url": "https://eiga.com/news/20260612/10/"
-    },
-    {
-      "title": "Aぇ! group×西村拓哉「おそ松さん 人類クズ化計画!!!!!?」Snow Man向井康二が旧・おそ松役【コメントあり】",
-      "source": "映画.com",
-      "date": "2026-06-12",
-      "url": "https://eiga.com/news/20260612/11/"
-    },
-    {
-      "title": "不朽の名作がNetflixで現代に甦る「大草原の小さな家」波乱と希望に満ちた本予告＆キービジュアルがお披露目",
-      "source": "映画.com",
-      "date": "2026-06-11",
-      "url": "https://eiga.com/news/20260612/2/"
     }
   ],
   "bd_releases": [],
