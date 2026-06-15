@@ -1,26 +1,104 @@
 {
-  "generated_at": "2026-06-15T03:34:07.543078",
+  "generated_at": "2026-06-15T09:48:07.992868",
   "top_stories": [
     {
-      "title": "White House UFC Fighter Josh Hokit Shouts ‘Michelle Obama Is a Man’ in Post-Match Interview",
+      "title": "ECAM Forum Wraps Third Edition With ‘Undefined Things II,’ ‘The Indies,’ ‘Snow Country’ Among Winners",
       "source": "Variety",
       "date": "2026-06-15",
-      "url": "https://variety.com/2026/tv/news/white-house-ufc-fight-josh-hokit-michelle-obama-insult-1236781113/"
+      "url": "https://variety.com/2026/film/markets-festivals/ecam-forum-2026-winners-undefined-things-snow-country-1236780828/"
     },
     {
-      "title": "Jessie Mei Li, Karina Lam, Chris Pang and Toby Stephens on the Rich and Restless in Hong Kong Glamour Drama ‘The Season’: ‘They’re All Human Beings Who Are Terrified’",
+      "title": "Juno Hong Brings Autobiographical Debut ‘Only the Moon Knows’ to Shanghai Project Market: ‘Loneliness Is a Universal Human Condition’",
       "source": "Variety",
       "date": "2026-06-15",
-      "url": "https://variety.com/2026/tv/news/the-season-hong-kong-cast-interview-1236780847/"
+      "url": "https://variety.com/2026/film/markets-festivals/juno-hong-only-the-moon-knows-shanghai-market-1236781235/"
     },
     {
-      "title": "Chinese Sensation ‘Dear You’ Acquired by CMC Pictures for North America, Australia and New Zealand Theatrical Release",
+      "title": "Jordan Is Celebrating Two Films in Shanghai and Expanding Ties With China While Reestablishing Ancient Cultural Links",
       "source": "Variety",
       "date": "2026-06-15",
-      "url": "https://variety.com/2026/film/news/dear-you-cmc-pictures-north-america-australia-new-zealand-release-1236780866/"
+      "url": "https://variety.com/2026/film/global/shanghai-jordan-royal-film-commission-china-sink-boomah-1236772321/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「Michael マイケル」が初登場V！　新作は「映画　おそ松さん　人類クズ化計画!!!!!?」など3作品【国内映画ランキング】",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/20/"
+    },
+    {
+      "title": "「VIVANT」第2シーズンのキービジュアル公開！第1シーズン上映会などの特別イベントも始動",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/17/"
+    },
+    {
+      "title": "「Michael マイケル」初週末興収10.9億円、動員67万人の2026年実写映画No.1スタート！　入場者特典第2弾＆応援上映決定",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/18/"
+    },
+    {
+      "title": "栄光、挫折、復活――いま熱いミュージシャンの伝記映画を25本紹介",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/16/"
+    },
+    {
+      "title": "“モア夏2026”を盛り上げる！「モアナと伝説の海」主要キャラクターポスター公開",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/15/"
+    },
+    {
+      "title": "「プラダを着た悪魔2」興収50億円突破！ 大ヒット記念し1&2イッキ見上映も決定",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/14/"
+    },
+    {
+      "title": "“うまくいかない自分”を、どう肯定するのか―「お笑えない芸人」西田祐香監督＆吉野真生、村山暁、北野七海に聞く【インタビュー】",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/6/"
+    },
+    {
+      "title": "有村架純、黒木華、南沙良が語る「マジカル・シークレット・ツアー」撮影秘話　期間限定コンテンツ【秘密のツアー】ダイジェスト映像を披露",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/9/"
+    },
+    {
+      "title": "MEGUMIプロデュース「FUJIKO」本編冒頭映像公開　女性観客からの反響多数、全国で追加上映劇場が決定！",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/13/"
+    },
+    {
+      "title": "「Michael マイケル」音楽伝記映画の歴代最高興収を更新",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/10/"
+    },
+    {
+      "title": "「マイケル」が首位、「国宝」「シラート」「Never After Dark」「FUJIKO」などが上位に【映画.comアクセスランキング】",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/12/"
+    },
+    {
+      "title": "スタジオジブリの名作アニメ映画「火垂るの墓」Netflixで再び日本国内配信　7月15日からスタート",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/11/"
+    },
+    {
+      "title": "カンヌ批評家週間グランプリ受賞　少女の思春期の“痛み”と“解放”を描く「タイガー・ストライプス」8月1日公開決定＆場面写真などを一挙披露",
+      "source": "映画.com",
+      "date": "2026-06-15",
+      "url": "https://eiga.com/news/20260615/8/"
+    },
     {
       "title": "【「スーパーガール」撮影現場に潜入：最終回】撮影中のミリー・オールコック＆クレイグ・ギレスピー監督がやって来た！　製作総指揮からさらなる“秘話”も",
       "source": "映画.com",
@@ -110,90 +188,6 @@
       "source": "映画.com",
       "date": "2026-06-14",
       "url": "https://eiga.com/news/20260614/5/"
-    },
-    {
-      "title": "ジーコが「サッカー界の面汚しだ」と言い放った“26年間公式戦出場0”プロ選手の実態とは？「カルロス・カイザー　サッカー史上最も奇妙な成功者」特報公開",
-      "source": "映画.com",
-      "date": "2026-06-14",
-      "url": "https://eiga.com/news/20260614/4/"
-    },
-    {
-      "title": "劇場版「仮面ライダーゼッツ」主題歌をTVシリーズに続き「NCT 127」YUTAが担当　本予告映像＆ビジュアル公開",
-      "source": "映画.com",
-      "date": "2026-06-14",
-      "url": "https://eiga.com/news/20260614/3/"
-    },
-    {
-      "title": "「Michael マイケル」公開記念、38年におよぶマイケル・ジャクソンの音楽活動を総括＆深掘り！オーディオ専門誌「HiVi」で全68ページ総力特集",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260614/2/"
-    },
-    {
-      "title": "「2026 FNS歌謡祭 夏」でちいかわ、ハチワレ、うさぎがスペシャルパフォーマンス　「映画ちいかわ」OPテーマ初披露",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260614/1/"
-    },
-    {
-      "title": "津田健次郎、初のオフィシャルファンクラブ開設決定　誕生日の6月11日にプレサイトオープン",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260613/16/"
-    },
-    {
-      "title": "【入場特典リスト 6月最新版】「映画 おそ松さん」「臨時増発 ミルキー☆サブウェイ」に注目　劇場版「コナン」はデジタルギフト配布中",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260613/15/"
-    },
-    {
-      "title": "最富キョウスケの漫画「電撃デイジー」27年にスタジオディーン制作でTVアニメ化決定",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260613/14/"
-    },
-    {
-      "title": "柄本佑、主演作「メモリィズ」の坂西未郁監督は「高校の後輩」　トライベッカの快挙を祝福",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260613/13/"
-    },
-    {
-      "title": "生前参加を表明していた坂本龍一の楽曲を使用「黒の牛」、109シネマズプレミアム新宿で7月3日から1週間限定上映",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260613/11/"
-    },
-    {
-      "title": "「BLACK TORCH」7月4日放送開始　新PV＆新キービジュアル公開、OP主題歌はSiM",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260613/10/"
-    },
-    {
-      "title": "キネカ大森「マーダム・オル・マサラ 2026」7月～12月ラインナップ発表　「マーク・アントニー」「RRR」など",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260613/9/"
-    },
-    {
-      "title": "「令和のダラさん」7月2日放送開始　古賀葵、杉田智和、早見沙織らが出演、ED主題歌は「REIRIE」が担当",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260613/8/"
-    },
-    {
-      "title": "「イット・フォローズ」続編の主演候補にナオミ・アッキー",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260613/7/"
-    },
-    {
-      "title": "【「スーパーガール」撮影現場に潜入：第2回】カーラのiPod、ロボの電子葉巻、デイリー・プラネット――細部が光る“小道具”について",
-      "source": "映画.com",
-      "date": "2026-06-13",
-      "url": "https://eiga.com/news/20260613/6/"
     }
   ],
   "bd_releases": [],
