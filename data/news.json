@@ -1,26 +1,92 @@
 {
-  "generated_at": "2026-06-18T02:11:32.675178",
+  "generated_at": "2026-06-18T07:21:27.543579",
   "top_stories": [
     {
-      "title": "‘Survivor’ Animated Movie in the Works From Paramount Animation, Jeff Probst to Exec Produce (EXCLUSIVE)",
+      "title": "‘Doraemon the Movie: New Nobita and the Castle of the Undersea Devil’ Sets India Theatrical Debut (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-06-18",
-      "url": "https://variety.com/2026/film/news/survivor-animated-movie-paramount-animation-jeff-probst-1236784613/"
+      "url": "https://variety.com/2026/film/news/doraemon-the-movie-india-theatrical-debut-1236784704/"
     },
     {
-      "title": "Hollywood Radio and Television Society Partners With Easterseals Disability Services to Relaunch  Darcy Awards",
+      "title": "‘The Lost Children of Tuam,’ Element Pictures Feature Produced by Liam Neeson, to World Premiere at Galway Film Fleadh (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-06-18",
-      "url": "https://variety.com/2026/awards/news/hrts-easterseals-darcy-awards-disability-arts-culture-1236784519/"
+      "url": "https://variety.com/2026/film/global/lost-children-of-tuam-element-liam-neeson-galway-premiere-1236783768/"
     },
     {
-      "title": "Ben Stiller Sets NY Knicks Doc Series With A24, HBO and the NBA After Championship Win",
+      "title": "Netflix’s ‘I Will Find You’ Is Another Wild (and Fun!) Harlan Coben Crime Thriller: TV Review",
       "source": "Variety",
       "date": "2026-06-18",
-      "url": "https://variety.com/2026/tv/news/ben-stiller-ny-knicks-doc-series-a24-hbo-nba-1236784603/"
+      "url": "https://variety.com/2026/tv/reviews/i-will-find-you-review-netflix-1236783874/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「フィルムでみよう！東映アニメーション」全上映作品が発表　86年末「東映まんがまつり」の再現プログラムや発声上映も",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/20/"
+    },
+    {
+      "title": "ショーン・ペン監督作にブラッドリー・クーパーが主演か",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/19/"
+    },
+    {
+      "title": "あの有名キャラクターたちが“超過激”に映画化…パブリックドメイン・ホラー、どんな作品が爆誕している？",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/17/"
+    },
+    {
+      "title": "謎のヴィランや、“最強アベンジャー”ハルクとの激闘も「スパイダーマン　ブランド・ニュー・デイ」蜘蛛の力が進化を遂げる最新予告解禁",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/34/"
+    },
+    {
+      "title": "ショーン・ベイカーと共同脚本、ツォウ・シーチン「左利きの少女」8月14日公開",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/16/"
+    },
+    {
+      "title": "奥平大兼×出口夏希×佐野晶哉×菊池日菜子×早瀬憩『か「」く「」し「」ご「」と「』7月3日からアマプラで見放題独占配信",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/15/"
+    },
+    {
+      "title": "二宮和也、映画から受け取ったのは「好きなことを信じる」こと　“失敗”との出合いも「人生には必要」",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/14/"
+    },
+    {
+      "title": "深川栄洋監督が私財を投じた独立映画「あなたの息子ひき出します！」公開日決定！ 特報＆劇中写真も初公開",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/9/"
+    },
+    {
+      "title": "「ひろしまアニメーションシーズン2026」U25無料1日券、託児所サービス実施　井上涼ミニコンサート鑑賞券付きチケット先行販売も",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/10/"
+    },
+    {
+      "title": "韓国映画界の実力派キャストが集結！ギャング組織の後継者争いを描くコメディ「BOSS ボス」10月23日公開",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/11/"
+    },
+    {
+      "title": "「黒牢城」黒沢清監督と「急に具合が悪くなる」濱口竜介監督が対談　カンヌで喝采の互いの新作をどう観た？",
+      "source": "映画.com",
+      "date": "2026-06-18",
+      "url": "https://eiga.com/news/20260618/12/"
+    },
     {
       "title": "ディズニー、「ホーム・アローン」に着想を得たミッキーマウスのクリスマス特別編を製作",
       "source": "映画.com",
@@ -122,66 +188,6 @@
       "source": "映画.com",
       "date": "2026-06-17",
       "url": "https://eiga.com/news/20260617/16/"
-    },
-    {
-      "title": "アニャ・テイラー＝ジョイ、「ロード・オブ・ザ・リング」新作にエルフ役で参加",
-      "source": "映画.com",
-      "date": "2026-06-17",
-      "url": "https://eiga.com/news/20260617/15/"
-    },
-    {
-      "title": "異能バトルアニメ「メビウス・ダスト」に厚地彩花、福原綾香、千本木彩花らが出演決定",
-      "source": "映画.com",
-      "date": "2026-06-17",
-      "url": "https://eiga.com/news/20260617/13/"
-    },
-    {
-      "title": "ジョセフ・ゴードン＝レビット監督のAIスリラー、トニ・コレットら参加",
-      "source": "映画.com",
-      "date": "2026-06-17",
-      "url": "https://eiga.com/news/20260617/12/"
-    },
-    {
-      "title": "悪を葬る、異能の共演――ヘンリー・カビル×ジェイク・ギレンホール「グレイ・ミッション」ティザービジュアル公開",
-      "source": "映画.com",
-      "date": "2026-06-17",
-      "url": "https://eiga.com/news/20260617/11/"
-    },
-    {
-      "title": "「ストレンジャー・シングス」ダファー兄弟、初の劇場用映画を2028年",
-      "source": "映画.com",
-      "date": "2026-06-17",
-      "url": "https://eiga.com/news/20260617/10/"
-    },
-    {
-      "title": "「ボボボーボ・ボーボボ展」はハジケリスト養成プログラムが体験できる　“鼻ゲート”をくぐり抜けてクイズに参加、フォトスポットも予定",
-      "source": "映画.com",
-      "date": "2026-06-17",
-      "url": "https://eiga.com/news/20260617/9/"
-    },
-    {
-      "title": "監修者、坂本龍一の思いを受け継ぎ開業3周年　「109シネマズプレミアム新宿」ファンミーティングレポート",
-      "source": "映画.com",
-      "date": "2026-06-16",
-      "url": "https://eiga.com/news/20260616/21/"
-    },
-    {
-      "title": "NHK連続テレビ小説「ひよっこ」8月3日から再放送決定　有村架純「かけがえのない時間」",
-      "source": "映画.com",
-      "date": "2026-06-17",
-      "url": "https://eiga.com/news/20260617/8/"
-    },
-    {
-      "title": "「きみが死ぬまで恋をしたい」6月21日の特番で第1話を最速公開　教員役に内山夕実、茅野愛衣　主題歌アーティストも発表",
-      "source": "映画.com",
-      "date": "2026-06-16",
-      "url": "https://eiga.com/news/20260617/6/"
-    },
-    {
-      "title": "母親が自らをネットオークションに出品？ 「世にも奇妙な物語'26夏の特別編」4本目は杉野遥亮が主演",
-      "source": "映画.com",
-      "date": "2026-06-16",
-      "url": "https://eiga.com/news/20260617/3/"
     }
   ],
   "bd_releases": [],
