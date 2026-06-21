@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-06-21T19:08:23.874637",
+  "generated_at": "2026-06-21T21:00:51.265855",
   "top_stories": [
+    {
+      "title": "Olivia Rodrigo Earns Third Consecutive No. 1 on Albums Chart With ‘You Seem Pretty Sad for a Girl So in Love’",
+      "source": "Variety",
+      "date": "2026-06-21",
+      "url": "https://variety.com/2026/music/news/olivia-rodrigo-third-consecutive-no-1-albums-chart-1236786717/"
+    },
+    {
+      "title": "‘Criminal Minds’ Star Paget Brewster Tells TV Journalist to ‘Work at a Shelter’ After Mixed Review, Sparking Outrage From Other Critics",
+      "source": "Variety",
+      "date": "2026-06-21",
+      "url": "https://variety.com/2026/tv/news/criminal-minds-paget-brewster-critic-review-shelter-1236786724/"
+    },
     {
       "title": "‘Peter Asher: Everywhere Man’ Review: The Beatles-Era Pop Singer Turned Star Producer Gets His Own Boomer-centric Documentary",
       "source": "Variety",
       "date": "2026-06-21",
       "url": "https://variety.com/2026/film/reviews/peter-asher-everywhere-man-review-1236786332/"
-    },
-    {
-      "title": "Iowa Anchor Dustin Nolan Calls Out ‘Sanitized News’ as He Quits on Air in Emotional Sign-Off: ‘We Have to Take People Out of Their Bubbles’",
-      "source": "Variety",
-      "date": "2026-06-21",
-      "url": "https://variety.com/2026/tv/news/iowa-anchor-dustin-nolan-sanitized-news-quits-on-air-1236786684/"
-    },
-    {
-      "title": "Box Office: ‘Toy Story 5’ Ignites to Series-Best $312 Million Globally, ‘Obsession’ and ‘Backrooms’ Surpass $300 Million Milestone",
-      "source": "Variety",
-      "date": "2026-06-21",
-      "url": "https://variety.com/2026/film/box-office/toy-story-5-global-box-office-debut-obsession-backroom-milestones-1236786638/"
     }
   ],
   "new_releases": [
+    {
+      "title": "GACKTが“嘘”で真実を暴くダークヒーロー演じる「ブラックトリック　裁きを操る弁護人」ポスター完成！ 志田未来、神尾楓珠、北村一輝ら豪華キャストが集結",
+      "source": "映画.com",
+      "date": "2026-06-21",
+      "url": "https://eiga.com/news/20260622/1/"
+    },
     {
       "title": "「性別『モナリザ』の君へ。」シャフト制作でTVアニメ化決定　無性別のまま生きる主人公の青春劇",
       "source": "映画.com",
@@ -164,12 +170,6 @@
       "source": "映画.com",
       "date": "2026-06-20",
       "url": "https://eiga.com/news/20260620/9/"
-    },
-    {
-      "title": "【本予告公開】選択はジアンがします――「殺し屋たちの店2」ディズニープラスで7月独占配信",
-      "source": "映画.com",
-      "date": "2026-06-20",
-      "url": "https://eiga.com/news/20260620/8/"
     }
   ],
   "bd_releases": [],
