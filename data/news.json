@@ -1,26 +1,86 @@
 {
-  "generated_at": "2026-06-22T06:15:26.953388",
+  "generated_at": "2026-06-22T12:38:55.572261",
   "top_stories": [
     {
-      "title": "Webtoon Productions, France’s OuiDo! Set Animation Series Adaptation of Webtoon Smash ‘Lumine’ (EXCLUSIVE)",
+      "title": "Apple’s Eddy Cue on ‘F1’ Sequel, Why Apple TV Has Never Licensed Any Library Content and Being Inspired by Steve Jobs",
       "source": "Variety",
       "date": "2026-06-22",
-      "url": "https://variety.com/2026/tv/global/webtoon-productions-ouido-animation-series-lumine-1236786859/"
+      "url": "https://variety.com/2026/film/news/apple-eddy-cue-jerry-bruckheimer-f1-sequel-apple-tv-steve-jobs-cannes-lions-1236786905/"
     },
     {
-      "title": "‘Chimney Town: Frozen in Time’ Sells Wide Across Europe Ahead of Annecy French Premiere (EXCLUSIVE)",
+      "title": "Timothée Chalamet and Selena Gomez to Star in Animated Alien Movie ‘Not Alone’ From Illumination",
       "source": "Variety",
       "date": "2026-06-22",
-      "url": "https://variety.com/2026/film/global/chimney-town-frozen-in-time-poupelle-annecy-sales-1236782167/"
+      "url": "https://variety.com/2026/film/global/timothee-chalamet-selena-gomez-animated-film-not-alone-1236787110/"
     },
     {
-      "title": "Trafalgar Releasing Launches Korean Entity, Names Hybe Veteran as Asia Acquisitions Head (EXCLUSIVE)",
+      "title": "Warner Bros. Announces ‘Hazbin Hotel’ Creator Feature Debut ‘Prehistoria’ and ‘Bad Fairies’ Additional Voice Cast",
       "source": "Variety",
       "date": "2026-06-22",
-      "url": "https://variety.com/2026/film/news/trafalgar-korea-launches-asia-acquisitions-hybe-1236786124/"
+      "url": "https://variety.com/2026/film/global/hazbin-hotel-prehistoria-bad-fairies-warner-bros-annecy-1236786805/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「トイ・ストーリー5」、早くも全世界興収502億円超え＆シリーズ史上最高のオープニング興収で全米大ヒットスタート！",
+      "source": "映画.com",
+      "date": "2026-06-22",
+      "url": "https://eiga.com/news/20260622/20/"
+    },
+    {
+      "title": "「Michael マイケル」が2週連続1位！新作は「黒牢城」「免許返納!?」など3作品がランクイン【国内映画ランキング】",
+      "source": "映画.com",
+      "date": "2026-06-22",
+      "url": "https://eiga.com/news/20260622/23/"
+    },
+    {
+      "title": "「Michael マイケル」観た人の感想は？　ユーザーレビューまとめ第2弾「ストレスを手放せる時間」「マイケル本人が出演しているのかと錯覚する」",
+      "source": "映画.com",
+      "date": "2026-06-22",
+      "url": "https://eiga.com/news/20260622/19/"
+    },
+    {
+      "title": "「オヤジ映画」の基準ってなに？　米紙が定番の名作を選出",
+      "source": "映画.com",
+      "date": "2026-06-22",
+      "url": "https://eiga.com/news/20260622/18/"
+    },
+    {
+      "title": "「名探偵プリキュア」キュアエクレールの正体は誰？　6月21日放送回から候補者4人のエピソードがスタート",
+      "source": "映画.com",
+      "date": "2026-06-22",
+      "url": "https://eiga.com/news/20260622/17/"
+    },
+    {
+      "title": "舘ひろし主演「免許返納!?」オープニング3日間で動員12万人、興収1.5億円の好スタート！",
+      "source": "映画.com",
+      "date": "2026-06-22",
+      "url": "https://eiga.com/news/20260622/22/"
+    },
+    {
+      "title": "「クロード・シャブロル傑作選 vol.2」8月28日から　「ヴィオレット・ノジエール」「ベティ」「沈黙の女」の3作",
+      "source": "映画.com",
+      "date": "2026-06-22",
+      "url": "https://eiga.com/news/20260622/16/"
+    },
+    {
+      "title": "二宮和也「自分の好みに偏っていこうと（笑）」作品選定の裏話を告白 当日まで作品明かされない上映イベント「シークレットシネマ」特別鼎談が公開",
+      "source": "映画.com",
+      "date": "2026-06-22",
+      "url": "https://eiga.com/news/20260622/15/"
+    },
+    {
+      "title": "「X-MEN」ファムケ・ヤンセン、「アベンジャーズ」最新作に呼ばれず",
+      "source": "映画.com",
+      "date": "2026-06-22",
+      "url": "https://eiga.com/news/20260622/14/"
+    },
+    {
+      "title": "「佐々木とピーちゃん」シーズン2、10月放送開始　アバドンの手が背後に伸びる新ビジュアルやPV公開",
+      "source": "映画.com",
+      "date": "2026-06-22",
+      "url": "https://eiga.com/news/20260622/13/"
+    },
     {
       "title": "サンライズ×シャフトが初タッグ　新作アニメプロジェクトの情報解禁に向けてカウントダウン",
       "source": "映画.com",
@@ -134,66 +194,6 @@
       "source": "映画.com",
       "date": "2026-06-21",
       "url": "https://eiga.com/news/20260621/12/"
-    },
-    {
-      "title": "ディズニー、「ホーム・アローン」に着想を得たミッキーマウスのクリスマス特別編を製作",
-      "source": "映画.com",
-      "date": "2026-06-18",
-      "url": "https://eiga.com/news/20260618/8/"
-    },
-    {
-      "title": "「サイボーグ009 ネメシス」7月19日午前0時から全3話一挙配信　キービジュアル公開",
-      "source": "映画.com",
-      "date": "2026-06-21",
-      "url": "https://eiga.com/news/20260621/11/"
-    },
-    {
-      "title": "「ちいかわ」が日本キャラクター大賞グランプリを3年連続受賞で殿堂入り",
-      "source": "映画.com",
-      "date": "2026-06-21",
-      "url": "https://eiga.com/news/20260621/9/"
-    },
-    {
-      "title": "8月末展示終了の実物大ユニコーンガンダム立像、カトキハジメデザインの特別装飾でバージョンアップ",
-      "source": "映画.com",
-      "date": "2026-06-21",
-      "url": "https://eiga.com/news/20260621/8/"
-    },
-    {
-      "title": "テイラー・スウィフト、「トイ・ストーリー5」観賞当日に主題歌作成、8時間で録音",
-      "source": "映画.com",
-      "date": "2026-06-21",
-      "url": "https://eiga.com/news/20260621/7/"
-    },
-    {
-      "title": "有村架純、黒木華、南沙良演じる“訳あり主婦”たちが束の間の青春を謳歌する本編映像【「マジカル・シークレット・ツアー」】",
-      "source": "映画.com",
-      "date": "2026-06-21",
-      "url": "https://eiga.com/news/20260621/6/"
-    },
-    {
-      "title": "「PROJECT R.E.D.」第2弾「角醒ハンター オメガホーン」7月26日放送スタート！　キャスト＆メインビジュアル披露",
-      "source": "映画.com",
-      "date": "2026-06-21",
-      "url": "https://eiga.com/news/20260621/5/"
-    },
-    {
-      "title": "【本日放送】舘ひろし「あぶデカ」「パパとムスメの7日間」秘話、恩師・渡哲也さんへのゆるぎないリスペクトを明かす",
-      "source": "映画.com",
-      "date": "2026-06-21",
-      "url": "https://eiga.com/news/20260621/4/"
-    },
-    {
-      "title": "シリーズ完結編「青春ブタ野郎はディアフレンドの夢を見ない」本予告を披露",
-      "source": "映画.com",
-      "date": "2026-06-20",
-      "url": "https://eiga.com/news/20260621/3/"
-    },
-    {
-      "title": "【今日は父の日】ダース・ベイダー、ムファサ、トニー・スターク……ディズニー作品に登場する父親たち",
-      "source": "映画.com",
-      "date": "2026-06-20",
-      "url": "https://eiga.com/news/20260621/18/"
     }
   ],
   "bd_releases": [],
