@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-06-26T10:10:50.549652",
+  "generated_at": "2026-06-26T13:00:57.347939",
   "top_stories": [
     {
-      "title": "New ‘Monster of Florence’ Installment From Director Stefano Sollima Set at Netflix",
+      "title": "Studio TF1 Makes Major Animation Play With ‘Yes Chef,’ $25 Million Family Feature About an Animal Pastry Competition (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-06-26",
-      "url": "https://variety.com/2026/tv/global/monster-of-florence-new-season-stefano-sollima-netflix-1236791073/"
+      "url": "https://variety.com/2026/film/news/studio-tf1-animation-film-yes-chef-animal-pastry-competition-1236791153/"
     },
     {
-      "title": "Disney Spotlights ‘Hexed’ at Annecy, Announces New Short ‘Lilo & Scratch’ – Still Starring Stitch",
+      "title": "Cannes Lions Entertainment Awards: Adidas Takes Home Grand Prix for Oasis ‘Original Forever’ Collaboration",
       "source": "Variety",
       "date": "2026-06-26",
-      "url": "https://variety.com/2026/artisans/global/disney-hexed-new-short-lilo-and-scratch-stitch-annecy-1236791091/"
+      "url": "https://variety.com/2026/biz/news/cannes-lions-entertainment-adidas-oasis-original-forever-1236791204/"
     },
     {
-      "title": "Alexis Alexiou Completes Third Feature ‘Sea of Glass,’ Unveils First Look and Trailer (EXCLUSIVE)",
+      "title": "Pixar Makes a Splash With New Short ‘Loving Dory’ Featuring Nemo and Dory, Teases ‘Gatto’",
       "source": "Variety",
       "date": "2026-06-26",
-      "url": "https://variety.com/2026/film/global/alexis-alexiou-completes-third-feature-sea-of-glass-1236791079/"
+      "url": "https://variety.com/2026/artisans/global/pixar-short-nemo-dory-gatto-annecy-1236791146/"
     }
   ],
   "new_releases": [
+    {
+      "title": "キアヌ・リーブス、レゴの新作映画に主演交渉中",
+      "source": "映画.com",
+      "date": "2026-06-26",
+      "url": "https://eiga.com/news/20260626/19/"
+    },
+    {
+      "title": "「魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる」27年放送　メインキャストに山下大輝、菱川花菜",
+      "source": "映画.com",
+      "date": "2026-06-26",
+      "url": "https://eiga.com/news/20260626/17/"
+    },
     {
       "title": "「KPOPガールズ!」のNetflix、アニメ部門を再編し新トップ起用",
       "source": "映画.com",
@@ -176,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-06-25",
       "url": "https://eiga.com/news/20260625/18/"
-    },
-    {
-      "title": "【世界の映画館めぐり】フランス、温泉＆鳥居がある街　98年W杯日本代表の合宿地エクス＝レ＝バンの映画館",
-      "source": "映画.com",
-      "date": "2026-06-25",
-      "url": "https://eiga.com/news/20260625/17/"
     }
   ],
   "bd_releases": [],
