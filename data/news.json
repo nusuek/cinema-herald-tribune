@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-02T20:48:11.374765",
+  "generated_at": "2026-07-02T21:55:12.970119",
   "top_stories": [
+    {
+      "title": "Music Industry Moves: Warner Teams Up With Sickamore’s Three Times Louder, Laila to Be Partnership’s ‘Flagship Artist’",
+      "source": "Variety",
+      "date": "2026-07-02",
+      "url": "https://variety.com/2026/music/news/ashe-signs-with-atlantic-records-1236799684/"
+    },
     {
       "title": "Anne Hathaway Quit ‘Knocked Up’ Over Graphic Birthing Scene, Says Seth Rogen: ‘She Felt That It Was Not Her Brand’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-07-02",
       "url": "https://variety.com/2026/film/news/young-washington-director-jon-erwin-ai-1236801002/"
-    },
-    {
-      "title": "Midjourney Seeks to Reveal Studios’ Use of AI in High-Stakes Copyright Battle",
-      "source": "Variety",
-      "date": "2026-07-02",
-      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/"
     }
   ],
   "new_releases": [
+    {
+      "title": "重岡大毅、初の国際映画祭＆レッドカーペット歩行に「もう1周歩きたい」　熱烈な歓声に大喜び",
+      "source": "映画.com",
+      "date": "2026-07-02",
+      "url": "https://eiga.com/news/20260703/20/"
+    },
+    {
+      "title": "「劇場版 薬屋のひとりごと」12月11日公開　シリーズ最大の謎が展開――予告＆ティザービジュアルお披露目",
+      "source": "映画.com",
+      "date": "2026-07-02",
+      "url": "https://eiga.com/news/20260703/1/"
+    },
     {
       "title": "「北斗の拳 ‐FIST OF THE NORTH STAR‐」第2クールは27年放送　北斗四兄弟の三男ジャギが登場する映像公開",
       "source": "映画.com",
@@ -158,18 +170,6 @@
       "source": "映画.com",
       "date": "2026-07-01",
       "url": "https://eiga.com/news/20260702/1/"
-    },
-    {
-      "title": "「どうも、好きな人に惚れ薬を依頼された魔女です。」10月放送開始　メインキャストに小松未可子、阿座上洋平",
-      "source": "映画.com",
-      "date": "2026-07-01",
-      "url": "https://eiga.com/news/20260701/29/"
-    },
-    {
-      "title": "「最強出涸らし皇子の暗躍帝位争い」に松岡禎丞＆茅野愛衣が出演　放送は7月6日スタート",
-      "source": "映画.com",
-      "date": "2026-07-01",
-      "url": "https://eiga.com/news/20260701/28/"
     }
   ],
   "bd_releases": [],
