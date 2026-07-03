@@ -1,26 +1,80 @@
 {
-  "generated_at": "2026-07-03T01:27:53.164584",
+  "generated_at": "2026-07-03T05:38:51.621712",
   "top_stories": [
+    {
+      "title": "AI-Created Indian Musical Microdrama ‘Mohini – Khud Se Pyaar’ Unveils Debut Track ‘Angaat Aalay Ka’ (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-07-03",
+      "url": "https://variety.com/2026/tv/news/ai-indian-musical-microdrama-mohini-debut-track-1236800841/"
+    },
+    {
+      "title": "Madonna’s Dance Floor-Dominating ‘Confessions II’ Is Her Best Album in Decades: Album Review",
+      "source": "Variety",
+      "date": "2026-07-03",
+      "url": "https://variety.com/2026/music/album-reviews/madonna-confessions-ii-album-review-1236801149/"
+    },
     {
       "title": "War Drama ‘Peluru Senja: The Ghost & the Gun’ Locks Malaysia Theatrical Date, Drops Trailer (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-07-03",
       "url": "https://variety.com/2026/film/news/peluru-senja-malaysia-release-date-trailer-1236800826/"
-    },
-    {
-      "title": "Jodie Foster Says Brad Pitt’s ‘F1’ Seemed Like It Was Made by AI and Written by a Computer: ‘Wasn’t It?’",
-      "source": "Variety",
-      "date": "2026-07-02",
-      "url": "https://variety.com/2026/film/news/jodie-foster-brad-pitt-f1-ai-written-by-computer-1236801120/"
-    },
-    {
-      "title": "Moritz Borman, Producer of ‘Terminator’ Movies and Oliver Stone Films, Dies at 71",
-      "source": "Variety",
-      "date": "2026-07-02",
-      "url": "https://variety.com/2026/film/news/moritz-borman-dead-terminator-1236801160/"
     }
   ],
   "new_releases": [
+    {
+      "title": "夏目真悟×マッドハウス最新作「ghost　夜の果て」27年2月11日公開　羊文学が主題歌・挿入歌6曲を担当",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/15/"
+    },
+    {
+      "title": "「リーサル・ウェポン」ダニー・グローバー、アルツハイマー病を公表",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/14/"
+    },
+    {
+      "title": "ホラー映画化「ポパイ」劇場上映不可の過激予告公開　各界著名人がコメント「とにかく前腕が太い」「超パワー系大惨殺」「予想以上に過激」",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/7/"
+    },
+    {
+      "title": "ジム・ジャームッシュ監督最新作「ファーザー マザー シスター ブラザー」11月20日公開【予告編あり】",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/6/"
+    },
+    {
+      "title": "コンビニエンス・ホラー「チルド」“何か”がおかしいコンビニがポップアップストアになって期間限定で開店！",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/9/"
+    },
+    {
+      "title": "「トイ・ストーリー」長編6作品＆短編7作品を紹介　最新作ではデジタルの脅威を描く",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/25/"
+    },
+    {
+      "title": "若本規夫の“クセ強”ナレーションも健在！「ムカデ人間 4K」もっときれいになって蘇る予告編お披露目",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/5/"
+    },
+    {
+      "title": "謎の「ミニオン語」はこうして生まれた　生みの親が明かす舞台裏",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/13/"
+    },
+    {
+      "title": "侍と映画鑑賞の心得を学ぼう！「超高速！参勤交代　フルスロットル」劇場マナーCM＆メイキング映像公開",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/12/"
+    },
     {
       "title": "強烈な光を放つUAP、ミステリーサークル…スピルバーグ監督作「ディスクロージャー・デイ」物語の一端が垣間見える場面写真公開",
       "source": "映画.com",
@@ -140,48 +194,6 @@
       "source": "映画.com",
       "date": "2026-07-02",
       "url": "https://eiga.com/news/20260702/15/"
-    },
-    {
-      "title": "OpenAIのサム・アルトマンを描く映画、配給がNeonで決着へ",
-      "source": "映画.com",
-      "date": "2026-07-02",
-      "url": "https://eiga.com/news/20260702/14/"
-    },
-    {
-      "title": "「音楽」「ひゃくえむ。」のロックンロール・マウンテン最新作　短編「るすばん」8月1日から1週間限定公開",
-      "source": "映画.com",
-      "date": "2026-07-02",
-      "url": "https://eiga.com/news/20260702/11/"
-    },
-    {
-      "title": "日本初公開作を含む傑作15本が集結！「ハードボイルド・ノワール映画祭」7月25日開催決定",
-      "source": "映画.com",
-      "date": "2026-07-02",
-      "url": "https://eiga.com/news/20260702/17/"
-    },
-    {
-      "title": "早瀬憩、山元環監督オリジナルホラー「呪いのスマホ」に主演！【特報＆6種ビジュアル一挙公開】",
-      "source": "映画.com",
-      "date": "2026-07-01",
-      "url": "https://eiga.com/news/20260702/4/"
-    },
-    {
-      "title": "「スパイダーマン　ブランド・ニュー・デイ」待望のIMAX上映決定！　公開初日にはIMAX限定日本最速上映も実施",
-      "source": "映画.com",
-      "date": "2026-07-02",
-      "url": "https://eiga.com/news/20260702/9/"
-    },
-    {
-      "title": "「映画ちいかわ」新情報を7月3日に一挙発表",
-      "source": "映画.com",
-      "date": "2026-07-02",
-      "url": "https://eiga.com/news/20260702/8/"
-    },
-    {
-      "title": "日本初公開作を含む傑作15本が集結！「ハードボイルド・ノワール映画祭」7月25日開催決定",
-      "source": "映画.com",
-      "date": "2026-07-01",
-      "url": "https://eiga.com/news/20260701/30/"
     }
   ],
   "bd_releases": [],
