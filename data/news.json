@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-07-03T11:22:02.624301",
+  "generated_at": "2026-07-03T13:27:01.495709",
   "top_stories": [
     {
-      "title": "Spain’s SETT, South Africa’s KAG Launch $28.5 Million Audiovisual Venture",
+      "title": "Busan, Palm Springs Selection ‘Max, Min & Meowzaki’ Sets India Theatrical Release With Platoon One Films (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-07-03",
-      "url": "https://variety.com/2026/global/markets-festivals/spain-sett-south-africa-kag-joint-investment-1236801260/"
+      "url": "https://variety.com/2026/film/news/max-min-meowzaki-india-release-platoon-one-1236801373/"
     },
     {
-      "title": "Wes Anderson, Bill Murray Tease Western Project at Cinema Paradiso Event at Paris’ Louvre",
+      "title": "‘Power Book III: Raising Kanan’ Introduces Young [SPOILER], Character to Appear in ‘Power: Origins’",
       "source": "Variety",
       "date": "2026-07-03",
-      "url": "https://variety.com/2026/film/global/wes-anderson-bill-murray-western-cinema-paradiso-mk2-louvre-1236800900/"
+      "url": "https://variety.com/2026/tv/news/power-book-iii-raising-kanan-jarita-power-origins-1236801042/"
     },
     {
-      "title": "Peter Mullan, Rebecca Lucy Taylor, Iwan Rheon to Star in Celyn Jones’ Next Feature ‘Mountain’ (EXCLUSIVE)",
+      "title": "Cannes Winner Diego Céspedes Preps ‘Wild’ Second Feature, ‘The Case of the Boy Who Lost His Heart’ (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-07-03",
-      "url": "https://variety.com/2026/film/global/peter-mullan-iwan-rheon-celyn-jones-mountain-film-1236801278/"
+      "url": "https://variety.com/2026/film/global/diego-cespedes-preps-the-case-of-the-boy-who-lost-his-heart-1236790602/"
     }
   ],
   "new_releases": [
+    {
+      "title": "スパイダーマンをニューヨークに呼び戻せ　市が大作ロケの誘致に本腰",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/31/"
+    },
+    {
+      "title": "「ワールド イズ ダンシング」第1話放送を記念して、井上雄彦のお祝いイラスト公開　OP映像も披露",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/30/"
+    },
+    {
+      "title": "「ユーリ!!! on ICE」7月17日からYouTubeで全話一挙配信　10周年を記念してキャストらが喜びのコメント",
+      "source": "映画.com",
+      "date": "2026-07-03",
+      "url": "https://eiga.com/news/20260703/29/"
+    },
     {
       "title": "M!LKの塩﨑太智と吉田仁人が「トイ・ストーリー5」にカメオ声優出演！　塩崎「踊りたくなっち ゃうくらい最高」　吉田「幸せでした」",
       "source": "映画.com",
@@ -170,24 +188,6 @@
       "source": "映画.com",
       "date": "2026-07-02",
       "url": "https://eiga.com/news/20260703/10/"
-    },
-    {
-      "title": "ハチャメチャに楽しいミニオンズシアターの特別支配人にLiSAが再就任！ 入場者にはご当地バッジのプレゼントも",
-      "source": "映画.com",
-      "date": "2026-07-02",
-      "url": "https://eiga.com/news/20260703/11/"
-    },
-    {
-      "title": "「藁にもすがる獣たち」北米最大級のジャンル映画祭長編コンペに正式出品！鈴鹿央士＆城定秀夫監督がコメント",
-      "source": "映画.com",
-      "date": "2026-07-02",
-      "url": "https://eiga.com/news/20260703/3/"
-    },
-    {
-      "title": "重岡大毅、初の国際映画祭＆レッドカーペット歩行に「もう1周歩きたい」　熱烈な歓声に大喜び",
-      "source": "映画.com",
-      "date": "2026-07-02",
-      "url": "https://eiga.com/news/20260703/20/"
     }
   ],
   "bd_releases": [],
