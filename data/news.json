@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-04T10:46:32.724548",
+  "generated_at": "2026-07-04T11:59:04.485997",
   "top_stories": [
+    {
+      "title": "Karlovy Vary Focuses on Next Generation of European Filmmakers With Future Frames Program",
+      "source": "Variety",
+      "date": "2026-07-04",
+      "url": "https://variety.com/2026/film/global/karlovy-vary-future-frames-1236801671/"
+    },
     {
       "title": "Šimon Holý Turns Drag, Family and Small-Town Life Into a Tender Political Statement in ‘Chica Checa’",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-07-04",
       "url": "https://variety.com/2026/film/news/celina-jaitly-sister-nibedita-ram-kamal-mukherjee-1236801458/"
-    },
-    {
-      "title": "Rob Reiner Gets the ‘Last Laugh’ Against Trump in Secret Final Role as George Washington in Larry David’s HBO Show",
-      "source": "Variety",
-      "date": "2026-07-04",
-      "url": "https://variety.com/2026/tv/news/rob-reiner-trump-george-washington-larry-david-hbo-show-1236801101/"
     }
   ],
   "new_releases": [
+    {
+      "title": "提訴された画像生成AIのMidjourney、大手に「社内でのAI利用有無を明かせ」と要求",
+      "source": "映画.com",
+      "date": "2026-07-04",
+      "url": "https://eiga.com/news/20260704/13/"
+    },
     {
       "title": "「攻殻機動隊」新作TVアニメは“ミリしら”の人にこそお勧め　「原作コミックへの原点回帰」を読み解く",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-07-03",
       "url": "https://eiga.com/news/20260703/15/"
-    },
-    {
-      "title": "「リーサル・ウェポン」ダニー・グローバー、アルツハイマー病を公表",
-      "source": "映画.com",
-      "date": "2026-07-03",
-      "url": "https://eiga.com/news/20260703/14/"
     }
   ],
   "bd_releases": [],
