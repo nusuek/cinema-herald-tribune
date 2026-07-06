@@ -1,26 +1,80 @@
 {
-  "generated_at": "2026-07-06T06:14:02.144231",
+  "generated_at": "2026-07-06T11:18:43.519357",
   "top_stories": [
     {
-      "title": "China Box Office: ‘Minions & Monsters’ Takes Top Spot as ‘Keep Real’ Opens Second",
+      "title": "Netflix France Chief Pauline Dauvin Slams Expanded Investment Obligations: ‘These New Rules Go Too Far’",
       "source": "Variety",
       "date": "2026-07-06",
-      "url": "https://variety.com/2026/film/box-office/china-box-office-minions-monsters-keep-real-1236802205/"
+      "url": "https://variety.com/2026/film/global/netflix-france-chief-pauline-dauvin-investment-obligations-1236802286/"
     },
     {
-      "title": "‘House of the Dragon’ Star Steve Toussaint Teases Consequences of Corlys’ ‘Very Dangerous’ Request of Rhaenyra",
+      "title": "Kevin Costner’s ‘Dances With Wolves’ Set for New Restored Director’s Cut That Will Launch at Locarno",
       "source": "Variety",
       "date": "2026-07-06",
-      "url": "https://variety.com/2026/tv/features/house-of-the-dragon-corlys-rhaenyra-sons-bastards-1236800257/"
+      "url": "https://variety.com/2026/film/global/kevin-costner-dances-with-wolves-restored-cut-locarno-1236802288/"
     },
     {
-      "title": "‘The Vampire Lestat’ Costume Designer Breaks Down Lestat’s Rockstar Wardrobe and the Season’s Hidden Easter Eggs",
+      "title": "Secret Cinema Boss on ‘Grease’ Returning and Record-Breaking ’Pirates of the Caribbean’ Pre-Sales: ‘When People Step Into This Room, They’re Going To Be Beside Themselves’",
       "source": "Variety",
       "date": "2026-07-06",
-      "url": "https://variety.com/2026/tv/news/the-vampire-lestat-costume-designer-wardrobe-easter-eggs-1236800981/"
+      "url": "https://variety.com/2026/film/global/secret-cinema-pirates-of-the-caribbean-london-2027-1236788269/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「トイ・ストーリー5」洋画史上歴代トップのスタートで1位！　3位に新作「口に関するアンケート」【国内映画ランキング】",
+      "source": "映画.com",
+      "date": "2026-07-06",
+      "url": "https://eiga.com/news/20260706/19/"
+    },
+    {
+      "title": "池松壮亮、李相日ら映画映像業界のプロフェッショナルたちが直接指導！「映画・映像制作部・プロデューサー養成講座」受講者を募集中",
+      "source": "映画.com",
+      "date": "2026-07-06",
+      "url": "https://eiga.com/news/20260706/18/"
+    },
+    {
+      "title": "「MAO」7月4日から第2クール突入　追加キャストに佐藤拓也、釘宮理恵、小西克幸、海渡翼、下地紫野　新ED主題歌は上田麗奈が担当",
+      "source": "映画.com",
+      "date": "2026-07-06",
+      "url": "https://eiga.com/news/20260706/15/"
+    },
+    {
+      "title": "「トイ・ストーリー5」歴史的な大ヒットスタート！　週末3日間で観客動員164万人、興行収入24億円",
+      "source": "映画.com",
+      "date": "2026-07-06",
+      "url": "https://eiga.com/news/20260706/17/"
+    },
+    {
+      "title": "「終末のワルキューレ」第4期が製作決定　原作者からコメント＆イラストが到着",
+      "source": "映画.com",
+      "date": "2026-07-06",
+      "url": "https://eiga.com/news/20260706/14/"
+    },
+    {
+      "title": "「氷の微笑」続編、脚本が完成",
+      "source": "映画.com",
+      "date": "2026-07-06",
+      "url": "https://eiga.com/news/20260706/20/"
+    },
+    {
+      "title": "「本当に恐ろしかった」キャスト＆スタッフが語る怪奇な撮影の裏側「パッセンジャー」特別映像公開",
+      "source": "映画.com",
+      "date": "2026-07-06",
+      "url": "https://eiga.com/news/20260706/13/"
+    },
+    {
+      "title": "「マイケル」が三度首位、「新劇場版☆ケロロ軍曹」「スーパーガール」などが上位にランクイン【映画.comアクセスランキング】",
+      "source": "映画.com",
+      "date": "2026-07-06",
+      "url": "https://eiga.com/news/20260706/10/"
+    },
+    {
+      "title": "「ワイルド・スピード」最終章の撮影開始！ビン・ディーゼルが報告",
+      "source": "映画.com",
+      "date": "2026-07-06",
+      "url": "https://eiga.com/news/20260706/12/"
+    },
     {
       "title": "2026年上半期ホラー映画ベスト10　「8番出口」がランクイン、米老舗メディア選出",
       "source": "映画.com",
@@ -38,12 +92,6 @@
       "source": "映画.com",
       "date": "2026-07-06",
       "url": "https://eiga.com/news/20260706/8/"
-    },
-    {
-      "title": "「マイケル」が三度首位、「新劇場版☆ケロロ軍曹」「スーパーガールなど」が上位にランクイン【映画.comアクセスランキング】",
-      "source": "映画.com",
-      "date": "2026-07-06",
-      "url": "https://eiga.com/news/20260706/10/"
     },
     {
       "title": "「トイ・ストーリー5」公開初日に「アナ雪2」「ズートピア2」超え！洋画アニメーション史上歴代No.1ヒットスタート",
@@ -146,48 +194,6 @@
       "source": "映画.com",
       "date": "2026-07-05",
       "url": "https://eiga.com/news/20260705/6/"
-    },
-    {
-      "title": "唐沢寿明×広瀬アリス“時が流れても変わらない”「トイ・ストーリー」の魅力とは？【「トイ・ストーリー5」インタビュー】",
-      "source": "映画.com",
-      "date": "2026-07-05",
-      "url": "https://eiga.com/news/20260705/5/"
-    },
-    {
-      "title": "新仮面ライダーはネズミ!? 「仮面ライダーマイス」9月放送スタート ネコのライダーも登場",
-      "source": "映画.com",
-      "date": "2026-07-05",
-      "url": "https://eiga.com/news/20260705/4/"
-    },
-    {
-      "title": "「杖と剣のウィストリア」シーズン3が製作決定　サウンドトラックが配信リリース開始",
-      "source": "映画.com",
-      "date": "2026-07-05",
-      "url": "https://eiga.com/news/20260705/3/"
-    },
-    {
-      "title": "「ガチャを回して仲間を増やす　最強の美少女軍団を作り上げろ」TVアニメ化、27年1月放送開始　メインキャストに阪口大助、富田美憂、「＝LOVE」野口衣織",
-      "source": "映画.com",
-      "date": "2026-07-04",
-      "url": "https://eiga.com/news/20260705/2/"
-    },
-    {
-      "title": "米映画館チェーン、行き場を失った映画祭作品の劇場公開に乗り出す",
-      "source": "映画.com",
-      "date": "2026-07-04",
-      "url": "https://eiga.com/news/20260704/15/"
-    },
-    {
-      "title": "「鍋に弾丸を受けながら」J.C.STAFF制作で27年TVアニメ化　美少女（中身はおじさん）の海外グルメ旅",
-      "source": "映画.com",
-      "date": "2026-07-04",
-      "url": "https://eiga.com/news/20260704/14/"
-    },
-    {
-      "title": "提訴された画像生成AIのMidjourney、大手に「社内でのAI利用有無を明かせ」と要求",
-      "source": "映画.com",
-      "date": "2026-07-04",
-      "url": "https://eiga.com/news/20260704/13/"
     }
   ],
   "bd_releases": [],
