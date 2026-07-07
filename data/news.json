@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-07T05:54:55.377522",
+  "generated_at": "2026-07-07T09:00:08.182876",
   "top_stories": [
+    {
+      "title": "‘Toy Story 5’ Holds No. 1 as ‘Minions & Monsters’ Chases at U.K. and Ireland Box Office",
+      "source": "Variety",
+      "date": "2026-07-07",
+      "url": "https://variety.com/2026/film/box-office/toy-story-5-minions-monsters-uk-ireland-box-office-1236803117/"
+    },
     {
       "title": "Herb Alpert & the Tijuana Brass Whip It Good at the Hollywood Bowl, Returning After 59 Years for a Great Sugar Rush of a Show: Concert Review",
       "source": "Variety",
@@ -12,15 +18,39 @@
       "source": "Variety",
       "date": "2026-07-07",
       "url": "https://variety.com/2026/tv/news/u-s-mens-national-soccer-team-eliminated-world-cup-belgium-1236803018/"
-    },
-    {
-      "title": "LISTEN: ‘Minions and Monsters’ Has Tepid U.S. Opening as ‘Young Washington’ Impresses; Why Comcast’s Sky is Buying ITV",
-      "source": "Variety",
-      "date": "2026-07-07",
-      "url": "https://variety.com/2026/film/news/minions-and-monsters-young-washington-box-office-sky-itv-1236802981/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「劇場版　ほんとうにあった怖い話」新作、8月7日公開！　ドンデコルテ・渡辺銀次、カベポスター・永見大吾＆浜田順平が映画初主演",
+      "source": "映画.com",
+      "date": "2026-07-07",
+      "url": "https://eiga.com/news/20260707/16/"
+    },
+    {
+      "title": "血まみれとはまさにこのこと――合言葉は「もっと血を！」　クローネンバーグも太鼓判「レディ・オア・ノット2」特別映像公開",
+      "source": "映画.com",
+      "date": "2026-07-07",
+      "url": "https://eiga.com/news/20260707/15/"
+    },
+    {
+      "title": "Netflixシリーズ「ガス人間」作品概要、あらすじ、キャラクター、スタッフ、予告編まとめ",
+      "source": "映画.com",
+      "date": "2026-07-04",
+      "url": "https://eiga.com/news/20260704/6/"
+    },
+    {
+      "title": "「ラブ≠コメディ」第2弾入場特典が決定！ 中島健人の圧巻のライブパフォーマンスを“別アングル”で堪能できる視聴カードを配布",
+      "source": "映画.com",
+      "date": "2026-07-07",
+      "url": "https://eiga.com/news/20260707/14/"
+    },
+    {
+      "title": "ヒュー・ジャックマン、ウルヴァリン役を「90歳まで続けたい」",
+      "source": "映画.com",
+      "date": "2026-07-07",
+      "url": "https://eiga.com/news/20260707/12/"
+    },
     {
       "title": "仏アヌシーにアニメーション総合センター誕生　展示、映画、教育、文化創出を担う映画祭連動の地域振興拠点",
       "source": "映画.com",
@@ -170,36 +200,6 @@
       "source": "映画.com",
       "date": "2026-07-06",
       "url": "https://eiga.com/news/20260706/11/"
-    },
-    {
-      "title": "唐沢寿明×所ジョージ×広瀬アリスら声優陣、東京ディズニーランドで「トイ・ストーリー5」の魅力をアピール！",
-      "source": "映画.com",
-      "date": "2026-07-06",
-      "url": "https://eiga.com/news/20260706/16/"
-    },
-    {
-      "title": "内山拓也監督最新作「しびれ」台北映画祭で大盛況！ 故郷・新潟での撮影秘話、北村匠海＆宮沢りえの起用理由を語る",
-      "source": "映画.com",
-      "date": "2026-07-06",
-      "url": "https://eiga.com/news/20260706/8/"
-    },
-    {
-      "title": "「トイ・ストーリー5」公開初日に「アナ雪2」「ズートピア2」超え！洋画アニメーション史上歴代No.1ヒットスタート",
-      "source": "映画.com",
-      "date": "2026-07-06",
-      "url": "https://eiga.com/news/20260706/9/"
-    },
-    {
-      "title": "スピルバーグ製作会社、YouTube発の人気ホラーを映画化へ　11社参加の争奪戦を制す",
-      "source": "映画.com",
-      "date": "2026-07-06",
-      "url": "https://eiga.com/news/20260706/7/"
-    },
-    {
-      "title": "安田章大×のん「平行と垂直」兄と妹、それぞれの人生が動き出す場面写真公開　緊迫感あふれるカットも",
-      "source": "映画.com",
-      "date": "2026-07-06",
-      "url": "https://eiga.com/news/20260706/6/"
     }
   ],
   "bd_releases": [],
