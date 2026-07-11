@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T12:44:22.943134",
+  "generated_at": "2026-07-11T14:15:12.720224",
   "top_stories": [
     {
       "title": "‘Only Beautiful Things to Look At’ Review: A Handsome but Muffled Portrait of State-Sanctioned Cruelty",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "J・J・エイブラムス製作スリラー映画にジョン・グッドマンが出演",
+      "source": "映画.com",
+      "date": "2026-07-11",
+      "url": "https://eiga.com/news/20260711/15/"
+    },
     {
       "title": "「日曜アニメ劇場」7月12日に「ルパン三世vs名探偵コナン THE MOVIE」、26日に「名探偵コナン vs. 怪盗キッド」放送",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-07-10",
       "url": "https://eiga.com/news/20260710/14/"
-    },
-    {
-      "title": "パラマウント×ワーナー合併に「待った」　米オレゴン州、司法省承認を「不正」と主張",
-      "source": "映画.com",
-      "date": "2026-07-10",
-      "url": "https://eiga.com/news/20260710/13/"
     }
   ],
   "bd_releases": [],
