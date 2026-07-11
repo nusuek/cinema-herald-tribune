@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T07:02:32.197030",
+  "generated_at": "2026-07-11T09:12:24.611183",
   "top_stories": [
     {
       "title": "Colombia Adds Massive Soundstage as Bogotá Audiovisual Market Attendance Soars and ‘Narcos’ Star-Led ‘Rookies’ Cleans Up in Project Prizes",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "ドウェイン・ジョンソン、ベン・アフレック×マット・デイモン製作の新作アクション映画に主演",
+      "source": "映画.com",
+      "date": "2026-07-11",
+      "url": "https://eiga.com/news/20260711/12/"
+    },
     {
       "title": "サシャ・バロン・コーエン、極秘撮影で「アリ・G」新作映画を完成",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-07-10",
       "url": "https://eiga.com/news/20260710/10/"
-    },
-    {
-      "title": "「逃げ上手の若君」第2期が7月17日から放送　OP主題歌は中島健人が担当　メインPVも公開",
-      "source": "映画.com",
-      "date": "2026-07-10",
-      "url": "https://eiga.com/news/20260710/9/"
     }
   ],
   "bd_releases": [],
