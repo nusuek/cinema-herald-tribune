@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-07-14T09:04:14.466806",
+  "generated_at": "2026-07-14T11:14:10.543405",
   "top_stories": [
     {
-      "title": "‘Stranger Things’ Star Linnea Berthelsen to Make U.K. Stage Debut in ‘Darkling’ (EXCLUSIVE)",
+      "title": "BBC Warns of ‘Real Jeopardy’ as License Fee Base Erodes Despite Record-Breaking Content Year",
       "source": "Variety",
       "date": "2026-07-14",
-      "url": "https://variety.com/2026/theater/global/stranger-things-eight-linnea-berthelsen-uk-stage-darkling-1236810349/"
+      "url": "https://variety.com/2026/tv/news/bbc-real-jeopardy-license-fee-record-content-year-1236810365/"
     },
     {
-      "title": "Glassriver, ZDF Studios’ Network Movie Team on Lilja Sigurðardóttir Crime Series ‘Áróra’ (EXCLUSIVE)",
+      "title": "‘Bluey’ Helps Power 17% Profit Growth at BBC Commercial",
       "source": "Variety",
       "date": "2026-07-14",
-      "url": "https://variety.com/2026/global/markets-festivals/glassriver-network-movie-lilja-sigurdardottir-arora-1236808993/"
+      "url": "https://variety.com/2026/tv/news/bluey-bbc-commercial-profit-growth-2025-26-1236810374/"
     },
     {
-      "title": "Fandango Sales Picks Up Explosive Locarno Premiere ‘The Chilean’ Where ‘Everything Is on the Verge of Detonation’ (EXCLUSIVE)",
+      "title": "Ellen Burstyn to Receive Venice’s Golden Lion for Lifetime Achievement",
       "source": "Variety",
       "date": "2026-07-14",
-      "url": "https://variety.com/2026/film/global/fandango-sales-locarno-the-chilean-sergio-castro-san-martin-1236809739/"
+      "url": "https://variety.com/2026/film/global/ellen-burstyn-venice-golden-lion-1236810359/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ジュラシック・パーク」のサム・ニールさん死去　78歳",
+      "source": "映画.com",
+      "date": "2026-07-14",
+      "url": "https://eiga.com/news/20260714/19/"
+    },
+    {
+      "title": "ゴジラとコングの大型アトラクション、韓国のロッテワールドに今月オープン",
+      "source": "映画.com",
+      "date": "2026-07-14",
+      "url": "https://eiga.com/news/20260714/18/"
+    },
+    {
+      "title": "最愛の彼女がレストランで大声でブチギレ！「オブセッション 災愛」本編映像、新場面写真",
+      "source": "映画.com",
+      "date": "2026-07-14",
+      "url": "https://eiga.com/news/20260714/16/"
+    },
+    {
+      "title": "トム・クルーズ「DIGGER ディガー」トレーラーローンチイベントで何を語った？　イニャリトゥ監督は「この映画にはトムが必要でした」",
+      "source": "映画.com",
+      "date": "2026-07-14",
+      "url": "https://eiga.com/news/20260714/17/"
+    },
     {
       "title": "屋比久知奈、実写版「モアナと伝説の海」でTSUZUMI＆尾上松也と奇跡の共演！日本版エンドソング「旅立とう ～Along The Way～」誕生",
       "source": "映画.com",
@@ -146,30 +170,6 @@
       "source": "映画.com",
       "date": "2026-07-13",
       "url": "https://eiga.com/news/20260713/13/"
-    },
-    {
-      "title": "「マイケル」V4、「口に関するアンケート」「大統領のケーキ」などが上位にアップ【映画.comアクセスランキング】",
-      "source": "映画.com",
-      "date": "2026-07-13",
-      "url": "https://eiga.com/news/20260713/12/"
-    },
-    {
-      "title": "“ディズニー史上最高の実写化映画”と絶賛の声！「モアナと伝説の海」全世界週末興収No.1大ヒットスタート",
-      "source": "映画.com",
-      "date": "2026-07-13",
-      "url": "https://eiga.com/news/20260713/11/"
-    },
-    {
-      "title": "「えぶりでいホスト」アニメ新シリーズ、27年1月から放送決定　初の舞台化も決定",
-      "source": "映画.com",
-      "date": "2026-07-13",
-      "url": "https://eiga.com/news/20260713/10/"
-    },
-    {
-      "title": "「リプリー」のアンドリュー・スコット、英名優の伝記映画で主演",
-      "source": "映画.com",
-      "date": "2026-07-13",
-      "url": "https://eiga.com/news/20260713/8/"
     }
   ],
   "bd_releases": [],
