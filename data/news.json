@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-07-16T04:46:27.423827",
+  "generated_at": "2026-07-16T07:11:49.231548",
   "top_stories": [
+    {
+      "title": "Will Ferrell’s Lackluster Golf Comedy ‘The Hawk’ Is No ‘Talladega Nights’: TV Review",
+      "source": "Variety",
+      "date": "2026-07-16",
+      "url": "https://variety.com/2026/tv/reviews/the-hawk-review-will-ferrell-golf-netflix-1236812110/"
+    },
+    {
+      "title": "‘The Illusion of an Everlasting Summer’ Boarded by Autlook Ahead of Locarno Premiere as Clip Debuts (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-07-16",
+      "url": "https://variety.com/2026/film/global/the-illusion-of-an-everlasting-summer-autlook-locarno-1236811882/"
+    },
     {
       "title": "Hal Williams, ‘227’ Star and ‘Sanford and Son’ Regular, Dies at 91",
       "source": "Variety",
       "date": "2026-07-16",
       "url": "https://variety.com/2026/tv/news/hal-williams-dead-227-sanford-and-son-1236812244/"
-    },
-    {
-      "title": "‘Motor City’ Review: Potsy Ponciroli’s Audacious Thriller — a Scorsese Opera without Dialogue — Announces the Arrival of a Startling Voice",
-      "source": "Variety",
-      "date": "2026-07-16",
-      "url": "https://variety.com/2026/film/reviews/motor-city-review-shailene-woodley-ben-foster-1236810506/"
-    },
-    {
-      "title": "Quentin Tarantino Plans to Retire After His Next Movie. Christopher Nolan Hopes He ‘Won’t Stay True’ to His Word",
-      "source": "Variety",
-      "date": "2026-07-16",
-      "url": "https://variety.com/2026/film/news/christopher-nolan-criticizes-tarantino-retiring-after-10-movies-1236810994/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ひとりぼっちの異世界攻略」第2期が製作決定　梅田修一朗、白石晴香、早見沙織がお祝いコメント",
+      "source": "映画.com",
+      "date": "2026-07-16",
+      "url": "https://eiga.com/news/20260716/19/"
+    },
+    {
+      "title": "メタ、新AI画像生成機能を公開数日で停止",
+      "source": "映画.com",
+      "date": "2026-07-16",
+      "url": "https://eiga.com/news/20260716/18/"
+    },
+    {
+      "title": "「モアナと伝説の海」モアナ役日本版声優TSUZUMIが福岡に降臨！ 映画プロモーション史上初の会場で海をバックに劇中歌を生歌唱",
+      "source": "映画.com",
+      "date": "2026-07-16",
+      "url": "https://eiga.com/news/20260716/17/"
+    },
     {
       "title": "ジョージ・ルーカス、映画のAI活用に「止めようがない」",
       "source": "映画.com",
@@ -170,24 +188,6 @@
       "source": "映画.com",
       "date": "2026-07-14",
       "url": "https://eiga.com/news/20260714/17/"
-    },
-    {
-      "title": "アニメ「モブサイコ100」放送10周年を記念した特別映像公開　モブや霊幻、エクボ、トメが登場",
-      "source": "映画.com",
-      "date": "2026-07-15",
-      "url": "https://eiga.com/news/20260715/16/"
-    },
-    {
-      "title": "「ゴジラ－0.0」ポスター＆特報映像公開！吉岡秀隆、山田裕貴らが続投、新キャストに田中泯【コメントあり】",
-      "source": "映画.com",
-      "date": "2026-07-09",
-      "url": "https://eiga.com/news/20260709/23/"
-    },
-    {
-      "title": "松岡茉優主演、美容整形の光と闇と心の葛藤をえぐる「ダウンタイム」ティーザー予告＆追加キャスト公開",
-      "source": "映画.com",
-      "date": "2026-07-14",
-      "url": "https://eiga.com/news/20260715/9/"
     }
   ],
   "bd_releases": [],
