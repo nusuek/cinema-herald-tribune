@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-07-17T21:38:21.386737",
+  "generated_at": "2026-07-17T22:35:22.498041",
   "top_stories": [
+    {
+      "title": "The Best 4K TVs to Turn Your Home into a Mini Movie Theater in 2026",
+      "source": "Variety",
+      "date": "2026-07-17",
+      "url": "https://variety.com/shop/best-4k-tvs-1234717549/"
+    },
+    {
+      "title": "Netflix Paid $587 Million for Ben Affleck’s AI Startup InterPositive",
+      "source": "Variety",
+      "date": "2026-07-17",
+      "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/"
+    },
     {
       "title": "Netflix Buys Danny Boyle’s Rupert Murdoch Movie and Venice Opener ‘Ink’",
       "source": "Variety",
       "date": "2026-07-17",
       "url": "https://variety.com/2026/film/global/danny-boyle-rupert-murdoch-movie-ink-bought-us-netflix-1236812563/"
-    },
-    {
-      "title": "Shane Gillis Breaks Guinness World Record for Most Tickets Sold for a Solo Comedy Show (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-07-17",
-      "url": "https://variety.com/2026/tv/news/shane-gillis-breaks-guinness-world-record-tickets-sold-1236815073/"
-    },
-    {
-      "title": "‘The Odyssey’: All the Ways Christopher Nolan’s Movie Is Different From the Book",
-      "source": "Variety",
-      "date": "2026-07-17",
-      "url": "https://variety.com/2026/film/news/the-odyssey-changes-christopher-nolan-adapts-homer-1236814443/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「シャングリラ・フロンティア 3rd Season」27年1月放送開始　VR格ゲーの激闘を描くティザーPVが公開",
+      "source": "映画.com",
+      "date": "2026-07-17",
+      "url": "https://eiga.com/news/20260718/1/"
+    },
     {
       "title": "「キングダム　魂の決戦」全国521館で公開！シリーズ最高「大将軍の帰還」対比で動員124％の好スタート",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-07-16",
       "url": "https://eiga.com/news/20260716/21/"
-    },
-    {
-      "title": "「モアナと伝説の海」モアナ役日本版声優TSUZUMIの収録模様を収めた劇中歌「どこまでも ～How Far I'll Go～」特別映像解禁！",
-      "source": "映画.com",
-      "date": "2026-07-16",
-      "url": "https://eiga.com/news/20260716/22/"
     }
   ],
   "bd_releases": [],
