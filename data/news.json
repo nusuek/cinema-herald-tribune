@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-18T22:34:39.939196",
+  "generated_at": "2026-07-18T23:39:00.625648",
   "top_stories": [
+    {
+      "title": "Christopher Nolan Says It Will Be ‘At Least’ Three Years Until He Makes Another Movie After ‘The Odyssey’ Pushed the ‘Limits of My Own Stamina’",
+      "source": "Variety",
+      "date": "2026-07-18",
+      "url": "https://variety.com/2026/film/news/christopher-nolan-three-years-another-movie-the-odyssey-1236815625/"
+    },
     {
       "title": "‘Manhunter: The Final Cut’ Shows Why Director’s Cuts Are Almost Never an Improvement. But It’s Still the Greatest Thriller of Our Time",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-07-18",
       "url": "https://variety.com/2026/music/news/robert-smith-fifa-world-cup-halftime-show-1236815510/"
-    },
-    {
-      "title": "Freddy Cannon, Rocker Whose Late ’50s and Early ’60s Hits Included ‘Palisades Park’ and ‘Tallahassee Lassie,’ Dies at 89",
-      "source": "Variety",
-      "date": "2026-07-18",
-      "url": "https://variety.com/2026/music/obituaries-people-news/freddy-cannon-dead-palisades-park-rocker-1236815495/"
     }
   ],
   "new_releases": [
+    {
+      "title": "音楽番組「STAR」ナビゲーターにちいかわ＆島二郎が就任　ハチワレ、うさぎも番組のどこかに登場予定",
+      "source": "映画.com",
+      "date": "2026-07-18",
+      "url": "https://eiga.com/news/20260719/2/"
+    },
     {
       "title": "フランスから逆輸入のコミック「虎鶫　とらつぐみ　－TSUGUMI PROJECT－」TVアニメ化　ティザービジュアル＆PV公開",
       "source": "映画.com",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2026-07-17",
       "url": "https://eiga.com/news/20260717/7/"
-    },
-    {
-      "title": "日本からYOASOBI＆Ado参戦！世界最大級の音楽フェス「ロラパルーザ」ディズニープラスで同時配信",
-      "source": "映画.com",
-      "date": "2026-07-17",
-      "url": "https://eiga.com/news/20260717/6/"
     }
   ],
   "bd_releases": [],
