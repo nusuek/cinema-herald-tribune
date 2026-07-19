@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-07-18T23:39:00.625648",
+  "generated_at": "2026-07-19T01:17:28.420432",
   "top_stories": [
+    {
+      "title": "Andrew Tate and Brother Tristan Arrested in Miami",
+      "source": "Variety",
+      "date": "2026-07-18",
+      "url": "https://variety.com/2026/digital/news/andrew-tate-tristan-tate-arrested-miami-1236815654/"
+    },
+    {
+      "title": "‘Mexodus’ Review: The Underground Railroad Runs South to Mexico in a Pasadena Playhouse Musical That Feels as Spirited as a Two-Man ‘Hamilton’",
+      "source": "Variety",
+      "date": "2026-07-18",
+      "url": "https://variety.com/2026/legit/reviews/mexodus-pasadena-playhouse-musical-theater-review-1236815638/"
+    },
     {
       "title": "Christopher Nolan Says It Will Be ‘At Least’ Three Years Until He Makes Another Movie After ‘The Odyssey’ Pushed the ‘Limits of My Own Stamina’",
       "source": "Variety",
       "date": "2026-07-18",
       "url": "https://variety.com/2026/film/news/christopher-nolan-three-years-another-movie-the-odyssey-1236815625/"
-    },
-    {
-      "title": "‘Manhunter: The Final Cut’ Shows Why Director’s Cuts Are Almost Never an Improvement. But It’s Still the Greatest Thriller of Our Time",
-      "source": "Variety",
-      "date": "2026-07-18",
-      "url": "https://variety.com/2026/film/columns/manhunter-the-final-cut-the-greatest-thriller-of-our-time-1236815424/"
-    },
-    {
-      "title": "The Cure’s Robert Smith Slams FIFA’s World Cup Final Halftime Show: ‘Just F— Off’",
-      "source": "Variety",
-      "date": "2026-07-18",
-      "url": "https://variety.com/2026/music/news/robert-smith-fifa-world-cup-halftime-show-1236815510/"
     }
   ],
   "new_releases": [
+    {
+      "title": "チャン・リュル監督「春樹」「ルオムの黄昏」の共通点「映画の仕事として、一番大切なのは“記憶を残すこと”」【アジア映画コラム】",
+      "source": "映画.com",
+      "date": "2026-07-19",
+      "url": "https://eiga.com/news/20260719/3/"
+    },
+    {
+      "title": "【7月19日はベネディクト・カンバーバッチの誕生日】ディズニープラスで振り返るドクター・ストレンジの活躍",
+      "source": "映画.com",
+      "date": "2026-07-19",
+      "url": "https://eiga.com/news/20260719/13/"
+    },
     {
       "title": "音楽番組「STAR」ナビゲーターにちいかわ＆島二郎が就任　ハチワレ、うさぎも番組のどこかに登場予定",
       "source": "映画.com",
@@ -188,18 +200,6 @@
       "source": "映画.com",
       "date": "2026-07-17",
       "url": "https://eiga.com/news/20260717/9/"
-    },
-    {
-      "title": "“スパイダーマン”トム・ホランド、バットマンに唯一かなわない点を明かす",
-      "source": "映画.com",
-      "date": "2026-07-17",
-      "url": "https://eiga.com/news/20260717/8/"
-    },
-    {
-      "title": "劇場版第2作「ドラゴンボール 魔神城のねむり姫」が7月19日午後8時からTOKYO MXで放送",
-      "source": "映画.com",
-      "date": "2026-07-17",
-      "url": "https://eiga.com/news/20260717/7/"
     }
   ],
   "bd_releases": [],
