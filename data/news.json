@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-07-20T11:31:23.947208",
+  "generated_at": "2026-07-20T13:41:03.020984",
   "top_stories": [
     {
-      "title": "Andy Burnham Becomes U.K. Prime Minister, Succeeding Keir Starmer",
+      "title": "‘Masters of the Universe’ Sets Prime Video Streaming Release Date",
       "source": "Variety",
       "date": "2026-07-20",
-      "url": "https://variety.com/2026/politics/news/andy-burnham-becomes-uk-prime-minister-1236816392/"
+      "url": "https://variety.com/2026/film/news/masters-of-the-universe-prime-video-release-date-streaming-1236798934/"
     },
     {
-      "title": "Former ‘This Morning’ Host Holly Willoughby Heads to YouTube for New Lifestyle Series",
+      "title": "Brunello Cucinelli Docufilm ‘The Gracious Visionary’ Sells Internationally Ahead of North American Release (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-07-20",
-      "url": "https://variety.com/2026/tv/global/holly-willoughby-youtube-together-show-1236816406/"
+      "url": "https://variety.com/2026/film/global/brunello-cucinelli-visionary-sales-american-release-1236816367/"
     },
     {
-      "title": "Venice Critics’ Week Lineup: Shalini Adnani’s Family Drama ‘Our Share of Sand,’ AI-Assisted Colombian Doc ‘The End of Times’ and More",
+      "title": "‘Avengers: Doomsday’ Trailer: Doctor Doom Battles the MCU, X-Men and Avengers Face Off, Captain America Returns",
       "source": "Variety",
       "date": "2026-07-20",
-      "url": "https://variety.com/2026/film/festivals/venice-critics-week-lineup-shalini-adnani-our-share-of-sand-1236815353/"
+      "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-doctor-doom-x-men-fantastic-four-1236580146/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「魔法少女まどか☆マギカ [新編]叛逆の物語」リバイバルで「ワルプルギスの廻天」冒頭約5分間を先行公開",
+      "source": "映画.com",
+      "date": "2026-07-20",
+      "url": "https://eiga.com/news/20260720/11/"
+    },
     {
       "title": "Netflix、視聴データ「エンゲージメントレポート」の公表を年1回に減らす",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-07-18",
       "url": "https://eiga.com/news/20260718/10/"
-    },
-    {
-      "title": "旅はいよいよ終盤戦！「King & Prince がまちあわせ in LA」エピソード6予告編＆先行カット公開",
-      "source": "映画.com",
-      "date": "2026-07-17",
-      "url": "https://eiga.com/news/20260717/16/"
     }
   ],
   "bd_releases": [],
