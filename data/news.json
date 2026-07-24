@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-07-24T22:48:18.948734",
+  "generated_at": "2026-07-24T23:51:31.732211",
   "top_stories": [
+    {
+      "title": "Norwegian Zombie Comedy ‘Grandmonster’ Wins Big Laughs and Top Outpost Award at Fantasia’s Frontières Market",
+      "source": "Variety",
+      "date": "2026-07-24",
+      "url": "https://variety.com/2026/film/markets-festivals/fantasia-frontieres-grandmonster-zombie-comedy-1236820625/"
+    },
+    {
+      "title": "‘Blue Bloods,’ ‘Once Upon a Time’ TV Director Ralph W. Hemecker Dies at 65",
+      "source": "Variety",
+      "date": "2026-07-24",
+      "url": "https://variety.com/2026/tv/news/ralph-hemecker-dies-blue-bloods-once-upon-a-time-director-1236820745/"
+    },
     {
       "title": "‘Crutch’ Canceled After One Season at Paramount+",
       "source": "Variety",
       "date": "2026-07-24",
       "url": "https://variety.com/2026/tv/news/crutch-canceled-paramount-plus-1236809888/"
-    },
-    {
-      "title": "HBO Max Leads the Emmy Drama and Comedy Races for the First Time Since 2017. How Often Do Both Frontrunners Win?",
-      "source": "Variety",
-      "date": "2026-07-24",
-      "url": "https://variety.com/2026/tv/awards/hbo-max-the-pitt-hacks-emmys-history-1236820629/"
-    },
-    {
-      "title": "‘Lanterns’ Trailer: Hal Jordan Visits Sinestro in Prison, Guy Gardner Has a Cameo and a Shape-Shifting Manhunter Is on the Loose",
-      "source": "Variety",
-      "date": "2026-07-24",
-      "url": "https://variety.com/2026/tv/news/lanterns-trailer-sinestro-guy-gardner-manhunter-1236818889/"
     }
   ],
   "new_releases": [
+    {
+      "title": "サントリー×映画ちいかわ、コラボ第2弾　人気ドリンクが「ちいかわボトル」で数量限定発売",
+      "source": "映画.com",
+      "date": "2026-07-24",
+      "url": "https://eiga.com/news/20260725/2/"
+    },
     {
       "title": "ドウェイン・ジョンソン、「モアナと伝説の海」マウイは「亡き祖父からインスパイア」…日本との深いきずなを語る",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-07-23",
       "url": "https://eiga.com/news/20260723/12/"
-    },
-    {
-      "title": "塚本晋也監督「ネルソンさん、あなたは人を殺しましたか？」第83回ベネチア国際映画祭コンペティション出品",
-      "source": "映画.com",
-      "date": "2026-07-23",
-      "url": "https://eiga.com/news/20260723/17/"
     }
   ],
   "bd_releases": [],
