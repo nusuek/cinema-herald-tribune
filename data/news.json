@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-07-25T23:46:42.190526",
+  "generated_at": "2026-07-26T01:23:16.382193",
   "top_stories": [
     {
-      "title": "‘Hadestown’ Brings Broadway’s Underworld to the Big Screen: The Show’s Actors and Creators on Reconvening the Original Cast for a Smashing Cinema Event",
+      "title": "Ryan Gosling to Star in Marvel’s Ghost Rider Movie",
+      "source": "Variety",
+      "date": "2026-07-26",
+      "url": "https://variety.com/2026/film/news/ryan-gosling-ghost-rider-marvel-movie-1236821206/"
+    },
+    {
+      "title": "Stephen King’s ‘Carrie’ Series Sets October Release Date, Drops Horrifying New Trailer",
+      "source": "Variety",
+      "date": "2026-07-26",
+      "url": "https://variety.com/2026/tv/news/carrie-tv-series-trailer-release-date-mike-flanagan-1236807045/"
+    },
+    {
+      "title": "‘Hadestown’ Brings Broadway’s Underworld to the Big Screen: Original Cast Members and Creator Anaïs Mitchell on Reconvening for a Smashing Cinema Event",
       "source": "Variety",
       "date": "2026-07-25",
       "url": "https://variety.com/2026/music/news/hadestown-musical-film-actors-interview-1236821221/"
-    },
-    {
-      "title": "Fantasia International Film Festival Awards: Hanna Bergholm’s ‘Nightborn’ Wins Top Honor",
-      "source": "Variety",
-      "date": "2026-07-25",
-      "url": "https://variety.com/2026/film/festivals/fantasia-festival-awards-nightborn-wins-top-honor-1236821190/"
-    },
-    {
-      "title": "‘Neuromancer’ First Look: Callum Turner Is a Cyberspace Criminal in Teaser for Apple TV Sci-Fi Series",
-      "source": "Variety",
-      "date": "2026-07-25",
-      "url": "https://variety.com/2026/tv/news/neuromancer-first-look-callum-turner-apple-tv-1236821177/"
     }
   ],
   "new_releases": [
+    {
+      "title": "怒りに燃えた最強の養蜂家がカムバック！ジェイソン・ステイサム主演「ビーキーパー2」2027年1月15日に日米同時公開決定【予告あり】",
+      "source": "映画.com",
+      "date": "2026-07-26",
+      "url": "https://eiga.com/news/20260726/4/"
+    },
     {
       "title": "【本日放送】堺雅人を徹底解剖！「VIVANT」阿部寛が明かす“恐るべき継続力”と緊迫の舞台裏が明らかに　貴重なメイキング映像を地上波初公開",
       "source": "映画.com",
@@ -170,18 +176,6 @@
       "source": "映画.com",
       "date": "2026-07-24",
       "url": "https://eiga.com/news/20260724/17/"
-    },
-    {
-      "title": "入ったら、最後――「パージ」監督が仕掛ける老人版「ゲット・アウト」　サイコホラー「ユートピア　狂宴」9月25日公開",
-      "source": "映画.com",
-      "date": "2026-07-24",
-      "url": "https://eiga.com/news/20260724/16/"
-    },
-    {
-      "title": "SABU監督最新作「Arrested Memory」第83回ベネチア国際映画祭アウト・オブ・コンペティション部門出品",
-      "source": "映画.com",
-      "date": "2026-07-24",
-      "url": "https://eiga.com/news/20260724/18/"
     }
   ],
   "bd_releases": [],
