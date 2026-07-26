@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-26T05:16:22.110008",
+  "generated_at": "2026-07-26T08:01:08.576732",
   "top_stories": [
+    {
+      "title": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
+      "source": "Variety",
+      "date": "2026-07-26",
+      "url": "https://variety.com/2026/tv/news/la-local-emmy-winners-pbs-socal-leads-kvea-kabc-1236821371/"
+    },
     {
       "title": "Marvel’s Comic-Con Panel Excites Fans for ‘Doomsday’ but Leaves Them Cautiously Optimistic About What’s Beyond",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-07-26",
       "url": "https://variety.com/2026/film/news/winston-duke-david-jonsson-black-panther-3-1236821351/"
-    },
-    {
-      "title": "‘Black Panther 3’: David Jonsson to Play T’Challa’s Son as December 2028 Release Date Set",
-      "source": "Variety",
-      "date": "2026-07-26",
-      "url": "https://variety.com/2026/film/news/black-panther-3-december-2028-release-david-jonsson-1236083370/"
     }
   ],
   "new_releases": [
+    {
+      "title": "神山健治監督が手がける「機動戦士ガンダム RG XARX-ZERO」27年に展開　主人公アズミ・レイ役に大塚剛央",
+      "source": "映画.com",
+      "date": "2026-07-26",
+      "url": "https://eiga.com/news/20260726/8/"
+    },
     {
       "title": "「映画ちいかわ」うさぎがノリノリでラップ、剣を手にしたちいかわ＆ハチワレ　最新場面写真が一挙公開",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-07-24",
       "url": "https://eiga.com/news/20260724/5/"
-    },
-    {
-      "title": "【生誕40周年記念】「眺めのいい部屋」4K修復版が9月25日公開、キービジュアル＆予告編披露",
-      "source": "映画.com",
-      "date": "2026-07-24",
-      "url": "https://eiga.com/news/20260724/20/"
     }
   ],
   "bd_releases": [],
