@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-07-29T22:44:20.486215",
+  "generated_at": "2026-07-29T23:49:25.479013",
   "top_stories": [
+    {
+      "title": "AMC Theatres Chief Adam Aron Pushes for Paramount Warner Bros. Merger, Says ‘Thanks, But No Thanks’ to State AG’s Blocking Deal",
+      "source": "Variety",
+      "date": "2026-07-29",
+      "url": "https://variety.com/2026/biz/news/amc-theatres-adam-aron-paramount-warner-bros-merger-1236823859/"
+    },
     {
       "title": "Andrew Garfield on Amazon Dropping ‘Artificial’ and Wanting to Meet Sam Altman (EXCLUSIVE)",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-07-29",
       "url": "https://variety.com/2026/film/news/ian-mckellen-anthony-mackie-avengers-doomsday-1236823853/"
-    },
-    {
-      "title": "Synthwave Trio Gunship Releases Hypnotic Video for Their Cover of Cyndi Lauper’s ‘Time After Time’ (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-07-29",
-      "url": "https://variety.com/2026/film/news/gunship-time-after-time-video-cyndi-lauper-whistle-1236822150/"
     }
   ],
   "new_releases": [
+    {
+      "title": "石井隆の幻の脚本を城定秀夫が映画化　2人の男と“運命の女”のエロティック・ノワール「雨のエトランゼ」公開決定",
+      "source": "映画.com",
+      "date": "2026-07-29",
+      "url": "https://eiga.com/news/20260730/5/"
+    },
     {
       "title": "夏休みはおうちが映画館に！ホラーやサメ映画など人気ジャンルを「ザ・シネマ」で日替わり一挙放送",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-07-28",
       "url": "https://eiga.com/news/20260728/25/"
-    },
-    {
-      "title": "絶叫する女たち！“新世代スクリーム・クイーン”「レディ・オア・ノット2」特別映像＆メイキングカット公開",
-      "source": "映画.com",
-      "date": "2026-07-28",
-      "url": "https://eiga.com/news/20260728/22/"
     }
   ],
   "bd_releases": [],
