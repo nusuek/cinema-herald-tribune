@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-07-30T20:08:53.449144",
+  "generated_at": "2026-07-30T21:54:54.939715",
   "top_stories": [
     {
-      "title": "‘Vampire: The Masquerade’ 6th Edition in the Works; World of Darkness Boss Unveils Franchise’s Transmedia Plans",
+      "title": "Disney Expected to Sell 50% Stake in A+E to Hearst for More Than $1 Billion",
       "source": "Variety",
       "date": "2026-07-30",
-      "url": "https://variety.com/2026/gaming/news/vampire-the-masquerade-6th-edition-world-of-darkness-plans-1236824471/"
+      "url": "https://variety.com/2026/tv/news/disney-sell-stake-ae-hearst-1236824672/"
     },
     {
-      "title": "‘Human Centipede’ Creator Reveals Last Movie ‘The End of Tom Six’; He Filmed for Six Years While Living in Isolation With Multiple Sclerosis (EXCLUSIVE)",
+      "title": "As Outfest Rebuilds, What Will the Future of L.A.’s Staple LGBTQ+ Film Festival Look Like?",
       "source": "Variety",
       "date": "2026-07-30",
-      "url": "https://variety.com/2026/film/news/human-centipede-director-tom-six-ms-diagnosis-new-movie-1236824461/"
+      "url": "https://variety.com/2026/film/news/outfest-rebuilds-future-lgbtq-film-festival-1236824448/"
     },
     {
-      "title": "The Next Spider-Man Actor: Tom Holland Has a ‘Clear Vision’ For His Successor and a ‘Whole Plan’ Is Already ‘Laid Out’",
+      "title": "‘Spider-Man: Brand New Day’ Early Cut ‘Took Notes From Random People’ at Test Screenings and ‘We Hated It,’ Says Tom Holland: ‘It Totally Didn’t Work’",
       "source": "Variety",
       "date": "2026-07-30",
-      "url": "https://variety.com/2026/film/news/spider-man-actors-tom-holland-successor-1236824415/"
+      "url": "https://variety.com/2026/film/news/tom-holland-spider-man-brand-new-day-test-screenings-1236824202/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ペコロスの母に会いに行く」村岡克彦プロデューサーの新作「OKAERI」製作決定！ 日本のおじいちゃんとイランから来日した少女のロードムービー",
+      "source": "映画.com",
+      "date": "2026-07-27",
+      "url": "https://eiga.com/news/20260728/3/"
+    },
     {
       "title": "ショーン・アスティン、「ロード・オブ・ザ・リング」出演料が少なく自宅を売却していた",
       "source": "映画.com",
@@ -182,18 +188,6 @@
       "source": "映画.com",
       "date": "2026-07-29",
       "url": "https://eiga.com/news/20260730/5/"
-    },
-    {
-      "title": "夏休みはおうちが映画館に！ホラーやサメ映画など人気ジャンルを「ザ・シネマ」で日替わり一挙放送",
-      "source": "映画.com",
-      "date": "2026-07-29",
-      "url": "https://eiga.com/news/20260730/4/"
-    },
-    {
-      "title": "“国が破滅するほどの敗北です”「開戦前夜」衝撃のシミュレーション結果に緊張が走る本編映像公開",
-      "source": "映画.com",
-      "date": "2026-07-29",
-      "url": "https://eiga.com/news/20260730/2/"
     }
   ],
   "bd_releases": [],
