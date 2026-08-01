@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T12:47:04.363134",
+  "generated_at": "2026-08-01T14:18:17.382723",
   "top_stories": [
     {
       "title": "Massive Attack Duo Banned From Singapore Over Palestinian Flag Display",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "カンバーバッチら英俳優、パラマウント×ワーナー統合に反対表明",
+      "source": "映画.com",
+      "date": "2026-08-01",
+      "url": "https://eiga.com/news/20260801/14/"
+    },
     {
       "title": "8月2日の「日曜アニメ劇場」は「ポケットモンスター ジ・オリジン」放送　「ポケモン赤・緑」の世界が舞台",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-07-31",
       "url": "https://eiga.com/news/20260731/15/"
-    },
-    {
-      "title": "アン・ハサウェイ主演作「プラダを着た悪魔2」8月7日、ディズニープラスで見放題独占配信決定",
-      "source": "映画.com",
-      "date": "2026-07-31",
-      "url": "https://eiga.com/news/20260731/14/"
     }
   ],
   "bd_releases": [],
