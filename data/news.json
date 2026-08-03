@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-02T23:45:58.313883",
+  "generated_at": "2026-08-03T01:22:53.219058",
   "top_stories": [
+    {
+      "title": "‘Jimmy’ Review: Woozily Seductive Mood Piece Wanders Europe in Pursuit of James Baldwin’s Spirit",
+      "source": "Variety",
+      "date": "2026-08-03",
+      "url": "https://variety.com/2026/film/reviews/jimmy-review-1236826059/"
+    },
     {
       "title": "Phil Collins Says He Almost Died in 2024 From Alcohol Abuse: ‘People Were Coming to Say Goodbye’",
       "source": "Variety",
@@ -12,15 +18,33 @@
       "source": "Variety",
       "date": "2026-08-02",
       "url": "https://variety.com/2026/tv/news/pima-county-sheriff-department-mistakes-nancy-guthrie-1236826065/"
-    },
-    {
-      "title": "Christopher Nolan Says There Is a ‘Fundamental Flaw’ With Amateur Film Criticism: ‘To Identify the Mechanism Does Not Invalidate the Mechanism’",
-      "source": "Variety",
-      "date": "2026-08-02",
-      "url": "https://variety.com/2026/film/news/christopher-nolan-flaw-film-criticism-the-odyssey-1236826067/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ゴジラを生んだ日本だからこそ届けたい――「プリミティヴ・ウォー」監督、リアルを追求した恐竜造形の裏側を明かす",
+      "source": "映画.com",
+      "date": "2026-08-03",
+      "url": "https://eiga.com/news/20260803/7/"
+    },
+    {
+      "title": "「映画ちいかわ　人魚の島のひみつ」入場特典第2弾はキャラクター総集結のボンボンドロップシール！",
+      "source": "映画.com",
+      "date": "2026-08-03",
+      "url": "https://eiga.com/news/20260803/6/"
+    },
+    {
+      "title": "「悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。」TVアニメ化決定",
+      "source": "映画.com",
+      "date": "2026-08-03",
+      "url": "https://eiga.com/news/20260803/5/"
+    },
+    {
+      "title": "イルミネーション完全オリジナル最新作「ノット・アローン」27年公開　ティモシー・シャラメ＆セレーナ・ゴメスが声優として参加",
+      "source": "映画.com",
+      "date": "2026-08-02",
+      "url": "https://eiga.com/news/20260803/4/"
+    },
     {
       "title": "【本日配信】「ヒロアカ」特別短編アニメ「I am a hero too」先行場面カット披露　デクたちの卒業から8年後、エリが雄英高校に",
       "source": "映画.com",
@@ -158,30 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-01",
       "url": "https://eiga.com/news/20260801/6/"
-    },
-    {
-      "title": "あの“熱狂”の裏にあった、もう一つの青春　「ベイ・シティ・ローラーズ」の真実を活写したドキュメンタリー、特報公開",
-      "source": "映画.com",
-      "date": "2026-08-01",
-      "url": "https://eiga.com/news/20260801/4/"
-    },
-    {
-      "title": "西島秀俊が魅せた寡黙な探偵像を役所広司＆片岡鶴太郎が称賛　「時には懺悔を」新場面写真公開",
-      "source": "映画.com",
-      "date": "2026-07-31",
-      "url": "https://eiga.com/news/20260801/3/"
-    },
-    {
-      "title": "堺雅人「VIVANT」第2シーズン初回放送、「silent」の記録抜きTVer再生数歴代最高記録を更新！",
-      "source": "映画.com",
-      "date": "2026-07-31",
-      "url": "https://eiga.com/news/20260801/2/"
-    },
-    {
-      "title": "【「踊る大捜査線」新作公開記念】織田裕二主演作品、TVerで順次無料配信！「東京ラブストーリー」「ラストクリスマス」「振り返れば奴がいる」など",
-      "source": "映画.com",
-      "date": "2026-07-31",
-      "url": "https://eiga.com/news/20260801/1/"
     }
   ],
   "bd_releases": [],
