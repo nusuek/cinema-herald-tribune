@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-03T22:46:44.742627",
+  "generated_at": "2026-08-03T23:55:58.633290",
   "top_stories": [
+    {
+      "title": "CBS Orders Comedy Pilot ‘Hilda! (In Lights!)’ About 70-Year-Old Woman Pursuing Broadway Dreams",
+      "source": "Variety",
+      "date": "2026-08-03",
+      "url": "https://variety.com/2026/tv/news/cbs-sets-comedy-pilot-hilda-in-lights-1236826913/"
+    },
     {
       "title": "Anya Taylor-Joy Says ‘Women Don’t Method Act Because We Have Things to Take Care of and Can’t Lose Our Minds’ or Be ‘Assholes’ on Set",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-08-03",
       "url": "https://variety.com/2026/tv/news/dick-clark-productions-dcp-studios-yosef-johnson-1236826766/"
-    },
-    {
-      "title": "‘The Devil Wears Prada 2’ Hits 15.2 Million Views in Five Days on Streaming, Disney’s Biggest Live-Action Movie Premiere Since ‘Deadpool & Wolverine’",
-      "source": "Variety",
-      "date": "2026-08-03",
-      "url": "https://variety.com/2026/film/news/the-devil-wears-prada-2-ratings-views-streaming-1236826857/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ドウェイン・ジョンソン主演「ジュマンジ　オープンワールド」12月25日日米同時公開！　予告編で映像初披露",
+      "source": "映画.com",
+      "date": "2026-08-03",
+      "url": "https://eiga.com/news/20260804/3/"
+    },
     {
       "title": "“さよなら、探偵さん” シリーズ最大の危機を描く大泉洋主演「BYE BYE LOVE 探偵はBARにいる」本予告映像が完成",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-08-02",
       "url": "https://eiga.com/news/20260802/11/"
-    },
-    {
-      "title": "松村北斗＆今田美桜、東野圭吾さん原作「白鳥とコウモリ」完成披露試写会に出席「思いを受け取り」「大切に届けてまいりたい」と誓い",
-      "source": "映画.com",
-      "date": "2026-08-02",
-      "url": "https://eiga.com/news/20260802/13/"
     }
   ],
   "bd_releases": [],
