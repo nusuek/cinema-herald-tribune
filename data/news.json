@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T22:08:11.650104",
+  "generated_at": "2026-08-04T23:50:48.467971",
   "top_stories": [
     {
       "title": "Inside Google’s Efforts to Get Creatives Hooked on AI",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "【本日配信スタート】「スター・ウォーズ　ビジョンズ／九人目のジェダイ」日本のアニメの技術と表現力が結集したライトセーバーアクション満載の最終予告公開",
+      "source": "映画.com",
+      "date": "2026-08-04",
+      "url": "https://eiga.com/news/20260805/5/"
+    },
     {
       "title": "松岡茉優×成田凌共演「男ともだち」曖昧なふたりの切ない距離感が映し出された本予告＆本ビジュアル完成",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-08-03",
       "url": "https://eiga.com/news/20260804/3/"
-    },
-    {
-      "title": "「バービー」続編が暗礁に　スターのギャラ交渉が難航",
-      "source": "映画.com",
-      "date": "2026-08-03",
-      "url": "https://eiga.com/news/20260803/24/"
     }
   ],
   "bd_releases": [],
