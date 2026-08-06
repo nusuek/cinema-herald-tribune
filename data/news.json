@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-05T23:43:49.201544",
+  "generated_at": "2026-08-06T01:13:42.127000",
   "top_stories": [
+    {
+      "title": "Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial ‘Creates More Uncertainty and Distraction’",
+      "source": "Variety",
+      "date": "2026-08-06",
+      "url": "https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/"
+    },
     {
       "title": "Bella Thorne and Zendaya Got Pitted Against Each Other During Disney Fame and Snuck Off Set to ‘Hash It Out’ After Things ‘Got Pretty Bad’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-08-05",
       "url": "https://variety.com/2026/film/festivals/i-love-paris-2026-fantasia-film-festival-audience-awards-1236828704/"
-    },
-    {
-      "title": "‘Mustache’ Review: A Delightfully Anxious Pakistani American Coming-of-Age Comedy",
-      "source": "Variety",
-      "date": "2026-08-05",
-      "url": "https://variety.com/2026/film/news/mustache-review-1236827903/"
     }
   ],
   "new_releases": [
+    {
+      "title": "渡辺淳一の衝撃作を娘・渡邉直子が映画化　「月がみている」に黒木瞳、西岡德馬、吉田羊の出演が決定！　コメントを発表",
+      "source": "映画.com",
+      "date": "2026-08-06",
+      "url": "https://eiga.com/news/20260806/4/"
+    },
+    {
+      "title": "川口春奈×高杉真宙共演「ママがもうこの世界にいなくても 私の命の日記」過酷な運命に抗う愛の記録を切り取った場面写真一挙公開",
+      "source": "映画.com",
+      "date": "2026-08-06",
+      "url": "https://eiga.com/news/20260806/3/"
+    },
     {
       "title": "松村北斗＆今田美桜が体現した“複雑な感情”　容疑者の息子と被害者の娘がバディに「白鳥とコウモリ」新場面写真公開",
       "source": "映画.com",
@@ -158,24 +170,6 @@
       "source": "映画.com",
       "date": "2026-08-04",
       "url": "https://eiga.com/news/20260804/22/"
-    },
-    {
-      "title": "「スパイダーマン　ブランド・ニュー・デイ」観た人の感想は？　ユーザーレビューまとめ「シリーズ最高傑作！」「深いリスペクトと愛」「ピーター・パーカーを体現」",
-      "source": "映画.com",
-      "date": "2026-08-04",
-      "url": "https://eiga.com/news/20260804/21/"
-    },
-    {
-      "title": "「機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女」8月31日からPrime Videoで見放題独占配信開始",
-      "source": "映画.com",
-      "date": "2026-08-04",
-      "url": "https://eiga.com/news/20260804/20/"
-    },
-    {
-      "title": "「映画は死んでいない」　スパイダーマン新作の記録にソニー会長が手応え",
-      "source": "映画.com",
-      "date": "2026-08-04",
-      "url": "https://eiga.com/news/20260804/18/"
     }
   ],
   "bd_releases": [],
