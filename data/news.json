@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-08-06T01:13:42.127000",
+  "generated_at": "2026-08-06T04:50:37.400149",
   "top_stories": [
+    {
+      "title": "Judge Dismisses Lawsuit From Paramount Streaming Subscribers Seeking to Block Warner Bros. Merger",
+      "source": "Variety",
+      "date": "2026-08-06",
+      "url": "https://variety.com/2026/film/news/judge-dismisses-lawsuit-paramount-warner-bros-merger-1236828855/"
+    },
+    {
+      "title": "‘The Shards’ Star Igby Rigney on Wooing Ryan Murphy, Never Meeting Bret Easton Ellis and Not Worrying About Sex Scenes: ‘It’s Like Doing a Dance Under a Microscope’",
+      "source": "Variety",
+      "date": "2026-08-06",
+      "url": "https://variety.com/2026/tv/news/the-shards-igby-rigney-bret-easton-ellis-1236828415/"
+    },
     {
       "title": "Regal Cinemas CEO Eduardo Acuna Backs Paramount-Warner Bros. Merger, Says Antitrust Trial ‘Creates More Uncertainty and Distraction’",
       "source": "Variety",
       "date": "2026-08-06",
       "url": "https://variety.com/2026/film/news/regal-cinemas-ceo-supports-paramount-warner-bros-merger-1236828802/"
-    },
-    {
-      "title": "Bella Thorne and Zendaya Got Pitted Against Each Other During Disney Fame and Snuck Off Set to ‘Hash It Out’ After Things ‘Got Pretty Bad’",
-      "source": "Variety",
-      "date": "2026-08-05",
-      "url": "https://variety.com/2026/tv/news/zendaya-bella-thorne-feud-disney-pitted-against-each-other-1236828507/"
-    },
-    {
-      "title": "Vampire Mockumentary ‘I Love Paris’ Takes Top Honors at 2026 Fantasia Film Festival Audience Awards",
-      "source": "Variety",
-      "date": "2026-08-05",
-      "url": "https://variety.com/2026/film/festivals/i-love-paris-2026-fantasia-film-festival-audience-awards-1236828704/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「スパイダーマン　ブランド・ニュー・デイ」、史上2番目の速さで10億ドル突破",
+      "source": "映画.com",
+      "date": "2026-08-06",
+      "url": "https://eiga.com/news/20260806/8/"
+    },
+    {
+      "title": "「トワイライト・ウォリアーズ」のクリエイターチームが描く、時空を超えた愛の軌跡「僕の一年、君の一日」公開決定",
+      "source": "映画.com",
+      "date": "2026-08-06",
+      "url": "https://eiga.com/news/20260806/5/"
+    },
+    {
+      "title": "「主演女優賞にはこの雌鶏たちを！」ニワトリが主演を務める異色作「雌鶏」に批評家も絶賛",
+      "source": "映画.com",
+      "date": "2026-08-06",
+      "url": "https://eiga.com/news/20260806/1/"
+    },
     {
       "title": "渡辺淳一の衝撃作を娘・渡邉直子が映画化　「月がみている」に黒木瞳、西岡德馬、吉田羊の出演が決定！　コメントを発表",
       "source": "映画.com",
@@ -152,24 +170,6 @@
       "source": "映画.com",
       "date": "2026-08-04",
       "url": "https://eiga.com/news/20260805/4/"
-    },
-    {
-      "title": "令和に唐十郎の“紅テント”が甦る！　大鶴義丹演出×渡辺大主演「下谷万年町物語」が11月上演",
-      "source": "映画.com",
-      "date": "2026-08-04",
-      "url": "https://eiga.com/news/20260805/1/"
-    },
-    {
-      "title": "シリーズ史上初！　「ゴジラ－0.0」が第64回ニューヨーク映画祭スポットライト・ガラ部門に選出！　山崎貴の現地登壇＆世界最速プレミア上映が決定！",
-      "source": "映画.com",
-      "date": "2026-08-04",
-      "url": "https://eiga.com/news/20260804/23/"
-    },
-    {
-      "title": "「凶乱令嬢ニア・リストン」第1弾PV＆キービジュアル公開　追加キャストに和泉風花、本泉莉奈、日高里菜",
-      "source": "映画.com",
-      "date": "2026-08-04",
-      "url": "https://eiga.com/news/20260804/22/"
     }
   ],
   "bd_releases": [],
