@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-07T04:18:01.838631",
+  "generated_at": "2026-08-07T06:02:00.307469",
   "top_stories": [
+    {
+      "title": "Aymar Esse, Director of Locarno Open Doors World Premiere ‘My Father’s Kora,’ Discusses Challenges of Queer Cinema in Senegal",
+      "source": "Variety",
+      "date": "2026-08-07",
+      "url": "https://variety.com/2026/film/global/my-fathers-kora-locarno-open-doors-ayeman-aymar-esse-1236829086/"
+    },
     {
       "title": "‘The Big Bang Theory’ Star Melissa Rauch on Her Larger-Than-Life Surprise Role on ‘Stuart Fails to Save the Universe’",
       "source": "Variety",
@@ -12,15 +18,27 @@
       "source": "Variety",
       "date": "2026-08-06",
       "url": "https://variety.com/2026/digital/news/ai4-conference-fear-loathing-daily-variety-podcast-1236829536/"
-    },
-    {
-      "title": "‘Michael 2’ Eyes Filming Start ‘Towards the End of this Year’ or Early 2027 as Lionsgate Teases Release Date",
-      "source": "Variety",
-      "date": "2026-08-06",
-      "url": "https://variety.com/2026/film/news/michael-2-filming-start-release-date-1236829530/"
     }
   ],
   "new_releases": [
+    {
+      "title": "戦争の終わり、ナチ時代との向き合い方…ファティ・アキンが恩師ハーク・ボームの物語を映画化「白パンと独裁者」インタビュー",
+      "source": "映画.com",
+      "date": "2026-08-07",
+      "url": "https://eiga.com/news/20260807/14/"
+    },
+    {
+      "title": "「オークストリートの異変」恐竜対策マニュアル公開！　天気予報専門メディア「tenki.jp」ジャックも実施",
+      "source": "映画.com",
+      "date": "2026-08-07",
+      "url": "https://eiga.com/news/20260807/15/"
+    },
+    {
+      "title": "映画史上初、奇跡の90分間ワンカット撮影　ソクーロフ「エルミタージュ幻想」1週間限定上映！",
+      "source": "映画.com",
+      "date": "2026-08-07",
+      "url": "https://eiga.com/news/20260807/16/"
+    },
     {
       "title": "「ドカ食いダイスキ！ もちづきさん」TVアニメ化決定　制作はパッショーネ",
       "source": "映画.com",
@@ -164,24 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-06",
       "url": "https://eiga.com/news/20260806/13/"
-    },
-    {
-      "title": "使い手が変わると、ライトセーバーの色も変わる理由は？「スター・ウォーズ　ビジョンズ／九人目のジェダイ」の独自設定",
-      "source": "映画.com",
-      "date": "2026-08-06",
-      "url": "https://eiga.com/news/20260806/12/"
-    },
-    {
-      "title": "坂口健太郎主演「私はあなたを知らない、」初のシングルマザー役で新境地を見せた堀田真由、その起用理由とは？",
-      "source": "映画.com",
-      "date": "2026-08-06",
-      "url": "https://eiga.com/news/20260806/10/"
-    },
-    {
-      "title": "今村昌平生誕100周年記念上映会「いま、今村昌平を観る」の開催が決定！　吉田大八監督、大友啓史監督、李相日監督がゲスト登壇",
-      "source": "映画.com",
-      "date": "2026-08-06",
-      "url": "https://eiga.com/news/20260806/11/"
     }
   ],
   "bd_releases": [],
