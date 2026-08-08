@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-08-08T22:14:02.914810",
+  "generated_at": "2026-08-08T23:14:47.790238",
   "top_stories": [
+    {
+      "title": "Perez Hilton ‘Will Require Surgery’ After Live Stream Incident, Family Demands Media ‘Cease Photographing Perez’s Children’",
+      "source": "Variety",
+      "date": "2026-08-08",
+      "url": "https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/"
+    },
+    {
+      "title": "‘Abbott Elementary’ Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: ‘We’ve Lost Too Many People’",
+      "source": "Variety",
+      "date": "2026-08-08",
+      "url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/"
+    },
     {
       "title": "‘Heated Rivalry’ Author Brushes Off Negativity Surrounding Season 2 Casting",
       "source": "Variety",
       "date": "2026-08-08",
       "url": "https://variety.com/2026/tv/news/heated-rivalry-author-negativity-season-2-casting-1236830685/"
-    },
-    {
-      "title": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to ‘Unforeseen Logistical Issues’",
-      "source": "Variety",
-      "date": "2026-08-08",
-      "url": "https://variety.com/2026/music/news/morrissey-cancels-las-vegas-residency-logistical-issues-1236830670/"
-    },
-    {
-      "title": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Monáe and Hundreds More, Canceled at the Last Minute",
-      "source": "Variety",
-      "date": "2026-08-08",
-      "url": "https://variety.com/2026/music/news/l-a-jazz-festival-canceled-john-legend-janelle-monae-1236830665/"
     }
   ],
   "new_releases": [
+    {
+      "title": "夏目真悟×マッドハウス「ghost 夜の果て」声優に堀田真由、高橋一生　2人が演じるキャラクターの関係性を描く特報映像公開",
+      "source": "映画.com",
+      "date": "2026-08-08",
+      "url": "https://eiga.com/news/20260809/2/"
+    },
     {
       "title": "「メイドインアビス 目覚める神秘」テパステ役に諸星すみれ、クラヴァリ役に星野貴紀　主題歌にMori Calliopeが参加",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-08-07",
       "url": "https://eiga.com/news/20260807/15/"
-    },
-    {
-      "title": "映画史上初、奇跡の90分間ワンカット撮影　ソクーロフ「エルミタージュ幻想」1週間限定上映！",
-      "source": "映画.com",
-      "date": "2026-08-07",
-      "url": "https://eiga.com/news/20260807/16/"
     }
   ],
   "bd_releases": [],
