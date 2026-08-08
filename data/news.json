@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T11:16:53.914372",
+  "generated_at": "2026-08-08T12:19:14.869575",
   "top_stories": [
     {
       "title": "Satyajit Ray’s ‘Goopy Gyne Bagha Byne’ Making to be Chronicled in Srijit Mukherji’s ‘Maharaja Tomare Selam’",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "「日曜アニメ劇場」8月9日から「機動戦士ガンダム」劇場3部作、「ククルス・ドアンの島」を放送",
+      "source": "映画.com",
+      "date": "2026-08-08",
+      "url": "https://eiga.com/news/20260808/15/"
+    },
     {
       "title": "BMWが車内のモニター画面に「スパイダーマン」の広告　米国のオーナーが反発",
       "source": "映画.com",
@@ -188,12 +194,6 @@
       "source": "映画.com",
       "date": "2026-08-07",
       "url": "https://eiga.com/news/20260807/10/"
-    },
-    {
-      "title": "「映画ちいかわ」声優陣ロングインタビュー公開！ちいかわ、ハチワレ、うさぎ、島二郎、セイレーンのアフレコ秘話＆こだわりポイントを解説",
-      "source": "映画.com",
-      "date": "2026-08-07",
-      "url": "https://eiga.com/news/20260807/11/"
     }
   ],
   "bd_releases": [],
