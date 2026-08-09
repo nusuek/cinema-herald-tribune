@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T20:16:18.276207",
+  "generated_at": "2026-08-09T21:18:35.975574",
   "top_stories": [
     {
       "title": "Ariana Grande Debuts at No. 1 on Album Chart With ‘Petal,’ Earning Her Best First-Week Numbers in Seven Years",
@@ -21,6 +21,12 @@
     }
   ],
   "new_releases": [
+    {
+      "title": "スタジオジブリ企画制作「禅とジブリ」石田ゆり子＆鈴木敏夫プロデューサーの新コンテンツがYouTubeで公開",
+      "source": "映画.com",
+      "date": "2026-08-09",
+      "url": "https://eiga.com/news/20260810/1/"
+    },
     {
       "title": "「こまどり モフモフパレード」27年1月放送開始　小野賢章らが「アイナナ」から続投　制作はドワーフスタジオ",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-08-07",
       "url": "https://eiga.com/news/20260808/1/"
-    },
-    {
-      "title": "ショートアニメ「Fate/Grand Order 藤丸立香はわからない」シーズン4が配信開始",
-      "source": "映画.com",
-      "date": "2026-08-07",
-      "url": "https://eiga.com/news/20260807/27/"
     }
   ],
   "bd_releases": [],
