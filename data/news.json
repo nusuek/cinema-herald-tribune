@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-08-10T03:02:58.048146",
+  "generated_at": "2026-08-10T05:12:19.242097",
   "top_stories": [
+    {
+      "title": "John Oliver Takes Shots at Own Company’s DC Superhero Movies on ‘Last Week Tonight’",
+      "source": "Variety",
+      "date": "2026-08-10",
+      "url": "https://variety.com/2026/tv/news/john-oliver-takes-shots-dc-superhero-movies-supergirl-last-week-tonight-1236831053/"
+    },
+    {
+      "title": "Kiran Abbavaram’s Mythological Action-Fantasy for India’s Zee Studios Reveals Title as ‘Indraputra’ (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-08-10",
+      "url": "https://variety.com/2026/film/news/kiran-abbavaram-indraputra-zee-studios-1236830533/"
+    },
     {
       "title": "‘House of the Dragon’ Star Phia Saban on Helaena’s Finale ‘Tragedy’ and Changes to Maelor Storyline",
       "source": "Variety",
       "date": "2026-08-10",
       "url": "https://variety.com/2026/tv/news/helaena-death-explained-house-of-the-dragon-finale-death-explained-phia-saban-1236830274/"
-    },
-    {
-      "title": "‘House of the Dragon’ Star Emma D’Arcy and Creator Ryan Condal on Rhaenyra-Daenerys Finale Connection and What All That Death Means for Season 4",
-      "source": "Variety",
-      "date": "2026-08-10",
-      "url": "https://variety.com/2026/tv/news/house-of-the-dragon-finale-rhaenyra-season-4-tumbleton-battle-1236830373/"
-    },
-    {
-      "title": "‘House of the Dragon’ Star James Norton on the Irony of Ormund’s [SPOILER], His ‘Oddly Intimate’ Dynamic With Roddy the Ruin and Why His Love for Daeron Needed to Feel ‘Real’",
-      "source": "Variety",
-      "date": "2026-08-10",
-      "url": "https://variety.com/2026/tv/news/james-norton-ormund-death-house-of-the-dragon-finale-1236830726/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「映画ちいかわ」V2、「クレヨンしんちゃん」「あの星が降る丘で、君とまた出会いたい。」が上位にアップ【映画.comアクセスランキング】",
+      "source": "映画.com",
+      "date": "2026-08-10",
+      "url": "https://eiga.com/news/20260810/12/"
+    },
+    {
+      "title": "サム・メンデス監督のビートルズ4部作、アビイ・ロードで撮影",
+      "source": "映画.com",
+      "date": "2026-08-10",
+      "url": "https://eiga.com/news/20260810/11/"
+    },
+    {
+      "title": "ウィル・スミス主演の感動作「7つの贈り物」午後ローで本日放送　キャスト＆あらすじまとめ",
+      "source": "映画.com",
+      "date": "2026-08-10",
+      "url": "https://eiga.com/news/20260810/10/"
+    },
+    {
+      "title": "「劇場版 TUBE」4人の絆を感じる場面写真公開！入場者プレゼントはオリジナルステッカー",
+      "source": "映画.com",
+      "date": "2026-08-10",
+      "url": "https://eiga.com/news/20260810/9/"
+    },
     {
       "title": "メリル・ストリープ、「プラダを着た悪魔2」の衣装をチャリティー競売に",
       "source": "映画.com",
@@ -158,36 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-08",
       "url": "https://eiga.com/news/20260808/12/"
-    },
-    {
-      "title": "ドラえもん×グラニフ、コラボアイテムが8月11日発売　「帰ってきたドラえもん」デザインや、ひみつ道具モチーフのアイテム",
-      "source": "映画.com",
-      "date": "2026-08-08",
-      "url": "https://eiga.com/news/20260808/11/"
-    },
-    {
-      "title": "「獣兵衛忍風帖」4K版、リバイバル上映記念のキャラ人気投票企画がスタート　TikTokで名場面映像も公開",
-      "source": "映画.com",
-      "date": "2026-08-08",
-      "url": "https://eiga.com/news/20260808/10/"
-    },
-    {
-      "title": "狂気と欲に取り憑かれた富豪と“最凶のかくれんぼ”「レディ・オア・ノット2」本編映像、バスタイム編",
-      "source": "映画.com",
-      "date": "2026-08-08",
-      "url": "https://eiga.com/news/20260808/8/"
-    },
-    {
-      "title": "「オークストリートの異変」IMAX版特別予告公開！　ユアン・マクレガー「体験するならIMAXがベスト」",
-      "source": "映画.com",
-      "date": "2026-08-08",
-      "url": "https://eiga.com/news/20260808/9/"
-    },
-    {
-      "title": "“中年の危機”に切り込む香港発の胸熱エンタメ「逆流の男たち」2026年秋公開",
-      "source": "映画.com",
-      "date": "2026-08-08",
-      "url": "https://eiga.com/news/20260808/7/"
     }
   ],
   "bd_releases": [],
