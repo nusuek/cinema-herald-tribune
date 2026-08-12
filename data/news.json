@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-08-12T09:52:55.696587",
+  "generated_at": "2026-08-12T10:47:24.922744",
   "top_stories": [
+    {
+      "title": "Alex Cooper and Matt Kaplan’s Unwell Media Company Valued at $500 Million After Investment From Patrick Whitesell’s WTSL",
+      "source": "Variety",
+      "date": "2026-08-12",
+      "url": "https://variety.com/2026/digital/news/alex-cooper-unwell-valuation-patrick-whitesell-wtsl-investment-1236832366/"
+    },
+    {
+      "title": "AI Music Generator Suno Strikes Licensing Deal With BMG as It Preps New Label-Backed Models",
+      "source": "Variety",
+      "date": "2026-08-12",
+      "url": "https://variety.com/2026/music/news/suno-ai-licensing-deal-bmg-1236832703/"
+    },
     {
       "title": "‘SNL U.K.’ Season 2 Sets September Date",
       "source": "Variety",
       "date": "2026-08-12",
       "url": "https://variety.com/2026/tv/news/snl-uk-season-2-september-1236829143/"
-    },
-    {
-      "title": "‘In Flames’ Director Zarrar Kahn Returns to Toronto With Gym-Incel Rom-Com ‘The Lion Does Not Concern Himself,’ Trailer Unveiled (EXCLUSIVE)",
-      "source": "Variety",
-      "date": "2026-08-12",
-      "url": "https://variety.com/2026/film/festivals/zarrar-kahn-lion-does-not-concern-himself-toronto-trailer-1236832800/"
-    },
-    {
-      "title": "U.K.’s Largest Harry Potter Store Opening in London Ahead of HBO Series Launch",
-      "source": "Variety",
-      "date": "2026-08-12",
-      "url": "https://variety.com/2026/tv/global/uk-largest-harry-potter-store-opening-in-london-1236832791/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ME:Iメンバーも感動の涙「モアナと伝説の海」大ヒット御礼イベントでダブル・モアナが劇中歌を生歌唱！",
+      "source": "映画.com",
+      "date": "2026-08-12",
+      "url": "https://eiga.com/news/20260812/19/"
+    },
     {
       "title": "川口春奈×高杉真宙「ママがもうこの世界にいなくても 私の命の日記」二人の役への熱量と深い絆が映し出された新場面写真公開",
       "source": "映画.com",
@@ -194,12 +200,6 @@
       "source": "映画.com",
       "date": "2026-08-11",
       "url": "https://eiga.com/news/20260811/9/"
-    },
-    {
-      "title": "ジェラルド・バトラーら豪華顔ぶれが集結！ 「キング・オブ・エジプト」午後ローで本日放送　キャスト＆あらすじまとめ",
-      "source": "映画.com",
-      "date": "2026-08-11",
-      "url": "https://eiga.com/news/20260811/8/"
     }
   ],
   "bd_releases": [],
