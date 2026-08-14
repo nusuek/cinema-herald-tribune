@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-14T09:48:13.239997",
+  "generated_at": "2026-08-14T10:44:28.571730",
   "top_stories": [
+    {
+      "title": "‘The Devil Wears Prada 2’ Is Drawing Tourists to Milan Prompting an 18% Increase in Visitors to the Film’s Locations in Italy’s Fashion Capital",
+      "source": "Variety",
+      "date": "2026-08-14",
+      "url": "https://variety.com/2026/film/global/the-devil-wears-prada-2-tourists-milan-italy-fashion-1236833591/"
+    },
     {
       "title": "Nigel Farage Documentary ‘Where Does the Money Come From?’ Set at U.K. Broadcaster 5 as Parliamentary Standards Watchdog Reopens Finance Probe",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-08-14",
       "url": "https://variety.com/2026/tv/news/tv-academy-hall-of-fame-south-park-shiela-nevins-dr-fauci-1236834438/"
-    },
-    {
-      "title": "‘You Don’t Belong Here’ Review: A Potentially Involving Story Is Weakened by Airless Dialogue and a Misguided Finale",
-      "source": "Variety",
-      "date": "2026-08-14",
-      "url": "https://variety.com/2026/film/reviews/you-dont-belong-here-review-1236834459/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「同居している剣聖の女師匠が可愛すぎて毎日幸せです」TVアニメ化　「デレギュラ」がプロデュース",
+      "source": "映画.com",
+      "date": "2026-08-14",
+      "url": "https://eiga.com/news/20260814/17/"
+    },
     {
       "title": "「南極料理人」“同窓会”開催！一番美味しかった料理は何？堺雅人らが回答「おにぎりと豚汁」「ラーメン」「エビフライ」",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-13",
       "url": "https://eiga.com/news/20260813/14/"
-    },
-    {
-      "title": "北米の夏の映画興行が40億ドル突破　コロナ後で初の年間100億ドル超えるか",
-      "source": "映画.com",
-      "date": "2026-08-13",
-      "url": "https://eiga.com/news/20260813/13/"
     }
   ],
   "bd_releases": [],
