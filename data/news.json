@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-15T07:18:51.775132",
+  "generated_at": "2026-08-15T08:11:38.284639",
   "top_stories": [
+    {
+      "title": "Zee Entertainment Wins Interim Relief to Proceed With $330 Million Capital Raise Despite Indian Regulator’s Market Ban",
+      "source": "Variety",
+      "date": "2026-08-15",
+      "url": "https://variety.com/2026/tv/news/zee-shareholders-approve-fund-raise-sebi-market-ban-1236826217/"
+    },
     {
       "title": "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-08-15",
       "url": "https://variety.com/2026/film/news/x-men-release-date-marvel-reboot-1236816959/"
-    },
-    {
-      "title": "‘Star Wars: Starfighter’ Footage: Ryan Gosling Races Through the Galaxy With Young Sidekick",
-      "source": "Variety",
-      "date": "2026-08-15",
-      "url": "https://variety.com/2026/film/news/star-wars-starfighter-trailer-ryan-gosling-1236712809/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ズートピア3」製作決定、D23で明らかに！“鳥”が本格的に登場か？",
+      "source": "映画.com",
+      "date": "2026-08-15",
+      "url": "https://eiga.com/news/20260815/15/"
+    },
+    {
+      "title": "「マロニエ王国の七人の騎士」メインキャストに高梨謙吾、谷川誠、石谷春貴ら、速水奨がナレーション　メインPVも公開",
+      "source": "映画.com",
+      "date": "2026-08-15",
+      "url": "https://eiga.com/news/20260815/10/"
+    },
     {
       "title": "「FX戦士くるみちゃん」10月放送開始　クセ強なFX戦士役に瀬戸麻沙美、伊藤彩沙、岡咲美保",
       "source": "映画.com",
@@ -170,18 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-14",
       "url": "https://eiga.com/news/20260814/3/"
-    },
-    {
-      "title": "遺産を取り戻すために金持ちクソ一族を抹殺！「大富豪になるための正しい殺し方」予告編＆ポスター",
-      "source": "映画.com",
-      "date": "2026-08-13",
-      "url": "https://eiga.com/news/20260814/8/"
-    },
-    {
-      "title": "鈴木京香主演「キリコのタクト YELL」教え子たちの今の姿や記憶に残るキリコの姿を捉えた場面カット7点一挙解禁！",
-      "source": "映画.com",
-      "date": "2026-08-13",
-      "url": "https://eiga.com/news/20260814/2/"
     }
   ],
   "bd_releases": [],
