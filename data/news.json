@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-08-16T21:07:34.112233",
+  "generated_at": "2026-08-16T22:06:36.815712",
   "top_stories": [
     {
-      "title": "Alex Cooper Poised to Drop UTA After Tough Period of Media Scrutiny",
+      "title": "Ariana Grande Brings Out ‘Wicked’ Co-Star Cynthia Erivo for ‘Happy Days’ and ‘For Good’ at Eternal Sunshine London Show",
+      "source": "Variety",
+      "date": "2026-08-16",
+      "url": "https://variety.com/2026/music/news/ariana-grande-cynthia-erivo-eternal-sunshine-london-wicked-1236835738/"
+    },
+    {
+      "title": "Alex Cooper Leaves UTA After Tough Period of Media Scrutiny",
       "source": "Variety",
       "date": "2026-08-16",
       "url": "https://variety.com/2026/tv/news/alex-cooper-drop-uta-1236835704/"
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-08-16",
       "url": "https://variety.com/2026/music/news/stray-kids-biggest-sales-week-this-that-no-1-albums-chart-1236835702/"
-    },
-    {
-      "title": "‘The Challenge’ Contestants Pay Tribute to Tyler Duckworth: ‘You Were the Brother I Never Had’",
-      "source": "Variety",
-      "date": "2026-08-16",
-      "url": "https://variety.com/2026/tv/news/the-challenge-tribute-tyler-duckworth-johnny-bananas-1236834279/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「邪神ちゃんドロップキック」全37話を無料配信　収益を熊本地震復興支援のため寄付",
+      "source": "映画.com",
+      "date": "2026-08-16",
+      "url": "https://eiga.com/news/20260817/2/"
+    },
     {
       "title": "Snow Man・岩本照主演「真田十勇士」真田幸村役に安藤政信！　伊原六花、城桧吏ら実力派キャストが集結",
       "source": "映画.com",
@@ -182,12 +188,6 @@
       "source": "映画.com",
       "date": "2026-08-15",
       "url": "https://eiga.com/news/20260815/5/"
-    },
-    {
-      "title": "ショーン・ベイカーが「ANORAアノーラ」以来初めて手がけた作品「左利きの少女」を語る",
-      "source": "映画.com",
-      "date": "2026-08-15",
-      "url": "https://eiga.com/news/20260815/3/"
     }
   ],
   "bd_releases": [],
