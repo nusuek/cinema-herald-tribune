@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-08-15T23:07:51.388729",
+  "generated_at": "2026-08-16T00:29:22.775778",
   "top_stories": [
+    {
+      "title": "‘RuPaul’s Drag Race,’ ‘All Stars’ and ‘Untucked’ Renewed for New Seasons at MTV and Paramount+",
+      "source": "Variety",
+      "date": "2026-08-16",
+      "url": "https://variety.com/2026/tv/news/rupaul-drag-race-all-stars-untucked-renewed-mtv-paramount-1236834928/"
+    },
+    {
+      "title": "Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats",
+      "source": "Variety",
+      "date": "2026-08-15",
+      "url": "https://variety.com/2026/tv/news/d23-espn-disney-international-eric-schrier-carol-choi-1236835550/"
+    },
     {
       "title": "Slipknot Confirms Sid Wilson’s Sudden Exit: ‘We Wish Him the Best’",
       "source": "Variety",
       "date": "2026-08-15",
       "url": "https://variety.com/2026/music/news/slipknot-confirms-sid-wilson-sudden-exit-1236835546/"
-    },
-    {
-      "title": "Here’s How to Watch Claressa Shields vs. Kaye Scott Boxing Live Online",
-      "source": "Variety",
-      "date": "2026-08-15",
-      "url": "https://variety.com/2026/shopping/news/how-to-watch-claressa-shields-vs-kaye-scott-boxing-live-online-1236833217/"
-    },
-    {
-      "title": "Director Frieda Luk on Olivia Luccardi’s ‘Sacred Creatures’ Role and the Fine Line Between ‘Crazy’ and ‘Enlightened’",
-      "source": "Variety",
-      "date": "2026-08-15",
-      "url": "https://variety.com/2026/film/festivals/director-frieda-luk-olivia-luccardi-sacred-creatures-1236835353/"
     }
   ],
   "new_releases": [
+    {
+      "title": "西島秀俊主演「時には懺悔を」松たか子、木村佳乃、妻夫木聡らが絶賛「試写室を出た後、真っ直ぐ家に帰れなかった」",
+      "source": "映画.com",
+      "date": "2026-08-16",
+      "url": "https://eiga.com/news/20260816/3/"
+    },
     {
       "title": "ビジネスでも強い日本アニメの存在感　急成長するアヌシー映画祭国際見本市「MIFA」レポート",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-14",
       "url": "https://eiga.com/news/20260814/10/"
-    },
-    {
-      "title": "「ひろしまアニメーションシーズン2026」開幕目前！　TBSラジオ「アフター6ジャンクション2」で見どころ紹介",
-      "source": "映画.com",
-      "date": "2026-08-14",
-      "url": "https://eiga.com/news/20260814/12/"
     }
   ],
   "bd_releases": [],
