@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-17T02:10:41.560282",
+  "generated_at": "2026-08-17T03:37:18.900351",
   "top_stories": [
+    {
+      "title": "Hayden Panettiere, ‘Heroes’ and ‘Scream’ Star, Dies at 36",
+      "source": "Variety",
+      "date": "2026-08-17",
+      "url": "https://variety.com/2026/film/news/hayden-paniettiere-dead-heroes-scream-1236835999/"
+    },
     {
       "title": "‘Lanterns’ Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger",
       "source": "Variety",
@@ -12,15 +18,27 @@
       "source": "Variety",
       "date": "2026-08-17",
       "url": "https://variety.com/2026/music/concert-reviews/noah-kahan-concert-review-tour-rose-bowl-stadium-1236835970/"
-    },
-    {
-      "title": "‘The End of Tom Six’ Review: The Director of the ‘Human Centipede’ Films Has Multiple Sclerosis and Is Sharing the Horror. This Confessional Doc Is His Witty Self-Defense",
-      "source": "Variety",
-      "date": "2026-08-17",
-      "url": "https://variety.com/2026/film/reviews/the-end-of-tom-six-review-the-human-centipede-1236835608/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「テッド・ラッソ」新シーズン、Apple TV史上最大の立ち上がりに",
+      "source": "映画.com",
+      "date": "2026-08-17",
+      "url": "https://eiga.com/news/20260817/8/"
+    },
+    {
+      "title": "「インクレディブル・ハルク」にダークなバージョンがあった　監督が告白",
+      "source": "映画.com",
+      "date": "2026-08-17",
+      "url": "https://eiga.com/news/20260817/11/"
+    },
+    {
+      "title": "さくらももこのエッセイ集「ふじさん」8月26日発売　初書籍化のエッセイ25編を収録",
+      "source": "映画.com",
+      "date": "2026-08-17",
+      "url": "https://eiga.com/news/20260817/7/"
+    },
     {
       "title": "まさかのステイサムが羽交い絞めに…!?「シェルター」“最強の男”を絶体絶命に追い込む刺客・ワークマンの新場面写真解禁！",
       "source": "映画.com",
@@ -164,24 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-15",
       "url": "https://eiga.com/news/20260815/17/"
-    },
-    {
-      "title": "「ズートピア3」製作決定、D23で明らかに！“鳥”が本格的に登場か？【D23速報】",
-      "source": "映画.com",
-      "date": "2026-08-15",
-      "url": "https://eiga.com/news/20260815/15/"
-    },
-    {
-      "title": "「マロニエ王国の七人の騎士」メインキャストに高梨謙吾、谷川誠、石谷春貴ら、速水奨がナレーション　メインPVも公開",
-      "source": "映画.com",
-      "date": "2026-08-15",
-      "url": "https://eiga.com/news/20260815/10/"
-    },
-    {
-      "title": "「FX戦士くるみちゃん」10月放送開始　クセ強なFX戦士役に瀬戸麻沙美、伊藤彩沙、岡咲美保",
-      "source": "映画.com",
-      "date": "2026-08-15",
-      "url": "https://eiga.com/news/20260815/9/"
     }
   ],
   "bd_releases": [],
