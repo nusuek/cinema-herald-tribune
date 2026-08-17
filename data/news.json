@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-08-17T00:27:09.020367",
+  "generated_at": "2026-08-17T02:10:41.560282",
   "top_stories": [
+    {
+      "title": "‘Lanterns’ Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger",
+      "source": "Variety",
+      "date": "2026-08-17",
+      "url": "https://variety.com/2026/tv/news/lanterns-premiere-how-does-hal-die-1236835653/"
+    },
+    {
+      "title": "Noah Kahan Turns His ‘Miserable’ Material Into Manic Elation at Triumphant Rose Bowl Stadium Show: Concert Review",
+      "source": "Variety",
+      "date": "2026-08-17",
+      "url": "https://variety.com/2026/music/concert-reviews/noah-kahan-concert-review-tour-rose-bowl-stadium-1236835970/"
+    },
     {
       "title": "‘The End of Tom Six’ Review: The Director of the ‘Human Centipede’ Films Has Multiple Sclerosis and Is Sharing the Horror. This Confessional Doc Is His Witty Self-Defense",
       "source": "Variety",
       "date": "2026-08-17",
       "url": "https://variety.com/2026/film/reviews/the-end-of-tom-six-review-the-human-centipede-1236835608/"
-    },
-    {
-      "title": "Noah Wyle Hopes David Ellison’s Threat to Move Paramount Out of California is ‘Saber Rattling’: ‘You’re Going to Take Hollywood Out of Hollywood’",
-      "source": "Variety",
-      "date": "2026-08-16",
-      "url": "https://variety.com/2026/tv/columns/noah-wyle-david-ellison-move-paramount-out-of-california-1236835892/"
-    },
-    {
-      "title": "Dwayne Johnson Leads Crowd in ‘Happy Birthday’ Song for Daughter Simone After Receiving Disney Legends Award at D23",
-      "source": "Variety",
-      "date": "2026-08-16",
-      "url": "https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23-emily-blunt-1236833908/"
     }
   ],
   "new_releases": [
+    {
+      "title": "まさかのステイサムが羽交い絞めに…!?「シェルター」“最強の男”を絶体絶命に追い込む刺客・ワークマンの新場面写真解禁！",
+      "source": "映画.com",
+      "date": "2026-08-17",
+      "url": "https://eiga.com/news/20260817/6/"
+    },
     {
       "title": "「新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦」9月30日放送開始　スペイン代表役に畠中祐、川島零士、長岡龍歩、潘めぐみ",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-15",
       "url": "https://eiga.com/news/20260815/9/"
-    },
-    {
-      "title": "国際的な場での実践を含めた育成プログラム「Film Nexus-SEED」トロント・フィルムスクール映画研修参加者6人決定！",
-      "source": "映画.com",
-      "date": "2026-08-15",
-      "url": "https://eiga.com/news/20260815/8/"
     }
   ],
   "bd_releases": [],
