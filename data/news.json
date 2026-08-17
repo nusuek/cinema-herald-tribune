@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-17T05:23:45.356238",
+  "generated_at": "2026-08-17T06:25:23.052929",
   "top_stories": [
+    {
+      "title": "Hollywood Failed Hayden Panettiere",
+      "source": "Variety",
+      "date": "2026-08-17",
+      "url": "https://variety.com/2026/film/news/hayden-panettiere-death-hollywood-sexual-predators-1236836037/"
+    },
     {
       "title": "John Oliver Brutally Mocks Trump for Sacrificing Staff in Airplane-Swap Incident",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-08-17",
       "url": "https://variety.com/2026/film/news/hayden-panettiere-dead-heroes-scream-1236835999/"
-    },
-    {
-      "title": "‘Lanterns’ Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger",
-      "source": "Variety",
-      "date": "2026-08-17",
-      "url": "https://variety.com/2026/tv/news/lanterns-premiere-how-does-hal-die-1236835653/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「借りぐらしのアリエッティ」首位、「オークストリートの異変」「ブルーロック」などがアップ！【映画.comアクセスランキング】",
+      "source": "映画.com",
+      "date": "2026-08-17",
+      "url": "https://eiga.com/news/20260817/12/"
+    },
     {
       "title": "「グレイ・ミッション」動画インタビュー公開　「スクリーンで見るために作られている」とジェイク・ギレンホールが太鼓判！",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-15",
       "url": "https://eiga.com/news/20260815/16/"
-    },
-    {
-      "title": "ロバート・ダウニー・Jr.＆クリス・エバンス、アナハイムに降臨！ヒュー・ジャックマンは「アベンジャーズ」最新作に参戦を打診？【D23速報】",
-      "source": "映画.com",
-      "date": "2026-08-15",
-      "url": "https://eiga.com/news/20260815/13/"
     }
   ],
   "bd_releases": [],
