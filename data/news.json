@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-18T06:19:20.492504",
+  "generated_at": "2026-08-18T07:26:54.504796",
   "top_stories": [
+    {
+      "title": "‘Spider-Man: Brand New Day,’ ‘The Odyssey’ Continue Tussle Atop U.K., Ireland Box Office",
+      "source": "Variety",
+      "date": "2026-08-18",
+      "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-the-odyssey-continue-tussle-uk-ireland-box-office-1236836944/"
+    },
     {
       "title": "Rosie O’Donnell Shines in ‘Jimmy Kimmel Live’ Hosting Debut, Attacks ‘Mango Mussolini’ Trump and Gives Moving Hayden Panettiere Tribute",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-08-18",
       "url": "https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/"
-    },
-    {
-      "title": "Michelle Rodriguez Remembers Hayden Panettiere After Co-Hosting World Music Awards: ‘Can’t Stand How Many Young People Are Leaving Us Lately’",
-      "source": "Variety",
-      "date": "2026-08-18",
-      "url": "https://variety.com/2026/film/news/michelle-rodriguez-hayden-panettiere-world-music-awards-1236836885/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ノーラン2度目か、ビルヌーブ初受賞か？　米に老舗業界誌が2027年アカデミー賞監督賞を予想",
+      "source": "映画.com",
+      "date": "2026-08-18",
+      "url": "https://eiga.com/news/20260818/12/"
+    },
     {
       "title": "東映アニメーション作品をみよう！（1）　東映動画のアルチザンたちを論ずるために（木村智哉）",
       "source": "映画.com",
@@ -176,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-17",
       "url": "https://eiga.com/news/20260817/7/"
-    },
-    {
-      "title": "まさかのステイサムが羽交い絞めに…!?「シェルター」“最強の男”を絶体絶命に追い込む刺客・ワークマンの新場面写真解禁！",
-      "source": "映画.com",
-      "date": "2026-08-17",
-      "url": "https://eiga.com/news/20260817/6/"
     }
   ],
   "bd_releases": [],
