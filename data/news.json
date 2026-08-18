@@ -1,26 +1,32 @@
 {
-  "generated_at": "2026-08-18T03:33:04.063248",
+  "generated_at": "2026-08-18T04:21:33.673210",
   "top_stories": [
+    {
+      "title": "Vin Diesel Says ‘Fast Forever’ Starts Shooting in December",
+      "source": "Variety",
+      "date": "2026-08-18",
+      "url": "https://variety.com/2026/film/news/vin-diesel-fast-forever-starts-shooting-december-1236836906/"
+    },
+    {
+      "title": "Michelle Rodriguez Remembers Hayden Panettiere After Co-Hosting World Music Awards: ‘Can’t Stand How Many Young People Are Leaving Us Lately’",
+      "source": "Variety",
+      "date": "2026-08-18",
+      "url": "https://variety.com/2026/film/news/michelle-rodriguez-hayden-panettiere-world-music-awards-1236836885/"
+    },
     {
       "title": "Jeanie Buss Seeks to Contest Sale of Los Angeles Lakers to Bob Iger and Josh Kushner: Report",
       "source": "Variety",
       "date": "2026-08-18",
       "url": "https://variety.com/2026/tv/news/jeanie-buss-lakers-sale-bob-iger-josh-kushner-1236836879/"
-    },
-    {
-      "title": "David F. Sandberg to Direct Horror Movie ‘Mommy’s Home’ For Lionsgate",
-      "source": "Variety",
-      "date": "2026-08-18",
-      "url": "https://variety.com/2026/film/news/david-f-sandberg-direct-mommys-home-lionsgate-1236836858/"
-    },
-    {
-      "title": "LISTEN: How Chris Carter Got a Second Shot at ‘The X-Files: I Want to Believe’ Film",
-      "source": "Variety",
-      "date": "2026-08-18",
-      "url": "https://variety.com/2026/tv/news/chris-carter-x-files-i-want-to-believe-directors-cut-1236836849/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【映画.com配信アクセスランキング】第1位は「あの花が咲く丘で、君とまた出会えたら。」、「劇場版TOKYO MER」「踊る大捜査線」などがランクイン　今すぐ観られるベスト10を発表",
+      "source": "映画.com",
+      "date": "2026-08-18",
+      "url": "https://eiga.com/news/20260818/9/"
+    },
     {
       "title": "「劇場公開50周年記念！ロッキー シネマコンサート」の日本初開催が決定！12月18日開催",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-08-16",
       "url": "https://eiga.com/news/20260817/3/"
-    },
-    {
-      "title": "「邪神ちゃんドロップキック」全37話を無料配信　収益を熊本地震復興支援のため寄付",
-      "source": "映画.com",
-      "date": "2026-08-16",
-      "url": "https://eiga.com/news/20260817/2/"
     }
   ],
   "bd_releases": [],
