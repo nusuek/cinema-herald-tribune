@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-22T12:12:36.632052",
+  "generated_at": "2026-08-22T13:21:46.637398",
   "top_stories": [
+    {
+      "title": "Actor Michael Wright, Star of ‘The Five Heartbeats’ and ‘V,’ Dies at 70",
+      "source": "Variety",
+      "date": "2026-08-22",
+      "url": "https://variety.com/2026/film/news/michael-wright-dead-five-heartbeats-the-principal-1236840765/"
+    },
     {
       "title": "Emily Watson Says ‘Dune: Prophecy’ Season 2 Will Have ‘Lots of New Elements,’ Led Her on ‘A Quest in a Way Actors Always Get to Do and Actresses Don’t’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-08-22",
       "url": "https://variety.com/2026/shopping/news/how-to-watch-indycar-freedom-250-grand-prix-live-online-free-1236838320/"
-    },
-    {
-      "title": "‘Everything That’s Wrong With You’ Review: A  Luminous Two-Hander from Slovenia About Online Pals Navigating the Waters of IRL Friendship",
-      "source": "Variety",
-      "date": "2026-08-22",
-      "url": "https://variety.com/2026/film/reviews/everything-thats-wrong-with-you-review-1236840724/"
     }
   ],
   "new_releases": [
+    {
+      "title": "拙い作画で話題になった中国のアニメ映画「牛来」が一転してヒット",
+      "source": "映画.com",
+      "date": "2026-08-22",
+      "url": "https://eiga.com/news/20260822/12/"
+    },
+    {
+      "title": "「あんみつ姫」や自主制作作品上映、南家こうじの功績と魅力に迫る濃密トーク【ひろしまアニメーションシーズン2026】",
+      "source": "映画.com",
+      "date": "2026-08-22",
+      "url": "https://eiga.com/news/20260822/14/"
+    },
     {
       "title": "レインボーブリッジ、封鎖できません！　今夜放送「踊る大捜査線 THE MOVIE 2」あらすじ＆キャストまとめ",
       "source": "映画.com",
@@ -182,18 +194,6 @@
       "source": "映画.com",
       "date": "2026-08-21",
       "url": "https://eiga.com/news/20260821/18/"
-    },
-    {
-      "title": "「開戦前夜」公開20日間で興収2億円突破！各地で満席続出し全国157館に上映拡大",
-      "source": "映画.com",
-      "date": "2026-08-21",
-      "url": "https://eiga.com/news/20260821/20/"
-    },
-    {
-      "title": "呪術廻戦×グラニフ、コラボアイテム発売　封印される五条悟デザインや、乙骨憂太の「失礼だな 純愛だよ」Tシャツなど",
-      "source": "映画.com",
-      "date": "2026-08-21",
-      "url": "https://eiga.com/news/20260821/17/"
     }
   ],
   "bd_releases": [],
