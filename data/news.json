@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-22T00:27:23.069543",
+  "generated_at": "2026-08-22T02:06:23.843094",
   "top_stories": [
+    {
+      "title": "‘Spa Weekend’ Review: Leslie Mann and Isla Fisher in a High-Concept Comedy Without the Comic Highs",
+      "source": "Variety",
+      "date": "2026-08-22",
+      "url": "https://variety.com/2026/film/reviews/spa-weekend-review-leslie-mann-anna-faris-1236840170/"
+    },
     {
       "title": "Paramount and State A.G. to Meet Monday to Discuss Settlement of Antitrust Case",
       "source": "Variety",
@@ -12,15 +18,27 @@
       "source": "Variety",
       "date": "2026-08-22",
       "url": "https://variety.com/2026/film/news/paramount-responds-mark-ruffalo-merger-attack-israel-1236840552/"
-    },
-    {
-      "title": "Emmy Overachiever Jason Bateman on Whether He Considers Himself an Actor or Director First",
-      "source": "Variety",
-      "date": "2026-08-21",
-      "url": "https://variety.com/2026/tv/awards/jason-bateman-emmys-black-rabbit-dtf-st-louis-podcast-1236840514/"
     }
   ],
   "new_releases": [
+    {
+      "title": "パラマウント、ワーナー統合の遅れで1日11億円の負担",
+      "source": "映画.com",
+      "date": "2026-08-22",
+      "url": "https://eiga.com/news/20260822/5/"
+    },
+    {
+      "title": "【入場特典リスト 8月最新版】「映画ちいかわ」かわいすぎる新特典　「ミニオンズ＆モンスターズ」はミニノート配布",
+      "source": "映画.com",
+      "date": "2026-08-22",
+      "url": "https://eiga.com/news/20260822/4/"
+    },
+    {
+      "title": "中国で人気、世界のとんでもない作品大集合「ヤバいアニメーション映画祭」とは？【ひろしまアニメーションシーズン2026】",
+      "source": "映画.com",
+      "date": "2026-08-22",
+      "url": "https://eiga.com/news/20260822/18/"
+    },
     {
       "title": "「ちいさなプリンセス ソフィア」シリーズ最新作ではモアナとの初共演も実現！藤本美貴「親子で会話しながら見てほしい」",
       "source": "映画.com",
@@ -176,18 +194,6 @@
       "source": "映画.com",
       "date": "2026-08-21",
       "url": "https://eiga.com/news/20260821/13/"
-    },
-    {
-      "title": "“ステイサム全部乗せ”「シェルター」監督自らが徹底解説する特別映像完成！ 入場者プレゼントは【御ステ印】",
-      "source": "映画.com",
-      "date": "2026-08-21",
-      "url": "https://eiga.com/news/20260821/10/"
-    },
-    {
-      "title": "アニメ「ツイステ」シーズン2、サバナクロー寮の“ワルだくみ”とは――ティザーPV公開　比良坂悠河役にファイルーズあい",
-      "source": "映画.com",
-      "date": "2026-08-21",
-      "url": "https://eiga.com/news/20260821/9/"
     }
   ],
   "bd_releases": [],
