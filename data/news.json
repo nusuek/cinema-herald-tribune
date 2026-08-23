@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-23T09:14:35.072549",
+  "generated_at": "2026-08-23T10:10:08.025604",
   "top_stories": [
+    {
+      "title": "‘One Piece’ Season 3 Casts Its Koza, Toto, Pell and Chaka",
+      "source": "Variety",
+      "date": "2026-08-23",
+      "url": "https://variety.com/2026/tv/news/one-piece-season-3-cast-koza-toto-pell-chaka-1236840397/"
+    },
     {
       "title": "Venice-Bound ‘Meteorite,’ Debut Feature From Colombia’s Sebastián Múnera, Acquired by MoreThan Films (EXCLUSIVE)",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-08-23",
       "url": "https://variety.com/2026/film/news/upendra-teja-sajja-shanaya-kapoor-zombie-reddy-nxt-lvl-1236840852/"
-    },
-    {
-      "title": "‘One Battle After Another’ and ‘Marty Supreme’ Take Top Honors at Location Managers Guild International Awards",
-      "source": "Variety",
-      "date": "2026-08-23",
-      "url": "https://variety.com/2026/artisans/news/location-managers-guild-international-awards-2026-winners-1236840833/"
     }
   ],
   "new_releases": [
+    {
+      "title": "劇場版アニメ「ONE PIECE」新作2本を一挙発表！ 2027年夏は「ONE PIECE FILM GOD VALLEY」、29年には「ONE PIECE FILM BAAD」",
+      "source": "映画.com",
+      "date": "2026-08-23",
+      "url": "https://eiga.com/news/20260823/11/"
+    },
+    {
+      "title": "「まど☆マギ　ワルプルギスの廻天」×「〈物語〉シリーズ」SPコラボ　西尾維新書き下ろし短編「魔法童女よつぎ☆ピース」公開中",
+      "source": "映画.com",
+      "date": "2026-08-23",
+      "url": "https://eiga.com/news/20260823/10/"
+    },
     {
       "title": "松村北斗に7カ月間密着！news zero特別版「その素顔が知りたい。俳優 松村北斗」放送決定",
       "source": "映画.com",
@@ -170,18 +182,6 @@
       "source": "映画.com",
       "date": "2026-08-21",
       "url": "https://eiga.com/news/20260821/32/"
-    },
-    {
-      "title": "引きこもり姫が元カノを救う!?　クィアなSFアドベンチャーアニメ「レズビアン・スペース・プリンセス」10月2日公開",
-      "source": "映画.com",
-      "date": "2026-08-21",
-      "url": "https://eiga.com/news/20260821/31/"
-    },
-    {
-      "title": "実写版「NARUTO ナルト」カカシ役に「BEEFビーフ」のチャールズ・メルトン",
-      "source": "映画.com",
-      "date": "2026-08-21",
-      "url": "https://eiga.com/news/20260821/27/"
     }
   ],
   "bd_releases": [],
