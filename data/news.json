@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-24T03:41:04.327441",
+  "generated_at": "2026-08-24T04:32:13.776880",
   "top_stories": [
+    {
+      "title": "John Oliver Embarrasses Trump Transportation Secretary Sean Duffy Over ‘Godawful’ YouTube Reality Show and ‘Real World’ Past",
+      "source": "Variety",
+      "date": "2026-08-24",
+      "url": "https://variety.com/2026/tv/news/john-oliver-sean-duffy-trump-real-world-road-trip-youtube-1236841318/"
+    },
     {
       "title": "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
       "source": "Variety",
@@ -12,15 +18,15 @@
       "source": "Variety",
       "date": "2026-08-23",
       "url": "https://variety.com/2026/film/reviews/boorman-and-the-devil-review-exorcist-ii-the-heretic-1236841140/"
-    },
-    {
-      "title": "Shelley Fabares, ‘Coach’ and ‘The Donna Reed Show’ Star, Dies at 82",
-      "source": "Variety",
-      "date": "2026-08-23",
-      "url": "https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「オークストリートの異変」首位、「グレイ・ミッション」「リバイアサン」「うるわしの宵の月」がランクイン【映画.comアクセスランキング】",
+      "source": "映画.com",
+      "date": "2026-08-24",
+      "url": "https://eiga.com/news/20260824/9/"
+    },
     {
       "title": "なにわ男子・大橋和也主演「人生を変えたコント」に永作博美、中川家・剛、トータス松本が出演決定！",
       "source": "映画.com",
@@ -170,12 +176,6 @@
       "source": "映画.com",
       "date": "2026-08-22",
       "url": "https://eiga.com/news/20260822/9/"
-    },
-    {
-      "title": "「Duel Masters LOST ～断罪の少年～」10月9日から配信開始　第1～3期の振り返り映像を順次配信",
-      "source": "映画.com",
-      "date": "2026-08-22",
-      "url": "https://eiga.com/news/20260822/8/"
     }
   ],
   "bd_releases": [],
