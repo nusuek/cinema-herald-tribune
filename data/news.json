@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-24T00:29:16.216921",
+  "generated_at": "2026-08-24T02:13:54.051860",
   "top_stories": [
+    {
+      "title": "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
+      "source": "Variety",
+      "date": "2026-08-24",
+      "url": "https://variety.com/2026/music/concert-reviews/foo-fighters-hollywood-bowl-gustavo-dudamel-concert-review-1236841090/"
+    },
     {
       "title": "‘Boorman and the Devil’ Review: The Making of John Boorman’s 1977 Disaster ‘Exorcist II: The Heretic’ Becomes a Documentary So Unbelievable It’s Funny",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-08-23",
       "url": "https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/"
-    },
-    {
-      "title": "Mark Ruffalo Called Out Over ‘Extremist and Antisemitic Messaging’ by Simon Wiesenthal Center, Creative Communities For Peace",
-      "source": "Variety",
-      "date": "2026-08-23",
-      "url": "https://variety.com/2026/film/global/mark-ruffalo-paramount-antisemitic-tropes-1236841081/"
     }
   ],
   "new_releases": [
+    {
+      "title": "マイケル・ジャクソンもカメオ出演！ ウィル・スミス×トミー・リー・ジョーンズ「メン・イン・ブラック2」本日午後ローで放送",
+      "source": "映画.com",
+      "date": "2026-08-24",
+      "url": "https://eiga.com/news/20260824/6/"
+    },
+    {
+      "title": "「なら国際映画祭2026」審査委員長は「007 慰めの報酬」のオルガ・キュリレンコ！　コンペティション作品18タイトル発表",
+      "source": "映画.com",
+      "date": "2026-08-24",
+      "url": "https://eiga.com/news/20260824/5/"
+    },
     {
       "title": "Adoが自身の半生を語り尽くすラジオ特番、8月30日にNHK AMで放送　ナレーションは初音ミク",
       "source": "映画.com",
@@ -164,18 +176,6 @@
       "source": "映画.com",
       "date": "2026-08-22",
       "url": "https://eiga.com/news/20260822/6/"
-    },
-    {
-      "title": "パラマウント、ワーナー統合の遅れで1日11億円の負担",
-      "source": "映画.com",
-      "date": "2026-08-22",
-      "url": "https://eiga.com/news/20260822/5/"
-    },
-    {
-      "title": "【入場特典リスト 8月最新版】「映画ちいかわ」かわいすぎる新特典　「ミニオンズ＆モンスターズ」はミニノート配布",
-      "source": "映画.com",
-      "date": "2026-08-22",
-      "url": "https://eiga.com/news/20260822/4/"
     }
   ],
   "bd_releases": [],
