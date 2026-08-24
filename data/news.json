@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-08-24T04:32:13.776880",
+  "generated_at": "2026-08-24T05:26:58.035522",
   "top_stories": [
+    {
+      "title": "China Box Office: ‘Once Upon a Time in the Middle East’ Stays on Top as ‘V’ Debuts in Second",
+      "source": "Variety",
+      "date": "2026-08-24",
+      "url": "https://variety.com/2026/film/box-office/china-box-office-once-upon-a-time-in-the-middle-east-v-1236841327/"
+    },
+    {
+      "title": "Busan Unveils 23-Film Vision Section Lineup",
+      "source": "Variety",
+      "date": "2026-08-24",
+      "url": "https://variety.com/2026/film/festivals/busan-vision-section-lineup-2026-1236841324/"
+    },
     {
       "title": "John Oliver Embarrasses Trump Transportation Secretary Sean Duffy Over ‘Godawful’ YouTube Reality Show and ‘Real World’ Past",
       "source": "Variety",
       "date": "2026-08-24",
       "url": "https://variety.com/2026/tv/news/john-oliver-sean-duffy-trump-real-world-road-trip-youtube-1236841318/"
-    },
-    {
-      "title": "Foo Fighters and Gustavo Dudamel Blow Up the Hollywood Bowl as Conductor Blows Out the Candle on His Time With the LA Phil: Concert Review",
-      "source": "Variety",
-      "date": "2026-08-24",
-      "url": "https://variety.com/2026/music/concert-reviews/foo-fighters-hollywood-bowl-gustavo-dudamel-concert-review-1236841090/"
-    },
-    {
-      "title": "‘Boorman and the Devil’ Review: The Making of John Boorman’s 1977 Disaster ‘Exorcist II: The Heretic’ Becomes a Documentary So Unbelievable It’s Funny",
-      "source": "Variety",
-      "date": "2026-08-23",
-      "url": "https://variety.com/2026/film/reviews/boorman-and-the-devil-review-exorcist-ii-the-heretic-1236841140/"
     }
   ],
   "new_releases": [
+    {
+      "title": "リドリー・スコット最新作「ラスト・サバイバー」ロンドンプレミアに、ジェイコブ・エロルディら豪華キャストが集結！　本編映像を披露",
+      "source": "映画.com",
+      "date": "2026-08-24",
+      "url": "https://eiga.com/news/20260824/10/"
+    },
+    {
+      "title": "【興収110億円突破】「映画ちいかわ」4DX上映、「なんとかなれーッ！応援上映」が決定",
+      "source": "映画.com",
+      "date": "2026-08-24",
+      "url": "https://eiga.com/news/20260824/15/"
+    },
     {
       "title": "「オークストリートの異変」首位、「グレイ・ミッション」「リバイアサン」「うるわしの宵の月」がランクイン【映画.comアクセスランキング】",
       "source": "映画.com",
@@ -164,18 +176,6 @@
       "source": "映画.com",
       "date": "2026-08-22",
       "url": "https://eiga.com/news/20260822/11/"
-    },
-    {
-      "title": "デス・メタルを作った男がこの世を去って25年──ヘビメタを追ったドキュメンタリー2作品の同時公開が決定",
-      "source": "映画.com",
-      "date": "2026-08-22",
-      "url": "https://eiga.com/news/20260822/10/"
-    },
-    {
-      "title": "おそ松さん×銀魂、コラボビジュアル公開　オリジナルグッズも制作決定",
-      "source": "映画.com",
-      "date": "2026-08-22",
-      "url": "https://eiga.com/news/20260822/9/"
     }
   ],
   "bd_releases": [],
