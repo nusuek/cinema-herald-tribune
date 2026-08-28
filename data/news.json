@@ -1,26 +1,86 @@
 {
-  "generated_at": "2026-08-27T23:16:34.469424",
+  "generated_at": "2026-08-28T07:15:19.178725",
   "top_stories": [
     {
-      "title": "Ellen Pompeo to Play Disgraced ER Nurse in ‘Not a Sound’ Drama in the Works at Hulu",
+      "title": "Oscars: Ireland Selects Damian McCann’s Heist Thriller ‘Aontas’ for International Feature Race",
       "source": "Variety",
-      "date": "2026-08-27",
-      "url": "https://variety.com/2026/tv/news/ellen-pompeo-hulu-show-not-a-sound-1236845646/"
+      "date": "2026-08-28",
+      "url": "https://variety.com/2026/film/awards/oscars-ireland-aontas-international-feature-race-1236845611/"
     },
     {
-      "title": "Jemima Kirke on Her Marc Jacobs Campaign, Fashion Week Chaos and Why Jessa’s Style in ‘Girls’ ‘Doesn’t Appeal’ to Her",
+      "title": "‘The Whisper Man’ Review: Diverting Netflix Serial Killer Chiller Doesn’t Demand Much of Robert De Niro",
       "source": "Variety",
-      "date": "2026-08-27",
-      "url": "https://variety.com/2026/shopping/news/jemima-kirke-marc-jacobs-girls-jessa-style-fashion-week-1236845616/"
+      "date": "2026-08-28",
+      "url": "https://variety.com/2026/film/reviews/the-whisper-man-review-robert-de-niro-adam-scott-1236845750/"
     },
     {
-      "title": "AMC Theatres Sets Dolly Parton Retrospective With ‘Steel Magnolias’ and ‘The Best Little Whorehouse in Texas’",
+      "title": "Fan Bingbing, Kim Jeewoon, Hong Kyung-pyo Curate Busan’s Carte Blanche as Festival’s Story Market Adds Thai Remake, Hong Kong Titles",
       "source": "Variety",
-      "date": "2026-08-27",
-      "url": "https://variety.com/2026/film/news/amc-theatres-dolly-parton-tribute-steel-magnolias-best-little-whorehouse-in-texas-1236845626/"
+      "date": "2026-08-28",
+      "url": "https://variety.com/2026/film/markets-festivals/fan-bingbing-kim-jeewoon-busan-carte-blanche-1236845764/"
     }
   ],
   "new_releases": [
+    {
+      "title": "トム・ハンクス、全米ベストセラー小説の映画化で主演交渉",
+      "source": "映画.com",
+      "date": "2026-08-28",
+      "url": "https://eiga.com/news/20260828/16/"
+    },
+    {
+      "title": "「10日間で男を上手にフル方法」続編、ケイト・ハドソンが製作へ",
+      "source": "映画.com",
+      "date": "2026-08-28",
+      "url": "https://eiga.com/news/20260828/15/"
+    },
+    {
+      "title": "綾瀬はるかの“弁護士”と“三児の母”姿「ファーストボイス」新場面写真＆前田哲監督コメント",
+      "source": "映画.com",
+      "date": "2026-08-28",
+      "url": "https://eiga.com/news/20260828/13/"
+    },
+    {
+      "title": "ついに最終章！「エミリー、パリへ行く」ファイナルシーズン、12/24配信",
+      "source": "映画.com",
+      "date": "2026-08-28",
+      "url": "https://eiga.com/news/20260828/12/"
+    },
+    {
+      "title": "北村匠海ら“4人の大地”のまなざし「しびれ」アザービジュアル＆撮影秘話",
+      "source": "映画.com",
+      "date": "2026-08-28",
+      "url": "https://eiga.com/news/20260828/11/"
+    },
+    {
+      "title": "人間を食べた連続殺人鬼がモデル、「時計じかけのオレンジ」マルコム・マクダウェル主演「エヴィレンコ」10月9日公開",
+      "source": "映画.com",
+      "date": "2026-08-28",
+      "url": "https://eiga.com/news/20260828/10/"
+    },
+    {
+      "title": "リドリー・スコット監督、「エイリアン」新プリクエル構想を明かす",
+      "source": "映画.com",
+      "date": "2026-08-28",
+      "url": "https://eiga.com/news/20260828/9/"
+    },
+    {
+      "title": "「劇場版 TUBE」特別映像公開！ 人気曲「Keep On Sailin'」への思いを前田亘輝らメンバーが明かす",
+      "source": "映画.com",
+      "date": "2026-08-28",
+      "url": "https://eiga.com/news/20260828/8/"
+    },
+    {
+      "title": "是枝裕和監督、出口夏希×蒔田彩珠「ルックバック」がPontaパス「推しトク映画」に決定！",
+      "source": "映画.com",
+      "date": "2026-08-28",
+      "url": "https://eiga.com/news/20260828/14/"
+    },
+    {
+      "title": "「カーズ」1週間限定公開を記念したビジュアル披露！土田大&山口智充が20周年お祝いコメント",
+      "source": "映画.com",
+      "date": "2026-08-28",
+      "url": "https://eiga.com/news/20260828/7/"
+    },
     {
       "title": "松岡茉優×仲里依紗共演で美容整形の光と闇、心の葛藤をえぐるNetflixシリーズ「ダウンタイム」メイン予告映像＆キーアート解禁",
       "source": "映画.com",
@@ -116,66 +176,6 @@
       "source": "映画.com",
       "date": "2026-08-27",
       "url": "https://eiga.com/news/20260827/14/"
-    },
-    {
-      "title": "東京国際映画祭・久松猛朗氏に聞く　節目となる来年の第40回に向けてどうつなげていくかが大きなテーマ――エンタメとアートのバランス",
-      "source": "映画.com",
-      "date": "2026-08-27",
-      "url": "https://eiga.com/news/20260827/11/"
-    },
-    {
-      "title": "「白鳥とコウモリ」松村北斗＆今田美桜が語る岸善幸監督の現場と新メイキング写真",
-      "source": "映画.com",
-      "date": "2026-08-27",
-      "url": "https://eiga.com/news/20260827/12/"
-    },
-    {
-      "title": "マーゴット・ロビー×ジェイコブ・エロルディ共演のラブロマンス「嵐が丘」BS10プレミアムでTV初放送",
-      "source": "映画.com",
-      "date": "2026-08-27",
-      "url": "https://eiga.com/news/20260827/9/"
-    },
-    {
-      "title": "市原隼人主演「おいしい給食 season4」に橋本偉成、八嶋智人、田山涼成ら　第1話のスポット映像＆場面写真公開",
-      "source": "映画.com",
-      "date": "2026-08-27",
-      "url": "https://eiga.com/news/20260827/10/"
-    },
-    {
-      "title": "「ネルソンさん、あなたは人を殺しましたか？」と少女が問う本編映像＆ギャスパー・ノエら著名人コメント",
-      "source": "映画.com",
-      "date": "2026-08-27",
-      "url": "https://eiga.com/news/20260827/7/"
-    },
-    {
-      "title": "原田マハ初監督×蒼井優主演「無用の人」27年1月29日公開決定！　追加キャスト＆ティザービジュアルを披露",
-      "source": "映画.com",
-      "date": "2026-08-27",
-      "url": "https://eiga.com/news/20260827/8/"
-    },
-    {
-      "title": "ちいかわ×明星チャルメラ、とんこつ味が新発売　冬毛のちいかわたちが“毛量対策”するキュートなデザイン",
-      "source": "映画.com",
-      "date": "2026-08-27",
-      "url": "https://eiga.com/news/20260827/6/"
-    },
-    {
-      "title": "「悪魔の毒々モンスター」をリブートした「トキシック・アベンジャー」無修正版で11月13日日本公開決定 ティザービジュアル＆予告公開",
-      "source": "映画.com",
-      "date": "2026-08-27",
-      "url": "https://eiga.com/news/20260827/5/"
-    },
-    {
-      "title": "「ゴジラ－0.0」新時代のジャパニーズ特撮へと進化！撮影の裏側捉えたメイキング映像公開",
-      "source": "映画.com",
-      "date": "2026-08-26",
-      "url": "https://eiga.com/news/20260827/4/"
-    },
-    {
-      "title": "“豪華絢爛“ロマンスファンタジー「再婚承認を要求します」ディズニープラスで11月4日独占配信【予告映像あり】",
-      "source": "映画.com",
-      "date": "2026-08-26",
-      "url": "https://eiga.com/news/20260827/3/"
     }
   ],
   "bd_releases": [],
