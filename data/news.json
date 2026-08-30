@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-08-30T21:41:16.919738",
+  "generated_at": "2026-08-30T23:58:13.157385",
   "top_stories": [
+    {
+      "title": "Enhypen Lands First No. 1, Dolly Parton Reenters Top Five on Albums Chart",
+      "source": "Variety",
+      "date": "2026-08-30",
+      "url": "https://variety.com/2026/music/news/enhypen-land-first-no-1-dolly-parton-returns-albums-chart-1236846995/"
+    },
     {
       "title": "‘Days of Thunder’ Star Randy Quaid Says Anne Hathaway Is ‘Woke’ and a ‘Horrible Choice’ for the Sequel: ‘You Need the Original Girl’",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-08-30",
       "url": "https://variety.com/2026/film/news/sandra-bullock-olivia-rodrigo-stevie-nicks-practical-magic-2-1236846948/"
-    },
-    {
-      "title": "At Daisy Chain Fields, Olivia Rodrigo, Chappell Roan and Honored Forebears Convene for a Superb Festival That’s Hot to Go in Every Way: Concert Review",
-      "source": "Variety",
-      "date": "2026-08-30",
-      "url": "https://variety.com/2026/music/concert-reviews/daisy-chain-fields-olivia-rodrigo-chappell-roan-concert-review-1236846844/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「刃牙道」第2クールが10月からTV放送開始　「バキ外伝 烈海王は異世界転生しても一向にかまわんッッ」のアニメ化も決定",
+      "source": "映画.com",
+      "date": "2026-08-30",
+      "url": "https://eiga.com/news/20260831/8/"
+    },
+    {
+      "title": "「呪術廻戦」大型展覧会、完結展が開催決定　会場は最終決戦の地・新宿　最終局面の「深層」部分が明かされる",
+      "source": "映画.com",
+      "date": "2026-08-30",
+      "url": "https://eiga.com/news/20260831/1/"
+    },
     {
       "title": "榮倉奈々×赤楚衛二主演「あにいもうと」に仲村トオル、原田美枝子、高橋克実、竹下景子、富田靖子、伊勢志摩の実力派俳優が大集結！",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2026-08-28",
       "url": "https://eiga.com/news/20260829/3/"
-    },
-    {
-      "title": "【新作公開】「魔法少女まどか☆マギカ」シリーズ未見の方への鑑賞ガイド　「新編」から見るのはNG",
-      "source": "映画.com",
-      "date": "2026-08-28",
-      "url": "https://eiga.com/news/20260829/2/"
-    },
-    {
-      "title": "桜田通「ドラえもん」誕生日スペシャル放送にゲスト出演！　物語の鍵を握る未来のキツネ型ロボット・コンロボ役に",
-      "source": "映画.com",
-      "date": "2026-08-28",
-      "url": "https://eiga.com/news/20260829/1/"
     }
   ],
   "bd_releases": [],
