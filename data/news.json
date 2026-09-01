@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-09-01T17:00:30.938016",
+  "generated_at": "2026-09-01T20:12:03.751548",
   "top_stories": [
     {
-      "title": "Emily Blunt to Receive Kirk Douglas Award for Excellence in Film at Santa Barbara Film Festival",
+      "title": "Producer Urged Trump to Back U.S. Film Incentive Citing Prospect of Shooting Richard Nixon Biopic Overseas",
       "source": "Variety",
       "date": "2026-09-01",
-      "url": "https://variety.com/2026/film/awards/emily-blunt-kirk-douglas-award-santa-barbara-disclosure-day-1236847511/"
+      "url": "https://variety.com/2026/film/news/trump-us-film-incentive-white-house-meeting-richard-nixon-biopic-overseas-1236848380/"
     },
     {
-      "title": "‘Tulsa King’ Sets Season 4 Release Date, Drops Gun-Toting First Teaser",
+      "title": "Jason Isbell Leads New Suno Lawsuit, Claims AI Music Generator ‘Exploits’ Musicians’ Identities in Models",
       "source": "Variety",
       "date": "2026-09-01",
-      "url": "https://variety.com/2026/tv/news/tulsa-king-season-4-release-date-first-teaser-1236847768/"
+      "url": "https://variety.com/2026/music/news/jason-isbell-suno-lawsuit-ai-music-exploits-identities-1236848468/"
     },
     {
-      "title": "Netflix Sets Trump Doc About Secret Plane Swap in Turkey",
+      "title": "‘Avengers: Secret Wars’ Adds Noah Jupe to Cast",
       "source": "Variety",
       "date": "2026-09-01",
-      "url": "https://variety.com/2026/tv/news/trump-plane-swap-documentary-netflix-1236848314/"
+      "url": "https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537/"
     }
   ],
   "new_releases": [
+    {
+      "title": "第39回東京国際映画祭、オープニング、センターピース、クロージング作品決定！",
+      "source": "映画.com",
+      "date": "2026-09-01",
+      "url": "https://eiga.com/news/20260902/1/"
+    },
+    {
+      "title": "江口洋介×松嶋菜々子「救命病棟24時」に木戸大聖、萩原利久、白石聖が出演決定！【コメント発表】",
+      "source": "映画.com",
+      "date": "2026-09-01",
+      "url": "https://eiga.com/news/20260902/13/"
+    },
     {
       "title": "「青春ブタ野郎はディアフレンドの夢を見ない」本予告第2弾、キービジュアルが公開　主題歌も発表",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2026-08-31",
       "url": "https://eiga.com/news/20260831/19/"
-    },
-    {
-      "title": "トム・ハーディ、ラッパーとしてデビューアルバムを発表",
-      "source": "映画.com",
-      "date": "2026-08-31",
-      "url": "https://eiga.com/news/20260831/20/"
-    },
-    {
-      "title": "なにわ男子・西畑大吾、初共演の福本莉子に親近感＆安心感【「時給三〇〇円の死神」完成披露試写会】",
-      "source": "映画.com",
-      "date": "2026-08-31",
-      "url": "https://eiga.com/news/20260831/25/"
     }
   ],
   "bd_releases": [],
