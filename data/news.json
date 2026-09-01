@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-09-01T20:12:03.751548",
+  "generated_at": "2026-09-01T22:51:44.943692",
   "top_stories": [
     {
-      "title": "Producer Urged Trump to Back U.S. Film Incentive Citing Prospect of Shooting Richard Nixon Biopic Overseas",
+      "title": "‘Wheel of Fortune’ Announcer Jim Thornton Suspended, Position Will Be Recast",
       "source": "Variety",
       "date": "2026-09-01",
-      "url": "https://variety.com/2026/film/news/trump-us-film-incentive-white-house-meeting-richard-nixon-biopic-overseas-1236848380/"
+      "url": "https://variety.com/2026/tv/news/wheel-of-fortune-announcer-jim-thornton-suspended-1236848741/"
     },
     {
-      "title": "Jason Isbell Leads New Suno Lawsuit, Claims AI Music Generator ‘Exploits’ Musicians’ Identities in Models",
+      "title": "DreamWorks Remote Workers Ratify First Union Agreement With the Animation Guild",
       "source": "Variety",
       "date": "2026-09-01",
-      "url": "https://variety.com/2026/music/news/jason-isbell-suno-lawsuit-ai-music-exploits-identities-1236848468/"
+      "url": "https://variety.com/2026/artisans/news/dreamworks-remote-workers-agreement-animation-guild-1236848733/"
     },
     {
-      "title": "‘Avengers: Secret Wars’ Adds Noah Jupe to Cast",
+      "title": "Tom Cruise Is Confident Paramount-Warner Bros. Will Release 30 Films a Year After Merger: ‘They’re Going to Deliver’",
       "source": "Variety",
       "date": "2026-09-01",
-      "url": "https://variety.com/2026/film/news/marvel-avengers-secret-wars-noah-jupe-cast-1236848537/"
+      "url": "https://variety.com/2026/film/news/tom-cruise-david-ellison-paramount-warner-bros-merger-1236846704/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ルー大柴、芸歴49年で長編映画初主演！「認知症世界の歩き方」公開決定　共演に泉澤祐希、浅野ゆう子、安藤なつ",
+      "source": "映画.com",
+      "date": "2026-09-01",
+      "url": "https://eiga.com/news/20260902/5/"
+    },
+    {
+      "title": "香取慎吾主演「高校生家族」本予告＆ポスター完成！ 主題歌はゆず書き下ろし新曲「これも青春だ」",
+      "source": "映画.com",
+      "date": "2026-09-01",
+      "url": "https://eiga.com/news/20260902/4/"
+    },
+    {
+      "title": "サンドラ・ブロック×ニコール・キッドマン！魔女の家族が紡ぐ“愛と絆”「プラクティカル・マジック」続編、11月27日公開＆特報披露",
+      "source": "映画.com",
+      "date": "2026-09-01",
+      "url": "https://eiga.com/news/20260902/3/"
+    },
+    {
+      "title": "フランス発TVアニメ「dreamland」10月17日放送開始　吹き替えキャストに波多野翔、田野アサミ、本渡楓、浪川大輔ら",
+      "source": "映画.com",
+      "date": "2026-09-01",
+      "url": "https://eiga.com/news/20260902/2/"
+    },
     {
       "title": "第39回東京国際映画祭、オープニング、センターピース、クロージング作品決定！",
       "source": "映画.com",
@@ -164,30 +188,6 @@
       "source": "映画.com",
       "date": "2026-08-31",
       "url": "https://eiga.com/news/20260901/2/"
-    },
-    {
-      "title": "安田章大「家では全裸生活です」と会場沸かす　映画「平行と垂直」に込めた“それぞれの普通”への真摯な思い",
-      "source": "映画.com",
-      "date": "2026-08-29",
-      "url": "https://eiga.com/news/20260829/15/"
-    },
-    {
-      "title": "「世界最強の魔女、始めました」元凄腕冒険者役に上村祐翔　主題歌はHoneyWorks feat.ハコニワリリィ、ロクデナシが担当　メインPVも公開",
-      "source": "映画.com",
-      "date": "2026-08-31",
-      "url": "https://eiga.com/news/20260831/21/"
-    },
-    {
-      "title": "「ボラット」のサシャ・バロン・コーエン新作、英国で上映ボイコット運動",
-      "source": "映画.com",
-      "date": "2026-08-31",
-      "url": "https://eiga.com/news/20260831/23/"
-    },
-    {
-      "title": "「暴食のベルセルク」第2期が27年に放送決定　フェイト役・逢坂良太のコメント動画公開",
-      "source": "映画.com",
-      "date": "2026-08-31",
-      "url": "https://eiga.com/news/20260831/19/"
     }
   ],
   "bd_releases": [],
