@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-09-02T21:23:06.064031",
+  "generated_at": "2026-09-02T23:37:57.259581",
   "top_stories": [
     {
-      "title": "Cassandra Wilson, Grammy-Winning Jazz Musician, Dies at 70",
+      "title": "‘The Sun Never Sets’ Review: Dakota Fanning and Jake Johnson Split, Maybe, in Joe Swanberg’s Unsatisfying Romcom",
       "source": "Variety",
       "date": "2026-09-02",
-      "url": "https://variety.com/2026/music/news/cassandra-wilson-dead-grammy-winning-jazz-musician-1236849743/"
+      "url": "https://variety.com/2026/film/reviews/the-sun-never-sets-review-dakota-fanning-1236849830/"
     },
     {
-      "title": "Jenna Dewan Defends ‘DWTS’ Casting Amid Backlash: ‘Step Up’ Star and Ex-Janet Jackson Backup Dancer Says ‘I Do Not Know How to Ballroom Dance’",
+      "title": "Should Hollywood Embrace Religion? Young Audiences Crave Complex Spiritual Characters and Plotlines That Challenge Faith, New Study Shows",
       "source": "Variety",
       "date": "2026-09-02",
-      "url": "https://variety.com/2026/tv/news/jenna-dewan-defends-dwts-casting-backlash-step-up-janet-jackson-1236849708/"
+      "url": "https://variety.com/2026/film/features/hollywood-religion-young-people-spiritual-content-1236849362/"
     },
     {
-      "title": "New ‘Transformers’ Animated Short ‘Optimus Prime: Awakening’ Heads to Theaters – Film News in Brief",
+      "title": "Ryan Reynolds Praises ‘The Odyssey’ After Passing ‘Deadpool & Wolverine’ to Become Biggest R-Rated Movie Ever: ‘Christopher Nolan Literally Breathes The Rarest Air on Earth’",
       "source": "Variety",
       "date": "2026-09-02",
-      "url": "https://variety.com/2026/film/news/film-news-in-brief-aug-31-2026-1236847380/"
+      "url": "https://variety.com/2026/film/news/ryan-reynolds-odyssey-nolan-deadpool-wolverine-mayday-1236849352/"
     }
   ],
   "new_releases": [
+    {
+      "title": "トランプ大統領、映画製作への税優遇を初めて後押し",
+      "source": "映画.com",
+      "date": "2026-09-02",
+      "url": "https://eiga.com/news/20260903/7/"
+    },
+    {
+      "title": "いよいよ日本公開！「オデュッセイア」クリストファー・ノーラン監督＆マット・デイモンインタビュー",
+      "source": "映画.com",
+      "date": "2026-09-02",
+      "url": "https://eiga.com/news/20260903/2/"
+    },
     {
       "title": "毒親、恐喝、殺人…“悪”をコンプリートする魅力的なフローレンス・ピューの姿「エデンの東」本予告＆新場面写真公開",
       "source": "映画.com",
@@ -176,18 +188,6 @@
       "source": "映画.com",
       "date": "2026-09-01",
       "url": "https://eiga.com/news/20260901/19/"
-    },
-    {
-      "title": "ガル・ガドット、「ワンダーウーマン」続投に応じなかった理由を語る",
-      "source": "映画.com",
-      "date": "2026-09-01",
-      "url": "https://eiga.com/news/20260901/18/"
-    },
-    {
-      "title": "是枝裕和×藤本タツキ「ルックバック」釜山国際映画祭ガラ・プレゼンテーション部門に正式出品決定",
-      "source": "映画.com",
-      "date": "2026-09-01",
-      "url": "https://eiga.com/news/20260901/24/"
     }
   ],
   "bd_releases": [],
