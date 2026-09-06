@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-05T22:23:48.462177",
+  "generated_at": "2026-09-06T00:17:58.760489",
   "top_stories": [
+    {
+      "title": "Creative Arts Emmy Awards: Winners List (Updating Live)",
+      "source": "Variety",
+      "date": "2026-09-05",
+      "url": "https://variety.com/2026/artisans/news/creative-arts-emmy-awards-winners-list-night-one-1236849746/"
+    },
     {
       "title": "Liam and Noel Gallagher Raise Fists and Electrify Venice as Oasis Doc Gets 8-Minute Standing Ovation",
       "source": "Variety",
@@ -12,15 +18,21 @@
       "source": "Variety",
       "date": "2026-09-05",
       "url": "https://variety.com/2026/film/awards/penelope-cruz-oscars-la-bola-negra-the-invite-bunker-1236847565/"
-    },
-    {
-      "title": "‘Oasis: Don’t Look Back in Anger’ Review: An Uncharacteristically Polite and Sentimental Portrait of a Raucous Band and Phenomenon",
-      "source": "Variety",
-      "date": "2026-09-05",
-      "url": "https://variety.com/2026/film/reviews/oasis-dont-look-back-in-anger-review-1236852875/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「嫉妬も隠さない」高め合う歌舞伎界の若手花形3人衆、市川染五郎、尾上辰之助、市川團子の絆が熱い！",
+      "source": "映画.com",
+      "date": "2026-09-06",
+      "url": "https://eiga.com/news/20260906/3/"
+    },
+    {
+      "title": "【本日放送】福山雅治が語るラジオへの情熱や名曲「クスノキ」に込めたメッセージ――大泉洋＆綾瀬はるかが明かす貴重な秘話も",
+      "source": "映画.com",
+      "date": "2026-09-05",
+      "url": "https://eiga.com/news/20260906/2/"
+    },
     {
       "title": "広瀬アリス主演「沖晴くんの涙を殺して」名シーン＆登場人物たちの表情豊かな場面写真一挙公開",
       "source": "映画.com",
@@ -170,12 +182,6 @@
       "source": "映画.com",
       "date": "2026-09-04",
       "url": "https://eiga.com/news/20260904/24/"
-    },
-    {
-      "title": "「藁にもすがる獣たち」YouTuber役の鈴鹿央士ら、人気の“5大”YouTubeチャンネルを横断して映画をPR",
-      "source": "映画.com",
-      "date": "2026-09-04",
-      "url": "https://eiga.com/news/20260904/23/"
     }
   ],
   "bd_releases": [],
