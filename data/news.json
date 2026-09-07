@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-09-06T22:28:59.175526",
+  "generated_at": "2026-09-07T00:24:23.625091",
   "top_stories": [
     {
-      "title": "Andy ‘The Butcher’ Williams, Musician and Wrestler, Dies After Match",
+      "title": "Tokyo Film Festival Adds Nippon Cinema Now Competition, Crosscut Asia+ Section, New Award Honoring Women in Film",
       "source": "Variety",
-      "date": "2026-09-06",
-      "url": "https://variety.com/2026/music/news/andy-butcher-williams-dead-guitar-wrestler-1236853498/"
+      "date": "2026-09-07",
+      "url": "https://variety.com/2026/film/festivals/tokyo-film-festival-new-competition-award-honoring-women-1236852405/"
     },
     {
-      "title": "Netflix Bets ‘Ink’ and Its Timely Rupert Murdoch Story Can Win Oscars for Danny Boyle and Guy Pearce",
+      "title": "Hong Sangsoo’s Locarno Winner ‘Nowhere to Lay My Eyes’ Anchors Wave of Sales Deals for Finecut Ahead of Toronto",
       "source": "Variety",
-      "date": "2026-09-06",
-      "url": "https://variety.com/2026/film/awards/danny-boyle-ink-oscars-guy-pearce-telluride-netflix-1236847562/"
+      "date": "2026-09-07",
+      "url": "https://variety.com/2026/film/news/hong-sangsoonowhere-to-lay-my-eyes-finecut-sales-1236853161/"
     },
     {
-      "title": "John Turturro Has Waited 40 Years for an Oscar Nomination. ‘The Only Living Pickpocket in New York’ Makes the Case",
+      "title": "Creative Arts Emmy Awards Night 2: Winners List (Updating Live)",
       "source": "Variety",
       "date": "2026-09-06",
-      "url": "https://variety.com/2026/film/awards/john-turturro-oscars-only-living-pickpocket-telluride-1236847544/"
+      "url": "https://variety.com/2026/tv/news/emmy-awards-winners-list-night-two-creative-arts-1236853165/"
     }
   ],
   "new_releases": [
+    {
+      "title": "東京国際映画祭、3つの新機軸　日本映画部門に2つの賞を新設＆川喜多かしこ映画文化賞の創設など",
+      "source": "映画.com",
+      "date": "2026-09-07",
+      "url": "https://eiga.com/news/20260907/5/"
+    },
+    {
+      "title": "「ガールズ＆パンツァー 最終章 第5話」“宿命の決勝戦”への覚悟と思いを描く最新映像＆キービジュアル公開",
+      "source": "映画.com",
+      "date": "2026-09-06",
+      "url": "https://eiga.com/news/20260907/4/"
+    },
     {
       "title": "「ちいかわ」コミックス最新9巻が11月20日に発売　特装版には豪華ポストカードブック付属",
       "source": "映画.com",
@@ -158,18 +170,6 @@
       "source": "映画.com",
       "date": "2026-09-05",
       "url": "https://eiga.com/news/20260905/11/"
-    },
-    {
-      "title": "【入場特典リスト 9月最新版】「映画ちいかわ」「まど☆マギ」に豪華特典　1週間限定上映「カーズ」も特典あり",
-      "source": "映画.com",
-      "date": "2026-09-05",
-      "url": "https://eiga.com/news/20260905/10/"
-    },
-    {
-      "title": "【第83回ベネチア国際映画祭】塚本晋也監督、戦争加害者視点から描く「ネルソンさん、あなたは人を殺しましたか」に熱狂的な拍手",
-      "source": "映画.com",
-      "date": "2026-09-05",
-      "url": "https://eiga.com/news/20260905/18/"
     }
   ],
   "bd_releases": [],
