@@ -1,26 +1,98 @@
 {
-  "generated_at": "2026-09-09T00:45:45.059752",
+  "generated_at": "2026-09-09T05:25:49.127093",
   "top_stories": [
     {
-      "title": "Netflix Orders New Series Take On ‘Lonesome Dove’ From Zoe Kazan and Jeb Stuart",
+      "title": "‘Runner’ Review: Alan Ritchson and Owen Wilson Lend Some Personality to a Good-Enough Action Thriller",
       "source": "Variety",
       "date": "2026-09-09",
-      "url": "https://variety.com/2026/tv/news/netflix-lonesome-dove-orders-new-series-take-1236855339/"
+      "url": "https://variety.com/2026/film/news/runner-review-alan-ritchson-owen-wilson-1236855275/"
     },
     {
-      "title": "Telluride Takeaways: From Julianne Moore and Paul Giamatti’s ‘Debut’ to Nathan Fielder’s Audacious Dare to the Doc Branch",
+      "title": "Jon Stewart Uses Nathan Fielder’s ‘You Can See Everything’ Trailer to Troll Donald Trump and His ‘Human Printer’ Aide",
       "source": "Variety",
       "date": "2026-09-09",
-      "url": "https://variety.com/2026/film/awards/telluride-takeaways-julianne-moore-nathan-fielder-oscars-1236855247/"
+      "url": "https://variety.com/2026/tv/news/jon-stewart-nathan-fielder-you-can-see-everything-trump-1236855432/"
     },
     {
-      "title": "Congress Begins Drafting 20% Federal Film Incentive With Trump’s Blessing (EXCLUSIVE)",
+      "title": "Louis Messina, Taylor Swift’s Tour Promoter, Urges Judge to Reject Live Nation/Ticketmaster Antitrust Settlement: ‘I Could Go Out of Business Like Other Promoters Who Have Fallen Victim to Live Nation’",
       "source": "Variety",
-      "date": "2026-09-08",
-      "url": "https://variety.com/2026/film/news/congress-draft-federal-film-incentive-trump-1236855119/"
+      "date": "2026-09-09",
+      "url": "https://variety.com/2026/music/news/louis-messina-taylor-swift-promoter-live-nation-ticketmaster-1236855357/"
     }
   ],
   "new_releases": [
+    {
+      "title": "ビル・ゲイツ、いまのAIを「2001年宇宙の旅」のHALにたとえる",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/17/"
+    },
+    {
+      "title": "天井にリアルな穴！現代人を蝕む\"ワンオペ問題\"に切り込むA24「ワンオペレーション」衝撃本編映像",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/10/"
+    },
+    {
+      "title": "前代未聞の“カプセルトイ”ホラー、藤井道人企画の未知なる恐怖が誕生「ガチャ 廻世界」2月公開",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/9/"
+    },
+    {
+      "title": "「ゼルダの伝説」実写映画のタイトル決定！　ロゴを披露",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/16/"
+    },
+    {
+      "title": "道枝駿佑が切ない表情を浮かべ、安斉星来が涙を流す――「うるわしの宵の月」新場面写真公開",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/6/"
+    },
+    {
+      "title": "「八つ墓村」といつも一緒――“コワ可愛い”アパレルグッズ発売決定、劇場限定の祟りTシャツも",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/5/"
+    },
+    {
+      "title": "次の「007」はすでに決まっている　ゲイリー・オールドマンが明かす",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/14/"
+    },
+    {
+      "title": "吉岡里帆×奈緒「シャドウワーク」　DV男役に扮したtimelesz・原嘉孝の不気味な眼差しを捉えた新場面写真",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/2/"
+    },
+    {
+      "title": "相米慎二監督「魚影の群れ」「東京上空いらっしゃいませ」「あ、春」4Kリマスター版11月27日公開",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/11/"
+    },
+    {
+      "title": "M・ナイト・シャマラン×ニコラス・スパークスが異色コラボ「リメイン」2027年2月公開決定！主演はジェイク・ギレンホール",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/15/"
+    },
+    {
+      "title": "銃を握る前は、鉛筆を握っていた――「シェルター」主人公の知られざる“芸術院志望”の新場面写真",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/3/"
+    },
+    {
+      "title": "すべてはここから始まった──土屋太鳳×佐久間大介「マッチング TRUE LOVE」公開直前！ダイジェスト映像で前作を振り返ろう",
+      "source": "映画.com",
+      "date": "2026-09-09",
+      "url": "https://eiga.com/news/20260909/4/"
+    },
     {
       "title": "スーザン・サランドン、パレスチナ支持でいまもハリウッドで干されていると明かす",
       "source": "映画.com",
@@ -116,78 +188,6 @@
       "source": "映画.com",
       "date": "2026-09-08",
       "url": "https://eiga.com/news/20260908/14/"
-    },
-    {
-      "title": "アマゾンの神秘、先住民の暮らしを手描きアニメーションと融合させたドキュメント「アマゾン、精霊が宿る川」11月14日公開",
-      "source": "映画.com",
-      "date": "2026-09-08",
-      "url": "https://eiga.com/news/20260908/12/"
-    },
-    {
-      "title": "チョコプラ長田＆松尾、「バイオハザード」フッテージ映像に衝撃！リアルゾンビの来襲にも大声で絶叫！「もうあまり大きな声を出させないで！　夜単独ライブがあるんだから」",
-      "source": "映画.com",
-      "date": "2026-09-08",
-      "url": "https://eiga.com/news/20260908/19/"
-    },
-    {
-      "title": "「菌と鉄」主人公が強大な敵に立ち向かう――新ティザービジュアル公開　監督は元永慶太郎",
-      "source": "映画.com",
-      "date": "2026-09-08",
-      "url": "https://eiga.com/news/20260908/11/"
-    },
-    {
-      "title": "「特攻野郎Aチーム」コング役のミスター・T、自身のドキュメンタリーを酷評",
-      "source": "映画.com",
-      "date": "2026-09-08",
-      "url": "https://eiga.com/news/20260908/9/"
-    },
-    {
-      "title": "【映画.com配信アクセスランキング】第1位は「8番出口」、「機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女」「スワロウテイル」などがランクイン　今すぐ観られるベスト10を発表",
-      "source": "映画.com",
-      "date": "2026-09-08",
-      "url": "https://eiga.com/news/20260908/8/"
-    },
-    {
-      "title": "「ちいかわ」が返り咲きV！　新作は2位「白鳥とコウモリ」、4位「バックルームズ」、9位「SEKIRO」【国内映画ランキング】",
-      "source": "映画.com",
-      "date": "2026-09-08",
-      "url": "https://eiga.com/news/20260908/7/"
-    },
-    {
-      "title": "坂口健太郎、中野量太監督の“逆サプライズ”に感無量「この手紙、家で額縁に入れて飾ります！」",
-      "source": "映画.com",
-      "date": "2026-09-08",
-      "url": "https://eiga.com/news/20260908/6/"
-    },
-    {
-      "title": "部屋にママと同じ顔の“何か”がいる──ジェシカ・チャステインの怪演が度肝を抜く日常侵蝕ホラー「アザー・マミー」11月20日公開決定",
-      "source": "映画.com",
-      "date": "2026-09-07",
-      "url": "https://eiga.com/news/20260908/5/"
-    },
-    {
-      "title": "松村北斗＆今田美桜「白鳥とコウモリ」台湾上映登場でファン3000人が熱狂！",
-      "source": "映画.com",
-      "date": "2026-09-07",
-      "url": "https://eiga.com/news/20260908/4/"
-    },
-    {
-      "title": "唐田えりかが韓国人役、知英が日本人役でダブル主演　映画「過怠」27年2月5日公開決定！　ビジュアル＆特報を披露",
-      "source": "映画.com",
-      "date": "2026-09-07",
-      "url": "https://eiga.com/news/20260908/3/"
-    },
-    {
-      "title": "ニコラス・ケイジ主演「スパイダー・ノワール」シーズン1で終了",
-      "source": "映画.com",
-      "date": "2026-09-07",
-      "url": "https://eiga.com/news/20260908/2/"
-    },
-    {
-      "title": "Aぇ! Group・佐野晶哉×山時聡真が漫才の頂点を目指す“凸凹コンビ”を熱演！第37回フジテレビヤングシナリオ大賞の青春物語「もうええわ」10月3日放送",
-      "source": "映画.com",
-      "date": "2026-09-07",
-      "url": "https://eiga.com/news/20260908/1/"
     }
   ],
   "bd_releases": [],
