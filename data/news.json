@@ -1,26 +1,38 @@
 {
-  "generated_at": "2026-09-10T23:28:24.185865",
+  "generated_at": "2026-09-11T01:39:01.169620",
   "top_stories": [
+    {
+      "title": "‘Burgundy’ Review: An Attractive, Light-Bodied Wine Doc With a Good Nose but No Legs",
+      "source": "Variety",
+      "date": "2026-09-11",
+      "url": "https://variety.com/2026/film/reviews/burgundy-review-1236847240/"
+    },
+    {
+      "title": "‘Stuffed’ Review: Jodie Comer and Harry Melling Sing the Body Eccentric in an Odd, and Oddly Touching, Taxidermy Musical",
+      "source": "Variety",
+      "date": "2026-09-11",
+      "url": "https://variety.com/2026/film/reviews/stuffed-review-jodie-comer-harry-melling-1236857095/"
+    },
     {
       "title": "Dan Schneider Loses ‘Quiet on Set’ Defamation Suit on Appeal",
       "source": "Variety",
       "date": "2026-09-10",
       "url": "https://variety.com/2026/tv/news/dan-schneider-quiet-on-set-defamation-dismissed-appeal-1236858005/"
-    },
-    {
-      "title": "Netflix Taps ‘Friday Night Lights’ Director Peter Berg for NFL Gameday Openers, the First Narrated by Kyle Chandler",
-      "source": "Variety",
-      "date": "2026-09-10",
-      "url": "https://variety.com/2026/tv/news/netflix-peter-berg-kyle-chandler-friday-night-lights-nfl-gameday-1236858004/"
-    },
-    {
-      "title": "Steve Carell Almost Played ‘The Office’ Creator Greg Daniels’ Dad in Biopic About the 1968 Olympics",
-      "source": "Variety",
-      "date": "2026-09-10",
-      "url": "https://variety.com/2026/film/columns/steve-carell-the-office-creator-greg-daniels-dad-biopic-olympics-1236857975/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「パンダコパンダ」公開55周年記念プロジェクト始動　書店ポップアップ、ローソンとのコラボなど",
+      "source": "映画.com",
+      "date": "2026-09-11",
+      "url": "https://eiga.com/news/20260911/6/"
+    },
+    {
+      "title": "第39回東京国際映画祭ポスター公開！　チケット料金改定、学生料金は値下げ",
+      "source": "映画.com",
+      "date": "2026-09-11",
+      "url": "https://eiga.com/news/20260911/5/"
+    },
     {
       "title": "堂本光一「Endless SHOCK」ラストイヤーの舞台裏に完全密着したドキュメンタリー、ディズニープラスで独占配信！",
       "source": "映画.com",
@@ -182,18 +194,6 @@
       "source": "映画.com",
       "date": "2026-09-10",
       "url": "https://eiga.com/news/20260910/14/"
-    },
-    {
-      "title": "米宇宙軍の新制服、「スターシップ・トゥルーパーズ」から着想　大統領が公開",
-      "source": "映画.com",
-      "date": "2026-09-10",
-      "url": "https://eiga.com/news/20260910/12/"
-    },
-    {
-      "title": "近くて遠い2人の恋が動き出す――黒川想矢×キム・ジアン「3ミリの恋」予告＆ポスター、共演者発表　主題歌はLeina",
-      "source": "映画.com",
-      "date": "2026-09-09",
-      "url": "https://eiga.com/news/20260910/3/"
     }
   ],
   "bd_releases": [],
