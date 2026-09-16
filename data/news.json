@@ -1,26 +1,92 @@
 {
-  "generated_at": "2026-09-16T06:54:25.240939",
+  "generated_at": "2026-09-16T12:15:26.693016",
   "top_stories": [
     {
-      "title": "Busan Names Jury Members for Mecenat, Sonje, Netpac, Fipresci Awards",
+      "title": "‘Bad Lieutenant: Tokyo’ Review: Takashi Miike’s Loose Remake is a Complete Nonstarter",
       "source": "Variety",
       "date": "2026-09-16",
-      "url": "https://variety.com/2026/film/festivals/busan-jury-members-mecenat-sonje-netpac-fipresci-awards-1236863934/"
+      "url": "https://variety.com/2026/film/news/bad-lieutenant-tokyo-review-1236863418/"
     },
     {
-      "title": "Oscars: Indonesia Selects Kamila Andini’s ‘Four Seasons in Java’ for International Feature Race (EXCLUSIVE)",
+      "title": "Markus Lehmusruusu’s Finnish Oscar Entry ‘The Squirrel’ Earns Aki Kaurismäki’s Stamp of Approval: ‘He Said It’s Like ‘2001: A Space Odyssey,’ but Better Because It’s Full of Humanism’",
       "source": "Variety",
       "date": "2026-09-16",
-      "url": "https://variety.com/2026/film/awards/oscars-indonesia-four-seasons-in-java-1236863932/"
+      "url": "https://variety.com/2026/film/global/markus-lehmusruusu-oscar-submission-squirrel-kaurismaki-1236863403/"
     },
     {
-      "title": "Does Stephen Colbert Miss Late Night TV?: ‘Nope!’",
+      "title": "Adam Fan Releases Debut English-Language Album ‘Skyfall’",
       "source": "Variety",
       "date": "2026-09-16",
-      "url": "https://variety.com/2026/tv/news/stephen-colbert-jimmy-kimmel-late-night-1236863664/"
+      "url": "https://variety.com/2026/music/news/adam-fan-debut-english-album-skyfall-1236863972/"
     }
   ],
   "new_releases": [
+    {
+      "title": "田辺桃子×仲村トオル主演作「きみの音が見えたとき」で伊藤淳史、森永悠希、まるぴ、遊井亮子、白石美帆、相築あきこ共演",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/24/"
+    },
+    {
+      "title": "【第78回エミー賞】「一流シェフのファミリーレストラン」シーズン4をはじめ、ディズニープラスで配信中の作品が計13部門を受賞",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/23/"
+    },
+    {
+      "title": "鈴鹿央士＆青木マッチョ、東郷神社で「藁にもすがる獣たち」大ヒット祈願！　自身のパワースポットも明かす",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/28/"
+    },
+    {
+      "title": "ダニー・ボイル監督、最新作でのAI使用シーンは「約30秒」と明かす",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/22/"
+    },
+    {
+      "title": "「ザ・ファブル」第2期は27年1月から放送開始　策略と陰謀うごめくティザーPV公開",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/21/"
+    },
+    {
+      "title": "【公開20周年記念】「サイレントヒル」レストア版、9月24日から国内初上映",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/20/"
+    },
+    {
+      "title": "「ベルヴィル・ランデブー」「イリュージョニスト」シルバン・ショメ最新作「マルセル＆ムッシュ・パニョル」場面カット一挙公開！",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/25/"
+    },
+    {
+      "title": "三池崇史監督「バッド・ルーテナント：トウキョウ」トロント国際映画祭でお披露目！　小栗旬らキャストとダークな“三池ワールド”にファン大歓声",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/19/"
+    },
+    {
+      "title": "衝撃の本編映像解禁！「ディスクロージャー・デイ」ムビチケ購入者限定「特別音声コンテンツ」内容も明らかに",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/16/"
+    },
+    {
+      "title": "不良青年を“いい子”に更生しようとする不気味な家族描く「HEEL ヒール」11月27日公開",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/17/"
+    },
+    {
+      "title": "ロバート・デ・ニーロ、ドジャース黄金期の名将ラソーダ監督役で交渉中",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260916/15/"
+    },
     {
       "title": "エミー賞、「ザ・ピット」が作品賞連覇　ノア・ワイリーも2年連続主演賞",
       "source": "映画.com",
@@ -128,72 +194,6 @@
       "source": "映画.com",
       "date": "2026-09-15",
       "url": "https://eiga.com/news/20260915/16/"
-    },
-    {
-      "title": "横溝正史二女・野本瑠美さん“父”に代わって清水崇版「八つ墓村」に熱い称賛を贈る「『君、よくやったね』と言っていると思います」",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/15/"
-    },
-    {
-      "title": "韓国のカルトSF「地球を守れ！」4K版10月30日公開　ヨルゴス・ランティモス「ブゴニア」へと受け継がれた異色作",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/14/"
-    },
-    {
-      "title": "鈴鹿央士が叶姉妹にガチで人生相談!?　「藁にもすがる獣たち」YouTube横断企画のシークレットゲスト発表",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/12/"
-    },
-    {
-      "title": "IMAX&プレミアムラージフォーマット上映決定！「バイオハザード」限定ビジュアル4種⼀挙解禁",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/18/"
-    },
-    {
-      "title": "燃え上がる村、「何人殺した？」の問い…「ネルソンさん、あなたは人を殺しましたか？」本編映像",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/11/"
-    },
-    {
-      "title": "「オデュッセイア」大阪イベント　嘉門タツオが「ちいかわ」との共通点語り、かつみ♥さゆりが夫婦愛かみしめる",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/17/"
-    },
-    {
-      "title": "奇妙な探偵・金田一耕助が連続殺人事件を捜査！“磯川警部”小籔千豊の演技にも注目「八つ墓村」本編映像公開",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/13/"
-    },
-    {
-      "title": "山﨑賢人主演の時代劇「腹をくくって」は27年11月19日公開！ 木村大作監督を追った月刊”木村大作チャンネル”が東映公式Youtubeで始動",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/10/"
-    },
-    {
-      "title": "心身追い詰められて…“母親の内側”の狂気をスリリングに描くA24話題作「ワンオペレーション」監督インタビュー",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/9/"
-    },
-    {
-      "title": "「オデュッセイア」観た人の感想は？　ユーザーレビューまとめ「100点を期待したら1億点」「マット・ディモンとアン・ハサウェイはキャリア最高の演技」",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/8/"
-    },
-    {
-      "title": "チョ・ジョンソク主演のハートフル“ゾンビ”映画「世界で最後の愛しい娘！」のキャラクターポスター公開",
-      "source": "映画.com",
-      "date": "2026-09-15",
-      "url": "https://eiga.com/news/20260915/7/"
     }
   ],
   "bd_releases": [],
