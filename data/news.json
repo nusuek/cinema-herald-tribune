@@ -1,37 +1,67 @@
 {
-  "generated_at": "2026-09-22T12:09:24.306128",
+  "generated_at": "2026-09-22T17:23:01.708864",
   "top_stories": [
     {
-      "title": "‘Gangs of London’ Producers Claim They’re Owed $20 Million From Vice Over Pulse Films Sale",
+      "title": "‘Dune’ Production Designer Patrice Vermette to Be Honored With Variety’s Creative Impact Award at SCAD Savannah Film Festival",
       "source": "Variety",
       "date": "2026-09-22",
-      "url": "https://variety.com/2026/tv/global/gangs-of-london-producers-pulse-films-20-million-1236871902/"
+      "url": "https://variety.com/2026/artisans/news/dune-production-designer-variety-creative-impact-award-scad-1236866961/"
     },
     {
-      "title": "‘Resident Evil’ Reboots at No. 1 as ‘Shaun the Sheep’ Bounds to No. 3 at U.K., Ireland Box Office",
+      "title": "Queer Horror Explored in ECAM Incubator Title ‘The Unmoving Hands’",
       "source": "Variety",
       "date": "2026-09-22",
-      "url": "https://variety.com/2026/film/box-office/resident-evil-shaun-the-sheep-uk-ireland-box-office-1236871905/"
+      "url": "https://variety.com/2026/film/global/queer-horror-madrid-film-school-incubator-unmoving-hands-1236859590/"
     },
     {
-      "title": "Business Culture Podcaster Sammi Cohen Is Launching Social Commerce Network (SCN), a Livestreamed News Show Inspired by TBPN and Aimed at Being a Next-Gen CNBC",
+      "title": "El Sol Ermitaño Launches at San Sebastián Festival With WIP Title ‘Lovers Go Home’ (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-09-22",
-      "url": "https://variety.com/2026/digital/news/sammi-cohen-social-commerce-network-scn-live-business-show-1236867067/"
+      "url": "https://variety.com/2026/film/global/el-sol-ermitano-launches-san-sebastian-lovers-go-home-1236867189/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【公開10周年】京アニ制作「映画　聲の形」10月30日から再上映　初のドルビーシネマ上映も決定",
+      "source": "映画.com",
+      "date": "2026-09-20",
+      "url": "https://eiga.com/news/20260920/16/"
+    },
+    {
+      "title": "大友克洋×江口寿史×北久保弘之「老人Z」4Kリマスター版が12月18日から東京、大阪で1週間限定上映　27年春には全国公開も",
+      "source": "映画.com",
+      "date": "2026-09-20",
+      "url": "https://eiga.com/news/20260920/17/"
+    },
+    {
+      "title": "「明日のナージャ」9月23日から順次無料配信開始　「ふたりはプリキュア」前年放送のニチアサアニメ",
+      "source": "映画.com",
+      "date": "2026-09-22",
+      "url": "https://eiga.com/news/20260922/15/"
+    },
+    {
+      "title": "憎くて愛しい母への思いが、光に向かう――「しびれ」北村匠海×宮沢りえ×内山拓也監督インタビュー",
+      "source": "映画.com",
+      "date": "2026-09-21",
+      "url": "https://eiga.com/news/20260921/4/"
+    },
+    {
+      "title": "「あなたが母親の手料理を食べられる回数は、あとどれくらい残ってますか？」本予告＆本ビジュアル＆新規場面写真一挙公開",
+      "source": "映画.com",
+      "date": "2026-09-16",
+      "url": "https://eiga.com/news/20260917/6/"
+    },
+    {
+      "title": "「ルックバック」原作者・藤本タツキも絶賛　ダークホースのオリジナル劇場アニメ「我々は宇宙人」",
+      "source": "映画.com",
+      "date": "2026-09-22",
+      "url": "https://eiga.com/news/20260922/12/"
+    },
     {
       "title": "パラマウントと州司法長官連合、和解交渉が大詰めに",
       "source": "映画.com",
       "date": "2026-09-22",
       "url": "https://eiga.com/news/20260922/13/"
-    },
-    {
-      "title": "「ルックバック」原作者・藤本タツキも絶賛　ダークフォースのオリジナル劇場アニメ「我々は宇宙人」",
-      "source": "映画.com",
-      "date": "2026-09-22",
-      "url": "https://eiga.com/news/20260922/12/"
     },
     {
       "title": "土屋太鳳×佐久間大介「マッチング TRUE LOVE」　愛の真偽を暴く【真実の審判】の本編映像を披露",
@@ -164,36 +194,6 @@
       "source": "映画.com",
       "date": "2026-09-21",
       "url": "https://eiga.com/news/20260921/5/"
-    },
-    {
-      "title": "憎くて愛しい母への思いが、光に向かう――「しびれ」北村匠海×宮沢りえ×内山拓也監督インタビュー",
-      "source": "映画.com",
-      "date": "2026-09-21",
-      "url": "https://eiga.com/news/20260921/4/"
-    },
-    {
-      "title": "吉野北人×鈴木愛理「昨夜は殺れたかも」　鼻血に絶叫、どんな表情でもNGなしで熱演した鈴木を監督も絶賛",
-      "source": "映画.com",
-      "date": "2026-09-21",
-      "url": "https://eiga.com/news/20260921/3/"
-    },
-    {
-      "title": "実写「ルックバック」劇中ロトスコープアニメーションスチールを初披露！　藤本タツキ×ロトスコープアニメーション監督・久野遥子の貴重なスペシャル対談も公開",
-      "source": "映画.com",
-      "date": "2026-09-20",
-      "url": "https://eiga.com/news/20260921/2/"
-    },
-    {
-      "title": "新・月9「救命病棟24時」沢村一樹が院長、八嶋智人がセンター長として27年ぶりにシリーズに復帰",
-      "source": "映画.com",
-      "date": "2026-09-20",
-      "url": "https://eiga.com/news/20260921/1/"
-    },
-    {
-      "title": "大友克洋×江口寿史×北久保弘之「老人Z」4Kリマスター版が12月18日から東京、大阪で1週間限定上映　27年春には全国公開も",
-      "source": "映画.com",
-      "date": "2026-09-20",
-      "url": "https://eiga.com/news/20260920/17/"
     }
   ],
   "bd_releases": [],
