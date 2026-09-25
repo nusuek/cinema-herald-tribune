@@ -1,26 +1,80 @@
 {
-  "generated_at": "2026-09-25T00:57:08.573716",
+  "generated_at": "2026-09-25T05:39:22.184327",
   "top_stories": [
     {
-      "title": "VMAs Producer Van Toffler on Madonna’s Return, the Taylor Takeover and Why He Brought the Show West Again: ‘L.A. and Snoop Is a Lethal Combo’",
+      "title": "Paramount’s David Ellison Attends Trump White House State Dinner for Chinese President; CNN and MS NOW Reporters Barred From Event",
       "source": "Variety",
       "date": "2026-09-25",
-      "url": "https://variety.com/2026/music/news/vmas-preview-producer-van-toffler-snoop-madonna-swift-2-1236875249/"
+      "url": "https://variety.com/2026/film/news/david-ellison-trump-white-house-state-dinner-chinese-president-cnn-1236875329/"
     },
     {
-      "title": "12 Takeaways From Ousted Disney CEO Bob Chapek’s New Book",
+      "title": "Hannah Einbinder Speaks Out After Being Arrested at Netanyahu Protest: ‘Let Us Not Mistake the Spectacle for the Story’",
       "source": "Variety",
       "date": "2026-09-25",
-      "url": "https://variety.com/2026/film/news/takeaways-bob-chapek-book-ousted-disney-ceo-1236875084/"
+      "url": "https://variety.com/2026/politics/news/hannah-einbinder-speaks-out-arrested-netanyahu-protest-1236875306/"
     },
     {
-      "title": "Dakota Johnson on Being in Taylor Swift’s ‘Patient Zero’ Music Video: ‘We Respect Each Other’s Creative Minds’",
+      "title": "Aamir Khan to Receive Screen Icon Award as Singapore Film Festival Opens With Hur Jin-ho’s ‘The Assassin(s)’",
       "source": "Variety",
-      "date": "2026-09-24",
-      "url": "https://variety.com/2026/film/news/dakota-johnson-taylor-swift-music-video-1236875221/"
+      "date": "2026-09-25",
+      "url": "https://variety.com/2026/film/festivals/aamir-khan-singapore-film-festival-hur-jin-ho-the-assassins-1236873907/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ワンダーウーマン」監督、ワーナー買収のニュースは「見ていない」",
+      "source": "映画.com",
+      "date": "2026-09-25",
+      "url": "https://eiga.com/news/20260925/13/"
+    },
+    {
+      "title": "「HEROES」のヘイデン・パネッティーアさん、死因は薬物の過剰摂取",
+      "source": "映画.com",
+      "date": "2026-09-25",
+      "url": "https://eiga.com/news/20260925/12/"
+    },
+    {
+      "title": "トム・クルーズ、ロンドンワールドプレミアに登場！「DIGGER ディガー」英王室ウィリアム皇太子＆キャサリン妃も出席",
+      "source": "映画.com",
+      "date": "2026-09-25",
+      "url": "https://eiga.com/news/20260925/11/"
+    },
+    {
+      "title": "ルイス・クーの真骨頂「風暴」シリーズ全5作品が「風暴全史」として一挙上映！ ポスターと場面写真解禁",
+      "source": "映画.com",
+      "date": "2026-09-25",
+      "url": "https://eiga.com/news/20260925/7/"
+    },
+    {
+      "title": "三池崇史最新作「バッド・ルーテナント：トウキョウ」ラップバージョンの新予告【トウキョウ・バキューン★トレーラー】公開！",
+      "source": "映画.com",
+      "date": "2026-09-25",
+      "url": "https://eiga.com/news/20260925/9/"
+    },
+    {
+      "title": "「時給三〇〇円の死神」西畑大吾、福本莉子、渋谷凪咲の和やかな撮影裏を捉えたメイキング写真公開！",
+      "source": "映画.com",
+      "date": "2026-09-25",
+      "url": "https://eiga.com/news/20260925/8/"
+    },
+    {
+      "title": "マハーシャラ・アリ、頓挫した「ブレイド」を語る",
+      "source": "映画.com",
+      "date": "2026-09-25",
+      "url": "https://eiga.com/news/20260925/6/"
+    },
+    {
+      "title": "トロント国際映画祭の観客賞はカンヌ監督賞のスペイン映画に",
+      "source": "映画.com",
+      "date": "2026-09-24",
+      "url": "https://eiga.com/news/20260924/16/"
+    },
+    {
+      "title": "ジェレミー・レナー主演「ボーン・レガシー」午後のロードショーで本日放送！あらすじ＆キャストまとめ",
+      "source": "映画.com",
+      "date": "2026-09-25",
+      "url": "https://eiga.com/news/20260925/5/"
+    },
     {
       "title": "“世界一危険なサンタ”が、再びクリスマスイブの夜に大暴れ！「バイオレント・ナイト2」12月4日日米同時公開決定",
       "source": "映画.com",
@@ -56,12 +110,6 @@
       "source": "映画.com",
       "date": "2026-09-24",
       "url": "https://eiga.com/news/20260924/15/"
-    },
-    {
-      "title": "トロント国際映画祭の観客賞はカンヌ監督賞のスペイン映画に",
-      "source": "映画.com",
-      "date": "2026-09-24",
-      "url": "https://eiga.com/news/20260924/16/"
     },
     {
       "title": "「アベンジャーズ　エンドゲーム：アンコール」公開記念イベントに米倉涼子、内田有紀、加藤浩次、遠藤憲一ら日本版声優陣が登場「ドゥームズデイ」への出演オファーは「誰も聞いてない！」と告白",
@@ -146,60 +194,6 @@
       "source": "映画.com",
       "date": "2026-09-24",
       "url": "https://eiga.com/news/20260924/11/"
-    },
-    {
-      "title": "「デアデビル　ボーン・アゲイン」シーズン3で完結へ",
-      "source": "映画.com",
-      "date": "2026-09-24",
-      "url": "https://eiga.com/news/20260924/8/"
-    },
-    {
-      "title": "山﨑賢人×松下洸平W主演「殺人の門」主題歌はザ・ローリング・ストーンズ！コメント発表",
-      "source": "映画.com",
-      "date": "2026-09-24",
-      "url": "https://eiga.com/news/20260924/6/"
-    },
-    {
-      "title": "“現代版”大胆アレンジに注目集まる「八つ墓村」　70年代風映画ポスターをイメージしたレトロビジュアル公開",
-      "source": "映画.com",
-      "date": "2026-09-24",
-      "url": "https://eiga.com/news/20260924/7/"
-    },
-    {
-      "title": "“2000年問題”が現実に!?人類を滅亡の危機へと追い込むバグ発生　A24×ジョナ・ヒルの青春パニックホラー「Y2K」",
-      "source": "映画.com",
-      "date": "2026-09-24",
-      "url": "https://eiga.com/news/20260924/5/"
-    },
-    {
-      "title": "錦戸亮、石橋静河主演「ブラッサム」で23年ぶりの朝ドラ出演　日本の洋画家・東郷青児がモデルの役を演じる",
-      "source": "映画.com",
-      "date": "2026-09-24",
-      "url": "https://eiga.com/news/20260924/17/"
-    },
-    {
-      "title": "ジェラルド・バトラー主演のクライムアクション「ザ・アウトロー」午後ローで本日放送！ あらすじ＆キャストまとめ",
-      "source": "映画.com",
-      "date": "2026-09-24",
-      "url": "https://eiga.com/news/20260924/4/"
-    },
-    {
-      "title": "ゴジラが、墜ちる――「ゴジラ-0.0」衝撃のIMAX版ポスター公開　IMAX劇場31館にて“最速上映”も決定",
-      "source": "映画.com",
-      "date": "2026-09-24",
-      "url": "https://eiga.com/news/20260924/14/"
-    },
-    {
-      "title": "第39回東京国際映画祭コンペ部門審査委員長は「悪い子バビー」などのロルフ・デ・ヒーア監督に決定！",
-      "source": "映画.com",
-      "date": "2026-09-24",
-      "url": "https://eiga.com/news/20260924/3/"
-    },
-    {
-      "title": "シャーリーズ・セロン、「オデュッセイア」大ヒットで映画の将来に手応え",
-      "source": "映画.com",
-      "date": "2026-09-23",
-      "url": "https://eiga.com/news/20260924/2/"
     }
   ],
   "bd_releases": [],
