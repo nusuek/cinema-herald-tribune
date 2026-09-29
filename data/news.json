@@ -1,26 +1,92 @@
 {
-  "generated_at": "2026-09-29T00:39:32.368186",
+  "generated_at": "2026-09-29T06:18:55.300303",
   "top_stories": [
     {
-      "title": "Rob Lowe Says ‘St. Elmo’s Fire’ Sequel Is Still ‘In the Works,’ Confirms There’s a Script: ‘All of Us Actors Want to Do It’",
+      "title": "Madrid Audiovisual Cluster Dives Deeper into New Business Models, AI and Emerging Technologies at Iberseries & Platino Industria",
       "source": "Variety",
-      "date": "2026-09-28",
-      "url": "https://variety.com/2026/film/news/rob-lowe-st-elmos-fire-sequel-in-the-works-1236877779/"
+      "date": "2026-09-29",
+      "url": "https://variety.com/2026/film/global/ai-new-tech-biz-models-madrid-audiovisual-cluster-1236877481/"
     },
     {
-      "title": "Former ‘South Park’ Writer Launches Site to Expose Information About Cornell University Sexual Assault Case: ‘There Will Be Accountability’",
+      "title": "Mayor Zohran Mamdani Refuses Jimmy Kimmel’s Request to Text Trump a Selfie of Them",
       "source": "Variety",
-      "date": "2026-09-28",
-      "url": "https://variety.com/2026/tv/news/south-park-writer-cornell-university-sexual-assault-case-1236877772/"
+      "date": "2026-09-29",
+      "url": "https://variety.com/2026/tv/news/zohran-mamdani-jimmy-kimmel-live-donald-trump-selfie-text-1236877861/"
     },
     {
-      "title": "John Le Carré’s Cold War Spymaster George Smiley Returns in First Look at Matthew Macfadyen in ‘Legacy of Spies’",
+      "title": "Jon Stewart Takes Aim at Trump’s Meeting With Chinese President: ‘How Does America Even Stay on the Map?’",
       "source": "Variety",
-      "date": "2026-09-28",
-      "url": "https://variety.com/2026/tv/global/legacy-of-spies-first-look-matthew-macfadyen-george-smiley-1236877483/"
+      "date": "2026-09-29",
+      "url": "https://variety.com/2026/tv/news/jon-stewart-donald-trump-xi-jinping-1236877851/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「魔入りました！入間くん」シリーズ初の劇場版プロジェクトが始動　シリーズの歩みを振り返る特別映像が公開",
+      "source": "映画.com",
+      "date": "2026-09-29",
+      "url": "https://eiga.com/news/20260929/17/"
+    },
+    {
+      "title": "赤楚衛二＆中川大志、刑事役で主演！　人気小説「沖縄コンフィデンシャル」映画化",
+      "source": "映画.com",
+      "date": "2026-09-28",
+      "url": "https://eiga.com/news/20260929/5/"
+    },
+    {
+      "title": "「スター・ウォーズ」スカイウォーカー・サーガ新作にジョン・ワッツ監督",
+      "source": "映画.com",
+      "date": "2026-09-29",
+      "url": "https://eiga.com/news/20260929/15/"
+    },
+    {
+      "title": "目黒蓮主演「SAKAMOTO DAYS」10月30日からPrime Videoで見放題、世界独占配信　興行収入28.1億円の大ヒットアクション",
+      "source": "映画.com",
+      "date": "2026-09-29",
+      "url": "https://eiga.com/news/20260929/23/"
+    },
+    {
+      "title": "S・S・ラージャマウリ監督の長編デビュー作、 NTR Jr.主演「スチューデント No.1」Prime Videoサブスク「JAIHO」で10月9日から配信開始！",
+      "source": "映画.com",
+      "date": "2026-09-29",
+      "url": "https://eiga.com/news/20260929/12/"
+    },
+    {
+      "title": "崔洋一監督の傑作「月はどっちに出ている」デジタルリマスター版11月27日公開決定　岸谷五朗、ルビー・モレノ共演作が鮮やかに甦る【予告映像あり】",
+      "source": "映画.com",
+      "date": "2026-09-29",
+      "url": "https://eiga.com/news/20260929/13/"
+    },
+    {
+      "title": "「現実で見られないようなものを見た方がいいですね」と寺山修司が語る「日本前衛派の開拓者」予告編",
+      "source": "映画.com",
+      "date": "2026-09-29",
+      "url": "https://eiga.com/news/20260929/9/"
+    },
+    {
+      "title": "土屋太鳳×佐久間大介「マッチング TRUE LOVE」　デスゲームに巻き込まれる主人公たちの姿を捉えた場面写真を披露＆今夜前作が地上波初放送！",
+      "source": "映画.com",
+      "date": "2026-09-29",
+      "url": "https://eiga.com/news/20260929/10/"
+    },
+    {
+      "title": "フランス料理界“最もホットな男”が日本の食文化と出合う「FOOD SAMURAI」9月30日からディズニープラスで配信",
+      "source": "映画.com",
+      "date": "2026-09-29",
+      "url": "https://eiga.com/news/20260929/11/"
+    },
+    {
+      "title": "アニメ「美味しんぼ」の完全続編「新 美味しんぼ」27年に放送　山岡士郎役に阿座上洋平、栗田ゆう子役に咲々木瞳　海原雄山役に大塚明夫",
+      "source": "映画.com",
+      "date": "2026-09-24",
+      "url": "https://eiga.com/news/20260924/37/"
+    },
+    {
+      "title": "【映画.com配信アクセスランキング】第1位は「チェンソーマン　レゼ篇」、「グリーンマイル」「踊る」「免許返納!?」などがランクイン　今すぐ観られるベスト10を発表",
+      "source": "映画.com",
+      "date": "2026-09-29",
+      "url": "https://eiga.com/news/20260929/8/"
+    },
     {
       "title": "第39回東京国際映画祭、黒澤明賞は呉美保＆モハマド・ラスロフ！　エシカル・フィルム賞審査委員長には磯村勇斗が就任",
       "source": "映画.com",
@@ -44,12 +110,6 @@
       "source": "映画.com",
       "date": "2026-09-28",
       "url": "https://eiga.com/news/20260929/2/"
-    },
-    {
-      "title": "赤楚衛二＆中川大志、刑事役で主演！　人気小説「沖縄コンフィデンシャル」映画化",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260929/5/"
     },
     {
       "title": "福地桃子＆河瀨直美主演「恒星の向こう側」キャラクタービジュアル6種公開！",
@@ -122,72 +182,6 @@
       "source": "映画.com",
       "date": "2026-09-28",
       "url": "https://eiga.com/news/20260928/15/"
-    },
-    {
-      "title": "「SEKIRO: NO DEFEAT」全8話のTVシリーズが27年1月放送開始　劇場版に新規エピソード＆新作カット多数追加",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/14/"
-    },
-    {
-      "title": "俳優デビュー20周年の北村匠海、「しびれ」は「自分にとっての集大成。これが僕の20年の答え」",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/22/"
-    },
-    {
-      "title": "伝説的シンガーソングライター、ジュディ・シルのドキュメント10月23日公開　坂本美雨、草野マサムネらがコメント",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/13/"
-    },
-    {
-      "title": "「映画ちいかわ　人魚の島のひみつ」入場特典第6弾は初のコンビでのチャームミニフィギュア！ちいかわ＆ハチワレ、うさぎ＆モモンガの名シーンを採用",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/19/"
-    },
-    {
-      "title": "わずかに生き残った人類がサバイバルに挑む映画15選",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/12/"
-    },
-    {
-      "title": "「ゴジラ－0.0」NY映画祭で世界最速上映！ キングギドラ登場を正式発表",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/11/"
-    },
-    {
-      "title": "江口洋介×松嶋菜々子「救命病棟24時」ポスタービジュアルを披露！　主題歌はドリカムが新曲を書き下ろし",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/10/"
-    },
-    {
-      "title": "沖田臥竜の小説「木漏れ陽」が実写映画化決定！ 余命宣告を受けた元ヤクザの漫画家への夢を描く",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/18/"
-    },
-    {
-      "title": "「踊る大捜査線 N.E.W.」が首位！「ハート・オブ・ビースト」「うるわしの宵の月」などが上位にランクイン【映画.comアクセスランキング】",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/8/"
-    },
-    {
-      "title": "スタローン、肉体づくりでステロイド使用を認める　体を酷使してきたことを後悔",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/9/"
-    },
-    {
-      "title": "脚本家の倉本聰さん死去、91歳　「北の国から」「優しい時間」「前略おふくろ様」などで一時代を築く",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260928/7/"
     }
   ],
   "bd_releases": [],
