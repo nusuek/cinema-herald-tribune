@@ -1,26 +1,98 @@
 {
-  "generated_at": "2026-09-30T07:34:02.210780",
+  "generated_at": "2026-09-30T14:17:59.191529",
   "top_stories": [
     {
-      "title": "Amazon MGM Execs Javiera Balmaceda, Nicole Morganti Talk Big Spanish-Language Action Swings, the Push for Scale at Iberseries & Platino Industria",
+      "title": "HBO Max Unveils Javier Calvo, Javier Ambrossi Drama Series, Created by ‘Anatomy’ Writer Fran Araújo and ‘Querer’ Scribe Eduard Sola (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-09-30",
-      "url": "https://variety.com/2026/film/global/amazon-mgm-javiera-balmaceda-nicole-morganti-iberseries-1236878405/"
+      "url": "https://variety.com/2026/tv/global/hbo-max-javier-calvo-javier-ambrossi-fran-araujo-1236893484/"
     },
     {
-      "title": "Karan Johar to End ‘Koffee With Karan’ After 22 Years With Final Season on JioHotstar: ‘The Decision Is Emotional and Personal’ (EXCLUSIVE)",
+      "title": "Dakota Johnson and Anne Hathaway Premiere ‘Verity’ in New York City and More Red Carpet Photos: September 2026",
       "source": "Variety",
       "date": "2026-09-30",
-      "url": "https://variety.com/2026/tv/news/karan-johar-end-koffee-with-karan-22-years-final-season-jiohotstar-1236876708/"
+      "url": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-september-2026/"
     },
     {
-      "title": "Greta Thunberg Makes Surprise Appearance at Zurich Premiere of ‘My Home of Wind and Sand,’ Denounces Occupation of Western Sahara",
+      "title": "Will Tom Cruise’s ‘Digger’ Continue Warner Bros.’ Dismal Box Office Year?",
       "source": "Variety",
       "date": "2026-09-30",
-      "url": "https://variety.com/2026/film/global/greta-thunberg-zurich-occupied-western-sahara-1236878436/"
+      "url": "https://variety.com/2026/film/box-office/digger-tom-cruise-warner-bros-box-office-1236878000/"
     }
   ],
   "new_releases": [
+    {
+      "title": "浅野忠信「勉強になる」、髙石あかり「刺激を受けた」【オーディション番組「THE OPEN CALL MAIN PARTNER 山田孝之」配信開始】",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/26/"
+    },
+    {
+      "title": "「スパイダーマン　ブランド・ニュー・デイ」、未公開映像つきで再上映へ",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/25/"
+    },
+    {
+      "title": "アン・ハサウェイ、新作の宣伝で人気番組への出演を医師に止められる",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/23/"
+    },
+    {
+      "title": "山田孝之が審査員務める俳優オーディション「THE OPEN CALL」　新たなゲストパートナーとして赤西仁、柴咲コウ、二宮和也の出演が決定！",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/24/"
+    },
+    {
+      "title": "「これ描いて死ね」第2期が製作決定　女子高生の漫画にかける青春は続く",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/21/"
+    },
+    {
+      "title": "映画の価値を高める再上映「アベンジャーズ　エンドゲーム　アンコール」がヒット",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/41/"
+    },
+    {
+      "title": "市原隼人主演、劇場版「おいしい給食」第5弾製作決定！ 銀幕にパワーアップした“うまそげ”が降臨",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/22/"
+    },
+    {
+      "title": "「プレデター」の監督、ディズニーで「眠れる森の美女」の新作",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/20/"
+    },
+    {
+      "title": "桜田ひより主演「星の教室」、夜空に輝く希望の歌が感動を包み込む本予告＆場面写真を披露！　主題歌は新しい学校のリーダーズが担当",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/19/"
+    },
+    {
+      "title": "山田孝之が審査員務める俳優オーディション「THE OPEN CALL」、2次審査候補者たちを捉えた「Episode 0」の配信がスタート！　スペシャルナレーターに伊藤沙莉",
+      "source": "映画.com",
+      "date": "2026-09-28",
+      "url": "https://eiga.com/news/20260928/25/"
+    },
+    {
+      "title": "「ジャンプ SQ.」連載「ファントムバスターズ」27年にTVアニメ化　除霊×男子高生の青春ドタバタ活劇",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/18/"
+    },
+    {
+      "title": "異色のヴィランはいかにして誕生したのか──「クレイフェイス」若きスターの顔と心が“泥”のように崩れ落ちる衝撃のファイナル予告",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/35/"
+    },
     {
       "title": "「ノスフェラトゥ」ロバート・エガース監督、次の題材は「ロミオとジュリエット」",
       "source": "映画.com",
@@ -128,78 +200,6 @@
       "source": "映画.com",
       "date": "2026-09-24",
       "url": "https://eiga.com/news/20260924/5/"
-    },
-    {
-      "title": "「ふつつかな悪女ではございますが」第2クール、27年1月から放送　新キャラ役に中村悠一、土岐隼一、小林千晃",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/26/"
-    },
-    {
-      "title": "「ブリスフリー・ユアーズ」「トロピカル・マラディ」などアピチャッポン初期4作品4Kレストア版、2027年公開",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/27/"
-    },
-    {
-      "title": "湯浅典子監督「カオルの葬式」シンガポールプレミア&スペイン初上映決定！ 10月に国内無料配信も開始予定",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/25/"
-    },
-    {
-      "title": "松岡茉優「役と手を握り合えた感覚」と手ごたえ 主演映画「男ともだち」完成報告試写会に井上祐貴、中島歩、三島有紀子監督と登壇",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/29/"
-    },
-    {
-      "title": "あの伝説がスクリーンに帰ってくる！「踊る大捜査線」過去作を5週連続上映する「踊るシアター」全国5都市で開催決定",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/37/"
-    },
-    {
-      "title": "第2回ANIAFF、出﨑統特集「エースをねらえ！」「あしたのジョー2」「ゴルゴ13」など10作品上映",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/24/"
-    },
-    {
-      "title": "道枝駿佑＆安斉星来が「うるわしの宵の月」早わかりクイズに挑戦！ 撮影秘話も飛び出す特別動画が公開",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/36/"
-    },
-    {
-      "title": "“最高視聴率時間“を制するのは正義の報道か？過激なエンタメか？　ロバート・パティンソン主演「プライムタイム」27年1月公開",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/22/"
-    },
-    {
-      "title": "timelesz・橋本将生らの“尊すぎる”舞台裏「お姉ちゃんの翠くん」キャスト陣のこだわりと仲の良さが詰まったスペシャルメイキングムービー公開",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/21/"
-    },
-    {
-      "title": "丸呑みされた巨大クジラからの脱出劇を描く「クジラに落ちた男」　前代未聞の一作に挑んだキャスト＆監督が想いを語る特別映像特別映像",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/20/"
-    },
-    {
-      "title": "「スパイダーマン」新作のクレットン監督、ソニーと3年の包括契約",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/19/"
-    },
-    {
-      "title": "カズレーザーと松村沙友理、スピルバーグ最新作「ディスクロージャー・デイ」の見どころを“開示”",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/35/"
     }
   ],
   "bd_releases": [],
