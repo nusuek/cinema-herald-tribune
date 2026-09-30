@@ -1,26 +1,86 @@
 {
-  "generated_at": "2026-09-30T01:40:30.722604",
+  "generated_at": "2026-09-30T07:34:02.210780",
   "top_stories": [
     {
-      "title": "‘Making Marie Antoinette’: A Mother’s Love Letter to Sofia Coppola’s Genius Charms NYFF",
+      "title": "Amazon MGM Execs Javiera Balmaceda, Nicole Morganti Talk Big Spanish-Language Action Swings, the Push for Scale at Iberseries & Platino Industria",
       "source": "Variety",
       "date": "2026-09-30",
-      "url": "https://variety.com/2026/film/news/making-marie-antoinette-sofia-coppola-mother-kirsten-dunst-nyff-1236878756/"
+      "url": "https://variety.com/2026/film/global/amazon-mgm-javiera-balmaceda-nicole-morganti-iberseries-1236878405/"
     },
     {
-      "title": "‘What Remains’ Review: A Pensive but Stirring Drama Finds Poetry in the Landscapes of Rural Turkey",
+      "title": "Karan Johar to End ‘Koffee With Karan’ After 22 Years With Final Season on JioHotstar: ‘The Decision Is Emotional and Personal’ (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-09-30",
-      "url": "https://variety.com/2026/film/reviews/what-remains-review-1236876765/"
+      "url": "https://variety.com/2026/tv/news/karan-johar-end-koffee-with-karan-22-years-final-season-jiohotstar-1236876708/"
     },
     {
-      "title": "What’s New on Netflix in October 2026",
+      "title": "Greta Thunberg Makes Surprise Appearance at Zurich Premiere of ‘My Home of Wind and Sand,’ Denounces Occupation of Western Sahara",
       "source": "Variety",
-      "date": "2026-09-29",
-      "url": "https://variety.com/feature/whats-on-netflix-movies-shows-1203517873/"
+      "date": "2026-09-30",
+      "url": "https://variety.com/2026/film/global/greta-thunberg-zurich-occupied-western-sahara-1236878436/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ノスフェラトゥ」ロバート・エガース監督、次の題材は「ロミオとジュリエット」",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/17/"
+    },
+    {
+      "title": "「超巡！超条先輩」OPテーマはM!LK、EDテーマは至福ぽんちょ　OPテーマ使用の新PV公開",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/16/"
+    },
+    {
+      "title": "磯村勇斗＆末澤誠也、共演した綾野剛は「役者としてもメンター」【映画「mentor」ジャパンプレミア】",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/14/"
+    },
+    {
+      "title": "トム・ホランド主演フレッド・アステア伝記映画にマーガレット・クアリーとサブリナ・カーペンター",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/13/"
+    },
+    {
+      "title": "動物と話せる少女と、その能力で生計を立てる家族のロードムービー「アニカの伝言」11月27日公開",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/11/"
+    },
+    {
+      "title": "3つの都市、3組の家族　ジム・ジャームッシュ「ファーザー マザー シスター ブラザー」キャラクターポスター",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/4/"
+    },
+    {
+      "title": "あんまりタメにならない!? おじさんたちと学ぶ「南極料理人　4Kリマスター」劇場マナー予告公開",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/5/"
+    },
+    {
+      "title": "「狂った滝藤賢一が至高」怖すぎる怪演が話題　「八つ墓村」最恐キャラ・田治見要蔵の名場面の裏側を明かす映像公開",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/8/"
+    },
+    {
+      "title": "「すみっコぐらし」15周年の2027年に劇場アニメ第5弾が公開決定　劇場版第2弾「青い月夜のまほうのコ」再上映も",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/7/"
+    },
+    {
+      "title": "不朽の名作「アメリ」の公開25周年記念上映が決定！　11月13日からヒューマントラストシネマ有楽町ほか全国順次公開",
+      "source": "映画.com",
+      "date": "2026-09-30",
+      "url": "https://eiga.com/news/20260930/1/"
+    },
     {
       "title": "Netflix「ダウンタイム」松岡茉優×仲里依紗が舞台裏を巡る豪華セットツアー映像到着！研ナオコの特殊メイク過程も初公開",
       "source": "映画.com",
@@ -140,60 +200,6 @@
       "source": "映画.com",
       "date": "2026-09-29",
       "url": "https://eiga.com/news/20260929/35/"
-    },
-    {
-      "title": "「追放された転生重騎士はゲーム知識で無双する」第2クールに田邊幸輔、桜木つぐみ、久野美咲、河西健吾が出演　新主題歌も発表",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/18/"
-    },
-    {
-      "title": "目黒蓮主演「SAKAMOTO DAYS」10月30日からPrime Videoで見放題、世界独占配信　興行収入28.1億円の大ヒットアクション",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/23/"
-    },
-    {
-      "title": "「魔入りました！入間くん」シリーズ初の劇場版プロジェクトが始動　シリーズの歩みを振り返る特別映像が公開",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/17/"
-    },
-    {
-      "title": "赤楚衛二＆中川大志、刑事役で主演！　人気小説「沖縄コンフィデンシャル」映画化",
-      "source": "映画.com",
-      "date": "2026-09-28",
-      "url": "https://eiga.com/news/20260929/5/"
-    },
-    {
-      "title": "「スター・ウォーズ」スカイウォーカー・サーガ新作にジョン・ワッツ監督",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/15/"
-    },
-    {
-      "title": "S・S・ラージャマウリ監督の長編デビュー作、 NTR Jr.主演「スチューデント No.1」Prime Videoサブスク「JAIHO」で10月9日から配信開始！",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/12/"
-    },
-    {
-      "title": "崔洋一監督の傑作「月はどっちに出ている」デジタルリマスター版11月27日公開決定　岸谷五朗、ルビー・モレノ共演作が鮮やかに甦る【予告映像あり】",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/13/"
-    },
-    {
-      "title": "「現実で見られないようなものを見た方がいいですね」と寺山修司が語る「日本前衛派の開拓者」予告編",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/9/"
-    },
-    {
-      "title": "土屋太鳳×佐久間大介「マッチング TRUE LOVE」　デスゲームに巻き込まれる主人公たちの姿を捉えた場面写真を披露＆今夜前作が地上波初放送！",
-      "source": "映画.com",
-      "date": "2026-09-29",
-      "url": "https://eiga.com/news/20260929/10/"
     }
   ],
   "bd_releases": [],
