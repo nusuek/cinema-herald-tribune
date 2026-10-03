@@ -1,26 +1,44 @@
 {
-  "generated_at": "2026-10-02T23:20:17.918325",
+  "generated_at": "2026-10-03T02:30:10.359913",
   "top_stories": [
+    {
+      "title": "‘Behemoth!’ Review: Pedro Pascal Is a Classical Cellist Skating Through a Midlife Crisis in Tony Gilroy’s Elevated Bauble of a Music Drama",
+      "source": "Variety",
+      "date": "2026-10-03",
+      "url": "https://variety.com/2026/film/reviews/behemoth-review-pedro-pascal-tony-gilroy-1236897613/"
+    },
+    {
+      "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
+      "source": "Variety",
+      "date": "2026-10-02",
+      "url": "https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/"
+    },
     {
       "title": "‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)",
       "source": "Variety",
       "date": "2026-10-02",
       "url": "https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/"
-    },
-    {
-      "title": "John Leguizamo Has a Message for David Ellison: ‘Think of What Americans Need and What the Industry Needs’",
-      "source": "Variety",
-      "date": "2026-10-02",
-      "url": "https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/"
-    },
-    {
-      "title": "Skydance Shuffle: David Ellison Addresses Troops About New Name, Says Adieu to Mike and Pam and Sets Table for ‘Barbie 2’",
-      "source": "Variety",
-      "date": "2026-10-02",
-      "url": "https://variety.com/2026/film/news/david-ellison-skydance-name-mike-pam-barbie-2-1236897929/"
     }
   ],
   "new_releases": [
+    {
+      "title": "【入場特典リスト 10月最新版】「響け！ユーフォニアム」特別冊子、「超かぐや姫！」記念写真風カード配布　「映画ちいかわ」特典は？",
+      "source": "映画.com",
+      "date": "2026-10-03",
+      "url": "https://eiga.com/news/20261003/6/"
+    },
+    {
+      "title": "鈴木京香、「いい感じ。このまま行けばいいんじゃない」自らにかけるポジティブな言葉！【インタビュー】",
+      "source": "映画.com",
+      "date": "2026-10-03",
+      "url": "https://eiga.com/news/20261003/5/"
+    },
+    {
+      "title": "「蒼き伝承 ウェルシュ＆シェダー」主題歌は影山ヒロノブ＆奥井雅美のデュエット　メインPVで音源を公開",
+      "source": "映画.com",
+      "date": "2026-10-03",
+      "url": "https://eiga.com/news/20261003/4/"
+    },
     {
       "title": "【10月公開映画：期待度ランキング】「わたしの知らない子どもたち」「汝、星のごとく」を抑えて1位に輝いたのは……",
       "source": "映画.com",
@@ -146,24 +164,6 @@
       "source": "映画.com",
       "date": "2026-10-01",
       "url": "https://eiga.com/news/20261002/3/"
-    },
-    {
-      "title": "胸キュンロマンス「恋愛の博士課程」＆R18ラブコメ「私を震えさせて」、10月に配信開始！　ビジュアル＆予告編完成",
-      "source": "映画.com",
-      "date": "2026-10-01",
-      "url": "https://eiga.com/news/20261002/4/"
-    },
-    {
-      "title": "「金ロー」で10月23日から2週連続で山崎貴監督作品「ALWAYS 三丁目の夕日」「ゴジラ－1.0」を放送",
-      "source": "映画.com",
-      "date": "2026-10-01",
-      "url": "https://eiga.com/news/20261002/2/"
-    },
-    {
-      "title": "倉本聰さん偲び、名作ふたたび――追悼特別番組「北の国から ’83冬」10月9日放送",
-      "source": "映画.com",
-      "date": "2026-10-01",
-      "url": "https://eiga.com/news/20261002/1/"
     }
   ],
   "bd_releases": [],
