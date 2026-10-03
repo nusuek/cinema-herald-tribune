@@ -1,26 +1,50 @@
 {
-  "generated_at": "2026-10-03T02:30:10.359913",
+  "generated_at": "2026-10-03T08:36:46.599135",
   "top_stories": [
+    {
+      "title": "‘April X’ Review: Connor Storrie Bides His Time in a Generic Sci-Fi Clone",
+      "source": "Variety",
+      "date": "2026-10-03",
+      "url": "https://variety.com/2026/film/news/april-x-review-connor-storrie-1236898072/"
+    },
+    {
+      "title": "New York’s Inaugural Muslim Film Festival Aims to Move Past Counter-Narratives, Unveils Lineup, Jury (EXCLUSIVE)",
+      "source": "Variety",
+      "date": "2026-10-03",
+      "url": "https://variety.com/2026/film/festivals/new-yorks-muslim-film-festival-counter-narratives-1236898067/"
+    },
     {
       "title": "‘Behemoth!’ Review: Pedro Pascal Is a Classical Cellist Skating Through a Midlife Crisis in Tony Gilroy’s Elevated Bauble of a Music Drama",
       "source": "Variety",
       "date": "2026-10-03",
       "url": "https://variety.com/2026/film/reviews/behemoth-review-pedro-pascal-tony-gilroy-1236897613/"
-    },
-    {
-      "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
-      "source": "Variety",
-      "date": "2026-10-02",
-      "url": "https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/"
-    },
-    {
-      "title": "‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)",
-      "source": "Variety",
-      "date": "2026-10-02",
-      "url": "https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「セックス・ピストルズ　破壊の設計図」グレン・マトロックが語る、伝説のパンクバンドの曲作りと聴衆の熱狂、再結成後の活動",
+      "source": "映画.com",
+      "date": "2026-10-03",
+      "url": "https://eiga.com/news/20261003/10/"
+    },
+    {
+      "title": "ブラッドリー・クーパー、「G.I.ジョー」新作に主演",
+      "source": "映画.com",
+      "date": "2026-10-03",
+      "url": "https://eiga.com/news/20261003/9/"
+    },
+    {
+      "title": "深川麻衣、乃木坂46卒業以来8年ぶりに歌って踊る！ アイナ・ジ・エンドが振付担当した「逃げろお嬢さん」本編映像公開",
+      "source": "映画.com",
+      "date": "2026-10-03",
+      "url": "https://eiga.com/news/20261003/8/"
+    },
+    {
+      "title": "すべての罪を知っても、愛せるのか――土屋太鳳＆佐久間大介「マッチング TRUE LOVE」輪花×吐夢の新ビジュアル公開",
+      "source": "映画.com",
+      "date": "2026-10-03",
+      "url": "https://eiga.com/news/20261003/7/"
+    },
     {
       "title": "【入場特典リスト 10月最新版】「響け！ユーフォニアム」特別冊子、「超かぐや姫！」記念写真風カード配布　「映画ちいかわ」特典は？",
       "source": "映画.com",
@@ -140,30 +164,6 @@
       "source": "映画.com",
       "date": "2026-10-02",
       "url": "https://eiga.com/news/20261002/11/"
-    },
-    {
-      "title": "「セブン」フィンチャー監督、Netflixとの専属契約を更新せず",
-      "source": "映画.com",
-      "date": "2026-10-02",
-      "url": "https://eiga.com/news/20261002/7/"
-    },
-    {
-      "title": "「踊る大捜査線 N.E.W.」観た人の感想は？　ユーザーレビューまとめ「青島くんと仲間たちにまた会えた」「自分がおっさんになった今観ると――」",
-      "source": "映画.com",
-      "date": "2026-10-02",
-      "url": "https://eiga.com/news/20261002/6/"
-    },
-    {
-      "title": "クシシュトフ・キェシロフスキ監督没後30年、映画史に輝く「トリコロール三部作」を35ミリフィルムで10月30日より限定上映",
-      "source": "映画.com",
-      "date": "2026-10-01",
-      "url": "https://eiga.com/news/20261002/5/"
-    },
-    {
-      "title": "「モンスト」新作TVアニメ「メラ×デス　死神と僕の異常な恋」27年1月5日から放送開始　PVやスタッフも発表",
-      "source": "映画.com",
-      "date": "2026-10-01",
-      "url": "https://eiga.com/news/20261002/3/"
     }
   ],
   "bd_releases": [],
