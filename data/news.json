@@ -1,26 +1,80 @@
 {
-  "generated_at": "2026-10-07T07:47:03.231483",
+  "generated_at": "2026-10-07T14:48:13.197236",
   "top_stories": [
     {
-      "title": "Brazilian Cinema at Risk: A Report From Watching the Presidential Elections From the Rio Film Festival",
+      "title": "Wall Street Skittish on Skydance as Stock Drops Further Post-Merger",
       "source": "Variety",
       "date": "2026-10-07",
-      "url": "https://variety.com/2026/film/global/brazilian-cinema-at-risk-presidential-elections-rio-fest-1236899299/"
+      "url": "https://variety.com/2026/biz/news/wall-street-skittish-skydance-stock-drops-1236904389/"
     },
     {
-      "title": "The New Kindle Is Down to $100 for Amazon Prime Big Deals Day",
+      "title": "ATX TV Festival Sets ‘Sweet 16’ Theme for 2027 Lineup With ‘Revenge’ Reunion, ‘Freaks and Geeks’ Pilot Reading",
       "source": "Variety",
       "date": "2026-10-07",
-      "url": "https://variety.com/2026/shopping/news/prime-day-2026-kindle-deals-shop-online-1236784367/"
+      "url": "https://variety.com/2026/tv/news/atx-tv-festival-2027-revenge-reunion-freaks-and-geeks-1236899688/"
     },
     {
-      "title": "ITV Studios Unveils Mipcom Drama Slate Led by Lunar Thriller ‘First Woman,’ and a Further Four New Titles, Including Steven Moffat’s ‘Number 10’ (EXCLUSIVE)",
+      "title": "Audible Is Less Than $1/Month for 3 Months With This Fall Audiobook Deal",
       "source": "Variety",
       "date": "2026-10-07",
-      "url": "https://variety.com/2026/tv/global/itv-studios-mipcom-drama-slate-first-woman-1236903527/"
+      "url": "https://variety.com/shop/audible-plus-deal-2-1235042889/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「波止場」「北北西に進路を取れ」のエバ・マリー・セイントさん死去、102歳",
+      "source": "映画.com",
+      "date": "2026-10-07",
+      "url": "https://eiga.com/news/20261007/13/"
+    },
+    {
+      "title": "永野はトム・クルーズが大好き！「ディガー」直撃インタビューで“奇跡の瞬間”が訪れる【密着映像公開】",
+      "source": "映画.com",
+      "date": "2026-10-07",
+      "url": "https://eiga.com/news/20261007/29/"
+    },
+    {
+      "title": "第27回東京フィルメックス、オープニングは蒼井優主演×原田マハ監督「無用の人」、クロージングはアンソニー・チェン監督「みんな他人じゃない」に決定！",
+      "source": "映画.com",
+      "date": "2026-10-07",
+      "url": "https://eiga.com/news/20261007/32/"
+    },
+    {
+      "title": "25周年プロジェクト発進！「時空警察ヴェッカー」映画制作＆舞台公演が決定",
+      "source": "映画.com",
+      "date": "2026-10-07",
+      "url": "https://eiga.com/news/20261007/24/"
+    },
+    {
+      "title": "磯村勇斗×末澤誠也×綾野剛「mentor」　狂気を暴走させる主人公たちを捉えたキャラクターPVと場面写真を披露",
+      "source": "映画.com",
+      "date": "2026-10-07",
+      "url": "https://eiga.com/news/20261007/36/"
+    },
+    {
+      "title": "丸山隆平＆沢尻エリカ、釜山国際映画祭レッドカーペットに登場！ 総額6000万円のジュエリーを身に付けファン魅了",
+      "source": "映画.com",
+      "date": "2026-10-07",
+      "url": "https://eiga.com/news/20261007/37/"
+    },
+    {
+      "title": "「踊る大捜査線 N.E.W.」ヒット記念し、シリーズ初の応援上映＆副音声上映が決定！ 関智一ナレーションの“応援上映指南ムービー”も解禁",
+      "source": "映画.com",
+      "date": "2026-10-07",
+      "url": "https://eiga.com/news/20261007/34/"
+    },
+    {
+      "title": "好きすぎて会社を作ったって本当？　「午後のロードショー」を支える職人たちの深すぎる愛情と情熱",
+      "source": "映画.com",
+      "date": "2026-10-07",
+      "url": "https://eiga.com/news/20261007/8/"
+    },
+    {
+      "title": "有村架純、石田ひかり、姫野花春が第31回釜山国際映画祭レッドカーペットに登場！ 映画「さとこはいつも」がコンペ部門に選出",
+      "source": "映画.com",
+      "date": "2026-10-07",
+      "url": "https://eiga.com/news/20261007/21/"
+    },
     {
       "title": "「うるわしの宵の月」道枝駿佑&安斉星来、釜山国際映画祭初参加！レッドカーペットで魅せた“うるわしい”姿に韓国ファン大熱狂",
       "source": "映画.com",
@@ -74,12 +128,6 @@
       "source": "映画.com",
       "date": "2026-10-07",
       "url": "https://eiga.com/news/20261007/6/"
-    },
-    {
-      "title": "好きすぎて会社を作ったって本当？　「午後のロードショー」を支える職人たちの深すぎる愛情と情熱",
-      "source": "映画.com",
-      "date": "2026-10-07",
-      "url": "https://eiga.com/news/20261007/8/"
     },
     {
       "title": "「ワン・バトル・アフター・アナザー」を送り出したワーナー映画部門トップ、退任へ",
@@ -146,54 +194,6 @@
       "source": "映画.com",
       "date": "2026-10-06",
       "url": "https://eiga.com/news/20261006/24/"
-    },
-    {
-      "title": "「ザ・バットマン」続編、製作が一時停止　マット・リーブス監督の家庭の事情",
-      "source": "映画.com",
-      "date": "2026-10-06",
-      "url": "https://eiga.com/news/20261006/22/"
-    },
-    {
-      "title": "「BOSS ボス」とコラボ！　任侠コメディ漫画「極主夫道」作者・おおのこうすけ書き下ろしイラスト＆コメント到着",
-      "source": "映画.com",
-      "date": "2026-10-06",
-      "url": "https://eiga.com/news/20261006/20/"
-    },
-    {
-      "title": "「ゴジラ－0.0」ラージフォーマット上映が決定！　プレミアムラージフォーマットビジュアルが完成",
-      "source": "映画.com",
-      "date": "2026-10-06",
-      "url": "https://eiga.com/news/20261006/21/"
-    },
-    {
-      "title": "主人公は弾を込めることすらままならない──「バイオハザード」緊迫の本編映像公開！",
-      "source": "映画.com",
-      "date": "2026-10-06",
-      "url": "https://eiga.com/news/20261006/19/"
-    },
-    {
-      "title": "角川春樹氏“最後の総監督作品”「星の教室」に手応え！代表作5本と比較し「少しも遜色はない」",
-      "source": "映画.com",
-      "date": "2026-10-06",
-      "url": "https://eiga.com/news/20261006/23/"
-    },
-    {
-      "title": "トム・クルーズに見いだされた「大富豪になるための正しい殺し方」グレン・パウエルの運命的秘話",
-      "source": "映画.com",
-      "date": "2026-10-06",
-      "url": "https://eiga.com/news/20261006/18/"
-    },
-    {
-      "title": "「ママがもうこの世界にいなくても」観た人の感想は？　ユーザーレビューまとめ「終始心を掴まれる」「涙を禁じ得ません」「川口春奈と高杉真宙の演技が素晴らしい」",
-      "source": "映画.com",
-      "date": "2026-10-06",
-      "url": "https://eiga.com/news/20261006/13/"
-    },
-    {
-      "title": "クリストファー・マッカリー×マイケル・B・ジョーダンが人気ゲーム「バトルフィールド」を映画化",
-      "source": "映画.com",
-      "date": "2026-10-06",
-      "url": "https://eiga.com/news/20261006/17/"
     }
   ],
   "bd_releases": [],
