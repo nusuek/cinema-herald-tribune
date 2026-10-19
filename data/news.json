@@ -1,26 +1,86 @@
 {
-  "generated_at": "2026-10-19T01:59:44.464421",
+  "generated_at": "2026-10-19T07:21:24.315226",
   "top_stories": [
     {
-      "title": "Inde Navarrette on Meeting Pamela Anderson, Hosting ‘SNL’ and X-Men Stunt Training",
+      "title": "‘Train to Busan’ Director Yeon Sang-ho’s ‘Paradise Lost’ Clinches 118-Country Sales Ahead of Hawai‘i Festival U.S. Bow",
       "source": "Variety",
       "date": "2026-10-19",
-      "url": "https://variety.com/2026/film/news/inde-navarrette-hosting-snl-x-men-stunt-training-1236916105/"
+      "url": "https://variety.com/2026/film/news/yeon-sang-ho-paradise-lost-sold-118-countries-hawaii-1236916204/"
     },
     {
-      "title": "‘The Simpsons’ Surprise: Apu Is Heard for the First Time in Nearly a Decade, as Sunil Malhotra Takes Over for Hank Azaria (EXCLUSIVE)",
+      "title": "Busan Winner ‘Ria,’ Arvin Belarmino’s Folk-Punk Debut, Boards Lights On (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-10-19",
-      "url": "https://variety.com/2026/tv/news/the-simpsons-apu-new-voice-sunil-malhotra-hank-azaria-1236915177/"
+      "url": "https://variety.com/2026/film/news/busan-winner-ria-arvin-belarmino-punk-debut-lights-on-1236916195/"
     },
     {
-      "title": "Katseye Says They’re ‘So Proud’ of Sophia Ahead of Her Return to the Group: ‘She’s Our Sister’",
+      "title": "Korea Box Office: Anime Sensation ‘Chiikawa’ Dominates Weekend",
       "source": "Variety",
-      "date": "2026-10-18",
-      "url": "https://variety.com/2026/music/news/katseye-sophia-return-1236916064/"
+      "date": "2026-10-19",
+      "url": "https://variety.com/2026/film/box-office/korea-box-office-anime-sensation-chiikawa-whalefall-street-fighter-1236916187/"
     }
   ],
   "new_releases": [
+    {
+      "title": "25周年プロジェクト発進　「時空警察ヴェッカー」映画制作＆舞台公演が決定",
+      "source": "映画.com",
+      "date": "2026-10-19",
+      "url": "https://eiga.com/news/20261019/11/"
+    },
+    {
+      "title": "キム・カーダシアン主演「オール・イズ・フェア　女神たちの法廷」シーズン2、11月4日から配信決定【予告編あり】",
+      "source": "映画.com",
+      "date": "2026-10-19",
+      "url": "https://eiga.com/news/20261019/10/"
+    },
+    {
+      "title": "「汝、星のごとく」首位！「室井慎次」2部作が再ランクイン、「わたしの知らない子どもたち」等も上位にアップ【映画.comアクセスランキング】",
+      "source": "映画.com",
+      "date": "2026-10-19",
+      "url": "https://eiga.com/news/20261019/12/"
+    },
+    {
+      "title": "「映画ちいかわ」入場特典第7弾はナガノ描き下ろしクリアカード！ちいかわ・ハチワレ・うさぎ版、ヒトハフタバ版、セイレーン＆人魚たち版、島二郎版の全4種",
+      "source": "映画.com",
+      "date": "2026-10-19",
+      "url": "https://eiga.com/news/20261019/15/"
+    },
+    {
+      "title": "「メイドインアビス　目覚める神秘」入場特典はミニ色紙　“観る入場特典”として「ひめさま日記」がミニアニメ化",
+      "source": "映画.com",
+      "date": "2026-10-19",
+      "url": "https://eiga.com/news/20261019/9/"
+    },
+    {
+      "title": "サブスク時代になぜ「午後ロー」は愛されるのか？洋画の“最後の砦”が守り抜くテレビ文化と視聴者との絆",
+      "source": "映画.com",
+      "date": "2026-10-19",
+      "url": "https://eiga.com/news/20261019/6/"
+    },
+    {
+      "title": "日本酒の伝統を受け継ぐ「クラフトサケ」に挑戦、若き醸造家たちのドキュメンタリー「イネとカゼ」2月公開",
+      "source": "映画.com",
+      "date": "2026-10-19",
+      "url": "https://eiga.com/news/20261019/7/"
+    },
+    {
+      "title": "映画「ワンダンス」MAZZEL・RAN演じる先輩・厳島伊折の場面写真公開「ダンスの経歴も含めて共通点が意外と多い」自身とリンクする役柄への熱い想いも",
+      "source": "映画.com",
+      "date": "2026-10-19",
+      "url": "https://eiga.com/news/20261019/8/"
+    },
+    {
+      "title": "廃村が誘う未知の恐怖──前田拳太郎×久保史緒里「巨頭ｵ」戦慄の予告映像＆ポスタービジュアル公開",
+      "source": "映画.com",
+      "date": "2026-10-18",
+      "url": "https://eiga.com/news/20261018/5/"
+    },
+    {
+      "title": "「HUNTER×HUNTER」新作舞台、メルエム役は佐藤流司　キメラアント陣営は若月佑美、真田理希らも出演【全情報発表】",
+      "source": "映画.com",
+      "date": "2026-10-19",
+      "url": "https://eiga.com/news/20261019/5/"
+    },
     {
       "title": "最強のチョン・ジヒョン再び！「猟奇的な彼女 4K完全版」27年1月2日公開決定！ 新ポスタービジュアル＆監督コメントも到着",
       "source": "映画.com",
@@ -88,12 +148,6 @@
       "url": "https://eiga.com/news/20261018/6/"
     },
     {
-      "title": "廃村が誘う未知の恐怖──前田拳太郎×久保史緒里「巨頭ｵ」戦慄の予告映像＆ポスタービジュアル公開",
-      "source": "映画.com",
-      "date": "2026-10-18",
-      "url": "https://eiga.com/news/20261018/5/"
-    },
-    {
       "title": "「Dr.STONE」新作アニメ「TERRAFORMING」製作決定　本編完結後の続編エピソード",
       "source": "映画.com",
       "date": "2026-10-18",
@@ -134,66 +188,6 @@
       "source": "映画.com",
       "date": "2026-10-17",
       "url": "https://eiga.com/news/20261017/11/"
-    },
-    {
-      "title": "スタローン、自らこなしたスタントを後悔　「体をバラバラに壊したのが“誇り”？そんなわけない」",
-      "source": "映画.com",
-      "date": "2026-10-17",
-      "url": "https://eiga.com/news/20261017/10/"
-    },
-    {
-      "title": "ダニー・ボイル監督、「28年後...」第3弾は優先順位が下がったと明かす",
-      "source": "映画.com",
-      "date": "2026-10-17",
-      "url": "https://eiga.com/news/20261017/9/"
-    },
-    {
-      "title": "「ひらやすみ」に浪川大輔、日笠陽子、宮本侑芽、梅原裕一郎が出演　ナレーションは内藤裕子",
-      "source": "映画.com",
-      "date": "2026-10-17",
-      "url": "https://eiga.com/news/20261017/8/"
-    },
-    {
-      "title": "「ワイダ・ジェネレーション」＆「ポーランド映画祭2026」11月開催、ポーランド映画の魅力を堪能できる2週間",
-      "source": "映画.com",
-      "date": "2026-10-17",
-      "url": "https://eiga.com/news/20261017/7/"
-    },
-    {
-      "title": "ジャームッシュ「ファーザー マザー シスター ブラザー」ルカ・サバト来日決定＆本編映像公開",
-      "source": "映画.com",
-      "date": "2026-10-17",
-      "url": "https://eiga.com/news/20261017/6/"
-    },
-    {
-      "title": "映画「時給三〇〇円の死神」西畑大吾と福本莉子のオン・オフが切り替わる瞬間を捉えたメイキング映像解禁",
-      "source": "映画.com",
-      "date": "2026-10-17",
-      "url": "https://eiga.com/news/20261017/5/"
-    },
-    {
-      "title": "ジョニー・デップ、英国初の大規模展がロンドンで開幕",
-      "source": "映画.com",
-      "date": "2026-10-17",
-      "url": "https://eiga.com/news/20261017/4/"
-    },
-    {
-      "title": "スカーレット・ヨハンソン、リアリティ番組の製作に乗り出す",
-      "source": "映画.com",
-      "date": "2026-10-17",
-      "url": "https://eiga.com/news/20261017/3/"
-    },
-    {
-      "title": "10月18日の「日曜アニメ劇場」は「ストリートファイターII MOVIE」　主題歌は篠原涼子「恋しさと せつなさと 心強さと」",
-      "source": "映画.com",
-      "date": "2026-10-16",
-      "url": "https://eiga.com/news/20261017/1/"
-    },
-    {
-      "title": "「NARUTO-ナルト-」「NINKU-忍空-」コラボの新作アニメが制作進行中　阿部記之、西尾鉄也らが参加",
-      "source": "映画.com",
-      "date": "2026-10-16",
-      "url": "https://eiga.com/news/20261016/29/"
     }
   ],
   "bd_releases": [],
