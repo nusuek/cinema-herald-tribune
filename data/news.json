@@ -1,37 +1,67 @@
 {
-  "generated_at": "2026-10-20T03:16:00.637412",
+  "generated_at": "2026-10-20T08:55:29.949598",
   "top_stories": [
     {
-      "title": "Judi Dench Says Panned ‘Cats’ Film Was a ‘Waste’ of Andrew Lloyd Webber’s ‘Goodwill and Talent’: ‘Oh God, I Can’t Bear It’",
+      "title": "‘Big Boys Don’t Cry’ Director Muhammad Mustapha Talks Masculinity Ahead of El Gouna Premiere: ‘The Only Emotion Men Are Allowed to Express Is Anger’",
       "source": "Variety",
       "date": "2026-10-20",
-      "url": "https://variety.com/2026/film/news/judi-dench-says-cats-film-was-a-waste-of-goodwill-talent-1236917065/"
+      "url": "https://variety.com/2026/film/global/big-boys-dont-cry-muhammad-mustapha-el-gouna-1236916813/"
     },
     {
-      "title": "Why Daisy Edgar-Jones Listened to Dolly Parton to Prep for ‘Sense and Sensibility’",
+      "title": "‘Percy Jackson’ Stars Will Attend Lucca Comics, Seeking to ‘Get Up Close and Personal With Their Fans,’ Geek Meet’s Film and TV Chief Says",
       "source": "Variety",
       "date": "2026-10-20",
-      "url": "https://variety.com/2026/film/news/daisy-edgar-jones-sense-and-sensibility-dolly-parton-1236917040/"
+      "url": "https://variety.com/2026/film/global/percy-jackson-lucca-comics-1236914648/"
     },
     {
-      "title": "Why ‘Office Space’ Actor Richard Riehle Was the Quintessential Actor’s Actor (Guest Column)",
+      "title": "‘Line of Duty’ Director Douglas Mackinnon Preps Edinburgh-Set Paramedic Drama ‘BurnTime,’ Builds Slate at Rugged Island Films (EXCLUSIVE)",
       "source": "Variety",
       "date": "2026-10-20",
-      "url": "https://variety.com/2026/film/people-news/office-space-actor-richard-riehle-an-actors-actor-1236917003/"
+      "url": "https://variety.com/2026/tv/global/douglas-mackinnon-burntime-rugged-island-films-1236917192/"
     }
   ],
   "new_releases": [
     {
-      "title": "一緒にいてくれて、ありがとう――トム・クルーズ×戸田奈津子「DIGGER ディガー」特別対談映像公開",
+      "title": "藤原季節、役作りのため東京〜群馬間を自転車で往復200km！ 考古学者・相澤忠洋の若き日を描く映画「赤土に眠る」特別内覧会レポート",
       "source": "映画.com",
       "date": "2026-10-20",
-      "url": "https://eiga.com/news/20261020/11/"
+      "url": "https://eiga.com/news/20261020/14/"
+    },
+    {
+      "title": "「ハンガー・ゲーム」監督、火星が舞台のベストセラーSFを映画化",
+      "source": "映画.com",
+      "date": "2026-10-20",
+      "url": "https://eiga.com/news/20261020/13/"
+    },
+    {
+      "title": "【映画.com配信アクセスランキング】第1位・2位は「室井慎次　敗れざる者／生き続ける者」、「ハチミツとクローバー」「廃用身」などが上位にランクイン　今すぐ観られるベスト10を発表",
+      "source": "映画.com",
+      "date": "2026-10-20",
+      "url": "https://eiga.com/news/20261020/20/"
+    },
+    {
+      "title": "「ヘルレイザー」クライブ・バーカー監督、シリーズについて「たくさんのアイデアがある」",
+      "source": "映画.com",
+      "date": "2026-10-20",
+      "url": "https://eiga.com/news/20261020/12/"
+    },
+    {
+      "title": "「ザ・バットマン」続編、ソダーバーグ監督が撮影に助っ人参加",
+      "source": "映画.com",
+      "date": "2026-10-20",
+      "url": "https://eiga.com/news/20261020/10/"
     },
     {
       "title": "“最悪で最高”小栗旬のかつてないダークな魅力「バッド・ルーテナント：トウキョウ」本編映像",
       "source": "映画.com",
       "date": "2026-10-20",
       "url": "https://eiga.com/news/20261020/9/"
+    },
+    {
+      "title": "一緒にいてくれて、ありがとう――トム・クルーズ×戸田奈津子「DIGGER ディガー」特別対談映像公開",
+      "source": "映画.com",
+      "date": "2026-10-20",
+      "url": "https://eiga.com/news/20261020/11/"
     },
     {
       "title": "故アラン・リックマンが語った“無自覚な革命性” 映画　「CBGB ニューヨーク、PUNKが生まれた場所」オフィシャルインタビュー公開",
@@ -146,30 +176,6 @@
       "source": "映画.com",
       "date": "2026-10-19",
       "url": "https://eiga.com/news/20261019/8/"
-    },
-    {
-      "title": "廃村が誘う未知の恐怖──前田拳太郎×久保史緒里「巨頭ｵ」戦慄の予告映像＆ポスタービジュアル公開",
-      "source": "映画.com",
-      "date": "2026-10-18",
-      "url": "https://eiga.com/news/20261018/5/"
-    },
-    {
-      "title": "「HUNTER×HUNTER」新作舞台、メルエム役は佐藤流司　キメラアント陣営は若月佑美、真田理希らも出演【全情報発表】",
-      "source": "映画.com",
-      "date": "2026-10-19",
-      "url": "https://eiga.com/news/20261019/5/"
-    },
-    {
-      "title": "最強のチョン・ジヒョン再び！「猟奇的な彼女 4K完全版」27年1月2日公開決定！ 新ポスタービジュアル＆監督コメントも到着",
-      "source": "映画.com",
-      "date": "2026-10-19",
-      "url": "https://eiga.com/news/20261019/4/"
-    },
-    {
-      "title": "「機動戦士ガンダム　閃光のハサウェイ　キルケーの魔女」12月11日から再上映　上映劇場でブルーレイを先行販売",
-      "source": "映画.com",
-      "date": "2026-10-19",
-      "url": "https://eiga.com/news/20261019/3/"
     }
   ],
   "bd_releases": [],
