@@ -1,31 +1,79 @@
 {
-  "generated_at": "2026-10-26T05:29:39.923338",
+  "generated_at": "2026-10-26T11:38:37.291867",
   "top_stories": [
     {
-      "title": "John Oliver Issues Urgent Warning Ahead of Midterms About the Republican Party’s Nazi Ties",
+      "title": "Tokyo Film Festival Opens With ‘Sukiyaki’ and a Plea for Peace as Japan’s Government Restates Global Content Ambitions",
       "source": "Variety",
       "date": "2026-10-26",
-      "url": "https://variety.com/2026/tv/news/john-oliver-urgent-warning-midterm-elections-republicans-nazi-ties-1236930940/"
+      "url": "https://variety.com/2026/film/festivals/tokyo-film-fest-opens-sukiyaki-japan-content-goal-1236931066/"
     },
     {
-      "title": "Korea Box Office: Anime Phenomenon ‘Chiikawa’ Remains Unstoppable as Yeon Sang-ho Thriller ‘Paradise Lost’ Debuts",
+      "title": "Lula’s Election Win: How Taylor’s Swift’s Advice to Fandom Helped Him to a Historic Victory and Defeat for Trump",
       "source": "Variety",
       "date": "2026-10-26",
-      "url": "https://variety.com/2026/film/box-office/korea-box-office-chiikawa-paradise-lost-1236930928/"
+      "url": "https://variety.com/2026/film/global/lula-election-win-taylor-swift-guillermo-del-toro-fandom-1236931046/"
     },
     {
-      "title": "Eric Bauza, Emmy Award-Winning Looney Tunes Voice Actor, Dies at 46",
+      "title": "Trump Calls Bill Maher a ‘Complete and Total Loser,’ Tells Him ‘Don’t Call Anymore’ in Lengthy Truth Social Post",
       "source": "Variety",
       "date": "2026-10-26",
-      "url": "https://variety.com/2026/film/people-news/eric-bauza-dead-looney-tunes-voice-actor-1236930931/"
+      "url": "https://variety.com/2026/tv/news/trump-calls-bill-maher-complete-total-loser-truth-social-1236931052/"
     }
   ],
   "new_releases": [
+    {
+      "title": "中島健人「映画にとっては恵みの雨」秋雨に負けず、レッドカーペットに国内外の映画関係者約270人が来場【第39回東京国際映画祭】",
+      "source": "映画.com",
+      "date": "2026-10-26",
+      "url": "https://eiga.com/news/20261026/20/"
+    },
+    {
+      "title": "磯村勇斗×末澤誠也「mentor」、𠮷田恵輔監督とともに第26回台湾・高雄映画祭に参加！　現地の言葉で観客の心をわしづかみに",
+      "source": "映画.com",
+      "date": "2026-10-26",
+      "url": "https://eiga.com/news/20261026/21/"
+    },
+    {
+      "title": "元・検事志望のお笑い芸人・みなみかわ、内野聖陽主演映画「負けへんで」にツッコミ！　特別動画を披露",
+      "source": "映画.com",
+      "date": "2026-10-26",
+      "url": "https://eiga.com/news/20261026/19/"
+    },
+    {
+      "title": "「死して生きるSSS級ハンター」増田俊樹、潘めぐみら出演　ED主題歌はTHE SPELLBOUND × BOOM BOOM SATELLITES",
+      "source": "映画.com",
+      "date": "2026-10-26",
+      "url": "https://eiga.com/news/20261026/16/"
+    },
+    {
+      "title": "Netflix、映画部門の統括者も退任",
+      "source": "映画.com",
+      "date": "2026-10-26",
+      "url": "https://eiga.com/news/20261026/15/"
+    },
     {
       "title": "イーロン・マスク、Grok で生成した「オデュッセイア」第1話を公開",
       "source": "映画.com",
       "date": "2026-10-26",
       "url": "https://eiga.com/news/20261026/11/"
+    },
+    {
+      "title": "倍賞千恵子特集に山田洋次、犬童一心監督も登壇　「泉佐野フィルムフェス vol.3」11月7、8日開催",
+      "source": "映画.com",
+      "date": "2026-10-26",
+      "url": "https://eiga.com/news/20261026/14/"
+    },
+    {
+      "title": "映画「タコピーの原罪」新ビジュアル、新規カット収録の本予告公開　主題歌はTeleが担当",
+      "source": "映画.com",
+      "date": "2026-10-26",
+      "url": "https://eiga.com/news/20261026/12/"
+    },
+    {
+      "title": "「汝、星のごとく」V2で上位3作品に変動なし、「コーヒーが冷めないうちに」「踊る」が再ランクイン【映画.comアクセスランキング】",
+      "source": "映画.com",
+      "date": "2026-10-26",
+      "url": "https://eiga.com/news/20261026/18/"
     },
     {
       "title": "【第39回東京国際映画祭】コンペ部門に選出された池田暁監督×三島有紀子監督×山本英監督が語り合う、映画祭の醍醐味",
@@ -152,48 +200,6 @@
       "source": "映画.com",
       "date": "2026-10-25",
       "url": "https://eiga.com/news/20261025/9/"
-    },
-    {
-      "title": "ノーラン監督「プレステージ」、初のIMAX上映へ",
-      "source": "映画.com",
-      "date": "2026-10-25",
-      "url": "https://eiga.com/news/20261025/8/"
-    },
-    {
-      "title": "トム・クルーズ、AFI生涯功労賞を受賞へ",
-      "source": "映画.com",
-      "date": "2026-10-25",
-      "url": "https://eiga.com/news/20261025/7/"
-    },
-    {
-      "title": "満員の映画祭に“日本映画”がいなかった――失われる「観客との接点」【アジア映画コラム】",
-      "source": "映画.com",
-      "date": "2026-10-25",
-      "url": "https://eiga.com/news/20261025/6/"
-    },
-    {
-      "title": "【上質映画館　諸国漫遊記】わざわざ台湾に出かけてまで体験したくなるスペシャルなシアター、ミラマーシネマIMAX GTスクリーンで「オデュッセイア」鑑賞",
-      "source": "映画.com",
-      "date": "2026-10-25",
-      "url": "https://eiga.com/news/20261025/5/"
-    },
-    {
-      "title": "シリーズNo.1ヒット！「トイ・ストーリー5」が10月28日からディズニープラスで見放題独占配信",
-      "source": "映画.com",
-      "date": "2026-10-24",
-      "url": "https://eiga.com/news/20261025/4/"
-    },
-    {
-      "title": "アニメ「ちいかわ」仕掛け絵本が発売中　ちいかわとハチワレが飛び出して「ヤーッ！」",
-      "source": "映画.com",
-      "date": "2026-10-24",
-      "url": "https://eiga.com/news/20261025/3/"
-    },
-    {
-      "title": "「アイカツスターズ！　星々のProgress」27年1月22日公開　本予告で主題歌を初披露",
-      "source": "映画.com",
-      "date": "2026-10-24",
-      "url": "https://eiga.com/news/20261025/2/"
     }
   ],
   "bd_releases": [],
