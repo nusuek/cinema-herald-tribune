@@ -1,26 +1,74 @@
 {
-  "generated_at": "2026-11-03T01:21:45.415461",
+  "generated_at": "2026-11-03T08:41:55.509974",
   "top_stories": [
     {
-      "title": "Neve Campbell Confirms Return for ‘Scream 8’",
+      "title": "BTS, Katseye Drive Hybe to Record Quarterly Revenue and Profit",
       "source": "Variety",
       "date": "2026-11-03",
-      "url": "https://variety.com/2026/film/news/neve-campbell-scream-8-sidney-prescott-1236938043/"
+      "url": "https://variety.com/2026/music/news/bts-katseye-hybe-record-quarterly-revenue-profit-1236938217/"
     },
     {
-      "title": "New Japanese Animation Prize Named Nippon Anime Awards, Sets First Ceremony for November 2027",
+      "title": "‘Kefi’ Review: A Grief-Stricken Family Reunion Is Beset by Aliens, Drugs and Dinosaurs in Kisin Saito’s Kaleidoscopic, Genre-Fluid Debut",
       "source": "Variety",
       "date": "2026-11-03",
-      "url": "https://variety.com/2026/film/news/new-japanese-animation-prize-nippon-anime-awards-2027-1236938040/"
+      "url": "https://variety.com/2026/film/reviews/kefi-review-1236938211/"
     },
     {
-      "title": "Veteran Publicist Bill Harrison and Creative Director Johnny Wujek Join Nonprofit Art of Elysium (EXCLUSIVE)",
+      "title": "Netflix Steampunk Western ‘Bass x Machina’ Is a Crackling Mix of Fantasy and Reality: TV Review",
       "source": "Variety",
       "date": "2026-11-03",
-      "url": "https://variety.com/2026/film/columns/publicist-bill-harrison-creative-director-stylist-johnny-wujek-art-of-elysium-1236938034/"
+      "url": "https://variety.com/2026/tv/reviews/bass-x-machina-review-netflix-steampunk-1236937785/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「ゴジラ－0.0」前作対比201％の絶好スタート！山崎貴監督「エゴサが止まりません」",
+      "source": "映画.com",
+      "date": "2026-11-03",
+      "url": "https://eiga.com/news/20261103/15/"
+    },
+    {
+      "title": "「呪術廻戦 死滅回游 前編」虎杖悠仁ら13人の描き下ろしキャラクタービジュアル披露",
+      "source": "映画.com",
+      "date": "2026-11-03",
+      "url": "https://eiga.com/news/20261103/14/"
+    },
+    {
+      "title": "川口春奈主演「ママがもうこの世界にいなくても 私の命の日記」興収34億円突破！ 大ヒット記念しミニポスターカード配布決定",
+      "source": "映画.com",
+      "date": "2026-11-03",
+      "url": "https://eiga.com/news/20261103/13/"
+    },
+    {
+      "title": "【映画.com配信アクセスランキング】第1位は「ラプラスの魔女」、「TOKYO MER」「ゴジラ－1.0」などが上位にランクイン　今すぐ観られるベスト10を発表",
+      "source": "映画.com",
+      "date": "2026-11-03",
+      "url": "https://eiga.com/news/20261103/12/"
+    },
+    {
+      "title": "山崎貴監督、55年越しの思いが結実！　少年時代の念願を「ゴジラ－0.0」で果たす【ネタバレギリギリインタビュー】",
+      "source": "映画.com",
+      "date": "2026-11-03",
+      "url": "https://eiga.com/news/20261103/11/"
+    },
+    {
+      "title": "「クリミナル・マインド」シーズン20で終了へ",
+      "source": "映画.com",
+      "date": "2026-11-03",
+      "url": "https://eiga.com/news/20261103/8/"
+    },
+    {
+      "title": "磯村勇斗審査委員長が発表！「2人の呼吸が痛いほどスクリーンから感じられた」エシカル・フィルム賞受賞作は？【第39回東京国際映画祭】",
+      "source": "映画.com",
+      "date": "2026-11-03",
+      "url": "https://eiga.com/news/20261103/6/"
+    },
+    {
+      "title": "【再映画化が始動】ディズニープラスで振り返る映画「ナルニア国物語」　第1章は国内興収68億円超えの大ヒット",
+      "source": "映画.com",
+      "date": "2026-11-03",
+      "url": "https://eiga.com/news/20261103/7/"
+    },
     {
       "title": "「虎に翼」が多くの人から支持された理由　梛川善郎監督が語る",
       "source": "映画.com",
@@ -140,54 +188,6 @@
       "source": "映画.com",
       "date": "2026-11-02",
       "url": "https://eiga.com/news/20261102/17/"
-    },
-    {
-      "title": "「ヒート」続編を控えるマイケル・マン監督、射撃場で負傷　ホルスターに収めた銃が暴発",
-      "source": "映画.com",
-      "date": "2026-11-02",
-      "url": "https://eiga.com/news/20261102/16/"
-    },
-    {
-      "title": "マイケル・ダグラス、ジャック・ニコルソンの近況を語る",
-      "source": "映画.com",
-      "date": "2026-11-02",
-      "url": "https://eiga.com/news/20261102/15/"
-    },
-    {
-      "title": "実写映画版「エルデンリング」、製作費約2億ドルの超大作に",
-      "source": "映画.com",
-      "date": "2026-11-02",
-      "url": "https://eiga.com/news/20261102/14/"
-    },
-    {
-      "title": "ケイト・ブランシェットが読書と“つながり”を語るユニクロ女性文芸プロジェクト　川上未映子らとディスカッション",
-      "source": "映画.com",
-      "date": "2026-10-30",
-      "url": "https://eiga.com/news/20261031/1/"
-    },
-    {
-      "title": "「ちいかわ」囚人デザインで“罪深～いお味”のプリズンポテトが11月2日発売",
-      "source": "映画.com",
-      "date": "2026-11-02",
-      "url": "https://eiga.com/news/20261102/13/"
-    },
-    {
-      "title": "完全新作「ゾディアック」始動＆「マーベル・ゾンビーズ」新作3年連続配信【NYコミコン26マーベル新作まとめ】",
-      "source": "映画.com",
-      "date": "2026-11-02",
-      "url": "https://eiga.com/news/20261102/12/"
-    },
-    {
-      "title": "「バイオハザード」首位！「バッド・ルーテナント：トウキョウ」「ラプラスの魔女」などがランクイン【映画.comアクセスランキング】",
-      "source": "映画.com",
-      "date": "2026-11-02",
-      "url": "https://eiga.com/news/20261102/11/"
-    },
-    {
-      "title": "3つの異世界が共鳴するショート映画オムニバス「鯛と雨とゆきおんな」本予告＆各作メインビジュアル公開",
-      "source": "映画.com",
-      "date": "2026-11-02",
-      "url": "https://eiga.com/news/20261102/10/"
     }
   ],
   "bd_releases": [],
