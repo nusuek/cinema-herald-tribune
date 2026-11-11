@@ -1,26 +1,80 @@
 {
-  "generated_at": "2026-11-11T03:20:38.020883",
+  "generated_at": "2026-11-11T11:29:43.895703",
   "top_stories": [
     {
-      "title": "Brandy and Monica Announce ‘The Boy Is Mine’ 2027 Residency at Las Vegas’ Resorts World",
+      "title": "‘Adolescence’ Writer Jack Thorne Adapts Matt Haig’s ‘The Humans’ for London’s West End With ‘House of the Dragon’ Star Matt Smith",
       "source": "Variety",
       "date": "2026-11-11",
-      "url": "https://variety.com/2026/music/news/brandy-monica-announce-the-boy-is-mine-las-vegas-residency-1236944316/"
+      "url": "https://variety.com/2026/theater/news/adolescence-writer-the-humans-house-of-the-dragon-matt-smith-1236944987/"
     },
     {
-      "title": "Brenda Song Says She Was ‘Overworked’ and ‘Underpaid’ on ‘The Suite Life of Zack and Cody,’ Recalls Fainting on Set: I Thought, ‘Am I Having a Panic Attack?’",
+      "title": "Taiwan Creative Content Fest Takeaways: ‘Avatar’ VFX House Brings Its AI Ambitions to Taipei as Character IP Booms",
       "source": "Variety",
       "date": "2026-11-11",
-      "url": "https://variety.com/2026/tv/news/brenda-song-suite-life-of-zack-and-cody-1236944810/"
+      "url": "https://variety.com/2026/film/markets-festivals/taiwan-creative-content-fest-takeaways-ai-deals-character-ip-boom-1236945001/"
     },
     {
-      "title": "Stacy Keach, Star of ‘Mike Hammer,’ ‘Fat City,’ Dies at 85",
+      "title": "‘NAZA’ From ‘No Other Land’ Co-Directors Passes 1.5 Million Cinema Admissions Worldwide",
       "source": "Variety",
       "date": "2026-11-11",
-      "url": "https://variety.com/2026/film/news/stacy-keach-dead-mike-hammer-fat-city-1236944687/"
+      "url": "https://variety.com/2026/film/news/naza-no-other-land-cinema-admissions-1236944995/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「レナードの朝」原作者の晩年の恋、映画化へ",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261111/18/"
+    },
+    {
+      "title": "「キンツア」新作CGライブを盛り込んだ新ルート「route1.5」「route5.5」が27年1月上映　4DX演出強化版も2月上映",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261111/16/"
+    },
+    {
+      "title": "ハリウッドスターのAI広告、本人の承認で量産へ",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261111/15/"
+    },
+    {
+      "title": "TikTok、TVアニメ「ブラッククローバー」とのグローバルキャンペーンを11の国と地域で開催　特別なプロフィールフレームも",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261111/17/"
+    },
+    {
+      "title": "スティーブン・キング原作のホラー「1408号室」、続編が始動",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261111/13/"
+    },
+    {
+      "title": "「傷口と包帯」追加キャストに盆子原康、高梨謙吾　杉田智和がナレーション担当　本PVでOP主題歌を初披露",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261111/12/"
+    },
+    {
+      "title": "ペニーワイズ役のビル・スカルスガルド、007の悪役に意欲",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261111/11/"
+    },
+    {
+      "title": "濱口竜介監督「急に具合が悪くなる」、第36回オスロ・Films from the Southにてシルバー・ミラー名誉賞を受賞！",
+      "source": "映画.com",
+      "date": "2026-11-10",
+      "url": "https://eiga.com/news/20261111/1/"
+    },
+    {
+      "title": "ノーラン監督、AIから映画を守るのは「スタジオの責任」",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261111/9/"
+    },
     {
       "title": "「字幕を見た」ではなく「映画を見た」と思えるために――日韓の当事者が語る映画字幕の未来",
       "source": "映画.com",
@@ -68,12 +122,6 @@
       "source": "映画.com",
       "date": "2026-11-10",
       "url": "https://eiga.com/news/20261111/5/"
-    },
-    {
-      "title": "濱口竜介監督「急に具合が悪くなる」、第36回オスロ・Films from the Southにてシルバー・ミラー名誉賞を受賞！",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261111/1/"
     },
     {
       "title": "せいや「演技を超えている」 “自分”を演じた大橋和也を絶賛【「人生を変えたコント」完成披露】",
@@ -140,60 +188,6 @@
       "source": "映画.com",
       "date": "2026-11-10",
       "url": "https://eiga.com/news/20261110/14/"
-    },
-    {
-      "title": "未成年を狙う大人を隠しカメラの前に誘い出し断罪させる──ロバート・パティンソン主演「プライムタイム」“正義のリアリティショー”の舞台裏を捉えた禁断の予告編",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261110/12/"
-    },
-    {
-      "title": "地球は繋がっていて、みんな同じ時代に生きている――「3ミリの恋」全辰隆監督、ソウジ・アライ、「トロフィー」孫明雅監督鼎談",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261110/11/"
-    },
-    {
-      "title": "奈緒主演「かすかな彼を抱きしめて」　主人公・かなみの過去と現在を映し出す新場面写真",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261110/10/"
-    },
-    {
-      "title": "「ペロペロ★スパ～クルズ」27年1月放送開始　榊原優希、菅野真衣、ファイルーズあいが出演　阿座上洋平がナレーション担当",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261110/9/"
-    },
-    {
-      "title": "日向坂46の四期生全員が出演「ゼンブ・オブ・ワールド」27年2月26日公開！　“全国”を駆け巡るメイキング特報完成",
-      "source": "映画.com",
-      "date": "2026-11-09",
-      "url": "https://eiga.com/news/20261110/8/"
-    },
-    {
-      "title": "山﨑賢人が松下洸平に首を絞められ微笑む…!? “約30年の歪んだ友情”や武井咲、森田望智ら捉えた「殺人の門」新場面写真一挙公開",
-      "source": "映画.com",
-      "date": "2026-11-09",
-      "url": "https://eiga.com/news/20261110/7/"
-    },
-    {
-      "title": "吉野北人主演×飯塚健監督「ラストバケーション」2月26日公開決定！　ポスタービジュアルと予告編を披露【コメントあり】",
-      "source": "映画.com",
-      "date": "2026-11-09",
-      "url": "https://eiga.com/news/20261110/6/"
-    },
-    {
-      "title": "麻生久美子「ビリーと魔法のはじまり」でディズニー作品初参加＆主人公の母親・アリス役の日本版声優に決定！　畑芽育、生田斗真が特別映像で発表！",
-      "source": "映画.com",
-      "date": "2026-11-09",
-      "url": "https://eiga.com/news/20261110/5/"
-    },
-    {
-      "title": "李相日監督「フラガール」4Kリマスター版、2月5日公開！【監督＆キャストコメントあり】",
-      "source": "映画.com",
-      "date": "2026-11-09",
-      "url": "https://eiga.com/news/20261110/3/"
     }
   ],
   "bd_releases": [],
