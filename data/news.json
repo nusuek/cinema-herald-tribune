@@ -1,26 +1,56 @@
 {
-  "generated_at": "2026-11-11T18:54:59.225511",
+  "generated_at": "2026-11-12T01:05:51.668131",
   "top_stories": [
     {
-      "title": "Irma P. Hall, ‘Soul Food’ and ‘The Ladykillers’ Actress, Dies at 91",
+      "title": "‘How to Rob a Bank’ Review: Nicholas Hoult and Zoë Kravitz Take Their Paychecks in an Annoyingly Flashy, Emotionally Turgid Influencer-Age Heist Movie",
       "source": "Variety",
-      "date": "2026-11-11",
-      "url": "https://variety.com/2026/film/news/irma-p-hall-dead-soul-food-1236945266/"
+      "date": "2026-11-12",
+      "url": "https://variety.com/2026/film/reviews/how-to-rob-a-bank-review-1236945761/"
     },
     {
-      "title": "Geese’s Soaring Live Show Lives Up to the Hype, With Fearless Improvisations and Boundless Energy: Concert Review",
+      "title": "Russell Brand’s Instagram Account Removed By Meta After Rape Conviction",
       "source": "Variety",
-      "date": "2026-11-11",
-      "url": "https://variety.com/2026/music/reviews/geese-concert-review-getting-killed-again-tour-1236942994/"
+      "date": "2026-11-12",
+      "url": "https://variety.com/2026/film/news/russell-brand-instagram-removed-meta-rape-conviction-1236945732/"
     },
     {
-      "title": "FKA Twigs Becomes Josephine Baker: Inside the Lavish, Globe-Spanning Biopic from Maimouna Doucouré and Studiocanal (EXCLUSIVE)",
+      "title": "Gang Dong-won, Kim Go-eun to Star in Netflix’s ‘The Twilight Between Us’ From ‘When Life Gives You Tangerines’ Director, ‘Queen of Tears’ Writer",
       "source": "Variety",
-      "date": "2026-11-11",
-      "url": "https://variety.com/2026/film/news/fka-twigs-josephine-baker-maimouna-doucoure-1236944739/"
+      "date": "2026-11-12",
+      "url": "https://variety.com/2026/tv/news/gang-dong-won-kim-go-eun-netflix-twilight-between-us-1236945029/"
     }
   ],
   "new_releases": [
+    {
+      "title": "突如現れた謎の感染者が人々を襲う！チョン・ジヒョン×ヨン・サンホ監督「コロニー　群体」本編映像初解禁",
+      "source": "映画.com",
+      "date": "2026-11-12",
+      "url": "https://eiga.com/news/20261112/7/"
+    },
+    {
+      "title": "「ダン活」ヒロイン役は七瀬彩夏、和泉琴音、飯田ヒカル、浅倉千颯　ティザーPVも公開",
+      "source": "映画.com",
+      "date": "2026-11-12",
+      "url": "https://eiga.com/news/20261112/4/"
+    },
+    {
+      "title": "監督トニー・ギルロイ×主演ペドロ・パスカル「ベヒモス！人生の組曲」3月5日公開決定　音楽を通して交差する複雑な人間模様を捉えた本予告披露",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261112/3/"
+    },
+    {
+      "title": "宮藤官九郎主演×高橋文哉＆松田龍平共演ミステリー「真犯人」2027年4月公開決定　ティザービジュアル披露",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261112/2/"
+    },
+    {
+      "title": "「ユー・ガット・メール」、ワーナーがリブートへ",
+      "source": "映画.com",
+      "date": "2026-11-11",
+      "url": "https://eiga.com/news/20261112/1/"
+    },
     {
       "title": "恋もハプニングもシリーズ史上最大級にヒートアップ！「エミリー、パリへ行く」ティザー予告編が解禁",
       "source": "映画.com",
@@ -152,42 +182,6 @@
       "source": "映画.com",
       "date": "2026-11-10",
       "url": "https://eiga.com/news/20261110/27/"
-    },
-    {
-      "title": "ルーニー・テューンズの人気キャラクター、ダフィー・ダックが14年ぶりにスクリーンへ！短編映画「ダフィーのハンティング・シーズン」公開決定",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261110/29/"
-    },
-    {
-      "title": "ジム・ジャームッシュ最新作「ファーザー マザー シスター ブラザー」120秒のロング予告＆永瀬正敏ら15人からのコメント公開",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261110/17/"
-    },
-    {
-      "title": "岡山天音×武田玲奈主演「ポエトリーエンジェル」リバイバル公開決定！ 主題歌はミセス、山﨑賢人も友情出演",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261110/16/"
-    },
-    {
-      "title": "日本のインディ映画シーンを支えてきた20年の歩みを振り返る「田辺・弁慶映画祭の20年」発売！ 映画ファン・映画関係者必読の一冊",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261110/25/"
-    },
-    {
-      "title": "恋人でもただの友人でもない　絶妙な距離感を成田凌が見事に体現「男ともだち」本編映像【東京国際映画祭で最優秀男優賞】",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261110/13/"
-    },
-    {
-      "title": "新「X-MEN」、アイスマン役で「ベスト・キッド　レジェンズ」の主演俳優が交渉",
-      "source": "映画.com",
-      "date": "2026-11-10",
-      "url": "https://eiga.com/news/20261110/15/"
     }
   ],
   "bd_releases": [],
