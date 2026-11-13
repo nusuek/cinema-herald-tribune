@@ -1,26 +1,80 @@
 {
-  "generated_at": "2026-11-13T02:59:09.358205",
+  "generated_at": "2026-11-13T10:30:33.340135",
   "top_stories": [
     {
-      "title": "Laika’s ‘Wildwood’ Passes $60 Million Worldwide (EXCLUSIVE)",
+      "title": "How the Baltics Are Juggling a Boom in Foreign Productions Like ‘Woman Unknown’ With a Lack of Public Funds",
       "source": "Variety",
       "date": "2026-11-13",
-      "url": "https://variety.com/2026/film/global/wildwood-passes-60-million-worldwide-box-office-1236946750/"
+      "url": "https://variety.com/2026/film/global/woman-unknown-star-city-baltics-foreign-shoots-boom-1236946177/"
     },
     {
-      "title": "‘The Witcher’ Star Freya Allan to Lead Joachim Rønning’s Horror Movie ‘System’ (EXCLUSIVE)",
+      "title": "Russell Brand Faces Sexual Misconduct Claims From Six More Women After Rape Sentencing",
       "source": "Variety",
       "date": "2026-11-13",
-      "url": "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732/"
+      "url": "https://variety.com/2026/tv/news/russell-brand-misconduct-claims-six-more-women-1236946823/"
     },
     {
-      "title": "Documentaries at the Oscars: A History of Breaking Out of Their Category — and What It Means for ‘You Can See Everything’",
+      "title": "‘Heartland’ Review: Jessica Chastain Rocks a Stetson and a Swagger for a Soapy Nashville Noir",
       "source": "Variety",
       "date": "2026-11-13",
-      "url": "https://variety.com/2026/film/awards/you-can-see-everything-documentary-oscars-history-1236946588/"
+      "url": "https://variety.com/2026/film/news/heartland-review-jessica-chastain-1236946587/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「モアナと伝説の海2」金曜ロードショーで今夜放送！　海に選ばれた少女が再び大海原へ【あらすじ＆キャスト紹介】",
+      "source": "映画.com",
+      "date": "2026-11-13",
+      "url": "https://eiga.com/news/20261113/22/"
+    },
+    {
+      "title": "元ナチス外科医が協力…「美女の皮をはぐ男」リメイクR18+ホラー「フェイスレス4K」新予告＆特別試写会",
+      "source": "映画.com",
+      "date": "2026-11-13",
+      "url": "https://eiga.com/news/20261113/21/"
+    },
+    {
+      "title": "【映画.com独占】柴咲コウ×赤楚衛二主演「余命一年、男をかう」風間太樹監督と脚本家・岡田惠和が語る原作の魅力【No.1】",
+      "source": "映画.com",
+      "date": "2026-11-13",
+      "url": "https://eiga.com/news/20261113/15/"
+    },
+    {
+      "title": "人間は恋人と別れることはできても、自分自身と別れることはできない「ムクドリと人生とレモンパスタ」【二村ヒトシコラム】",
+      "source": "映画.com",
+      "date": "2026-11-13",
+      "url": "https://eiga.com/news/20261113/16/"
+    },
+    {
+      "title": "「アベンジャーズ　ドゥームズデイ」脚本家に、デッドプールとウルヴァリンの2人",
+      "source": "映画.com",
+      "date": "2026-11-13",
+      "url": "https://eiga.com/news/20261113/17/"
+    },
+    {
+      "title": "【本日公開】ジョニー・デップが明かす嫌味なキャラクター・スクルージへの新たなアプローチ「クリスマス・キャロル」特別映像公開",
+      "source": "映画.com",
+      "date": "2026-11-13",
+      "url": "https://eiga.com/news/20261113/20/"
+    },
+    {
+      "title": "「ゴジラ-0.0」はどのように作られたのか？　500日間の執念に迫る密着ドキュメンタリーがPrime Videoで11月27日から配信決定",
+      "source": "映画.com",
+      "date": "2026-11-12",
+      "url": "https://eiga.com/news/20261113/4/"
+    },
+    {
+      "title": "「SPY×FAMILY」TVアニメ第4期＆劇場版第2弾、27年に放送＆公開決定",
+      "source": "映画.com",
+      "date": "2026-11-13",
+      "url": "https://eiga.com/news/20261113/19/"
+    },
+    {
+      "title": "2026年度「新藤兼人賞」最終選考に「万事快調　オール・グリーンズ」児山隆、「トロフィー」孫明雅ら監督7名が決定！",
+      "source": "映画.com",
+      "date": "2026-11-13",
+      "url": "https://eiga.com/news/20261113/14/"
+    },
     {
       "title": "ジョン・カーニー監督が語る新作「きみに贈る最強のうた」誕生秘話　ポール・ラッド＆ニック・ジョナスとの3Sインタビュー映像公開",
       "source": "映画.com",
@@ -74,12 +128,6 @@
       "source": "映画.com",
       "date": "2026-11-12",
       "url": "https://eiga.com/news/20261113/6/"
-    },
-    {
-      "title": "「ゴジラ-0.0」はどのように作られたのか？　500日間の執念に迫る密着ドキュメンタリーがPrime Videoで11月27日から配信決定",
-      "source": "映画.com",
-      "date": "2026-11-12",
-      "url": "https://eiga.com/news/20261113/4/"
     },
     {
       "title": "ジョニー・デップ主演「シザーハンズ」金曜ロードショーで放送！　ティム・バートン監督との“黄金コンビ”が放つ不朽の名作",
@@ -140,60 +188,6 @@
       "source": "映画.com",
       "date": "2026-11-12",
       "url": "https://eiga.com/news/20261112/22/"
-    },
-    {
-      "title": "「アベンジャーズ　エンドゲーム　アンコール」11月13日からディズニープラスで独占配信",
-      "source": "映画.com",
-      "date": "2026-11-12",
-      "url": "https://eiga.com/news/20261112/15/"
-    },
-    {
-      "title": "蔦哲⼀朗監督作「黒の牛」、MoMA Presentsに選出　日本映画の単独上映は「ハッピーアワー」以来10年ぶり",
-      "source": "映画.com",
-      "date": "2026-11-12",
-      "url": "https://eiga.com/news/20261112/19/"
-    },
-    {
-      "title": "アン・ハサウェイ誕生日記念！「ヴェリティ 真実」美しくも不気味な本編映像公開",
-      "source": "映画.com",
-      "date": "2026-11-12",
-      "url": "https://eiga.com/news/20261112/16/"
-    },
-    {
-      "title": "「映画ちいかわ」コラボ脱出ゲームに「おうちで遊べる版」登場　ちいかわ、ハチワレ、うさぎを探す冒険が楽しめる",
-      "source": "映画.com",
-      "date": "2026-11-12",
-      "url": "https://eiga.com/news/20261112/14/"
-    },
-    {
-      "title": "新たな⾳楽の時代を切り開いてきた名プロデューサーに迫るドキュメンタリー「ピーター・アッシャー　伝説を支えた伝説　ビートルズからウェストコースト・サウンドへ」2月19日公開",
-      "source": "映画.com",
-      "date": "2026-11-12",
-      "url": "https://eiga.com/news/20261112/13/"
-    },
-    {
-      "title": "麻生久美子「ビリーと魔法のはじまり」でディズニー作品初参加＆主人公の母親・アリス役の日本版声優に決定！　畑芽育、生田斗真が特別映像で発表！",
-      "source": "映画.com",
-      "date": "2026-11-09",
-      "url": "https://eiga.com/news/20261110/5/"
-    },
-    {
-      "title": "「全員殺したら電話して」“完全犯罪”とブラックユーモア「大富豪になるための正しい殺し方」海外版予告",
-      "source": "映画.com",
-      "date": "2026-11-12",
-      "url": "https://eiga.com/news/20261112/8/"
-    },
-    {
-      "title": "クリステン・スチュワート監督デビュー作「クロノロジー・オブ・ウォーター」予告編＆ポスター公開",
-      "source": "映画.com",
-      "date": "2026-11-12",
-      "url": "https://eiga.com/news/20261112/10/"
-    },
-    {
-      "title": "「呪いのスマホ」こんな体育の授業は絶対に嫌だ！　絶望の耐久戦……呪いの元凶をとらえた戦慄の映像公開",
-      "source": "映画.com",
-      "date": "2026-11-12",
-      "url": "https://eiga.com/news/20261112/11/"
     }
   ],
   "bd_releases": [],
