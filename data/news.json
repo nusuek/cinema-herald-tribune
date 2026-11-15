@@ -1,26 +1,56 @@
 {
-  "generated_at": "2026-11-15T01:22:34.302727",
+  "generated_at": "2026-11-15T08:30:27.266231",
   "top_stories": [
     {
-      "title": "Oak Ridge Boys’ Richard Sterban, Whose Distinctive Bass Voice Powered ‘Elvira’ and Other Country Smashes, Dies at 83",
+      "title": "‘Dhurandhar,’ ‘Kantara: A Legend – Chapter 1’ Among Indian Panorama Lineup at IFFI Goa",
       "source": "Variety",
       "date": "2026-11-15",
-      "url": "https://variety.com/2026/music/people-news/richard-sterban-dead-oak-ridge-boys-bass-vocalist-1236947870/"
+      "url": "https://variety.com/2026/film/festivals/dhurandhar-kantara-chapter-1-iffi-indian-panorama-2026-1236947982/"
     },
     {
-      "title": "Inside the First AI Music Awards, a Chaotic Evening Attempting to Normalize Tech-Assisted Tunes",
+      "title": "Jakarta World Cinema Expands to Malang and Bandung, Where Palme d’Or Winner ‘Fjord’ Opens Festival",
       "source": "Variety",
-      "date": "2026-11-14",
-      "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/"
+      "date": "2026-11-15",
+      "url": "https://variety.com/2026/film/festivals/jakarta-world-cinema-expands-malang-bandung-fjord-1236947977/"
     },
     {
-      "title": "Chris Pratt Says He ‘Would Love’ James Gunn to Direct a Fourth ‘Guardians of the Galaxy’ Film After DC Exit",
+      "title": "Amanda Seyfried to Make Her Debut as ‘Saturday Night Live’ Host",
       "source": "Variety",
-      "date": "2026-11-14",
-      "url": "https://variety.com/2026/film/news/chris-pratt-james-gunn-guardians-of-the-galaxy-4-dc-exit-1236947808/"
+      "date": "2026-11-15",
+      "url": "https://variety.com/2026/tv/news/amanda-seyfried-snl-host-debut-december-don-toliver-1236947942/"
     }
   ],
   "new_releases": [
+    {
+      "title": "「Paradox Live」初の劇場アニメが27年に公開決定　各チームリーダーが集結した超ティザービジュアル発表",
+      "source": "映画.com",
+      "date": "2026-11-15",
+      "url": "https://eiga.com/news/20261115/8/"
+    },
+    {
+      "title": "「ぼくの好きな人が好きな人」27年4月放送開始　三角関係のメインキャラ役に梶原岳人、三川華月、稗田寧々",
+      "source": "映画.com",
+      "date": "2026-11-15",
+      "url": "https://eiga.com/news/20261115/7/"
+    },
+    {
+      "title": "ジェームズ・ディーン伝記映画、恋愛関係にあったとされるルームメイト役が決定",
+      "source": "映画.com",
+      "date": "2026-11-15",
+      "url": "https://eiga.com/news/20261115/6/"
+    },
+    {
+      "title": "【映画.com独占】「自分の人生の舵を切ってみるのも大切」唯と瀬名の物語を通して受け取る生きるヒント「余命一年、男をかう」監督×脚本家対談【No.3】",
+      "source": "映画.com",
+      "date": "2026-11-15",
+      "url": "https://eiga.com/news/20261115/5/"
+    },
+    {
+      "title": "なにわ男子・大橋和也のキャスティングは「原作者としてのこだわりを超えてくる」　せいや絶賛「人生を変えたコント」新場面写真",
+      "source": "映画.com",
+      "date": "2026-11-15",
+      "url": "https://eiga.com/news/20261115/4/"
+    },
     {
       "title": "長澤まさみ×柄本佑×石橋静河が具現化する、「このごにおよんで愛など」に続く言葉の着地点【撮影現場ルポ】",
       "source": "映画.com",
@@ -152,36 +182,6 @@
       "source": "映画.com",
       "date": "2026-11-13",
       "url": "https://eiga.com/news/20261113/15/"
-    },
-    {
-      "title": "人間は恋人と別れることはできても、自分自身と別れることはできない「ムクドリと人生とレモンパスタ」【二村ヒトシコラム】",
-      "source": "映画.com",
-      "date": "2026-11-13",
-      "url": "https://eiga.com/news/20261113/16/"
-    },
-    {
-      "title": "【本日公開】ジョニー・デップが明かす嫌味なキャラクター・スクルージへの新たなアプローチ「クリスマス・キャロル」特別映像公開",
-      "source": "映画.com",
-      "date": "2026-11-13",
-      "url": "https://eiga.com/news/20261113/20/"
-    },
-    {
-      "title": "「ゴジラ-0.0」はどのように作られたのか？　500日間の執念に迫る密着ドキュメンタリーがPrime Videoで11月27日から配信決定",
-      "source": "映画.com",
-      "date": "2026-11-12",
-      "url": "https://eiga.com/news/20261113/4/"
-    },
-    {
-      "title": "「SPY×FAMILY」TVアニメ第4期＆劇場版第2弾、27年に放送＆公開決定",
-      "source": "映画.com",
-      "date": "2026-11-13",
-      "url": "https://eiga.com/news/20261113/19/"
-    },
-    {
-      "title": "2026年度「新藤兼人賞」最終選考に「万事快調　オール・グリーンズ」児山隆、「トロフィー」孫明雅ら監督7名が決定！",
-      "source": "映画.com",
-      "date": "2026-11-13",
-      "url": "https://eiga.com/news/20261113/14/"
     }
   ],
   "bd_releases": [],
