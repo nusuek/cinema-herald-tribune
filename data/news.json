@@ -1,26 +1,92 @@
 {
-  "generated_at": "2026-11-16T17:32:25.057743",
+  "generated_at": "2026-11-17T01:09:19.935847",
   "top_stories": [
     {
-      "title": "‘The Odyssey’ Cinematographer Hoyte Van Hoytema Breaks Down Filming Climactic Thunderstorm Scene in Imax",
+      "title": "Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere",
       "source": "Variety",
-      "date": "2026-11-16",
-      "url": "https://variety.com/2026/artisans/news/the-odyssey-hoyte-van-hoytema-thunderstorm-imax-1236948974/"
+      "date": "2026-11-17",
+      "url": "https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/"
     },
     {
-      "title": "Ubisoft Massive Entertainment Boss Christoph Hartmann on His Amazon Games Exit and Turning ‘Splinter Cell’ Studio Into ‘A24 of Video Gaming’ (EXCLUSIVE)",
+      "title": "‘Spider-Man: Brand New Day’ Extended Cut Sets December Release Date in Theaters",
       "source": "Variety",
       "date": "2026-11-16",
-      "url": "https://variety.com/2026/gaming/news/ubisoft-massive-entertainment-christoph-hartmann-amazon-exit-1236945350/"
+      "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654/"
     },
     {
-      "title": "Harrison Ford Exec-Produced Voyaging Film ‘The Navigator’ Unveils Clip Ahead of DOC NYC Premiere (EXCLUSIVE)",
+      "title": "‘NAZA’ Filmmakers Grateful for ‘Light Being Shone’ on Their Film Through Awards Conversation but Prioritize Impact: It’s a ‘Small Cog in a Machine of Resistance’",
       "source": "Variety",
       "date": "2026-11-16",
-      "url": "https://variety.com/2026/film/news/harrison-ford-voyaging-film-navigator-clip-1236946185/"
+      "url": "https://variety.com/2026/film/global/naza-yuval-abraham-james-wilson-awards-impact-idfa-1236949104/"
     }
   ],
   "new_releases": [
+    {
+      "title": "シルベスター・スタローン×カート・ラッセル共演！ 痛快バディムービー「デッドフォール」本日午後ローで放送",
+      "source": "映画.com",
+      "date": "2026-11-17",
+      "url": "https://eiga.com/news/20261117/11/"
+    },
+    {
+      "title": "「ゴジラ－0.0」が2週連続V！ 新作は「楽園追放」「クリスマス・キャロル」「呪いのスマホ」「負けへんで」【国内映画ランキング】",
+      "source": "映画.com",
+      "date": "2026-11-17",
+      "url": "https://eiga.com/news/20261117/10/"
+    },
+    {
+      "title": "世界の命運は“夜勤バイト”ジョー・キーリーに丸投げ！「アンダー・ストレージ」“グロいけど笑える”波乱の一夜を捉えた新場面写真",
+      "source": "映画.com",
+      "date": "2026-11-17",
+      "url": "https://eiga.com/news/20261117/9/"
+    },
+    {
+      "title": "YouTube月間平均視聴40億回以上！世界中で人気の「ココメロン」がスクリーンへ「ココメロン ザ・ムービー」27年5月28日公開",
+      "source": "映画.com",
+      "date": "2026-11-16",
+      "url": "https://eiga.com/news/20261117/8/"
+    },
+    {
+      "title": "【映画.com独占】アイアンマン役のロバート・ダウニー・Jr.、ヴィラン役でMCUに復帰した理由を明かす",
+      "source": "映画.com",
+      "date": "2026-11-16",
+      "url": "https://eiga.com/news/20261117/7/"
+    },
+    {
+      "title": "YMFスカラシップ映画第1弾「この夏、誰も救えない僕らは、空に叫んだ」主演に城桧吏！ 南琴奈＆船越英一郎が共演",
+      "source": "映画.com",
+      "date": "2026-11-16",
+      "url": "https://eiga.com/news/20261117/5/"
+    },
+    {
+      "title": "北村匠海「楽曲を聞いて、救われた」ミセス大森元貴との「君の話」スペシャル対談公開",
+      "source": "映画.com",
+      "date": "2026-11-16",
+      "url": "https://eiga.com/news/20261117/6/"
+    },
+    {
+      "title": "長濱ねるがジェシーのバディに！「ハボウの轍 公安調査官・テロを防ぐ公務員」に出演",
+      "source": "映画.com",
+      "date": "2026-11-16",
+      "url": "https://eiga.com/news/20261117/4/"
+    },
+    {
+      "title": "なにわ男子・西畑大吾×深川麻衣　幽霊との恋の行方を描くロマンティックスリラー「僕と彼女の49日」2027年1月スタート",
+      "source": "映画.com",
+      "date": "2026-11-16",
+      "url": "https://eiga.com/news/20261117/3/"
+    },
+    {
+      "title": "阪神タイガース公式ドキュメンタリー映画「阪神タイガース THE OFFICIAL MOVIE 2026 熱覇の記憶」12月18日公開！ポスター＆予告映像を披露",
+      "source": "映画.com",
+      "date": "2026-11-16",
+      "url": "https://eiga.com/news/20261117/2/"
+    },
+    {
+      "title": "岡田准一＆仲野太賀、映画「SUKIYAKI 上を向いて歩こう」プレミアで米ニューヨークへ！ 観客300人との大合唱に感動",
+      "source": "映画.com",
+      "date": "2026-11-16",
+      "url": "https://eiga.com/news/20261117/1/"
+    },
     {
       "title": "ちいかわたちがナースやドクター、臓器になっちゃった　「ちいかわクリニック」グッズシリーズが発売決定",
       "source": "映画.com",
@@ -110,72 +176,6 @@
       "source": "映画.com",
       "date": "2026-11-16",
       "url": "https://eiga.com/news/20261116/7/"
-    },
-    {
-      "title": "神山健治監督、新作ガンダムは「早く見てもらいたい気持ちある」　特集上映で「攻殻機動隊S.A.C.」など過去作制作秘話語る",
-      "source": "映画.com",
-      "date": "2026-11-16",
-      "url": "https://eiga.com/news/20261116/11/"
-    },
-    {
-      "title": "川口春奈主演「ママがもうこの世界にいなくても 私の命の日記」興収40億円突破！【山戸結希監督 特集上映イベント】実施決定",
-      "source": "映画.com",
-      "date": "2026-11-16",
-      "url": "https://eiga.com/news/20261116/6/"
-    },
-    {
-      "title": "俳優オーディション番組「THE OPEN CALL」最終回配信を前に阿部進之介、YOU、森本しんたろうが番組を徹底考察！特別番組を配信",
-      "source": "映画.com",
-      "date": "2026-11-16",
-      "url": "https://eiga.com/news/20261116/14/"
-    },
-    {
-      "title": "「ファイヤー・ウィズ・ファイヤー 炎の誓い」午後ローで本日放送！ジョシュ・デュアメル×ブルース・ウィリス共演作",
-      "source": "映画.com",
-      "date": "2026-11-16",
-      "url": "https://eiga.com/news/20261116/5/"
-    },
-    {
-      "title": "もしも目の前に数字が見えたら？チェ・ウシク「あな母」撮影について語る【インタビュー】",
-      "source": "映画.com",
-      "date": "2026-11-16",
-      "url": "https://eiga.com/news/20261116/4/"
-    },
-    {
-      "title": "悪役憑依ファンタジー「俺の死亡フラグが留まるところを知らない」27年にTVアニメ化決定",
-      "source": "映画.com",
-      "date": "2026-11-15",
-      "url": "https://eiga.com/news/20261116/3/"
-    },
-    {
-      "title": "豊嶋花×ACEes・那須雄登W主演！「たとえ祈りが届かなくても君に伝えたいことがあるんだ」27年春公開　原作は「あの花」の汐見夏衛",
-      "source": "映画.com",
-      "date": "2026-11-15",
-      "url": "https://eiga.com/news/20261116/2/"
-    },
-    {
-      "title": "早瀬憩主演「呪いのスマホ」、“呪いの秘密”に迫る最終予告映像＆新場面写真が完成！",
-      "source": "映画.com",
-      "date": "2026-11-15",
-      "url": "https://eiga.com/news/20261116/1/"
-    },
-    {
-      "title": "畑芽育×斎藤工“ちぐはぐバディ”が匂いで難事件解決！「SMELLOCK　スメロック 香察事件譚」27年1月放送、演出は井口昇",
-      "source": "映画.com",
-      "date": "2026-11-15",
-      "url": "https://eiga.com/news/20261116/9/"
-    },
-    {
-      "title": "劇場総集編「タコピーの原罪」入場特典は「タコピー スクイーズ」　ぎゅっとしても元に戻るもちもち仕様",
-      "source": "映画.com",
-      "date": "2026-11-15",
-      "url": "https://eiga.com/news/20261115/12/"
-    },
-    {
-      "title": "「ブラッククローバー」ノエルが“聖域・海神戦乙女の羽衣鎧”を発動したバトルビジュアル公開",
-      "source": "映画.com",
-      "date": "2026-11-15",
-      "url": "https://eiga.com/news/20261115/11/"
     }
   ],
   "bd_releases": [],
