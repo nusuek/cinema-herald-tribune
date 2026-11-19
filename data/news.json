@@ -1,26 +1,104 @@
 {
-  "generated_at": "2026-11-19T00:48:00.661998",
+  "generated_at": "2026-11-19T08:03:06.457222",
   "top_stories": [
     {
-      "title": "Why ‘GTA’ Has Never Been Adapted for Film or TV: ‘We Prefer to Control Our Own Destiny,’ Take-Two CEO Says",
+      "title": "‘The Altruists’ Review: Netflix FTX Series Fails to Get a Handle on Crypto Scammer Sam Bankman-Fried",
       "source": "Variety",
       "date": "2026-11-19",
-      "url": "https://variety.com/2026/gaming/news/gta-6-movie-grand-theft-auto-games-adapted-1236952350/"
+      "url": "https://variety.com/2026/tv/reviews/the-altruists-review-netflix-sam-bankman-fried-1236952311/"
     },
     {
-      "title": "Chris Pratt to Star in Sci-Fi Family Drama ‘The Traveler,’ Inks First-Look Producing Deal at Paramount (EXCLUSIVE)",
+      "title": "Hearst Canvas Launches Frontier Collective Brand as U.K. Arm Builds Digital-Native Content Slate for YouTube",
       "source": "Variety",
       "date": "2026-11-19",
-      "url": "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/"
+      "url": "https://variety.com/2026/tv/news/hearst-canvas-launches-frontier-collective-alex-bescoby-1236952832/"
     },
     {
-      "title": "Pierce Brosnan Welcomes Robert Pattinson Into the James Bond Family: ‘You Are Going to Be Magnificent’",
+      "title": "Airbnb Recreates Iconic ‘Kabhi Khushi Kabhie Gham’ Mansion for Film’s 25th Anniversary, With Kareena Kapoor Khan and Hrithik Roshan Hosting",
       "source": "Variety",
       "date": "2026-11-19",
-      "url": "https://variety.com/2026/film/news/robert-pattinson-pierce-brosnan-james-bond-1236952519/"
+      "url": "https://variety.com/2026/shopping/news/kabhi-khushi-kabhie-gham-house-airbnb-book-online-1236952352/"
     }
   ],
   "new_releases": [
+    {
+      "title": "マコーレー・カルキン、「ホーム・アローン」ケビン役を米マクドナルドCMで再演",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/8/"
+    },
+    {
+      "title": "アニメをつくり続けて45年――片渕須直監督の特集上映が開催決定　「この世界の片隅に」や最新作パイロットフィルムなど上映",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/15/"
+    },
+    {
+      "title": "ブラッド・ピット、「クリフ・ブース」がフィンチャー監督作になった経緯を告白",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/24/"
+    },
+    {
+      "title": "マーベル社長、「ドゥームズデイ」のドクター・ドゥーム誕生の経緯を明かす",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/23/"
+    },
+    {
+      "title": "アジア初就航となる最新鋭の客船に密着「ディズニー・アドベンチャー 魔法の船にようこそ！」11月28日から独占配信",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/14/"
+    },
+    {
+      "title": "ジョシュ・オコナー、新「007」ボンド役選考を自ら降りていた",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/22/"
+    },
+    {
+      "title": "黒川想矢＆キム・ジアン「3ミリの恋」日韓メイキング写真　一ノ瀬ワタル、MEGUMI、大谷亮平が青春時代語る",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/11/"
+    },
+    {
+      "title": "【なにが＜超＞なの？】＜超＞実写版「モアナと伝説の海」製作陣のこだわりを深掘り",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/13/"
+    },
+    {
+      "title": "山崎貴監督のハリウッド初作品、ポール・ジアマッティらの出演が決定",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/9/"
+    },
+    {
+      "title": "音楽へのこだわりが細部に宿る――ジョン・カーニー監督最新作「きみに贈る最強のうた」製作の舞台裏【映画.com独占】",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/5/"
+    },
+    {
+      "title": "ジョン・マルコビッチ×サム・ロックウェルが語る「ワイルド・ホース・ナイン」の魅力【来日情報も報告!?】",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/4/"
+    },
+    {
+      "title": "ホラー作家・背筋の小説を実写映画化「穢れた聖地巡礼について」2027年公開",
+      "source": "映画.com",
+      "date": "2026-11-19",
+      "url": "https://eiga.com/news/20261119/1/"
+    },
+    {
+      "title": "第2回ANIAFF、金鯱賞は「魔法の星図」、「CHERRY AND VIRGIN」が2冠！",
+      "source": "映画.com",
+      "date": "2026-11-18",
+      "url": "https://eiga.com/news/20261118/19/"
+    },
     {
       "title": "【第69回グラミー賞】「プラダを着た悪魔2」「トイ・ストーリー5」「スター・ウォーズ　マンダロリアン・アンド・グローグー」が候補入り",
       "source": "映画.com",
@@ -110,78 +188,6 @@
       "source": "映画.com",
       "date": "2026-11-18",
       "url": "https://eiga.com/news/20261118/29/"
-    },
-    {
-      "title": "「映画 ◯月◯日、区長になる女。」のペヤンヌマキが全国行脚「女たちのミュニシパリズム」本予告＆新場面写真",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/5/"
-    },
-    {
-      "title": "なかむらたかし監督のオリジナル長編アニメ「オロチ -Seventh Echoes-」パイロットフィルム公開",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/17/"
-    },
-    {
-      "title": "ブラッド・ピットとフローレンス・ピュー、新「007」の悪役に名乗り",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/30/"
-    },
-    {
-      "title": "ドゥニ・ビルヌーブ監督、新「007」の主役に求めた条件を語る",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/23/"
-    },
-    {
-      "title": "Amazonジェフ・ベゾス、新007役選考に深く関与していた",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/21/"
-    },
-    {
-      "title": "第2回ANIAFF、金鯱賞は「魔法の星図」、「CHERRY AND VIRGIN」が2冠！",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/19/"
-    },
-    {
-      "title": "タル・ベーラが80年代に発表した「プレハブの人々」と「秋の暦」を公開",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/6/"
-    },
-    {
-      "title": "感染者たちの脅威が襲い掛かる…「コロニー　群体」IMAX、4DX・SCREENX・ULTRA 4DX上映が決定！",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/10/"
-    },
-    {
-      "title": "二児同時誘拐事件を描く、西島秀俊主演「存在のすべてを」共演キャスト10人＆人物相関図公開",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/7/"
-    },
-    {
-      "title": "ディストピアと化した香港で生き残るのは誰だ？ 金城武主演「風林火山」抗争の渦中にいる5人のキャラクターポスター公開",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/12/"
-    },
-    {
-      "title": "「28年後...」完結編、キリアン・マーフィも出演に前向き",
-      "source": "映画.com",
-      "date": "2026-11-18",
-      "url": "https://eiga.com/news/20261118/9/"
-    },
-    {
-      "title": "丸山隆平×沢尻エリカ主演「薔薇の鎖」　沢尻演じる“Tシャツ女”は何者なのか!?　キャラクター考察動画第2弾を披露",
-      "source": "映画.com",
-      "date": "2026-11-17",
-      "url": "https://eiga.com/news/20261117/25/"
     }
   ],
   "bd_releases": [],
